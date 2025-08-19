@@ -12,8 +12,17 @@ from collections import defaultdict
 # Selección de tema y archivos correspondientes
 temas = {
     "Todas": "todas_comunes.json",
-    "Constitución": "Constitucion.json",
-    "Estatuto Andalucia": "Estatuto.json",
+    "Tema1. Constitución": "Constitucion.json",
+    "Tema2. Estatuto Andalucia": "Estatuto.json",
+    "Tema3,4,10. Organizacion sanitaria": "Organizacion Sanitaria.json",
+    "Tema6. Prevencio Ries Lab": "Prevencion.json",
+    "Tema8. Regimen juridico del personal": "Juridico.json",
+    "Tema13. Ordenacion profesiones sanitarias": "Ordenacion.json",
+    "Tema14. Derechos y garantias": "Derechos_garantias.json",
+    "Tema17. Estadistica": "Estadistica.json",
+    "Tema18. Epidemiologia": "Epidemiologia.json",
+    "Tema19. Investigacion": "Investigacion.json",
+    "Tema21. Planificacion sanitaria": "Planificacion_sanitaria.json",
 }
 
 tema_elegido = st.selectbox("Selecciona un tema:", list(temas.keys()))
