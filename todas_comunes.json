@@ -1,0 +1,2383 @@
+{
+"Constitucion_pregunta1": {
+    "pregunta": "Conforme a la redacción del artículo 43 de la Constitución Española, ésta:",
+    "opciones": {
+        "A": "Garantiza de derechos a una sanidad integral.",
+        "B": "Reconoce el derecho a la protección de la salud.",
+        "C": "Reconoce el derecho a la asistencia sanitaria.",
+        "D": "Garantiza el derecho a la atención primaria a la salud"
+    },
+    "respuesta_correcta": "B"
+},
+"Constitucion_pregunta2": {
+    "pregunta": "De acuerdo con el Art. 9.3 de la Constitución Española se garantizan, entre otros, el siguiente principio:",
+    "opciones": {
+        "A": "Jerarquía reglamentaria.",
+        "B": "Interdicción de la discrecionalidad de los poderes públicos.",
+        "C": "Seguridad jurídica.",
+        "D": "Irretroactividad de todas las disposiciones sancionadoras."
+    },
+    "respuesta_correcta": "C"
+},
+"Constitucion_pregunta3": {
+    "pregunta": "De acuerdo con el artículo 101 de la Constitución Española, el Gobierno cesa:",
+    "opciones": {
+        "A": "Por dimisión, fallecimiento, incapacitación o condena penal firme de su Presidente.",
+        "B": "Por dimisión, fallecimiento, incapacitación o condena penal de su Presidente.",
+        "C": "Por dimisión, fallecimiento o incapacitación de su Presidente.",
+        "D": "Por dimisión o fallecimiento de su Presidente."
+    },
+    "respuesta_correcta": "D"
+},
+"Constitucion_pregunta4": {
+    "pregunta": "De acuerdo con lo establecido en el artículo 1 de la Constitución, España se constituye en un Estado social y democrático de Derecho. ¿Cuál de los siguientes valores no es uno de los valores propugnados como valor superior de nuestro ordenamiento jurídico?",
+    "opciones": {
+        "A": "La legalidad",
+        "B": "La libertad",
+        "C": "La justicia",
+        "D": "La igualdad"
+    },
+    "respuesta_correcta": "A"
+},
+"Constitucion_pregunta5": {
+    "pregunta": "El artículo 1 de la Constitución Española recoge que España se constituye en un Estado Social y democrático de Derecho que propugna como valores superiores:",
+    "opciones": {
+        "A": "La libertad y la igualdad.",
+        "B": "La justicia y el pluralismo político.",
+        "C": "Las respuestas A. y B. son verdaderas.",
+        "D": "Las respuestas A. y B. son falsas."
+    },
+    "respuesta_correcta": "C"
+},
+"Constitucion_pregunta6": {
+    "pregunta": "El Artículo 43 de la Constitución Española dice:",
+    "opciones": {
+        "A": "Los españoles son iguales ante la ley, sin que pueda prevalecer discriminación alguna por razón de nacimiento, raza, sexo, religión, opinión o cualquier otra condición o circunstancias personal o social.",
+        "B": "Todos tienen el derecho a disfrutar de un medio ambiente adecuado para el desarrollo de la persona, así como el deber de conservarlo.",
+        "C": "Compete a los Poderes Públicos organizar y tutelar la Salud Pública a través de medidas preventivas y las prestaciones y servicios necesarios. La ley establecerá los derechos y deberes de todos al respecto.",
+        "D": "Se garantiza el derecho al honor, a la intimidad personal y familiar y a la propia imagen."
+    },
+    "respuesta_correcta": "C"
+},
+"Constitucion_pregunta7": {
+    "pregunta": "El artículo 43 de la Constitución Española:",
+    "opciones": {
+        "A": "Reconoce el derecho a la protección de la salud y a disfrutar de un medio ambiente adecuado.",
+        "B": "Reconoce el derecho a la protección de la salud y establece que los poderes públicos facilitarán la adecuada utilización del ocio.",
+        "C": "Reconoce el derecho a la protección de la salud y establece que los poderes públicos promoverán la ciencia y la investigación científica.",
+        "D": "El artículo reconoce el derecho a la protección de la salud y a una muerte digna."
+    },
+    "respuesta_correcta": "B"
+},
+"Constitucion_pregunta8": {
+    "pregunta": "El Derecho a la Protección de la Salud se recoge en:",
+    "opciones": {
+        "A": "El artículo 43.1 de la Ley de Salud de Andalucía.",
+        "B": "El artículo 43.1 de la Ley de Seguridad Social.",
+        "C": "El artículo 43.1 del Estatuto de Autonomía.",
+        "D": "El artículo 43.1 de la Constitución Española."
+    },
+    "respuesta_correcta": "D"
+},
+"Constitucion_pregunta9": {
+    "pregunta": "El derecho de asociación se reconoce en la Constitución Española en su artículo:",
+    "opciones": {
+        "A": "43.",
+        "B": "20.",
+        "C": "52.",
+        "D": "22."
+    },
+    "respuesta_correcta": "D"
+},
+"Constitucion_pregunta10": {
+    "pregunta": "El Título I de la Constitución Española de 1978 se dedica a los derechos y deberes fundamentales, pero ¿sabría indicar en qué Capítulo de este Título de nuestra Constitución se establecen las condiciones o situaciones en las que pueden suspenderse determinados derechos y libertades?",
+    "opciones": {
+        "A": "En el Capítulo cuarto.",
+        "B": "En el Capítulo octavo.",
+        "C": "En el Capítulo noveno.",
+        "D": "En el Capítulo quinto."
+    },
+    "respuesta_correcta": "D"
+},
+"Constitucion_pregunta11": {
+    "pregunta": "El Título I de la Constitución Española recoge como derecho fundamental que los poderes públicos:",
+    "opciones": {
+        "A": "Tendrán en cuenta las creencias religiosas de la sociedad española y mantendrán las consiguientes relaciones de cooperación con la Iglesia Católica.",
+        "B": "Garantizarán que las diferencias entre los Estatutos de las distintas Comunidades Autónomas no podrán implicar privilegios económicos o sociales.",
+        "C": "Asegurarán que todos los españoles tienen los mismos derechos y obligaciones en cualquier parte del territorio del Estado.",
+        "D": "Las respuestas A), B. y C. son falsas."
+    },
+    "respuesta_correcta": "A"
+},
+"Constitucion_pregunta12": {
+    "pregunta": "El Título I de la Constitución Española se titula:",
+    "opciones": {
+        "A": "De las competencias del Estado.",
+        "B": "Del Congreso de los Diputados.",
+        "C": "De los derechos y deberes fundamentales.",
+        "D": "El Derecho a la protección de la salud."
+    },
+    "respuesta_correcta": "C"
+},
+"Constitucion_pregunta13": {
+    "pregunta": "En la Constitución Española, el enunciado “Los poderes públicos mantendrán un régimen público de Seguridad Social para todos los ciudadanos, que garantice la asistencia y prestaciones sociales suficientes ante situaciones de necesidad, especialmente en caso de desempleo”, viene recogido:",
+    "opciones": {
+        "A": "En el capítulo de los principios rectores de la política social y económica.",
+        "B": "En el capítulo de las garantías de las libertades y derechos fundamentales.",
+        "C": "En el capítulo de los españoles y extranjeros.",
+        "D": "En la sección de los derechos y deberes de los ciudadanos."
+    },
+    "respuesta_correcta": "A"
+},
+"Constitucion_pregunta14": {
+    "pregunta": "En la Constitución Española, los derechos y deberes fundamentales vienen recogidos en:",
+    "opciones": {
+        "A": "En el artículo I.",
+        "B": "En el Título I.",
+        "C": "En el Título II.",
+        "D": "En el artículo II."
+    },
+    "respuesta_correcta": "B"
+},
+"Constitucion_pregunta15": {
+    "pregunta": "En la vigente Constitución Española, ¿cuáles son los valores superiores de su ordenamiento jurídico, recogidos en su artículo primero?",
+    "opciones": {
+        "A": "La soberanía nacional, que reside en el pueblo español.",
+        "B": "La indisoluble unidad de la Nación española, patria común e indivisible de todos los españoles, y el derecho a la autonomía de las nacionalidades y regiones que la integran.",
+        "C": "La libertad, la justicia, la igualdad y el pluralismo político.",
+        "D": "Todos los anteriores."
+    },
+    "respuesta_correcta": "C"
+},
+"Constitucion_pregunta16": {
+    "pregunta": "En relación con los derechos fundamentales y las libertades públicas regulados en el Sección 1.ª del Capítulo segundo \"derechos y libertades\", la regulación legal de la cláusula de conciencia y el secreto profesional, ¿con qué derecho se encuentra relacionado?:",
+    "opciones": {
+        "A": "Con ninguno de los contenidos en esa sección",
+        "B": "Con el derecho a comunicar libremente información veraz",
+        "C": "Con el derecho a comunicar o recibir libremente información veraz por cualquier medio de difusión",
+        "D": "Con el derecho a la vida y a la integridad física y moral"
+    },
+    "respuesta_correcta": "C"
+},
+"Constitucion_pregunta17": {
+    "pregunta": "En relación con los derechos fundamentales y las libertades públicas regulados en el Sección 1.ª del Capítulo segundo \"derechos y libertades\", la regulación legal de la cláusula de conciencia y el secreto profesional, ¿con qué derecho se encuentra relacionado?:",
+    "opciones": {
+        "A": "Con ninguno de los contenidos en esa sección",
+        "B": "Con el derecho a comunicar libremente información veraz",
+        "C": "Con el derecho a comunicar o recibir libremente información veraz por cualquier medio de difusión",
+        "D": "Con el derecho a la vida y a la integridad física y moral"
+    },
+    "respuesta_correcta": "C"
+},
+"Constitucion_pregunta18": {
+    "pregunta": "Es fundamento del orden político y de la paz social recogido en el artículo 10 de la Constitución Española",
+    "opciones": {
+        "A": "La dignidad de las Instituciones",
+        "B": "Los derechos de la ciudadanía",
+        "C": "El respeto a los derechos especiales",
+        "D": "El libre desarrollo de la personalidad"
+    },
+    "respuesta_correcta": "D"
+},
+"Constitucion_pregunta19": {
+    "pregunta": "La actual Constitución Española fue ratificada por el pueblo español en referéndum, que se celebró el día:",
+    "opciones": {
+        "A": "28 de febrero de 1978",
+        "B": "6 de diciembre de 1978",
+        "C": "1 de enero de 1978",
+        "D": "15 de agosto de 1978"
+    },
+    "respuesta_correcta": "B"
+},
+"Constitucion_pregunta20": {
+    "pregunta": "La Constitución Española de 1978 prevé su modificación mediante los procedimientos de reforma de la Constitución establecidos en su título X: uno, conocido como procedimiento ordinario, está descrito en el artículo 167.1, mientras que el segundo, conocido como procedimiento agravado, y previsto para las reformas de más relevancia, está descrito en el artículo 168.1 ¿En qué año se produjo la última reforma del texto constitucional, en concreto para introducir el concepto de estabilidad presupuestaria?",
+    "opciones": {
+        "A": "En 2011.",
+        "B": "En 1992.",
+        "C": "En 2020.",
+        "D": "No se ha producido ninguna reforma del texto constitucional desde su promulgación en 1978."
+    },
+    "respuesta_correcta": "A"
+},
+"Constitucion_pregunta21": {
+  "pregunta": "La constitución Española de 1978, vigente actualmente, establece en su artículo 10.1 una serie de principios como fundamento del orden político y de la paz social en nuestra Nación. Entre estos principios se encuentra:",
+  "opciones": {
+    "A": "La dignidad de la persona y los derechos inviolables que le son inherentes.",
+    "B": "El libre desarrollo de la personalidad.",
+    "C": "El respeto a la ley y a los derechos de los demás.",
+    "D": "Todas las respuestas anteriores son correctas."
+  },
+  "respuesta_correcta": "D"
+},
+"Constitucion_pregunta22": {
+  "pregunta": "La Constitución Española recoge en su artículo 1 como valores superiores de su ordenamiento jurídico:",
+  "opciones": {
+    "A": "El derecho a la autonomía de las nacionalidades y regiones que integra la Nación española y la solidaridad entre todas ellas.",
+    "B": "El castellano como lengua oficial del Estado. Las demás lenguas españolas serán también oficiales en las respectivas Comunidades Autónomas.",
+    "C": "La utilización de la bandera de España que está formada por tres franjas horizontales, roja, amarilla y roja. Los estatutos podrán recoger banderas propias de las Comunidades Autónomas.",
+    "D": "La libertad, la justicia, la igualdad y el pluralismo político."
+  },
+  "respuesta_correcta": "D"
+},
+"Constitucion_pregunta23": {
+  "pregunta": "La Constitución indica que se regulará la institución del Defensor del Pueblo mediante:",
+  "opciones": {
+    "A": "Ley Orgánica.",
+    "B": "Ley Ordinaria.",
+    "C": "Decreto Ley.",
+    "D": "Decreto Legislativo."
+  },
+  "respuesta_correcta": "A"
+},
+"Constitucion_pregunta24": {
+  "pregunta": "La vigente Constitución Española fue ratificada el 6 de diciembre de 1978, y por eso celebramos ese día festivo \"de la Constitución\". Pero, ¿qué día entró en vigor esta norma suprema del ordenamiento jurídico español?",
+  "opciones": {
+    "A": "El 7 de diciembre de 1978.",
+    "B": "El 29 de diciembre de 1978.",
+    "C": "El 1 de enero de 1979.",
+    "D": "El mismo día 6 de diciembre de 1978."
+  },
+  "respuesta_correcta": "B"
+},
+"Constitucion_pregunta25": {
+  "pregunta": "Las normas relativas a los derechos fundamentales y a las libertades que la Constitución reconoce se interpretarán de conformidad con:",
+  "opciones": {
+    "A": "Con la Declaración Universal de Derechos Humanos",
+    "B": "Con los tratados internacionales sobre derechos fundamentales y libertades ratificados por España",
+    "C": "Con los acuerdos internacionales sobre derechos fundamentales y libertades ratificados por España",
+    "D": "Todas son correctas"
+  },
+  "respuesta_correcta": "D"
+},
+"Constitucion_pregunta26": {
+  "pregunta": "Los proyectos de reforma de la Constitución Española vigente:",
+  "opciones": {
+    "A": "Deberán ser aprobados por la mayoría absoluta del Congreso de los Diputados.",
+    "B": "Deberán ser aprobados por una mayoría de tres quintos de cada una de las Cámaras.",
+    "C": "Deberán ser aprobados por las Cámaras Parlamentarias de todas las Comunidades Autónomas, por mayoría simple en cada una de ellas.",
+    "D": "No son posibles, según el texto constitucional."
+  },
+  "respuesta_correcta": "B"
+},
+"Constitucion_pregunta27": {
+  "pregunta": "Referido a los Colegios Profesionales, ¿qué dice nuestra Constitución de 1978?",
+  "opciones": {
+    "A": "Que su estructura interna y su funcionamiento deberán ser democráticos.",
+    "B": "Que son obligatorios para las profesiones tituladas superiores.",
+    "C": "Que pueden constituir Tribunales de Honor para juzgar la dignidad de uno de sus miembros para pertenecer a la profesión.",
+    "D": "Todo lo anterior es cierto y está recogido en el Texto Constitucional."
+  },
+  "respuesta_correcta": "A"
+},
+"Constitucion_pregunta28": {
+  "pregunta": "Respecto al derecho a la libertad sindical de los ciudadanos, recogido en la Constitución Española, ¿cuál de las siguientes afirmaciones es FALSA?",
+  "opciones": {
+    "A": "La ley podrá limitar o exceptuar el ejercicio de este derecho a las Fuerzas o Institutos armados o a los demás Cuerpos sometidos a disciplina militar.",
+    "B": "La libertad sindical comprende el derecho a fundar sindicatos y a afiliarse al de su elección.",
+    "C": "Nadie podrá ser obligado a afiliarse a un sindicato.",
+    "D": "Viene regulado en el artículo 27 de la CE."
+  },
+  "respuesta_correcta": "D"
+},
+"Constitucion_pregunta29": {
+  "pregunta": "Según el artículo 113 de la Constitución Española, la moción de censura deberá ser propuesta por una parte de los Diputados, que será al menos:",
+  "opciones": {
+    "A": "La mitad.",
+    "B": "La cuarta parte.",
+    "C": "La décima parte.",
+    "D": "La quinta parte."
+  },
+  "respuesta_correcta": "C"
+},
+"Constitucion_pregunta30": {
+  "pregunta": "Según el artículo 122 de la Constitución Española, el Consejo General del Poder Judicial estará integrado por el presidente del Tribunal Supremo que lo presidirá, y por:",
+  "opciones": {
+    "A": "20 miembros nombrados por el Rey.",
+    "B": "12 miembros nombrados por el Rey.",
+    "C": "10 miembros nombrados por el Rey.",
+    "D": "15 miembros nombrados por el Rey."
+  },
+  "respuesta_correcta": "A"
+},
+"Constitucion_pregunta31": {
+  "pregunta": "Según el artículo 123.2 de la Constitución Española, el Presidente del Tribunal Supremo será nombrado por:",
+  "opciones": {
+    "A": "El Rey, a propuesta del Consejo General del Poder Judicial, en la forma que determine la ley.",
+    "B": "El Consejo General del Poder Judicial, en la forma que determine la ley.",
+    "C": "El Presidente del Congreso de los Diputados, a propuesta del Consejo General del Poder Judicial, en la forma que determine la ley.",
+    "D": "El Presidente del Gobierno, a propuesta del Consejo General del Poder Judicial, en la forma que determine la ley."
+  },
+  "respuesta_correcta": "A"
+},
+"Constitucion_pregunta32": {
+  "pregunta": "Según el artículo 123.2 de la Constitución Española, el Presidente del Tribunal Supremo será nombrado por:",
+  "opciones": {
+    "A": "El Rey, a propuesta del Consejo General del Poder Judicial, en la forma que determine la ley.",
+    "B": "El Consejo General del Poder Judicial, en la forma que determine la ley.",
+    "C": "El Presidente del Congreso de los Diputados, a propuesta del Consejo General del Poder Judicial, en la forma que determine la ley.",
+    "D": "El Presidente del Gobierno, a propuesta del Consejo General del Poder Judicial, en la forma que determine la ley."
+  },
+  "respuesta_correcta": "A"
+},
+"Constitucion_pregunta33": {
+  "pregunta": "Según el artículo 136 de la Constitución Española, el Tribunal de Cuentas del Estado dependerá directamente:",
+  "opciones": {
+    "A": "De las Cortes Generales.",
+    "B": "Del Presidente del Gobierno.",
+    "C": "Del Consejo de Ministros.",
+    "D": "Del Presidente del Congreso de los Diputados."
+  },
+  "respuesta_correcta": "A"
+},
+"Constitucion_pregunta34": {
+  "pregunta": "Según el artículo 159 de la Constitución Española, el Tribunal Constitucional se compone de:",
+  "opciones": {
+    "A": "12 miembros.",
+    "B": "10 miembros.",
+    "C": "15 miembros.",
+    "D": "20 miembros."
+  },
+  "respuesta_correcta": "A"
+},
+"Constitucion_pregunta35": {
+  "pregunta": "Según el artículo 43.3 de la Constitución Española, los poderes públicos:",
+  "opciones": {
+    "A": "Fomentarán la educación sanitaria y la promoción de la salud.",
+    "B": "Promoverán la educación sanitaria, la promoción de la salud y la práctica de la educación física y el deporte.",
+    "C": "Fomentarán la educación sanitaria, la educación física y el deporte.",
+    "D": "Promoverán la ciencia y la investigación científica en beneficio del interés general."
+  },
+  "respuesta_correcta": "C"
+},
+"Constitucion_pregunta36": {
+  "pregunta": "Según el artículo 44 de la Constitución Española los poderes públicos:",
+  "opciones": {
+    "A": "Promoverán y tutelarán el acceso a la cultura, a la que todos tienen derecho.",
+    "B": "Promoverán la educación sanitaria, la promoción de la salud y la práctica de la educación física y el deporte.",
+    "C": "Velarán por la utilización racional de todos los recursos naturales.",
+    "D": "Promoverán la información y la educación de los consumidores y usuarios."
+  },
+  "respuesta_correcta": "A"
+},
+"Constitucion_pregunta37": {
+  "pregunta": "Según el artículo 68 de la Constitución Española, la circunscripción electoral es:",
+  "opciones": {
+    "A": "La provincia.",
+    "B": "El municipio en sentido estricto.",
+    "C": "El municipio, en caso de agrupaciones de población inferiores al municipio se entenderá adheridas al municipio de cabecera.",
+    "D": "La comarca."
+  },
+  "respuesta_correcta": "A"
+},
+"Constitucion_pregunta38": {
+  "pregunta": "Según el artículo 86 de la Constitución Española, los Decretos-Leyes deberán ser inmediatamente sometidos a debate y votación de totalidad al Congreso de los Diputados en el plazo de:",
+  "opciones": {
+    "A": "Los 10 días siguientes a su promulgación.",
+    "B": "Los 15 días siguientes a su promulgación.",
+    "C": "Los 20 días siguientes a su promulgación.",
+    "D": "Los 30 días siguientes a su promulgación."
+  },
+  "respuesta_correcta": "D"
+},
+"Constitucion_pregunta39": {
+  "pregunta": "Según establece la Constitución Española de 1978, fomentar la educación sanitaria compete a:",
+  "opciones": {
+    "A": "Los Ayuntamientos y Diputaciones.",
+    "B": "Las Comunidades Autónomas.",
+    "C": "El Estado.",
+    "D": "Los poderes públicos."
+  },
+  "respuesta_correcta": "D"
+},
+"Constitucion_pregunta40": {
+  "pregunta": "Según establece la Constitución Española de 1978, las competencias en materia de sanidad e higiene podrán ser asumidas por:",
+  "opciones": {
+    "A": "Corresponde a las Cortes Generales, al estar compuestas por los representantes del pueblo.",
+    "B": "Corresponde al Rey.",
+    "C": "Corresponde al Gobierno de la Nación elegido directamente por el pueblo.",
+    "D": "Ninguna de las anteriores respuestas son correcta."
+  },
+  "respuesta_correcta": "D"
+},
+"Constitucion_pregunta41": {
+  "pregunta": "Según establece la Constitución Española de 1978, las competencias en materia de sanidad e higiene podrán ser asumidas por:",
+  "opciones": {
+    "A": "Los Ayuntamientos.",
+    "B": "Las Diputaciones Provinciales.",
+    "C": "Las Comunidades Autónomas.",
+    "D": "Ninguna de las anteriores respuestas son correcta."
+  },
+  "respuesta_correcta": "C"
+},
+"Constitucion_pregunta42": {
+  "pregunta": "Según establece nuestra vigente Constitución, ¿a quién o a qué institución corresponde sancionar y promulgar las leyes en España?",
+  "opciones": {
+    "A": "Al Rey.",
+    "B": "Al Presidente/a del Gobierno.",
+    "C": "Al Congreso de los Diputados.",
+    "D": "Al Senado."
+  },
+  "respuesta_correcta": "A"
+},
+"Constitucion_pregunta43": {
+  "pregunta": "Según indica el artículo 16 de la Constitución Española, en relación con el derecho a la libertad ideológica y religiosa:",
+  "opciones": {
+    "A": "En España solo existirá una confesión estatal.",
+    "B": "Al menos existirán 4 confesiones autorizadas en España.",
+    "C": "Ninguna confesión tendrá carácter estatal.",
+    "D": "Ninguna respuesta es correcta."
+  },
+  "respuesta_correcta": "C"
+},
+"Constitucion_pregunta44": {
+  "pregunta": "Según la Constitución Española de 1978, los españoles son mayores de edad a:",
+  "opciones": {
+    "A": "Los 18 años",
+    "B": "Los 16 años",
+    "C": "Los 21 años",
+    "D": "No lo establece la Constitución Española"
+  },
+  "respuesta_correcta": "A"
+},
+"Constitucion_pregunta45": {
+  "pregunta": "Según la Constitución Española de 1978, ¿a quién compete organizar y tutelar la salud pública, a través de medidas preventivas y de las prestaciones y servicios necesarios?",
+  "opciones": {
+    "A": "A las Mutuas Laborales",
+    "B": "A los Poderes Públicos",
+    "C": "Al Sector Sanitario Privado",
+    "D": "A la Administración Pública"
+  },
+  "respuesta_correcta": "B"
+},
+"Constitucion_pregunta46": {
+  "pregunta": "Según la Constitución española de 1978, ¿en qué institución del Estado se encuentra el poder judicial?",
+  "opciones": {
+    "A": "En las Cortes Generales.",
+    "B": "En el Gobierno.",
+    "C": "En los Tribunales de Justicia.",
+    "D": "En el Defensor del Pueblo."
+  },
+  "respuesta_correcta": "C"
+},
+"Constitucion_pregunta47": {
+  "pregunta": "Según la Constitución Española de 1978, ¿en quién reside la soberanía nacional?",
+  "opciones": {
+    "A": "En el Rey",
+    "B": "En el Parlamento, constituido por las dos cámaras (Congreso y Senado)",
+    "C": "En el pueblo español",
+    "D": "En el Gobierno de la nación"
+  },
+  "respuesta_correcta": "C"
+},
+"Constitucion_pregunta48": {
+  "pregunta": "Según la Constitución Española, dentro de los deberes de los españoles está:",
+  "opciones": {
+    "A": "El deber de defender España.",
+    "B": "Los deberes tributarios.",
+    "C": "El deber de conservación del medio ambiente.",
+    "D": "Todas las respuestas anteriores son correctas."
+  },
+  "respuesta_correcta": "D"
+},
+"Constitucion_pregunta49": {
+  "pregunta": "Según la Constitución Española, son valores superiores del Ordenamiento Jurídico:",
+  "opciones": {
+    "A": "La libertad y la justicia.",
+    "B": "La libertad, la justicia, la igualdad y el pluralismo político.",
+    "C": "La libertad y la pluralidad política.",
+    "D": "La igualdad y la integración social."
+  },
+  "respuesta_correcta": "B"
+},
+"Constitucion_pregunta50": {
+  "pregunta": "Según la vigente Constitución Española de 1978, son deberes de todos los españoles los señalados a continuación, EXCEPTO:",
+  "opciones": {
+    "A": "Defender a España.",
+    "B": "Trabajar.",
+    "C": "Contribuir al sostenimiento de los gastos públicos.",
+    "D": "Usar el castellano, como lengua oficial del Estado."
+  },
+  "respuesta_correcta": "B"
+},
+"Constitucion_pregunta41": {
+  "pregunta": "Según establece la Constitución Española de 1978, las competencias en materia de sanidad e higiene podrán ser asumidas por:",
+  "opciones": {
+    "A": "Los Ayuntamientos.",
+    "B": "Las Diputaciones Provinciales.",
+    "C": "Las Comunidades Autónomas.",
+    "D": "Ninguna de las anteriores respuestas son correcta."
+  },
+  "respuesta_correcta": "C"
+},
+"Constitucion_pregunta42": {
+  "pregunta": "Según establece nuestra vigente Constitución, ¿a quién o a qué institución corresponde sancionar y promulgar las leyes en España?",
+  "opciones": {
+    "A": "Al Rey.",
+    "B": "Al Presidente/a del Gobierno.",
+    "C": "Al Congreso de los Diputados.",
+    "D": "Al Senado."
+  },
+  "respuesta_correcta": "A"
+},
+"Constitucion_pregunta43": {
+  "pregunta": "Según indica el artículo 16 de la Constitución Española, en relación con el derecho a la libertad ideológica y religiosa:",
+  "opciones": {
+    "A": "En España solo existirá una confesión estatal.",
+    "B": "Al menos existirán 4 confesiones autorizadas en España.",
+    "C": "Ninguna confesión tendrá carácter estatal.",
+    "D": "Ninguna respuesta es correcta."
+  },
+  "respuesta_correcta": "C"
+},
+"Constitucion_pregunta44": {
+  "pregunta": "Según la Constitución Española de 1978, los españoles son mayores de edad a:",
+  "opciones": {
+    "A": "Los 18 años",
+    "B": "Los 16 años",
+    "C": "Los 21 años",
+    "D": "No lo establece la Constitución Española"
+  },
+  "respuesta_correcta": "A"
+},
+"Constitucion_pregunta45": {
+  "pregunta": "Según la Constitución Española de 1978, ¿a quién compete organizar y tutelar la salud pública, a través de medidas preventivas y de las prestaciones y servicios necesarios?",
+  "opciones": {
+    "A": "A las Mutuas Laborales",
+    "B": "A los Poderes Públicos",
+    "C": "Al Sector Sanitario Privado",
+    "D": "A la Administración Pública"
+  },
+  "respuesta_correcta": "B"
+},
+"Constitucion_pregunta46": {
+  "pregunta": "Según la Constitución española de 1978, ¿en qué institución del Estado se encuentra el poder judicial?",
+  "opciones": {
+    "A": "En las Cortes Generales.",
+    "B": "En el Gobierno.",
+    "C": "En los Tribunales de Justicia.",
+    "D": "En el Defensor del Pueblo."
+  },
+  "respuesta_correcta": "C"
+},
+"Constitucion_pregunta47": {
+  "pregunta": "Según la Constitución Española de 1978, ¿en quién reside la soberanía nacional?",
+  "opciones": {
+    "A": "En el Rey",
+    "B": "En el Parlamento, constituido por las dos cámaras (Congreso y Senado)",
+    "C": "En el pueblo español",
+    "D": "En el Gobierno de la nación"
+  },
+  "respuesta_correcta": "C"
+},
+"Constitucion_pregunta48": {
+  "pregunta": "Según la Constitución Española, dentro de los deberes de los españoles está:",
+  "opciones": {
+    "A": "El deber de defender España.",
+    "B": "Los deberes tributarios.",
+    "C": "El deber de conservación del medio ambiente.",
+    "D": "Todas las respuestas anteriores son correctas."
+  },
+  "respuesta_correcta": "D"
+},
+"Constitucion_pregunta49": {
+  "pregunta": "Según la Constitución Española, son valores superiores del Ordenamiento Jurídico:",
+  "opciones": {
+    "A": "La libertad y la justicia.",
+    "B": "La libertad, la justicia, la igualdad y el pluralismo político.",
+    "C": "La libertad y la pluralidad política.",
+    "D": "La igualdad y la integración social."
+  },
+  "respuesta_correcta": "B"
+},
+"Constitucion_pregunta50": {
+  "pregunta": "Según la vigente Constitución Española de 1978, son deberes de todos los españoles los señalados a continuación, EXCEPTO:",
+  "opciones": {
+    "A": "Defender a España.",
+    "B": "Trabajar.",
+    "C": "Contribuir al sostenimiento de los gastos públicos.",
+    "D": "Usar el castellano, como lengua oficial del Estado."
+  },
+  "respuesta_correcta": "D"
+},
+"Constitucion_pregunta51": {
+  "pregunta": "Sobre la lengua castellana, ¿qué establece la vigente Constitución Española de 1978?",
+  "opciones": {
+    "A": "Que es la lengua oficial del Gobierno y de las Instituciones del país.",
+    "B": "Que es la lengua oficial del Estado.",
+    "C": "Que es la única lengua oficial en todos los territorios del Estado.",
+    "D": "Que todos los españoles tienen el derecho a usarla, pero no el deber de conocerla."
+  },
+  "respuesta_correcta": "B"
+},
+"Constitucion_pregunta52": {
+  "pregunta": "¿Cuál de las siguientes afirmaciones es INCORRECTA, en relación con las Cortes Generales?",
+  "opciones": {
+    "A": "Representan al pueblo español.",
+    "B": "Son inviolables.",
+    "C": "Ejercen la potestad reglamentaria.",
+    "D": "Están formadas por el Congreso de los Diputados y por el Senado."
+  },
+  "respuesta_correcta": "C"
+},
+"Constitucion_pregunta53": {
+  "pregunta": "¿Cuál de las siguientes afirmaciones está entre lo dispuesto en el artículo 43 de la vigente Constitución Española de 1978?",
+  "opciones": {
+    "A": "Reconoce el derecho a la protección de la salud y a disfrutar de un medio ambiente adecuado.",
+    "B": "Reconoce el derecho a la protección de la salud y establece que los poderes públicos facilitarán la adecuada utilización del ocio.",
+    "C": "Reconoce el derecho a la protección de la salud y establece que los poderes públicos promoverán la ciencia y la investigación científica.",
+    "D": "Reconoce el derecho a la protección de la salud y a una muerte digna."
+  },
+  "respuesta_correcta": "B"
+},
+"Constitucion_pregunta54": {
+  "pregunta": "¿Cuál es el artículo más importante de la Constitución en materia de Salud?",
+  "opciones": {
+    "A": "43.",
+    "B": "45.",
+    "C": "46.",
+    "D": "49."
+  },
+  "respuesta_correcta": "A"
+},
+"Constitucion_pregunta55": {
+  "pregunta": "¿En qué artículo de la Constitución Española se recoge el derecho a la protección de la salud?",
+  "opciones": {
+    "A": "En el 43",
+    "B": "En el 47",
+    "C": "En el 45",
+    "D": "En el 49"
+  },
+  "respuesta_correcta": "A"
+},
+"Constitucion_pregunta56": {
+  "pregunta": "¿En qué artículo de la vigente Constitución Española de 1978, se reconoce el derecho a la huelga de los trabajadores para la defensa de sus intereses?",
+  "opciones": {
+    "A": "En el artículo 28.2.",
+    "B": "En el artículo 29.1.",
+    "C": "En el artículo 43.1.",
+    "D": "En el artículo 30.1."
+  },
+  "respuesta_correcta": "A"
+},
+"Constitucion_pregunta57": {
+  "pregunta": "¿Qué artículo de la Constitución Española señala que 'si una Comunidad Autónoma no cumpliese las obligaciones que la Constitución u otras Leyes impongan, o actuare de forma que atente gravemente el interés general de España, el Gobierno, previo requerimiento al Presidente de la Comunidad Autónoma y, en el caso de no ser atendido, con la aprobación de la mayoría absoluta del Senado, podrá adoptar las medidas necesarias para obligar a aquellas al cumplimiento forzoso de dichas obligaciones o para la protección del mencionado interés general'?",
+  "opciones": {
+    "A": "Artículo 152.",
+    "B": "Artículo 153.",
+    "C": "Artículo 154.",
+    "D": "Artículo 155."
+  },
+  "respuesta_correcta": "D"
+},
+"Constitucion_pregunta58": {
+  "pregunta": "¿Qué artículo de la vigente Constitución Española de 1978 establece que 'los españoles son iguales ante la ley, sin que pueda prevalecer discriminación alguna por razón de nacimiento, raza, sexo, religión, opinión o cualquier otra condición o circunstancia personal o social'?",
+  "opciones": {
+    "A": "El artículo 13",
+    "B": "El artículo 18",
+    "C": "El artículo 14",
+    "D": "El artículo 20"
+  },
+  "respuesta_correcta": "C"
+},
+"Constitucion_pregunta59": {
+  "pregunta": "¿Qué dice la Constitución Española de 1978, en su artículo 3, sobre el castellano?",
+  "opciones": {
+    "A": "Que el castellano es la lengua oficial del Estado.",
+    "B": "Que todos los españoles tienen el deber de usar el castellano como lengua.",
+    "C": "Que, junto con las otras lenguas españolas, son las lenguas oficiales en todo el territorio nacional.",
+    "D": "Todas las respuestas anteriores son correctas."
+  },
+  "respuesta_correcta": "A"
+},
+"Constitucion_pregunta60": {
+  "pregunta": "¿Qué nombre recibe el Título Preliminar de la Constitución Española?",
+  "opciones": {
+    "A": "De la reforma Constitucional.",
+    "B": "De los Derechos y Deberes Fundamentales.",
+    "C": "Título Preliminar.",
+    "D": "De la Corona."
+  },
+  "respuesta_correcta": "C"
+},
+"Constitucion_pregunta61": {
+  "pregunta": "¿Qué Título de la vigente Constitución Española de 1978 se dedica a los derechos y deberes fundamentales?",
+  "opciones": {
+    "A": "El Título Preliminar.",
+    "B": "El Título II.",
+    "C": "El Título I.",
+    "D": "El título V."
+  },
+  "respuesta_correcta": "C"
+},
+"Constitucion_pregunta62": {
+  "pregunta": "¿Quién debe reconocer la imposibilidad del Rey para ejercer sus funciones?",
+  "opciones": {
+    "A": "El Gobierno.",
+    "B": "La familia Real.",
+    "C": "El Congreso de los Diputados.",
+    "D": "Las Cortes Generales."
+  },
+  "respuesta_correcta": "D"
+},
+"Estatuto_pregunta1": {
+  "pregunta": "Andalucía, según se reconoce en el artículo primero de su Estatuto de Autonomía, se define como:",
+  "opciones": {
+    "A": "Nacionalidad constituyente.",
+    "B": "Nacionalidad por derecho.",
+    "C": "Nacionalidad histórica.",
+    "D": "Nacionalidad por referéndum."
+  },
+  "respuesta_correcta": "C"
+},
+"Estatuto_pregunta2": {
+  "pregunta": "Aunque el Parlamento de Andalucía ejerce la potestad legislativa mediante la elaboración y aprobación de las leyes, el control de constitucionalidad de las disposiciones normativas de la Comunidad Autónoma con fuerza de ley, corresponde exclusivamente, según el artículo 115 del Estatuto:",
+  "opciones": {
+    "A": "Al Tribunal de Cuentas.",
+    "B": "Al Defensor del Pueblo Andaluz.",
+    "C": "Al Tribunal Constitucional.",
+    "D": "A la Presidencia de la Junta de Andalucía."
+  },
+  "respuesta_correcta": "C"
+},
+"Estatuto_pregunta3": {
+  "pregunta": "Con respecto al Estatuto de Autonomía de Andalucía señale la respuesta INCORRECTA:",
+  "opciones": {
+    "A": "Está formado por 250 artículos.",
+    "B": "El articulado recoge un amplio catálogo de derechos sociales.",
+    "C": "Se establece la autonomía financiera en cuanto a la financiación pública.",
+    "D": "La Comunidad Autónoma de Andalucía tiene competencia exclusiva en materia de legislativa y reglamentaria."
+  },
+  "respuesta_correcta": "D"
+},
+"Estatuto_pregunta4": {
+  "pregunta": "De acuerdo con lo establecido en el artículo 37 del Estatuto de Autonomía de Andalucía ¿Cuál de los siguientes principios no es un Principio rector de las políticas públicas?",
+  "opciones": {
+    "A": "La lucha contra el sexismo, la xenofobia, la homofobia y el belicismo, especialmente mediante la educación en valores que fomente la igualdad, la tolerancia, la libertad y la solidaridad",
+    "B": "La especial protección de las personas en situación de dependencia que les permita disfrutar de una digna calidad de vida.",
+    "C": "El uso de la lengua de signos española y las condiciones que permitan alcanzar la igualdad de las personas sordas que opten por esta lengua, que será objeto de enseñanza, protección y respeto",
+    "D": "El derecho a vivir en un medio ambiente equilibrado, sostenible y saludable"
+  },
+  "respuesta_correcta": "D"
+},
+"Estatuto_pregunta5": {
+  "pregunta": "De acuerdo con lo establecido en el artículo 5 del Estatuto de autonomía, gozan de la condición política de andaluces o andaluzas:",
+  "opciones": {
+    "A": "Los ciudadanos españoles que, tengan vecindad administrativa en cualquiera de los municipios de Andalucía",
+    "B": "Residentes en el extranjero que hayan tenido la última vecindad administrativa en Andalucía",
+    "C": "Residentes en el extranjero que hayan tenido la última vecindad administrativa en Andalucía y acrediten esta condición en el correspondiente Consulado de España.",
+    "D": "Ninguna es correcta."
+  },
+  "respuesta_correcta": "A"
+},
+"Estatuto_pregunta6": {
+  "pregunta": "El Artículo 22 de la Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía contempla una serie de derechos de los pacientes y usuarios del Sistema Andaluz de Salud, entre los que se encuentra el derecho a:",
+  "opciones": {
+    "A": "El consejo genético y la medicina predictiva.",
+    "B": "El respeto a su personalidad, dignidad humana e intimidad.",
+    "C": "Recibir asistencia geriátrica especializada.",
+    "D": "Todas las respuestas anteriores son correctas."
+  },
+  "respuesta_correcta": "D"
+},
+"Estatuto_pregunta7": {
+  "pregunta": "El artículo 22 del Estatuto de Autonomía de Andalucía señala, específicamente, que los pacientes y usuarios del sistema andaluz de salud tendrán derecho a…. (SEÑALE LA INCORRECTA)",
+  "opciones": {
+    "A": "Libre elección de médico y centro sanitario",
+    "B": "Segunda opinión facultativa sobre sus procesos",
+    "C": "Acceso a cuidados paliativos",
+    "D": "Acceso a Reproducción Humana Asistida"
+  },
+  "respuesta_correcta": "D"
+},
+"Estatuto_pregunta8": {
+  "pregunta": "El artículo 4 del Estatuto de Autonomía de Andalucía (Ley Orgánica 2/2007, de reforma del Estatuto de Autonomía de Andalucía establece la capitalidad y sedes. Así, determina que en la capital de Andalucía, que es la ciudad de Sevilla, radicarán las sedes de las siguientes instituciones, EXCEPTO:",
+  "opciones": {
+    "A": "El Tribunal Superior de Justicia.",
+    "B": "La Presidencia de la Junta.",
+    "C": "El Parlamento.",
+    "D": "El Consejo de Gobierno."
+  },
+  "respuesta_correcta": "A"
+},
+"Estatuto_pregunta9": {
+  "pregunta": "El artículo 55 del Estatuto de Autonomía para Andalucía se refiere a las competencias sobre:",
+  "opciones": {
+    "A": "Estructura de la organización sanitaria.",
+    "B": "Medidas preventivas.",
+    "C": "Salud, sanidad y farmacia.",
+    "D": "Coordinación de los laboratorios farmacéuticos."
+  },
+  "respuesta_correcta": "C"
+},
+"Estatuto_pregunta10": {
+  "pregunta": "El Consejo de Gobierno de la Junta de Andalucía, está constituido por:",
+  "opciones": {
+    "A": "El Presidente, los Vicepresidentes en su caso y los Consejeros.",
+    "B": "El Presidente y los Vicepresidentes en su caso.",
+    "C": "El Presidente, los Vicepresidentes en su caso, los Consejeros y el Parlamento Andaluz.",
+    "D": "Ninguna de las respuestas anteriores."
+  },
+  "respuesta_correcta": "A"
+},
+"Estatuto_pregunta11": {
+  "pregunta": "El Consejo de Gobierno de la Junta de Andalucía, según el artículo 119 del vigente Estatuto de Autonomía (Ley Orgánica 2/2007, de 19 de marzo), es el órgano colegiado que ejerce la dirección política de la Comunidad Autónoma, dirige la Administración y desarrolla las funciones ejecutivas y administrativas de la Junta de Andalucía. Indique por quiénes está constituido el citado Consejo de Gobierno:",
+  "opciones": {
+    "A": "El Presidente, los Vicepresidentes en su caso y los Consejeros.",
+    "B": "El Presidente y los Vicepresidentes en su caso.",
+    "C": "El Presidente, los Vicepresidentes en su caso, los Consejeros y una representación de los miembros electos del Parlamento de Andalucía.",
+    "D": "El Presidente, los Vicepresidentes en su caso, los Consejeros y los Viceconsejeros."
+  },
+  "respuesta_correcta": "A"
+},
+"Estatuto_pregunta12": {
+  "pregunta": "El control de constitucionalidad de las disposiciones normativas de la Comunidad Autónoma con fuerza de ley, corresponde exclusivamente al:",
+  "opciones": {
+    "A": "Tribunal de Cuentas.",
+    "B": "Tribunal de Cuentas y Tribunal Constitucional.",
+    "C": "Tribunal Constitucional.",
+    "D": "A la Junta de Andalucía."
+  },
+  "respuesta_correcta": "C"
+},
+"Estatuto_pregunta13": {
+  "pregunta": "El Defensor del Pueblo Andaluz:",
+  "opciones": {
+    "A": "Es elegido por el Presidente de la Junta de Andalucía para un periodo de cuatro años.",
+    "B": "Es elegido por el Parlamento Andaluz para un periodo de cinco años.",
+    "C": "Es elegido por el Parlamento Andaluz para un periodo de cuatro años.",
+    "D": "Es elegido por el Consejo de Gobierno de la Junta de Andalucía para un periodo de cuatro años."
+  },
+  "respuesta_correcta": "B"
+},
+"Estatuto_pregunta14": {
+  "pregunta": "El Estatuto de Autonomía fue aprobado el 20 de octubre de 1981, y refrendado por las Cortes como Ley Orgánica 6/1981, de 30 de diciembre. ¿Sabría decir cuantas veces ha sido reformado desde entonces?",
+  "opciones": {
+    "A": "Una vez.",
+    "B": "Ninguna vez.",
+    "C": "Tres veces.",
+    "D": "Dos veces."
+  },
+  "respuesta_correcta": "A"
+},
+"Estatuto_pregunta15": {
+  "pregunta": "En el artículo 22 del Estatuto de Autonomía de Andalucía se recogen, entre otros, los derechos de los pacientes y usuarios en relación a la protección de la salud. Indicar cuál de los siguientes derechos no viene recogido en el citado Estatuto:",
+  "opciones": {
+    "A": "Acceder a todas las prestaciones del sistema",
+    "B": "La garantía de un tiempo máximo para el acceso a los servicios y tratamientos",
+    "C": "El consejo genético y la medicina preventiva",
+    "D": "El acceso a cuidados paliativos"
+  },
+  "respuesta_correcta": "C"
+},
+"Estatuto_pregunta16": {
+  "pregunta": "En el Estatuto de Autonomía para Andalucía se garantiza la protección a la salud mediante un:",
+  "opciones": {
+    "A": "Sistema sanitario público y privado de carácter universal.",
+    "B": "Sistema sanitario público para todos los andaluces.",
+    "C": "Sistema sanitario público de carácter nacional.",
+    "D": "Sistema sanitario público de carácter universal."
+  },
+  "respuesta_correcta": "D"
+},
+"Estatuto_pregunta17": {
+  "pregunta": "Entre los objetivos básicos de la Comunidad Autónoma de Andalucía se encuentra:",
+  "opciones": {
+    "A": "La defensa, promoción, estudio y prestigio de la modalidad lingüística andaluza en todas sus variedades.",
+    "B": "La expresión del pluralismo político, social y cultural de Andalucía a través de todos los medios de comunicación.",
+    "C": "Las respuestas A. y B. son verdaderas.",
+    "D": "Las respuestas A. y B. son falsas."
+  },
+  "respuesta_correcta": "C"
+},
+"Estatuto_pregunta18": {
+  "pregunta": "La promulgación del Estatuto de Autonomía de Andalucía fue acompañada de las transferencias desde el Estado de una serie de materias y competencias, recogidas en el Titulo II. ¿En cuál de los siguientes artículos de la Ley 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía de Andalucía, se contemplan las transferencias a nuestra Comunidad Autónoma de las competencias sobre Salud, Sanidad y Farmacia?",
+  "opciones": {
+    "A": "Articulo 43",
+    "B": "Artículo 2",
+    "C": "Artículo 55",
+    "D": "Estas competencias no se contemplan en el articulado del Estatuto de Autonomía vigente para Andalucía."
+  },
+  "respuesta_correcta": "C"
+},
+"Estatuto_pregunta19": {
+  "pregunta": "Los Reglamentos (como los decretos y órdenes) son normas jurídicas subordinadas a las leyes. En nuestra Comunidad Autónoma, ¿a quién corresponde ejercer la potestad reglamentaria general?",
+  "opciones": {
+    "A": "Al Parlamento de Andalucía.",
+    "B": "Al Tribunal Superior de Justicia de Andalucía.",
+    "C": "Al Consejo de Gobierno de la Junta de Andalucía.",
+    "D": "Al Presidente de la Junta de Andalucía."
+  },
+  "respuesta_correcta": "C"
+},
+"Estatuto_pregunta20": {
+  "pregunta": "Referido al Parlamento de Andalucía, y según establece el vigente Estatuto de Autonomía de Andalucía en su texto legal reformado en el año 2007, ¿cuál de las siguientes afirmaciones es correcta?",
+  "opciones": {
+    "A": "Es inviolable.",
+    "B": "Está compuesto por un mínimo de 119 Diputados y Diputadas, elegidos por sufragio universal, igual, libre, directo y secreto.",
+    "C": "Es elegido por cinco años.",
+    "D": "Es el órgano representativo del pueblo andaluz, e independiente de la Junta de Andalucía."
+  },
+  "respuesta_correcta": "A"
+},
+"Estatuto_pregunta21": {
+  "pregunta": "Según el artículo 10 de la Ley General de Sanidad, será un derecho de todos frente a las administraciones públicas sanitarias el derecho:",
+  "opciones": {
+    "A": "A la información sobre los servicios sanitarios a que puede acceder y sobre los requisitos necesarios para su uso.",
+    "B": "A utilizar las vías de reclamación y de propuesta de sugerencias en los plazos que estime convenientes.",
+    "C": "A obtener los medicamentos y productos sanitarios que el facultativo asignado considere necesarios para el proceso correspondiente.",
+    "D": "A que las instalaciones sanitarias estén cuidadas."
+  },
+  "respuesta_correcta": "A"
+},
+"Estatuto_pregunta22": {
+  "pregunta": "Según el artículo 101 del Estatuto de Autonomía para Andalucía, el Parlamento estará compuesto por un mínimo de 109 Diputados y Diputadas, elegidos por sufragio universal, igual, libre, directo y secreto. Según ese mismo artículo, los miembros del Parlamento:",
+  "opciones": {
+    "A": "Representan a toda Andalucía y no están sujetos a mandato imperativo.",
+    "B": "Representan a toda Andalucía y están sujetos a mandato imperativo.",
+    "C": "Representan a la circunscripción o provincia por la que fueron elegidos y no están sujetos a mandato imperativo.",
+    "D": "Representan a la circunscripción o provincia por la que fueron elegidos y están sujetos a mandato imperativo."
+  },
+  "respuesta_correcta": "A"
+},
+"Estatuto_pregunta23": {
+  "pregunta": "Según el artículo 108 del Estatuto de Autonomía de Andalucía:",
+  "opciones": {
+    "A": "El Consejo de Gobierno no podrá elaborar reglamentos generales de las leyes de la Comunidad Autónoma.",
+    "B": "El Parlamento ejerce la potestad legislativa mediante la elaboración y aprobación de las leyes.",
+    "C": "La Consejería correspondiente en función de la materia, elaborará los reglamentos generales de las leyes de la Comunidad Autónoma.",
+    "D": "La Consejería correspondiente en función de la materia, aprobará los reglamentos generales de las leyes de la Comunidad Autónoma."
+  },
+  "respuesta_correcta": "B"
+},
+"Estatuto_pregunta24": {
+  "pregunta": "Según el artículo 22 del Estatuto de Autonomía de Andalucía, los pacientes y usuarios del sistema andaluz de salud tendrán derecho a:",
+  "opciones": {
+    "A": "La libre elección de médico y centro sanitario.",
+    "B": "El consejo genético y la medicina predictiva.",
+    "C": "La confidencialidad de los datos relativos a su salud y sus características genéticas, así como el acceso a su historial clínico.",
+    "D": "Las repuestas A), B. y C. son verdaderas."
+  },
+  "respuesta_correcta": "D"
+},
+"Estatuto_pregunta25": {
+  "pregunta": "Según el artículo 22 del Estatuto de Autonomía para Andalucía, entre los derechos de los pacientes y usuarios del sistema andaluz de salud se recogen:",
+  "opciones": {
+    "A": "El consejo genético y la medicina predictiva.",
+    "B": "Recibir asistencia geriátrica especializada.",
+    "C": "El acceso a cuidados paliativos.",
+    "D": "Todas las respuestas son correctas."
+  },
+  "respuesta_correcta": "D"
+},
+"Estatuto_pregunta26": {
+  "pregunta": "Según el artículo 31 del Estatuto de Autonomía de Andalucía se garantiza el derecho a una buena administración, que comprende los siguientes términos:",
+  "opciones": {
+    "A": "El derecho de todos ante las Administraciones Públicas, cuya actuación será proporcionada a sus fines, a participar plenamente en las decisiones que les afecten, obteniendo de ellas una información veraz, y a que sus asuntos se traten de manera objetiva e imparcial y sean resueltos en un plazo razonable",
+    "B": "A una administración que sirve con objetividad a la ciudadanía, que realiza su trabajo con racionalidad, justificando sus actuaciones y que se orienta continuamente al interés general.",
+    "C": "A una administración cuya actuación estará centrada en las personas, será proporcionada a sus fines, fines y resolverá con diligencia y objetividad los asuntos públicos",
+    "D": "A una administración cuya actuación sea objetiva e imparcial resolviendo los asuntos públicos de forma justa y equitativa"
+  },
+  "respuesta_correcta": "A"
+},
+"Estatuto_pregunta27": {
+  "pregunta": "Según el artículo 4 del Estatuto de Autonomía de Andalucía, la sede del Tribunal Superior de Justicia de Andalucía, es:",
+  "opciones": {
+    "A": "La ciudad de Antequera.",
+    "B": "La ciudad de Sevilla.",
+    "C": "La ciudad de Granada.",
+    "D": "No está establecido formalmente en la Ley Orgánica y compete al Parlamento de Andalucía decidirlo."
+  },
+  "respuesta_correcta": "C"
+},
+"Estatuto_pregunta28": {
+  "pregunta": "Según el artículo 55 (Salud, sanidad y farmacia) del vigente Estatuto de Autonomía de Andalucía (Ley Orgánica 2/2007, de 19 de marzo), corresponde a la Comunidad Autónoma:",
+  "opciones": {
+    "A": "La legislación en materia de productos farmacéuticos.",
+    "B": "La competencia exclusiva en materia de sanidad exterior, como la atención sociosanitaria de los andaluces que están fuera de España.",
+    "C": "La competencia exclusiva sobre la organización, funcionamiento interno, evaluación, inspección y control de centros, servicios y establecimientos sanitarios.",
+    "D": "La competencia exclusiva en materia de sanidad interior, así como su coordinación con otras Comunidades Autónomas sin intervención del Estado."
+  },
+  "respuesta_correcta": "C"
+},
+"Estatuto_pregunta29": {
+  "pregunta": "Según el artículo 55 del Estatuto de Autonomía, corresponde a la Comunidad Autónoma de Andalucía:",
+  "opciones": {
+    "A": "La legislación en materia de productos farmacéuticos.",
+    "B": "La competencia exclusiva en materia de sanidad exterior de los andaluces que están fuera de España.",
+    "C": "La competencia exclusiva sobre la inspección y control de centros y servicios sanitarios.",
+    "D": "La competencia exclusiva de la sanidad interior, así como su coordinación con otras Comunidades Autónomas sin intervención del Estado."
+  },
+  "respuesta_correcta": "C"
+},
+"Estatuto_pregunta30": {
+  "pregunta": "Según el Estatuto de Autonomía de Andalucía, reformado en 2007 (Ley Orgánica 2/2007, de 19 de marzo), gozan de la condición política de andaluces o andaluzas:",
+  "opciones": {
+    "A": "Los ciudadanos europeos que, de acuerdo con las leyes generales del Estado Español, tengan vecindad administrativa en cualquiera de los municipios de Andalucía.",
+    "B": "Los ciudadanos españoles residentes en el extranjero que hayan tenido la última vecindad administrativa en Andalucía y acrediten esta condición en el correspondiente Consulado de España.",
+    "C": "Los ciudadanos extranjeros residentes en Andalucía que acrediten el correspondiente empadronamiento y residencia estable en un municipio de la Comunidad Autónoma un mínimo de un año.",
+    "D": "Todos los anteriores serán considerados andaluces o andaluzas."
+  },
+  "respuesta_correcta": "B"
+},
+"Estatuto_pregunta31": {
+  "pregunta": "Según el Estatuto de Autonomía para Andalucía, y en relación con la igualdad de género, se garantiza:",
+  "opciones": {
+    "A": "La conformidad de oportunidades entre hombres y mujeres en todos los ámbitos.",
+    "B": "La igualdad de oportunidades entre hombres y mujeres en todos los ámbitos.",
+    "C": "La identidad de oportunidades entre hombres y mujeres en todos los ámbitos.",
+    "D": "La equivalencia de oportunidades entre hombres y mujeres en todos los ámbitos."
+  },
+  "respuesta_correcta": "B"
+},
+"Estatuto_pregunta32": {
+  "pregunta": "Según el Estatuto de autonomía para Andalucía, ¿dónde deben publicarse las Leyes de Andalucía?",
+  "opciones": {
+    "A": "En el Boletín Oficial de la Junta de Andalucía.",
+    "B": "En el Boletín Oficial del Estado.",
+    "C": "En todos los Boletines Oficiales del territorio español.",
+    "D": "En el Boletín Oficial de la Junta de Andalucía y en el Boletín Oficial del Estado."
+  },
+  "respuesta_correcta": "D"
+},
+"Estatuto_pregunta33": {
+  "pregunta": "Según establece el nuestro Estatuto de Autonomía, los reglamentos generales de las leyes de la Comunidad Autónoma de Andalucía serán elaborados por:",
+  "opciones": {
+    "A": "La Consejería competente.",
+    "B": "El Consejo de Gobierno.",
+    "C": "Elaborados por la Consejería y aprobados por el Consejo de Gobierno.",
+    "D": "El Parlamento de Andalucía."
+  },
+  "respuesta_correcta": "B"
+},
+"Estatuto_pregunta34": {
+  "pregunta": "Según se establece en el artículo 3 (\"Símbolos\") punto 4 del vigente Estatuto de Autonomía de Andalucía (Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía), el día oficial de la Comunidad Autónoma es:",
+  "opciones": {
+    "A": "El 28 de febrero.",
+    "B": "El 4 de diciembre.",
+    "C": "El 30 de diciembre.",
+    "D": "El 8 de marzo."
+  },
+  "respuesta_correcta": "A"
+},
+"Estatuto_pregunta35": {
+  "pregunta": "Según se establece en el Estatuto de Autonomía de Andalucía, la sede del Parlamento, de la Presidencia de la Junta y del Consejo de Gobierno es:",
+  "opciones": {
+    "A": "La ciudad de Sevilla.",
+    "B": "La ciudad de Antequera.",
+    "C": "La ciudad de Granada.",
+    "D": "La ciudad de Antequera, donde se firmó en 1883 la Constitución Federal Andaluza."
+  },
+  "respuesta_correcta": "A"
+},
+"Estatuto_pregunta36": {
+  "pregunta": "Todos los siguientes son derechos reconocidos en el Estatuto de Autonomía de Andalucía (Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía), EXCEPTO:",
+  "opciones": {
+    "A": "Se reconoce el derecho a declarar la voluntad vital anticipada que deberá respetarse, en los términos que establezca la ley.",
+    "B": "Todos tienen derecho a acceder a la formación profesional y a la educación permanente en los términos que establezca la ley.",
+    "C": "Las mujeres tienen derecho a una protección integral contra la violencia de género, que incluirá medidas preventivas, medidas asistenciales y ayudas públicas.",
+    "D": "Las personas mayores tienen derecho a recibir de los poderes públicos de Andalucía una pensión complementaria a la del Estado, en caso de que esta fuera la mínima."
+  },
+  "respuesta_correcta": "D"
+},
+"Estatuto_pregunta37": {
+  "pregunta": "¿A quién compete en nuestra Comunidad Autónoma la elaboración de los reglamentos generales de las leyes?",
+  "opciones": {
+    "A": "Al Presidente de la Junta de Andalucía.",
+    "B": "Al Parlamento de Andalucía.",
+    "C": "Al Consejo de Gobierno.",
+    "D": "A la Consejería competente en materia de Justicia."
+  },
+  "respuesta_correcta": "C"
+},
+"Estatuto_pregunta38": {
+  "pregunta": "¿Cuándo podría decirse que Andalucía alcanzó la titularidad de las competencias sanitarias?",
+  "opciones": {
+    "A": "Cuando se promulgó el Estatuto de Autonomía de Andalucía, mediante la Ley Orgánica 2/1981.",
+    "B": "Cuando se promulgó la Ley 8/1986, de 6 de mayo, por la que se crea el Servicio Andaluz de Salud.",
+    "C": "Cuando se promulgó la Ley 2/1998, de Salud de Andalucía.",
+    "D": "Cuando se promulgó la Ley 14/1986, General de Sanidad."
+  },
+  "respuesta_correcta": "A"
+},
+"Estatuto_pregunta39": {
+  "pregunta": "¿En qué artículo del Estatuto de Autonomía (Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía) se establecen las competencias de la Comunidad en materia de Salud, Sanidad y Farmacia?",
+  "opciones": {
+    "A": "Artículo 55.",
+    "B": "Artículo 43.",
+    "C": "Artículo 22.",
+    "D": "Artículo 11."
+  },
+  "respuesta_correcta": "A"
+},
+"Estatuto_pregunta40": {
+  "pregunta": "¿En qué artículo del Estatuto de Autonomía para Andalucía viene regulado el derecho a la protección de la salud?",
+  "opciones": {
+    "A": "Artículo 10.",
+    "B": "Artículo 21.",
+    "C": "Artículo 22.",
+    "D": "Artículo 23."
+  },
+  "respuesta_correcta": "C"
+},
+"Estatuto_pregunta41": {
+  "pregunta": "¿En qué artículo del Estatuto de Autonomía para Andalucía vienen regulados los objetivos básicos de la Comunidad Autónoma?",
+  "opciones": {
+    "A": "Artículo 10.",
+    "B": "Artículo 21.",
+    "C": "Artículo 22.",
+    "D": "Artículo 23."
+  },
+  "respuesta_correcta": "A"
+},
+"Estatuto_pregunta42": {
+  "pregunta": "¿En qué artículo del Estatuto de Autonomía para Andalucía vienen regulados los símbolos de la Comunidad Autónoma?",
+  "opciones": {
+    "A": "Artículo 1.",
+    "B": "Artículo 2.",
+    "C": "Artículo 3.",
+    "D": "Artículo 4."
+  },
+  "respuesta_correcta": "C"
+},
+"Estatuto_pregunta43": {
+  "pregunta": "¿En qué órgano podrá delegar el Parlamento, la potestad de dictar normas con rango de ley, de conformidad con lo previsto en artículo 109 del Estatuto de Autonomía para Andalucía?",
+  "opciones": {
+    "A": "En el Tribunal de Cuentas.",
+    "B": "En el Tribunal Constitucional.",
+    "C": "En el Consejo de Gobierno.",
+    "D": "En la Cámara de Cuentas."
+  },
+  "respuesta_correcta": "C"
+},
+"Estatuto_pregunta44": {
+  "pregunta": "¿Qué establece nuestro vigente Estatuto de Autonomía de Andalucía sobre los decretos-leyes?",
+  "opciones": {
+    "A": "Que son medidas legislativas provisionales que requieren de la convalidación expresa por el Parlamento en los 90 días subsiguientes a su promulgación, siendo automáticamente derogados en caso contrario.",
+    "B": "Que son medidas de extraordinaria y urgente necesidad dictadas por el Consejo de Gobierno.",
+    "C": "Que podrán emplearse para la aprobación de los presupuestos de Andalucía, siempre que sean posteriormente aprobados en el Parlamento tras un debate y votación de totalidad.",
+    "D": "Todas las respuestas anteriores son correctas."
+  },
+  "respuesta_correcta": "B"
+},
+"Estatuto_pregunta45": {
+  "pregunta": "¿Sobre qué materia o institución de las siguientes tiene competencias la Comunidad Autónoma de Andalucía?",
+  "opciones": {
+    "A": "La defensa de su territorio.",
+    "B": "La salud, sanidad y farmacia.",
+    "C": "La policía nacional.",
+    "D": "La política exterior y relaciones internacionales."
+  },
+  "respuesta_correcta": "B"
+},
+"Organizacion sanitaria_pregunta1": {
+  "pregunta": "De acuerdo con la ley General de Sanidad, ¿Cuál de los siguientes constituye un derecho de los/las usuarios/as del sistema sanitario público?",
+  "opciones": {
+    "A": "Derecho a obtener todos los medicamentos y productos sanitarios que considere necesario para restablecer su salud.",
+    "B": "Derecho a la confidencialidad de toda la información relacionada con su proceso y con su estancia en instituciones sanitarias públicas y privadas que colaboren con el sistema público.",
+    "C": "Derecho a la confidencialidad de toda la información relacionada con su proceso y con su estancia en instituciones sanitarias públicas, pero no en relación con instituciones sanitarias privadas que colaboren con el sistema público.",
+    "D": "Ninguna respuesta es correcta."
+  },
+  "respuesta_correcta": "B"
+},
+"Organizacion sanitaria_pregunta2": {
+  "pregunta": "De acuerdo con lo establecido en el art. 3.2 de la Ley 14/1986, de 25 de abril, General de Sanidad:",
+  "opciones": {
+    "A": "La asistencia sanitaria pública se extenderá a toda la población española. El acceso y las prestaciones sanitarias se realizarán en condiciones de igualdad efectiva con el territorio europeo.",
+    "B": "La asistencia sanitaria pública se extenderá a toda la población española. El acceso y las prestaciones sanitarias se realizarán en condiciones de igualdad efectiva.",
+    "C": "La asistencia sanitaria pública se extenderá a toda la población española. El acceso y las prestaciones sanitarias se realizarán en condiciones de igualdad efectiva como mínimo a nivel Autonómico.",
+    "D": "La asistencia sanitaria pública se extenderá a toda la población española. El acceso y las prestaciones sanitarias se realizarán en condiciones de igualdad efectiva como mínimo a nivel provincial."
+  },
+  "respuesta_correcta": "B"
+},
+"Organizacion sanitaria_pregunta3": {
+  "pregunta": "De acuerdo con lo establecido en el art. 57 de la Ley 14/1986, de 25 de abril, General de Sanidad, las Áreas de Salud contarán, como mínimo, con los órganos de participación, de dirección, y de gestión. El órgano de participación lo forma:",
+  "opciones": {
+    "A": "El Consejo de Salud de Área.",
+    "B": "El Consejo de Salud de Área y el Consejo de Dirección del Área.",
+    "C": "El Consejo de Dirección de Área y la Delegación de Salud.",
+    "D": "El Consejo de Participación y Atención al Usuario del Área."
+  },
+  "respuesta_correcta": "A"
+},
+"Organizacion sanitaria_pregunta4": {
+  "pregunta": "De acuerdo con lo establecido en el art. 7 de la Ley 14/1986, de 25 de abril, General de Sanidad los servicios sanitarios, así como los administrativos, económicos y cualesquiera otros que sean precisos para el funcionamiento del Sistema de Salud, adecuarán su organización y funcionamiento a los principios de:",
+  "opciones": {
+    "A": "eficacia, competitividad, economía y flexibilidad.",
+    "B": "eficacia, objetividad, economía y flexibilidad.",
+    "C": "eficacia, celeridad, economía y flexibilidad.",
+    "D": "eficacia, utilidad, economía y flexibilidad."
+  },
+  "respuesta_correcta": "C"
+},
+"Organizacion sanitaria_pregunta5": {
+  "pregunta": "El artículo 20 de la Ley General de Sanidad (Ley 14/1986, de 25 de abril), establece las actuaciones relativas a la salud mental en el sistema sanitario. ¿Cuál de las siguientes afirmaciones NO está recogida en el articulado o es INCORRECTA?",
+  "opciones": {
+    "A": "La hospitalización de los pacientes por procesos que así lo requieran se realizará preferentemente en hospitales psiquiátricos o en unidades monográficas de los hospitales regionales que se denominarán Comunidades Terapéuticas.",
+    "B": "Se desarrollarán los servicios de rehabilitación y reinserción social necesarios para una adecuada atención integral de los problemas del enfermo mental, buscando la necesaria coordinación con los servicios sociales.",
+    "C": "Se considerarán de modo especial aquellos problemas referentes a la psiquiatría infantil y psicogeriatría.",
+    "D": "La atención a los problemas de salud mental de la población se realizará en el ámbito comunitario."
+  },
+  "respuesta_correcta": "A"
+},
+"Organizacion sanitaria_pregunta6": {
+  "pregunta": "El artículo 3 de la Ley General de Sanidad establece que los medios y actuaciones del sistema sanitario estarán orientados prioritariamente a:",
+  "opciones": {
+    "A": "La promoción del bienestar social.",
+    "B": "La promoción de la salud y la prevención de la enfermedad.",
+    "C": "A la tutela de las garantías y derechos sanitarios.",
+    "D": "Ninguna de las respuestas anteriores es correcta"
+  },
+  "respuesta_correcta": "B"
+},
+"Organizacion sanitaria_pregunta7": {
+  "pregunta": "El Consejo Interterritorial del Sistema Nacional de Salud estará integrado, al menos, por:",
+  "opciones": {
+    "A": "Un representante de cada una de las Comunidades Autónomas y el mismo número de miembros del Consejo de Ciudadanos.",
+    "B": "Miembros de la Administración del Estado y Los alcaldes de las ciudades españolas capitales de las Comunidades Autónomas y el mismo número de miembros de la Administración del Estado.",
+    "C": "Un representante de cada una de las Comunidades Autónomas y el mismo número de miembros de la Administración del Estado.",
+    "D": "La mitad se forma por miembros de la Administración del Estado y la otra mitad con el mismo número de miembros del Consejo Ciudadano."
+  },
+  "respuesta_correcta": "C"
+},
+"Organizacion sanitaria_pregunta8": {
+  "pregunta": "El derecho a la protección de la salud viene reconocido expresamente en el artículo 43 de la Constitución Española de 1978, pero la ley que tiene por objeto la regulación general de todas las acciones que permitan hacer efectivo este derecho constitucional de los españoles, es:",
+  "opciones": {
+    "A": "La Ley 14/1986, de 25 de abril.",
+    "B": "La Ley Orgánica 3/2018 de 5 de diciembre.",
+    "C": "La Ley 41/2002, de 14 de noviembre.",
+    "D": "La Ley 13/1995, de 8 de noviembre."
+  },
+  "respuesta_correcta": "A"
+},
+"Organizacion sanitaria_pregunta9": {
+  "pregunta": "El derecho que todos tienen con respecto a las distintas administraciones públicas sanitarias, de respeto a su personalidad, dignidad humana e intimidad, sin que pueda ser discriminado por su origen racial o étnico, por razón de género y orientación sexual, de discapacidad o de cualquier otra circunstancia personal o social, viene recogido en:",
+  "opciones": {
+    "A": "El artículo 43.3 de la Constitución Española.",
+    "B": "Artículo 2 de la Ley 2/1998, de 15 de julio, de Salud de Andalucía.",
+    "C": "VII Plan Andaluz de Salud.",
+    "D": "La ley 14/1986, de 25 de abril, General de Sanidad."
+  },
+  "respuesta_correcta": "D"
+},
+"Organizacion sanitaria_pregunta10": {
+  "pregunta": "El IV Plan Andaluz de Salud fija en su Meta 5.1 Garantizar la transparencia en las actuaciones del SSPA. Entre los objetivos de esta meta no se encuentra:",
+  "opciones": {
+    "A": "Convertir la transparencia en el eje central de la gestión de Unidades Clínicas.",
+    "B": "Lograr una organización abierta a la ciudadanía, garantizando la interacción en estructura, objetivos, procedimientos y resultados.",
+    "C": "Las Unidades de Gestión Clínica se gestionarán contando con los profesionales, de forma ecuánime y transparente, ponderando los criterios de eficiencia y de resultados en salud.",
+    "D": "Publicar quincenalmente las estadísticas de morbimortalidad de los hospitales del SSPA."
+  },
+  "respuesta_correcta": "D"
+},
+"Organizacion sanitaria_pregunta11": {
+  "pregunta": "El IV Plan Andaluz de Salud recoge 6 compromisos de presente y futuro. Indique cuál de los siguientes compromisos NO viene recogido en dicho Plan.",
+  "opciones": {
+    "A": "Aumentar la esperanza de vida en buena salud.",
+    "B": "Generar y desarrollar los activos de salud de nuestra Comunidad y ponerlos a disposición de la sociedad andaluza.",
+    "C": "Reducir las desigualdades sociales en salud.",
+    "D": "Considerar a los ciudadanos como el eje del Sistema Sanitario Público de Andalucía."
+  },
+  "respuesta_correcta": "D"
+},
+"Organizacion sanitaria_pregunta12": {
+  "pregunta": "El todavía vigente IV Plan Andaluz de Salud, (2013-2020), se organiza en:",
+  "opciones": {
+    "A": "2 Líneas estratégicas y 25 Compromisos.",
+    "B": "6 Planes, 24 Líneas y 92 Compromisos.",
+    "C": "6 Compromisos, 24 Metas y 92 Objetivos.",
+    "D": "6 Líneas estratégicas y 92 Compromisos."
+  },
+  "respuesta_correcta": "C"
+},
+"Organizacion sanitaria_pregunta13": {
+  "pregunta": "El vigente Plan Andaluz de Salud (el IV, para el periodo 2013-2020 y aprobado por el Consejo de Gobierno el 22/10/2013), establece seis compromisos esenciales a cumplir. Entre ellos está recogido, literalmente, el siguiente:",
+  "opciones": {
+    "A": "Reducir las desigualdades sociales en salud.",
+    "B": "Situar el Sistema Sanitario Público de Andalucía en manos de los/las profesionales.",
+    "C": "Fomentar la gestión del conocimiento e incorporación de tecnologías, sin limitarlas por razones de coste sino de efectividad.",
+    "D": "Aumentar la esperanza de vida."
+  },
+  "respuesta_correcta": "A"
+},
+"Organizacion sanitaria_pregunta14": {
+  "pregunta": "En la Ley de Salud de Andalucía, los derechos de los ciudadanos vienen recogidos en el:",
+  "opciones": {
+    "A": "Artículo 6.",
+    "B": "Artículo 8.",
+    "C": "Artículo 10.",
+    "D": "Artículo 12."
+  },
+  "respuesta_correcta": "A"
+},
+"Organizacion sanitaria_pregunta15": {
+  "pregunta": "En los compromisos del Plan Andaluz de Salud NO se recoge expresamente:",
+  "opciones": {
+    "A": "Aumentar la esperanza de vida en buena salud.",
+    "B": "La prestación de los productos terapéuticos precisos, atendiendo a las necesidades diferenciadas de mujeres y hombres.",
+    "C": "Proteger y promover la salud de las personas ante los efectos del cambio climático, la sostenibilidad y la globalización.",
+    "D": "Reducir las desigualdades sociales en salud."
+  },
+  "respuesta_correcta": "B"
+},
+"Organizacion sanitaria_pregunta16": {
+  "pregunta": "Entre los derechos ciudadanos que reconoce explícitamente nuestra Ley de Salud de Andalucía (Ley 2/1998), en su artículo 6, se encuentra:",
+  "opciones": {
+    "A": "La libre elección de hospital, sin ninguna restricción.",
+    "B": "El acceso a su historial clínico.",
+    "C": "La tercera y cuarta opinión médicas en determinados procesos.",
+    "D": "La asistencia médica para asegurar una muerte digna."
+  },
+  "respuesta_correcta": "B"
+},
+"Organizacion sanitaria_pregunta17": {
+  "pregunta": "Entre los principios generales contemplados en el artículo 3 de la Ley General de Sanidad (Ley 14/1986, de 25 de abril) hay uno que se añadió con posterioridad a la aprobación del texto legal, en concreto en el año 2007. ¿Cuál es este principio general?",
+  "opciones": {
+    "A": "El principio de igualdad entre hombres y mujeres, evitando que, por sus diferencias físicas o por los estereotipos sociales asociados, se produzcan discriminaciones entre ellos en los objetivos y actuaciones sanitarias.",
+    "B": "El principio de que la política de salud estará orientada a la superación de los desequilibrios territoriales y sociales.",
+    "C": "El principio de extender las prestaciones sanitarias a los extranjeros residentes en España y a los inmigrantes en situación de desamparo.",
+    "D": "El principio de coordinación efectiva de las políticas y actuaciones públicas en materia de prestaciones sociales y asistenciales."
+  },
+  "respuesta_correcta": "A"
+},
+"Organizacion sanitaria_pregunta18": {
+  "pregunta": "Indique cuál de los siguientes es un derecho de los usuarios con respecto a las distintas administraciones públicas sanitarias, según la Ley 14/1986, de 25 de abril, General de Sanidad:",
+  "opciones": {
+    "A": "A la información sobre los servicios sanitarios a que puede acceder y sobre los requisitos necesarios para su uso.",
+    "B": "A tener acceso a la historia clínica de aquellos pacientes con los que se guarde relación de consanguinidad hasta el segundo grado.",
+    "C": "A participar en la actividad sanitaria del centro de salud que se le asigne.",
+    "D": "Todas las respuestas anteriores son correctas."
+  },
+  "respuesta_correcta": "A"
+},
+"Organizacion sanitaria_pregunta19": {
+  "pregunta": "La Ley 14/1986, de 25 de abril, General de Sanidad, establece en el artículo 10.13 el derecho a elegir el médico. El desarrollo del mismo se hizo en Andalucía con decretos diferenciados para Atención Primaria y Atención Especializada. ¿En qué ámbito se desarrolló primero?",
+  "opciones": {
+    "A": "En Atención Primaria 1997 y en Atención Especializada 1999",
+    "B": "En Atención Primaria 1999 y en Atención Especializada 1997",
+    "C": "En Atención Primaria 1997 y en Atención Especializada 1997",
+    "D": "En Atención Primaria 1999 y en Atención Especializada 1999"
+  },
+  "respuesta_correcta": "B"
+},
+"Organizacion sanitaria_pregunta20": {
+  "pregunta": "La Ley 2/1998, de 15 de junio, de Salud de Andalucía, tiene como principios inspiradores:",
+  "opciones": {
+    "A": "Consecución de la igualdad social.",
+    "B": "Concepción integral de la salud, incluyendo actuaciones de promoción, educación sanitaria, prevención, asistencia y rehabilitación.",
+    "C": "Participación de los ciudadanos.",
+    "D": "Las tres respuestas anteriores son ciertas."
+  },
+  "respuesta_correcta": "D"
+},
+"Organizacion sanitaria_pregunta21": {
+  "pregunta": "La Ley General de Sanidad (Ley 14/1986, de 25 de abril) tiene por objeto la regulación general de todas las acciones que permitan hacer efectivo el derecho a la protección de la salud reconocido en la Constitución Española. Entre ellos, la Ley establece, en su artículo tercero, que los medios y actuaciones del sistema sanitario estarán orientados prioritariamente:",
+  "opciones": {
+    "A": "A superar los desequilibrios territoriales y sociales.",
+    "B": "A la promoción de la salud y a la prevención de las enfermedades.",
+    "C": "Al tratamiento de los procesos clínicos, tanto quirúrgicos como médicos y rehabilitadores.",
+    "D": "A la educación sobre la salud, la prevención de las enfermedades y la protección del medio ambiente."
+  },
+  "respuesta_correcta": "B"
+},
+"Organizacion sanitaria_pregunta22": {
+  "pregunta": "La Ley General de Sanidad española se aprobó en el año:",
+  "opciones": {
+    "A": "1982.",
+    "B": "1984.",
+    "C": "1986.",
+    "D": "1988."
+  },
+  "respuesta_correcta": "C"
+},
+"Organizacion sanitaria_pregunta23": {
+  "pregunta": "La protección de la salud en España:",
+  "opciones": {
+    "A": "Es un derecho de todos los españoles, que está recogido en el artículo 1 de la Constitución de 1978.",
+    "B": "Los principios y criterios sustantivos que permiten el ejercicio del derecho a la protección de la salud se regulan en España por la Ley 14/1986, General de Sanidad.",
+    "C": "Se sustenta en las diferentes estructuras y servicios públicos al servicio de la salud que tienen las Comunidades Autónomas, sin que exista un Sistema Nacional de Salud (SNS) como en otros países de nuestro entorno.",
+    "D": "Todas las respuestas anteriores son correctas."
+  },
+  "respuesta_correcta": "B"
+},
+"Organizacion sanitaria_pregunta24": {
+  "pregunta": "Las comunidades autónomas, en el ámbito de sus competencias ¿pueden incorporar en sus carteras de servicios una técnica, tecnología o procedimiento contemplado en la cartera de servicios comunes del SNS?:",
+  "opciones": {
+    "A": "En ningún caso.",
+    "B": "Solo si se evidencia su eficacia y utilidad sanitaria.",
+    "C": "Sí, para lo cual establecerán los recursos adicionales necesarios.",
+    "D": "Únicamente cuando el Consejo Interterritorial del SNS le dé su aprobación."
+  },
+  "respuesta_correcta": "C"
+},
+"Organizacion sanitaria_pregunta25": {
+  "pregunta": "Los ciudadanos, al amparo de Ley 2/1998, de 15 de junio de Salud de Andalucía, son titulares y disfrutan, con respecto a los servicios sanitarios públicos en Andalucía, de los siguientes derechos: Indique el incorrecto.",
+  "opciones": {
+    "A": "A que se les extienda certificado acreditativo de su estado de salud, cuando así lo soliciten.",
+    "B": "Al acceso a su historial clínico autorizado por el director médico.",
+    "C": "A disponer de una segunda opinión facultativa sobre su proceso, en los términos en que reglamentariamente esté establecido.",
+    "D": "A disponer, en todos los centros y establecimientos sanitarios, de una carta de derechos y deberes por los que ha de regirse su relación con los mismos."
+  },
+  "respuesta_correcta": "B"
+},
+"Organizacion sanitaria_pregunta26": {
+  "pregunta": "Los compromisos del IV Plan Andaluz de Salud son: (señale la respuesta FALSA)",
+  "opciones": {
+    "A": "Aumentar la esperanza de vida en buena salud.",
+    "B": "Proteger y promover la salud frente al cambio climático, la globalización y los riesgos emergentes de origen ambiental y alimentario.",
+    "C": "Generar y desarrollar los activos en salud de nuestra comunidad.",
+    "D": "Garantizar su sostenibilidad del Sistema Sanitario Público de Andalucía mediante la adecuada gestión de los recursos humanos."
+  },
+  "respuesta_correcta": "D"
+},
+"Organizacion sanitaria_pregunta27": {
+  "pregunta": "Respecto de los servicios sanitarios en Andalucía, cuidar las instalaciones y colaborar en el mantenimiento de la habitabilidad de los centros:",
+  "opciones": {
+    "A": "Es un deber individual de los ciudadanos recogido en la ley 2/1998, de 15 de junio, de Salud de Andalucía.",
+    "B": "Es una recomendación recogida en el Manual de Normas y Procedimientos del Servicio Andaluz de Salud.",
+    "C": "Es una obligación recogida en el capítulo VI de la ley 14/1986, de 25 de abril, General de Sanidad.",
+    "D": "Es un enunciado que no se recoge expresamente en ninguna Ley."
+  },
+  "respuesta_correcta": "A"
+},
+"Organizacion sanitaria_pregunta28": {
+  "pregunta": "Según el art. 65 de la Ley 14/1986, de 25 de abril, General de Sanidad, cada Área de Salud estará vinculada o dispondrá, al menos, de:",
+  "opciones": {
+    "A": "Un consultorio local.",
+    "B": "Un centro de salud.",
+    "C": "Un hospital general.",
+    "D": "Un hospital."
+  },
+  "respuesta_correcta": "C"
+},
+"Organizacion sanitaria_pregunta29": {
+  "pregunta": "Según el artículo 10 de la Ley de Salud de Andalucía, los centros sanitarios tendrán a disposición de los usuarios:",
+  "opciones": {
+    "A": "Servicio de cafetería y cocina para los usuarios.",
+    "B": "Servicio de lavandería hospitalaria.",
+    "C": "Los servicios que reglamentariamente se le hayan asignado.",
+    "D": "Formularios de sugerencias y reclamaciones."
+  },
+  "respuesta_correcta": "D"
+},
+"Organizacion sanitaria_pregunta30": {
+  "pregunta": "Según el artículo 18 de la Ley General de Sanidad, entre las actuaciones que desarrollarán las Administraciones Públicas a través de sus Servicios de Salud y de los órganos competentes en cada caso se encuentran:",
+  "opciones": {
+    "A": "La protección de los pacientes de salud mental.",
+    "B": "La prestación de los productos terapéuticos precisos, atendiendo a las necesidades diferenciadas de mujeres y hombres.",
+    "C": "Los programas de atención a población inmigrante.",
+    "D": "Todas las respuestas son correctas."
+  },
+  "respuesta_correcta": "B"
+},
+"Organizacion sanitaria_pregunta31": {
+  "pregunta": "Según el artículo 29.3 de la Ley 14/1986, de 25 de abril, en qué casos podrán las Administraciones sanitarias competentes, establecer regímenes temporales y excepcionales de funcionamiento de los establecimientos sanitarios",
+  "opciones": {
+    "A": "Cuando la defensa de la salud de la población lo requiera.",
+    "B": "Cuando la urgencia no permita demoras.",
+    "C": "Cuando la no intervención suponga un riesgo para la salud pública.",
+    "D": "Cuando las necesidades asistenciales lo justifiquen."
+  },
+  "respuesta_correcta": "A"
+},
+"Organizacion sanitaria_pregunta32": {
+  "pregunta": "Según el artículo 3 bis de la Ley 16/2003, de 28 de mayo, ¿a quién corresponde el reconocimiento y control del derecho a la protección de la salud y a la atención sanitaria con cargo a fondos públicos?:",
+  "opciones": {
+    "A": "Al Ministerio de Trabajo y Seguridad Social.",
+    "B": "Al Ministerio de Hacienda.",
+    "C": "Al Ministerio de Sanidad, Consumo y Bienestar Social.",
+    "D": "A las Comunidades Autónomas"
+  },
+  "respuesta_correcta": "C"
+},
+"Organizacion sanitaria_pregunta33": {
+  "pregunta": "Según el artículo 3 de la Ley General de Sanidad, los medios y actuaciones del sistema sanitario estarán orientados prioritariamente a:",
+  "opciones": {
+    "A": "Vigilar la salud de los ciudadanos.",
+    "B": "La promoción de la salud y a la prevención de las enfermedades.",
+    "C": "Que las instalaciones están cuidadas.",
+    "D": "El diagnóstico de la enfermedad."
+  },
+  "respuesta_correcta": "B"
+},
+"Organizacion sanitaria_pregunta34": {
+  "pregunta": "Según el artículo 38 de la ley 14/1986, de 25 de abril, General de Sanidad:",
+  "opciones": {
+    "A": "Es competencia exclusiva del Estado la sanidad exterior, y competencia compartida con las Comunidades Autónomas (CC.AA.) las relaciones y acuerdos sanitarios internacionales.",
+    "B": "Son competencias compartidas entre el Estado y las CC.AA. la sanitad exterior y las relaciones y acuerdos sanitarios internacionales.",
+    "C": "Son competencia exclusiva del Estado la sanitad exterior y las relaciones y acuerdos sanitarios internacionales.",
+    "D": "Es competencia compartida entre el Estado y las CC.AA. la sanidad exterior, siendo competencia exclusiva del Estado las relaciones y acuerdos sanitarios internacionales."
+  },
+  "respuesta_correcta": "C"
+},
+"Organizacion sanitaria_pregunta35": {
+  "pregunta": "Según el artículo 4 de la Ley de Salud de Andalucía, las prestaciones sanitarias ofertadas por el Sistema Sanitario Público de Andalucía (en adelante SSPA) serán:",
+  "opciones": {
+    "A": "Las establecidas en el Consejo Interterritorial.",
+    "B": "Las acordadas por el Sistema Nacional de Salud.",
+    "C": "Las establecidas en cada momento por el Sistema Nacional de Salud.",
+    "D": "Como mínimo, las establecidas en cada momento para el Sistema Nacional de Salud."
+  },
+  "respuesta_correcta": "D"
+},
+"Organizacion sanitaria_pregunta36": {
+  "pregunta": "Según el artículo 4.2 de la Ley General de Sanidad las Comunidades Autónomas crearán sus servicios de salud…",
+  "opciones": {
+    "A": "Dentro del marco de la Constitución y de sus respectivos Estatutos de Autonomía.",
+    "B": "Dentro del marco de la Ley General de Sanidad y de sus respectivos Estatutos de Autonomía.",
+    "C": "Dentro del marco de la Constitución y de la Ley General de Sanidad.",
+    "D": "Dentro del marco de la Ley General de Sanidad y de las leyes que la desarrollen."
+  },
+  "respuesta_correcta": "B"
+},
+"Organizacion sanitaria_pregunta37": {
+  "pregunta": "Según el artículo 45 de la Ley 14/1986, General de Sanidad, ¿Quién integra todas las funciones y prestaciones sanitarias que, de acuerdo con lo previsto en dicha Ley, son responsabilidad de los poderes públicos para el debido cumplimiento del derecho a la protección de la salud?",
+  "opciones": {
+    "A": "Sistema Nacional de Salud.",
+    "B": "Consejo Nacional de Salud.",
+    "C": "Consejo Interterritorial del Servicio Nacional de Salud.",
+    "D": "Servicio Nacional de Salud."
+  },
+  "respuesta_correcta": "A"
+},
+"Organizacion sanitaria_pregunta38": {
+  "pregunta": "Según el artículo 5 de la Ley de Salud de Andalucía, la actuación sanitaria de la Administración Pública de la Junta de Andalucía se regirá por los principios de:",
+  "opciones": {
+    "A": "Planificación, eficacia, cooperación u coordinación con el resto de las actuaciones de esta y con las demás Administraciones Públicas de la Comunidad Autónoma.",
+    "B": "Planificación, eficiencia, cooperación u coordinación con el resto de las actuaciones de esta y con las demás Administraciones Públicas de la Comunidad Autónoma.",
+    "C": "Solidaridad, planificación, participación, cooperación u coordinación con el resto de las actuaciones de esta y con las demás Administraciones Públicas de la Comunidad Autónoma.",
+    "D": "Planificación, participación, cooperación u coordinación con el resto de las actuaciones de la misma y con las demás Administraciones Públicas de la Comunidad Autónoma."
+  },
+  "respuesta_correcta": "D"
+},
+"Organizacion sanitaria_pregunta39": {
+  "pregunta": "Según el artículo 9 de la Ley General de Sanidad, los poderes públicos deberán informar a los usuarios de los servicios del sistema sanitario público, o vinculados a él, de:",
+  "opciones": {
+    "A": "Sus obligaciones y responsabilidades.",
+    "B": "Sus derechos y deberes.",
+    "C": "Sus competencias, derechos y deberes.",
+    "D": "Sus derechos y recursos."
+  },
+  "respuesta_correcta": "B"
+},
+"Organizacion sanitaria_pregunta40": {
+  "pregunta": "Según el texto publicado en 2013 del vigente IV Plan Andaluz de Salud, se propone la consecución de una serie de compromisos. ¿Cuántos?",
+  "opciones": {
+    "A": "6.",
+    "B": "7.",
+    "C": "8.",
+    "D": "10."
+  },
+  "respuesta_correcta": "A"
+},
+"Organizacion sanitaria_pregunta41": {
+  "pregunta": "Según establece el artículo 1 de la Ley General de Sanidad (Ley 14/1986, de 25 de abril), ¿quiénes son titulares del derecho a la protección de la salud y a la atención sanitaria?",
+  "opciones": {
+    "A": "Todos los españoles residentes en el territorio nacional y los extranjeros cuyos países de origen tengan establecidos acuerdos con el Estado español.",
+    "B": "Todos los españoles y los ciudadanos extranjeros que tengan establecida su residencia en el territorio nacional.",
+    "C": "Todos los españoles y los extranjeros que se encuentren en el territorio nacional, tanto transeúntes como residentes.",
+    "D": "Solo los ciudadanos que tengan la nacionalidad española."
+  },
+  "respuesta_correcta": "B"
+},
+"Organizacion sanitaria_pregunta42": {
+  "pregunta": "Según establece el artículo 7 de la Ley General de Sanidad, ¿cuáles son los principios que deben regir la organización y funcionamiento de los servicios sanitarios y de los administrativos, económicos y cualesquiera otros que sean precisos para el funcionamiento del Sistema de Salud?",
+  "opciones": {
+    "A": "Equidad, accesibilidad, gratuidad y eficiencia.",
+    "B": "Trasparencia, ajuste presupuestario, efectividad y capacidad de resolución.",
+    "C": "Seguridad, equilibrio territorial, gratuidad y solidaridad.",
+    "D": "Eficacia, celeridad, economía y flexibilidad."
+  },
+  "respuesta_correcta": "D"
+},
+"Organizacion sanitaria_pregunta43": {
+  "pregunta": "Según establece la Ley General de Sanidad (14/1986), ¿a qué organismo competen las actuaciones que se realicen en materia de vigilancia y control de los posibles riesgos para la salud derivados de la importación, exportación o tránsito de mercancías y del tráfico internacional de viajeros?",
+  "opciones": {
+    "A": "Al Ministerio de Asuntos Exteriores.",
+    "B": "A Sanidad Exterior.",
+    "C": "A cada Consejería de Salud (o asimilada en competencias) de las Comunidades Autónomas.",
+    "D": "Al Centro Nacional de Epidemiología y Medicina Tropical, encuadrado en el Instituto de Salud Carlos III."
+  },
+  "respuesta_correcta": "B"
+},
+"Organizacion sanitaria_pregunta44": {
+  "pregunta": "Según la Ley 14/1986, General de Sanidad el ingreso en centros hospitalarios se efectuará:",
+  "opciones": {
+    "A": "Por medio de una lista de espera única, en función del sistema de previsión sanitaria del paciente.",
+    "B": "Atendiendo al criterio de prioridad temporal.",
+    "C": "A través de la unidad de admisión del hospital, por medio de una lista de espera única.",
+    "D": "Por amistad y proximidad."
+  },
+  "respuesta_correcta": "C"
+},
+"Organizacion sanitaria_pregunta45": {
+  "pregunta": "Según la Ley 2/1998 de Salud de Andalucía, el Plan Andaluz de Salud será aprobado por:",
+  "opciones": {
+    "A": "El Consejo de Gobierno de la Junta de Andalucía",
+    "B": "El Consejero de Salud",
+    "C": "El Parlamento de Andalucía",
+    "D": "El Consejo de Administración del Servicio Andaluz de Salud"
+  },
+  "respuesta_correcta": "A"
+},
+"Organizacion sanitaria_pregunta46": {
+  "pregunta": "Según la Ley de Salud de Andalucía, en relación a la efectividad de los derechos y deberes, recoge que el órgano que garantizará a los ciudadanos el pleno ejercicio del régimen de derechos y obligaciones recogidos en esta Ley es:",
+  "opciones": {
+    "A": "El Consejo de Gobierno de la Junta de Andalucía.",
+    "B": "La Consejería con competencias en Salud de la Junta de Andalucía.",
+    "C": "El Parlamento de Andalucía.",
+    "D": "El Gobierno de España."
+  },
+  "respuesta_correcta": "A"
+},
+"Organizacion sanitaria_pregunta47": {
+  "pregunta": "Según la Ley General de Sanidad (LGS, de 25 de abril de 1986), ¿cuál es un deber que tienen todos los ciudadanos con las instituciones y organismos del sistema sanitario?",
+  "opciones": {
+    "A": "Tomar los medicamentos que les prescriban sus médicos.",
+    "B": "Cumplir las prescripciones generales de naturaleza sanitaria comunes a toda la población, así como las específicas determinadas por los Servicios Sanitarios.",
+    "C": "Compensar económicamente los gastos derivados de su asistencia sanitaria, mediante el copago que se establezca en cada Servicio de Salud.",
+    "D": "Todos los anteriores son deberes ciudadanos reconocidos en la LGS."
+  },
+  "respuesta_correcta": "B"
+},
+"Organizacion sanitaria_pregunta48": {
+  "pregunta": "Según la Ley General de Sanidad de 1986, son competencia exclusiva del estado:",
+  "opciones": {
+    "A": "Todas son ciertas.",
+    "B": "Las relaciones y acuerdos nacionales.",
+    "C": "Los productos farmacéuticos y la docencia y la investigación.",
+    "D": "La sanidad exterior."
+  },
+  "respuesta_correcta": "D"
+},
+"Organizacion sanitaria_pregunta49": {
+  "pregunta": "Según la Ley General de Sanidad, en materia de salud, NO serán competencia de las Comunidades autónomas:",
+  "opciones": {
+    "A": "Todas las competencias asumidas en sus Estatutos.",
+    "B": "Las que el Estado les transfiera o les delegue.",
+    "C": "Las que no se hayan reservado expresamente al Estado.",
+    "D": "El control sanitario del medio ambiente."
+  },
+  "respuesta_correcta": "D"
+},
+"Organizacion sanitaria_pregunta50": {
+  "pregunta": "Según la Ley General de Sanidad, los medios y actuaciones del sistema sanitario estarán orientados prioritariamente a:",
+  "opciones": {
+    "A": "La promoción de la salud, la prevención de las enfermedades y a la protección del medio ambiente.",
+    "B": "La promoción de la salud y la prevención de las enfermedades.",
+    "C": "La promoción de la salud, la prevención de las enfermedades y a la educación sanitaria.",
+    "D": "La promoción de la salud, la prevención de las enfermedades, a la educación sanitaria y a la protección del medio ambiente."
+  },
+  "respuesta_correcta": "B"
+},
+"Organizacion sanitaria_pregunta51": {
+  "pregunta": "Según la ley General de Sanidad, son obligaciones de los usuarios:",
+  "opciones": {
+    "A": "Cuidar las instalaciones.",
+    "B": "Colaborar en el mantenimiento de la habitabilidad de las instituciones Sanitarias.",
+    "C": "Firmar el documento de alta voluntaria en los casos de no aceptación del tratamiento.",
+    "D": "Todas las respuestas anteriores son correctas."
+  },
+  "respuesta_correcta": "D"
+},
+"Organizacion sanitaria_pregunta52": {
+  "pregunta": "Según la Ley General de Sanidad, ¿quién tiene derecho a la protección de la salud y a la atención sanitaria en España?",
+  "opciones": {
+    "A": "Los ciudadanos nacionales o extranjeros que tengan la cartilla de la Seguridad Social.",
+    "B": "Los ciudadanos españoles que tengan cobertura de la Seguridad Social y/o de Mutuas Laborales.",
+    "C": "Los españoles que coticen por ello en su trabajo o tengan una pensión por invalidez.",
+    "D": "Todos los españoles y los ciudadanos extranjeros que tengan establecida su residencia en el territorio nacional."
+  },
+  "respuesta_correcta": "D"
+},
+"Organizacion sanitaria_pregunta53": {
+  "pregunta": "Según recoge el Decreto que establece su estructura orgánica, el Servicio Andaluz de Salud (en adelante SAS) es:",
+  "opciones": {
+    "A": "Una entidad de derecho privado.",
+    "B": "Una agencia administrativa.",
+    "C": "El órgano de dirección y gestión de la sanidad en Andalucía.",
+    "D": "Dependiente jurídicamente de la Consejería de Igualdad y Bienestar Social."
+  },
+  "respuesta_correcta": "B"
+},
+"Organizacion sanitaria_pregunta54": {
+  "pregunta": "Señale cuál de las siguientes actuaciones sanitarias NO está relacionada con la Salud Pública, de conformidad con lo dispuesto en el artículo 14 de la Ley 2/1998, de 15 de junio, de Salud de Andalucía:",
+  "opciones": {
+    "A": "Promoción y mejora de la salud mental.",
+    "B": "Atención al medio en cuanto a su repercusión sobre la salud humana individual y colectiva, incluyendo medidas de control y promoción de mejoras sobre todas aquellas actividades con posibles repercusiones sobre la salud.",
+    "C": "La elaboración y divulgación de estudios, investigaciones y estadísticas relacionados con la salud de los trabajadores.",
+    "D": "Promoción de estilos de vida saludables entre la población, así como promoción de la salud y prevención de las enfermedades en los grupos de mayor riesgo."
+  },
+  "respuesta_correcta": "C"
+},
+"Organizacion sanitaria_pregunta55": {
+  "pregunta": "Señale cuál de los siguientes enunciados NO viene recogido en la Ordenación funcional de la Ley 2/1998, de 15 de junio, de Salud de Andalucía:",
+  "opciones": {
+    "A": "Para la planificación, gestión y apoyo a la prestación de los servicios de atención primaria de salud de Andalucía, existirá el distrito de atención primaria, cuyo ámbito de actuación será determinado por la Consejería de Salud.",
+    "B": "La atención especializada se prestará por los hospitales y siempre se realizarán en el centro hospitalario.",
+    "C": "El hospital, junto a sus correspondientes centros de especialidades, constituye la estructura sanitaria responsable de la atención especializada programada y urgente, tanto en régimen de internado, como ambulatorio y domiciliario de la población de su ámbito territorial.",
+    "D": "Cada área de salud dispondrá de, al menos, un dispositivo de atención especializada de titularidad pública, al que pueda acceder la población de la misma para recibir dicha atención."
+  },
+  "respuesta_correcta": "B"
+},
+"Organizacion sanitaria_pregunta56": {
+  "pregunta": "Situar el Sistema Sanitario Público de Andalucía al servicio de la ciudadanía con el liderazgo de los y las profesionales, potenciando el espacio compartido de la gestión clínica:",
+  "opciones": {
+    "A": "Es un compromiso del Plan Andaluz de Salud.",
+    "B": "Es un objetivo de la Ley General de Sanidad.",
+    "C": "Es un principio recogido en la Ley de Salud de Andalucía.",
+    "D": "Es una declaración de intenciones de la organización sanitaria."
+  },
+  "respuesta_correcta": "A"
+},
+"Organizacion sanitaria_pregunta57": {
+  "pregunta": "Son objeto de la Ley de Salud de Andalucía (Ley 2/1998), recogidos en su artículo 1, todos los que se enumeran a continuación, EXCEPTO:",
+  "opciones": {
+    "A": "La regulación general de las actuaciones, que permitan hacer efectivo el derecho a la protección de la salud, previsto en la Constitución Española.",
+    "B": "La ordenación general de las actividades sanitarias de las entidades públicas y privadas en Andalucía.",
+    "C": "La reducción de la desigualdad en salud, que facilite que las personas andaluzas vivan más años y con más calidad y autonomía.",
+    "D": "La definición, el respeto y el cumplimiento de los derechos y obligaciones de los ciudadanos respecto de los servicios sanitarios en Andalucía."
+  },
+  "respuesta_correcta": "C"
+},
+"Organizacion sanitaria_pregunta58": {
+  "pregunta": "¿Cómo se llama el órgano colegiado de participación ciudadana en la formulación de la política sanitaria y en el control de su ejecución, asesor en esta materia de la Consejería de Salud en el ejercicio de las funciones de fomento y desarrollo de la participación ciudadana?",
+  "opciones": {
+    "A": "El Consejo Interprovincial de Salud.",
+    "B": "El Comité de Participación Ciudadana en Salud.",
+    "C": "La Comisión Delegada de Políticas Públicas del SSPA.",
+    "D": "El Consejo Andaluz de Salud."
+  },
+  "respuesta_correcta": "D"
+},
+"Organizacion sanitaria_pregunta59": {
+  "pregunta": "¿Cuál de las siguientes afirmaciones sobre la organización sanitaria pública en Andalucía es INCORRECTA?",
+  "opciones": {
+    "A": "Andalucía alcanzó la titularidad de las competencias sanitarias con la promulgación de su Estatuto de Autonomía, en 1981.",
+    "B": "El Servicio Andaluz de Salud se creó mediante la Ley 8/1986, de 6 de mayo.",
+    "C": "La Ley de Salud de Andalucía (Ley 2/1998) establece la universalización de la atención sanitaria, garantizando la misma a todos los ciudadanos de Andalucía sin discriminación alguna.",
+    "D": "El Sistema Sanitario Público de Andalucía (SSPA) se creó, como parte del Sistema Nacional de Salud, en la Ley General de Sanidad (Ley 14/1986)."
+  },
+  "respuesta_correcta": "D"
+},
+"Organizacion sanitaria_pregunta60": {
+  "pregunta": "¿Cuál de los siguientes derechos de los ciudadanos está contemplado en la Ley 14/1986, de 25 de abril, General de Sanidad, con respecto a las distintas administraciones públicas sanitarias?",
+  "opciones": {
+    "A": "Respecto a la personalidad, dignidad humana e intimidad.",
+    "B": "Confidencialidad de toda la información relacionada con su proceso.",
+    "C": "Asignación de médico, el nombre del cual se le dará a conocer.",
+    "D": "Todas las respuestas son correctas."
+  },
+  "respuesta_correcta": "D"
+},
+"Organizacion sanitaria_pregunta61": {
+  "pregunta": "¿Cuál de los siguientes órganos directivos centrales NO está recogido en el Decreto que regula la estructura de la Consejería de Salud y Familias?",
+  "opciones": {
+    "A": "Viceconsejería.",
+    "B": "Dirección General de Consumo.",
+    "C": "Dirección General de Familias.",
+    "D": "Secretaría General Técnica."
+  },
+  "respuesta_correcta": "B"
+},
+"Organizacion sanitaria_pregunta62": {
+  "pregunta": "¿Cuál es el marco de referencia y el instrumento indicativo para todas las actuaciones en materia de salud en el ámbito de Andalucía?",
+  "opciones": {
+    "A": "El Plan Andaluz de Salud.",
+    "B": "La Ley 2/1998, de 15 de junio de Salud de Andalucía.",
+    "C": "La Ley 14/1986, del 25 de abril General de Sanidad.",
+    "D": "La Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía."
+  },
+  "respuesta_correcta": "A"
+},
+"Organizacion sanitaria_pregunta63": {
+  "pregunta": "¿Cuándo se promulgó la vigente Ley de Salud de Andalucía?",
+  "opciones": {
+    "A": "En 2007",
+    "B": "En 1998",
+    "C": "En 2020",
+    "D": "Andalucía no tiene una Ley de Salud"
+  },
+  "respuesta_correcta": "B"
+},
+"Organizacion sanitaria_pregunta64": {
+  "pregunta": "¿En qué año fue creado el Servicio Andaluz de Salud?",
+  "opciones": {
+    "A": "1982",
+    "B": "1986",
+    "C": "1990",
+    "D": "1992"
+  },
+  "respuesta_correcta": "B"
+},
+"Organizacion sanitaria_pregunta65": {
+  "pregunta": "¿Qué derecho se reconoce en el artículo 10 de la Ley General de Sanidad con respecto a las Administraciones Públicas sanitarias?",
+  "opciones": {
+    "A": "A la subvención del traslado de pacientes con derecho a rehabilitación, aún cuando no esté indicado por el especialista",
+    "B": "Al reintegro de los gastos ocasionados por asistencia sanitaria privada, nacional o extranjera por retraso en la asistencia",
+    "C": "A la financiación de las intervenciones motivadas por razón de cambio de sexo, salvo la reparación en estados intersexuales patológicos",
+    "D": "A obtener los medicamentos y productos sanitarios que se consideren necesarios para promover, conservar o restablecer la salud en los términos que reglamentariamente se establezcan"
+  },
+  "respuesta_correcta": "D"
+},
+"Organizacion sanitaria_pregunta66": {
+  "pregunta": "¿Qué diría sobre la frase 'Situar el Sistema Sanitario Público de Andalucía al servicio de la ciudadanía con el liderazgo de los y las profesionales, potenciando el espacio compartido de la gestión clínica'?",
+  "opciones": {
+    "A": "Que es un objetivo del Estatuto de Autonomía de Andalucía.",
+    "B": "Que es un compromiso del IV Plan Andaluz de Salud.",
+    "C": "Que es uno de los principios recogidos en la Ley de Salud de Andalucía.",
+    "D": "Que es una declaración de intenciones de la organización sanitaria andaluza, recogido en el Libro de Estilo del Servicio Andaluz de Salud."
+  },
+  "respuesta_correcta": "B"
+},
+"Organizacion sanitaria_pregunta67": {
+  "pregunta": "¿Qué objeto tiene la Ley 2/1998, de 15 de junio, de Salud de Andalucía?",
+  "opciones": {
+    "A": "La ordenación general de las actividades sanitarias de las entidades públicas y privadas en Andalucía.",
+    "B": "La regulación general de las actuaciones que permitan hacer efectivo el derecho a la protección de la salud, previsto en la Constitución Española.",
+    "C": "La definición, el respeto y el cumplimiento de los derechos y obligaciones de los ciudadanos respecto de los servicios sanitarios en Andalucía.",
+    "D": "Las tres respuestas anteriores son correctas."
+  },
+  "respuesta_correcta": "D"
+},
+"Organizacion sanitaria_pregunta68": {
+  "pregunta": "Atendiendo a la cartera de Servicios del Servicio Andaluz de Salud, ¿cuál de las siguientes es un área de abordaje comunitario?",
+  "opciones": {
+    "A": "GRUSE. Grupo socioeducativo de Atención Primaria",
+    "B": "Atención preventiva del paciente crónico.",
+    "C": "Atención al Niño Sano.",
+    "D": "A y B son correctas."
+  },
+  "respuesta_correcta": "A"
+},
+"Organizacion sanitaria_pregunta69": {
+  "pregunta": "Aunque la ley que creó el Servicio Andaluz de Salud (SAS) es del año 1986 (Ley 8/1986, de 6 de mayo), ¿cuál es la norma vigente que establece su estructura orgánica?",
+  "opciones": {
+    "A": "Ley 2/1998, de 15 de junio.",
+    "B": "Decreto 105/1986, de 11 de junio.",
+    "C": "Ley 8/1986, de 6 de mayo.",
+    "D": "Decreto 105/2019, de 12 de febrero."
+  },
+  "respuesta_correcta": "D"
+},
+"Organizacion sanitaria_pregunta70": {
+  "pregunta": "Como trabajador/a, que formará parte de la plantilla del Sistema Sanitario Público Andaluz, ¿sabría identificar la ley por la que se creó el Servicio Andaluz de Salud?",
+  "opciones": {
+    "A": "Ley 8/1986, de 6 de mayo.",
+    "B": "Ley 2/1998 de 15 de junio.",
+    "C": "Ley 14/1986 de 25 de abril.",
+    "D": "Ley 33/2011 de 4 de octubre."
+  },
+  "respuesta_correcta": "A"
+},
+"Organizacion sanitaria_pregunta71": {
+  "pregunta": "Con respecto al Servicio Andaluz de Salud, señale la respuesta CORRECTA:",
+  "opciones": {
+    "A": "Es una Agencia Administrativa de las previstas en el artículo 75 de la Ley 9/2008, de 22 de octubre.",
+    "B": "Le corresponde entre otras, la función de la gestión de los recursos humanos, materiales y financieros que se le asignen para el desarrollo de sus funciones.",
+    "C": "Las respuestas A. y B. son correctas.",
+    "D": "Ninguna es correcta."
+  },
+  "respuesta_correcta": "B"
+},
+"Organizacion sanitaria_pregunta72": {
+  "pregunta": "De acuerdo con el art. 18 del DECRETO 105/1986 de 11 de junio, sobre ordenación de asistencia sanitaria especializada y órganos de dirección de los hospitales, todos los Hospitales contarán con las siguientes unidades administrativas, adscritas directamente al Director-Gerente. Señale la respuesta incorrecta:",
+  "opciones": {
+    "A": "Relaciones Laborales",
+    "B": "Información y Atención al Usuario.",
+    "C": "Calidad asistencial.",
+    "D": "Admisión, Estadística y Archivo de Historias Clínicas"
+  },
+  "respuesta_correcta": "C"
+},
+"Organizacion sanitaria_pregunta73": {
+  "pregunta": "De acuerdo con el art. 24.3 del DECRETO 105/1986 de 11 de junio, sobre ordenación de asistencia sanitaria especializada y órganos de dirección de los hospitales, la Junta del Hospital y de los Centros periféricos de Especialidades creará el número de Comisiones necesarias, entre las cuales deberá existir, en todo caso:",
+  "opciones": {
+    "A": "La Comisión de Bienestar y Atención al Usuario, la de Seguridad e Higiene en el Trabajo y la Comisión de Catástrofes.",
+    "B": "La Comisión de Calidad, la de Seguridad e Higiene en el Trabajo y la Comisión de Catástrofes.",
+    "C": "La Comisión de Mortalidad, la de Seguridad e Higiene en el Trabajo y la Comisión de Historias Clínicas e información.",
+    "D": "La Comisión de Igualdad, la de Seguridad e Higiene en el Trabajo y la Comisión de Participación Ciudadana."
+  },
+  "respuesta_correcta": "A"
+},
+"Organizacion sanitaria_pregunta74": {
+  "pregunta": "De acuerdo con el Decreto 105/2019, de 12 de febrero, por el que se establece la estructura orgánica de la Consejería de Salud y Familias y del Servicio Andaluz de Salud, ¿a quién corresponde la elaboración de las propuestas de actuación que deban formularse a la Consejería de Salud y Familias, en relación con los presupuestos y el Contrato-Programa tanto del Servicio Andaluz de Salud, como de las entidades que tenga adscritas?",
+  "opciones": {
+    "A": "A la Viceconsejería de Salud y Familias.",
+    "B": "A la Secretaría General Técnica de la Consejería de Salud y Familias.",
+    "C": "Conjuntamente a la Dirección General de Asistencia Sanitaria, la Dirección General de Personal, y la Dirección General de Gestión Económica del Servicio Andaluz de Salud.",
+    "D": "A la Dirección Gerencia del Servicio Andaluz de Salud."
+  },
+  "respuesta_correcta": "D"
+},
+"Organizacion sanitaria_pregunta75": {
+  "pregunta": "El actual Mapa de Atención Primaria de Salud en Andalucía fue establecido en:",
+  "opciones": {
+    "A": "La Ley de Salud de Andalucía (Ley 2/1998).",
+    "B": "El Decreto 195/1985, de 28 de agosto.",
+    "C": "Ley 9/2007, de 22 de octubre, de la Administración de la Junta de Andalucía.",
+    "D": "La Orden de 7 de junio de 2002."
+  },
+  "respuesta_correcta": "D"
+},
+"Organizacion sanitaria_pregunta76": {
+  "pregunta": "El decreto que ordena la asistencia especializada y los órganos de dirección de hospitales dentro de la red asistencial pública de Andalucía, fue modificado en 1996 ¿Con qué objetivo?",
+  "opciones": {
+    "A": "Modificar los órganos directivos de los hospitales, introduciendo las Direcciones de Profesionales como una dirección más, diferenciada de la Económico-Administrativa y de la Dirección de Servicios Generales.",
+    "B": "Dar mayores competencias a la Dirección Gerencia de los hospitales, para firmar contratos y acuerdos.",
+    "C": "Introducir los cambios necesarios a nivel de los órganos asesores colegiados que constituyen el Hospital, y en concreto regular las Juntas Facultativas y las Juntas de Enfermería de los hospitales del Servicio Andaluz de Salud.",
+    "D": "Establecer que los puestos de Director/a Médico y de Director/a de Enfermería se elijan por sufragio entre los profesionales del hospital de sus correspondientes categorías."
+  },
+  "respuesta_correcta": "C"
+},
+"Organizacion sanitaria_pregunta77": {
+  "pregunta": "El hospital es una organización jerárquica. Señale de las siguientes estructuras cuál no depende directamente del Director Gerente:",
+  "opciones": {
+    "A": "Dirección de Gestión.",
+    "B": "Servicio de Admisión y Documentación Clínica.",
+    "C": "Dirección de Recursos Humanos.",
+    "D": "Dirección de Enfermería."
+  },
+  "respuesta_correcta": "C"
+},
+"Organizacion sanitaria_pregunta78": {
+  "pregunta": "El primer nivel de atención sanitaria en Andalucía es la atención primaria de salud, que integra la asistencia preventiva, curativa, rehabilitadora y la promoción de la salud de los ciudadanos. Pero, ¿sabría decir cómo se llaman las estructuras organizativas para la planificación operativa, dirección, gestión y administración en ese ámbito de la Atención Primaria?",
+  "opciones": {
+    "A": "Centros de salud.",
+    "B": "Distritos sanitarios.",
+    "C": "Zonas básicas de salud.",
+    "D": "Áreas de salud."
+  },
+  "respuesta_correcta": "B"
+},
+"Organizacion sanitaria_pregunta79": {
+  "pregunta": "El reciente Decreto 156/2022, de 9 de agosto, por el que se establece la estructura orgánica de la Consejería de Salud y Consumo, ha establecido un nuevo órgano o centro directivo en el Servicio Andaluz de Salud, que se conoce por:",
+  "opciones": {
+    "A": "Dirección General de Familias, Cuidados Sociosanitarios y Atención a las Dependencias.",
+    "B": "Dirección General de Planificación de Recursos.",
+    "C": "Dirección General de Cuidados y Atención Sociosanitaria.",
+    "D": "Dirección General de Humanización, Planificación, Coordinación y Cuidados."
+  },
+  "respuesta_correcta": "B"
+},
+"Organizacion sanitaria_pregunta80": {
+  "pregunta": "El Registro de Actividad de Atención Sanitaria Especializada, regulado mediante Real Decreto 69/2015, de 6 de febrero, incluye información de diferentes modalidades asistenciales. Señale la respuesta correcta entre las siguientes.",
+  "opciones": {
+    "A": "Urgencias.",
+    "B": "Procedimientos ambulatorios de especial complejidad.",
+    "C": "Hospitalización a domicilio.",
+    "D": "Todas las anteriores."
+  },
+  "respuesta_correcta": "D"
+},
+"Organizacion sanitaria_pregunta81": {
+  "pregunta": "El SAS (Servicio Andaluz de Salud) tiene dos niveles de atención sanitaria a los ciudadanos, que son:",
+  "opciones": {
+    "A": "Atención primaria y Atención hospitalaria (también conocida como atención especializada).",
+    "B": "Atención primaria y Atención ambulatoria.",
+    "C": "Atención primaria y Atención de emergencia.",
+    "D": "Atención ambulatoria y Atención domiciliaria."
+  },
+  "respuesta_correcta": "A"
+},
+"Organizacion sanitaria_pregunta82": {
+  "pregunta": "El Servicio Andaluz de Salud, creado como Organismo Autónomo de carácter administrativo de la Junta de Andalucía el 6 de mayo de 1986 (Ley 8/1986), actualmente es una entidad instrumental de la Administración de la Junta de Andalucía que tiene forma jurídica de:",
+  "opciones": {
+    "A": "Agencia administrativa.",
+    "B": "Agencia pública empresarial.",
+    "C": "Agencia de régimen especial.",
+    "D": "Fundación pública."
+  },
+  "respuesta_correcta": "A"
+},
+"Organizacion sanitaria_pregunta83": {
+  "pregunta": "El Sistema Sanitario Público de Andalucía (SSPA) está compuesto por: (señale la respuesta FALSA)",
+  "opciones": {
+    "A": "Los centros, servicios y establecimientos de titularidad privada que tengan algún concierto o convenio de colaboración con la Administración Sanitaria de la Junta de Andalucía.",
+    "B": "Los centros, servicios y establecimientos sanitarios de las Diputaciones, Ayuntamientos y cualesquiera otras Administraciones territoriales intracomunitarias.",
+    "C": "Los centros, servicios y establecimientos sanitarios de organismos, empresas públicas o cualesquiera otras entidades de naturaleza o titularidad pública admitidas en derecho, adscritas a la Administración Sanitaria de la Junta de Andalucía.",
+    "D": "Los centros, servicios y establecimientos sanitarios públicos integrados en el Servicio Andaluz de Salud o adscritos al mismo."
+  },
+  "respuesta_correcta": "A"
+},
+"Organizacion sanitaria_pregunta84": {
+  "pregunta": "El Sistema Sanitario Público de Andalucía (SSPA) se organiza en demarcaciones territoriales denominadas:",
+  "opciones": {
+    "A": "Zonas Básicas de Salud.",
+    "B": "Áreas de Gestión Sanitaria.",
+    "C": "Distritos Sanitarios.",
+    "D": "Áreas de Salud."
+  },
+  "respuesta_correcta": "D"
+},
+"Organizacion sanitaria_pregunta85": {
+  "pregunta": "En Andalucía existen, como organizaciones específicas dentro del Servicio Andaluz de Salud, las Áreas de Gestión Sanitaria. ¿Cuál de las siguientes respuestas las definiría más precisamente?",
+  "opciones": {
+    "A": "Son responsables de la gestión sanitaria de los dispositivos asistenciales de atención primaria y de la atención hospitalaria que requieran una continuidad asistencial interniveles.",
+    "B": "Son responsables de la gestión unitaria de los dispositivos asistenciales tanto de la atención primaria como atención hospitalaria, pero no de la salud pública, que será llevada a cabo a nivel provincial.",
+    "C": "Son aquellas demarcaciones territoriales formadas exclusivamente por Unidades Clínicas de Gestión que compartan prestaciones y programas sanitarios entre atención primaria y especializada.",
+    "D": "Son responsables de la gestión unitaria de los dispositivos asistenciales tanto de la atención primaria como atención hospitalaria, así como la salud pública, en una demarcación territorial específica, y de las prestaciones y programas sanitarios a desarrollar por ellos."
+  },
+  "respuesta_correcta": "D"
+},
+"Organizacion sanitaria_pregunta86": {
+  "pregunta": "En Atención Primaria, ¿de quién depende jerárquica y funcionalmente el Director de una Unidad de Gestión Clínica?",
+  "opciones": {
+    "A": "De la Dirección Gerencia del Distrito.",
+    "B": "Director de Salud.",
+    "C": "De la Junta Facultativa.",
+    "D": "Del Consejo de Dirección."
+  },
+  "respuesta_correcta": "A"
+},
+"Organizacion sanitaria_pregunta87": {
+  "pregunta": "La actual Consejería de Salud y Familias tiene, en su estructura orgánica, tres Direcciones Generales. ¿Cuál de las siguientes NO lo es?",
+  "opciones": {
+    "A": "Dirección General de Familias",
+    "B": "Dirección General de Consumo",
+    "C": "Dirección General de Cuidados Sociosanitarios",
+    "D": "Dirección General de Salud Pública y Ordenación Farmacéutica"
+  },
+  "respuesta_correcta": "A"
+},
+"Organizacion sanitaria_pregunta88": {
+  "pregunta": "La Asesoría Jurídica del Servicio Andaluz de Salud, ¿de qué órgano directivo depende directamente, según el vigente decreto que establece la estructura orgánica de la Consejería de Salud y Consumo?",
+  "opciones": {
+    "A": "De la Dirección Gerencia del SAS.",
+    "B": "De la Dirección General de Gestión Económica y Servicios.",
+    "C": "De la Dirección General de Personal.",
+    "D": "De la Dirección General de Asistencia Sanitaria y Resultados en Salud."
+  },
+  "respuesta_correcta": "A"
+},
+"Organizacion sanitaria_pregunta89": {
+  "pregunta": "La estructura orgánica de la Consejería de Salud y Familias y del Servicio Andaluz de Salud (en adelante SAS), viene regulada en:",
+  "opciones": {
+    "A": "El Decreto 195/198",
+    "B": "El Decreto 197/200",
+    "C": "El Decreto 177/20",
+    "D": "El Decreto 105/20"
+  },
+  "respuesta_correcta": "D"
+},
+"Organizacion sanitaria_pregunta90": {
+  "pregunta": "La representación legal del Servicio Andaluz de Salud corresponde a:",
+  "opciones": {
+    "A": "Consejero/a de Salud.",
+    "B": "Director/a Gerente del SAS.",
+    "C": "Director/a General.",
+    "D": "Consejero/a Delegado."
+  },
+  "respuesta_correcta": "B"
+},
+"Organizacion sanitaria_pregunta91": {
+  "pregunta": "Referido al Servicio Andaluz de Salud (SAS), ¿cuál de las siguientes afirmaciones es incorrecta?",
+  "opciones": {
+    "A": "Su Dirección Gerencia tiene rango de Viceconsejería.",
+    "B": "Es una agencia administrativa de las previstas en el artículo 65 de la Ley 9/2007, de 22 de octubre.",
+    "C": "Se adscribe a la Consejería de Salud y Familias dependiendo específicamente de la Viceconsejería, según el Decreto 105/2019, de 12 de febrero.",
+    "D": "Se estructura en una Dirección Gerencia y en cinco Direcciones Generales (D.G. de Asistencia Sanitaria, D.G. de Cuidados y Resultados en Salud, D.G. de Personal, D.G.Económica y D.G. Asuntos Jurídicos)."
+  },
+  "respuesta_correcta": "D"
+},
+"Organizacion sanitaria_pregunta92": {
+  "pregunta": "Según el Decreto 105/2019, de 12 de febrero, por el que se establece la estructura orgánica de la Consejería de Salud y Familias y del Servicio Andaluz de Salud (SAS), de la Dirección Gerencia del SAS dependen directamente los órganos o centros directivos siguientes, EXCEPTO:",
+  "opciones": {
+    "A": "Dirección General de Asistencia Sanitaria y Resultados en Salud.",
+    "B": "Dirección General de Personal.",
+    "C": "Dirección General de Gestión Económica y Servicios.",
+    "D": "Dirección General de Salud Pública y Ordenación Farmacéutica."
+  },
+  "respuesta_correcta": "D"
+},
+"Organizacion sanitaria_pregunta93": {
+  "pregunta": "Según el Decreto 197/2007, de 3 de julio, por el que se regula la estructura, organización y funcionamiento de los servicios de atención primaria de salud en el ámbito del Servicio Andaluz de Salud, ¿cuál NO es una comisión técnica?",
+  "opciones": {
+    "A": "Comisión de Calidad y Procesos Asistenciales",
+    "B": "Comisión de Formación y Docencia",
+    "C": "Comisión de Dirección",
+    "D": "Comisión de Salud Pública"
+  },
+  "respuesta_correcta": "C"
+},
+"Organizacion sanitaria_pregunta94": {
+  "pregunta": "Según el Decreto 462/1996, de 8 de octubre, ¿cada cuánto tiempo hay que renovar los órganos colegiados de participación de los profesionales sanitarios del Área Hospitalaria?",
+  "opciones": {
+    "A": "Cada 2 años.",
+    "B": "Cada 3 años.",
+    "C": "Cada 4 años.",
+    "D": "Cada 5 años."
+  },
+  "respuesta_correcta": "C"
+},
+"Organizacion sanitaria_pregunta95": {
+  "pregunta": "Según el Decreto 462/1996, NO es función de la Junta Facultativa, como órgano colegiado de participación de los facultativos del área hospitalaria:",
+  "opciones": {
+    "A": "Conocer el Contrato-Programa del Hospital con carácter previo a su formalización por la Dirección Gerencia.",
+    "B": "Proponer el nombramiento del Director Médico del Hospital.",
+    "C": "Vigilar y controlar las condiciones de trabajo y seguridad en el empleo.",
+    "D": "Elaborar el programa de formación para el personal facultativo del Hospital."
+  },
+  "respuesta_correcta": "C"
+},
+"Organizacion sanitaria_pregunta96": {
+  "pregunta": "Según el Decreto 462/1996, sobre ordenación de la Asistencia Especializada y Órganos de Dirección de los Hospitales, en situaciones excepcionales, la Junta Facultativa podrá solicitar la revocación de la persona que ostente el cargo de Director Médico, tras acuerdo motivado del pleno de la Junta y con el voto de al menos:",
+  "opciones": {
+    "A": "Mayoría absoluta de los miembros presentes.",
+    "B": "La mitad más uno de sus miembros.",
+    "C": "Dos tercios de sus miembros.",
+    "D": "Setenta y cinco por ciento de sus miembros."
+  },
+  "respuesta_correcta": "C"
+},
+"Organizacion sanitaria_pregunta97": {
+  "pregunta": "Según el Decreto que regula la estructura orgánica del SAS, ¿cuál de las siguientes no es una competencia de la Dirección Gerencia?",
+  "opciones": {
+    "A": "La definición de modelos organizativos y dirección de la estructura orgánica, funcional y de gestión del SAS.",
+    "B": "La jefatura superior del personal adscrito al SAS.",
+    "C": "La resolución de los procedimientos de responsabilidad patrimonial en su ámbito de competencia.",
+    "D": "La dirección de la gestión de la actividad asistencial de calidad, garantizando los derechos sanitarios de la ciudadanía."
+  },
+  "respuesta_correcta": "D"
+},
+"Organizacion sanitaria_pregunta98": {
+  "pregunta": "Según el Decreto que regula la estructura, organización y funcionamiento de los servicios de atención primaria de salud en el ámbito del SAS, el Mapa de Atención Primaria de Salud:",
+  "opciones": {
+    "A": "Delimita las zonas básicas de salud y los Distritos en las que se integran.",
+    "B": "Recoge todos los centros del SSPA.",
+    "C": "Es un mapa con todos los centros sanitarios públicos y privados de Andalucía.",
+    "D": "Se actualiza cada cuatro años."
+  },
+  "respuesta_correcta": "A"
+},
+"Organizacion sanitaria_pregunta99": {
+  "pregunta": "Según el Decreto que regula la estructura, organización y funcionamiento de los servicios de atención primaria de salud en el ámbito del SAS, la Zona Básica de Salud:",
+  "opciones": {
+    "A": "Es el marco territorial para la prestación de la atención primaria de salud.",
+    "B": "Es la estructura física donde los profesionales realizan las actividades para una atención primaria de salud integral orientada a la ciudadanía.",
+    "C": "Es la estructura organizativa para la planificación y organización de las actividades asistenciales.",
+    "D": "Todas las respuestas son correctas."
+  },
+  "respuesta_correcta": "A"
+},
+"Organizacion sanitaria_pregunta100": {
+  "pregunta": "Según el Decreto que regula la estructura, organización y funcionamiento de los servicios de atención primaria de salud en el ámbito del SAS, las demarcaciones territoriales de los Servicios de Atención Primaria son:",
+  "opciones": {
+    "A": "Los Distritos de Atención Primaria.",
+    "B": "Las Áreas Sanitarias que en Andalucía corresponderán a las ocho provincias.",
+    "C": "Las Zonas Básicas de Salud.",
+    "D": "Las que se definan en la norma de creación de las Áreas de Gestión Sanitaria."
+  },
+  "respuesta_correcta": "C"
+},
+"Organizacion sanitaria_pregunta101": {
+  "pregunta": "Según el Decreto sobre ordenación de asistencia sanitaria especializada y órganos de dirección de los hospitales en Andalucía, la función de asegurar el desarrollo del programa de actividad y control asistencial, así como la organización y control de la docencia e investigación, corresponde a la:",
+  "opciones": {
+    "A": "Dirección Gerencia.",
+    "B": "Dirección Médica.",
+    "C": "Dirección de Enfermería.",
+    "D": "Dirección Económica-Administrativa."
+  },
+  "respuesta_correcta": "B"
+},
+"Organizacion sanitaria_pregunta102": {
+  "pregunta": "Según el vigente decreto que establece la estructura orgánica de la Consejería de Salud y Consumo, ¿a quién se adscribe la Escuela Andaluza de Salud Pública?",
+  "opciones": {
+    "A": "A la Secretaría General de Salud Pública e I+D+i en Salud.",
+    "B": "A la Viceconsejería.",
+    "C": "A la Secretaría General de Humanización, Planificación, Atención Sociosanitaria y Consumo.",
+    "D": "A la Secretaría General Técnica."
+  },
+  "respuesta_correcta": "A"
+},
+"Organizacion sanitaria_pregunta103": {
+  "pregunta": "Según establece la norma que ordena la asistencia sanitaria especializada en Andalucía, ¿cómo se llama el órgano asesor de la gerencia del área hospitalaria?",
+  "opciones": {
+    "A": "Junta de Personal.",
+    "B": "Junta Facultativa.",
+    "C": "Junta Técnico Asesora de la Dirección Gerencia.",
+    "D": "Junta de Hospital."
+  },
+  "respuesta_correcta": "D"
+},
+"Organizacion sanitaria_pregunta104": {
+  "pregunta": "Según la actual organización del Servicio Andaluz de Salud (SAS) y de las Agencias Públicas Empresariales Sanitarias que le están adscritas, ¿a quién corresponde la dirección operativa de los Planes Integrales y Procesos Asistenciales?",
+  "opciones": {
+    "A": "A la Dirección Gerencia",
+    "B": "A la Dirección General de Asistencia Sanitaria y Resultados en Salud",
+    "C": "A la Dirección General de Personal",
+    "D": "No le corresponde al SAS, sino a la Viceconsejería de Salud y Familias"
+  },
+  "respuesta_correcta": "B"
+},
+"Organizacion sanitaria_pregunta105": {
+  "pregunta": "Según la norma que ordena la asistencia especializada y los órganos de dirección de los hospitales de la red asistencial de la Junta de Andalucía, son órganos unipersonales de dirección de estos centros o áreas hospitalarias:",
+  "opciones": {
+    "A": "La Dirección Gerencia.",
+    "B": "La Dirección Médica.",
+    "C": "La Dirección de Servicios Generales.",
+    "D": "Todos los anteriores."
+  },
+  "respuesta_correcta": "D"
+},
+"Organizacion sanitaria_pregunta106": {
+  "pregunta": "Según la última actualización del Mapa Sanitario de nuestra Comunidad Autónoma (Orden de 17 de junio de 2020, por la que se actualiza el Mapa de Atención Primaria de Salud de Andalucía), ¿cuántos Distritos Sanitarios existen en Andalucía?",
+  "opciones": {
+    "A": "34.",
+    "B": "26.",
+    "C": "8.",
+    "D": "24."
+  },
+  "respuesta_correcta": "A"
+},
+"Organizacion sanitaria_pregunta107": {
+  "pregunta": "Según recoge el Decreto que establece la estructura orgánica del Servicio Andaluz de Salud (en adelante SAS), la dirección y fijación de los criterios administrativos, económicos y financieros, la designación de centros de gastos, y la autorización de gastos y ordenación de pagos en esta agencia corresponde a:",
+  "opciones": {
+    "A": "La Dirección General de Personal del SAS.",
+    "B": "La Dirección Gerencia del SAS.",
+    "C": "La Secretaría General Técnica de la Consejería de Salud y Familias.",
+    "D": "La Dirección Gerencia del centro donde se vaya a realizar la contratación."
+  },
+  "respuesta_correcta": "A"
+},
+"Organizacion sanitaria_pregunta108": {
+  "pregunta": "¿Mediante qué norma legal se creó el Servicio Andaluz de Salud (SAS)?",
+  "opciones": {
+    "A": "Ley 2/1998, de Salud de Andalucía.",
+    "B": "Ley Orgánica 6/1981, de 30 de diciembre.",
+    "C": "Decreto 105/2019, de 12 de febrero.",
+    "D": "Ley 8/1986, de 6 de mayo."
+  },
+  "respuesta_correcta": "D"
+},
+"Organizacion sanitaria_pregunta109": {
+  "pregunta": "¿Qué norma legal regula la estructura, organización y funcionamiento de los servicios de Atención Primaria en nuestra Comunidad Autónoma?",
+  "opciones": {
+    "A": "El Decreto 197/2007, de 3 de julio.",
+    "B": "La Orden SAS 21/2008.",
+    "C": "La Ley 2/1998, de 15 de junio, de Salud de Andalucía.",
+    "D": "El Decreto 462/1996, de 8 de octubre."
+  },
+  "respuesta_correcta": "A"
+},
+"Organizacion sanitaria_pregunta110": {
+  "pregunta": "¿Qué norma ordena en Andalucía la asistencia sanitaria especializada y establece los órganos de dirección de los hospitales públicos?",
+  "opciones": {
+    "A": "El Decreto 105/1986, de 11 de junio.",
+    "B": "El Decreto 197/2007, de 3 de julio.",
+    "C": "El Decreto 77/2008, de 4 de marzo.",
+    "D": "La Ley 8/1986, de 6 de mayo."
+  },
+  "respuesta_correcta": "A"
+},
+"Organizacion sanitaria_pregunta111": {
+  "pregunta": "¿Qué norma regula la actual estructura orgánica de la Consejería de Salud y Consumo de la Junta de Andalucía?",
+  "opciones": {
+    "A": "Ley 9/2007, de 22 de octubre.",
+    "B": "Decreto 105/2019, de 12 de febrero.",
+    "C": "Decreto 156/2022, de 9 de agosto.",
+    "D": "Decreto 2/2022, de 25 de julio."
+  },
+  "respuesta_correcta": "C"
+},
+  "Organizacion Sanitaria_pregunta112": {
+    "pregunta": "A efectos de la necesaria cooperación para el desarrollo de la salud pública en el territorio, la Ley de Salud Pública de Andalucía tiene regulado un órgano de colaboración, coordinación y cooperación entre la Administración de la Junta de Andalucía y las Corporaciones Locales, que se llama:",
+    "opciones": {
+      "A": "Comisión Andaluza de Cooperación en Salud Pública",
+      "B": "Consejo Andaluz de Salud Pública Local",
+      "C": "Comisión Paritaria en Salud Pública del territorio",
+      "D": "Consejo Andaluz de desarrollo de Planes Locales de Salud Pública"
+    },
+    "respuesta_correcta": "A"
+  },
+  "Organizacion Sanitaria_pregunta113": {
+    "pregunta": "A nivel nacional, la norma que regula los requisitos básicos de autorización y funcionamiento de los biobancos con fines de investigación biomédica y del tratamiento de las muestras biológicas de origen humano, es:",
+    "opciones": {
+      "A": "Ley 14/2007, de investigación biomédica.",
+      "B": "Real Decreto 1716/2011, de 18 de noviembre.",
+      "C": "Decreto 1/2013, de 8 de enero.",
+      "D": "Ley 41/2002, reguladora de la autonomía del paciente."
+    },
+    "respuesta_correcta": "B"
+  },
+  "Organizacion Sanitaria_pregunta114": {
+    "pregunta": "Al conjunto de medidas que tienen como objetivo implicar a la población en su conjunto, centrarse en la acción sobre las causas o determinantes sociales de la salud y aspirar a una participación activa de la población, se le conoce como:",
+    "opciones": {
+      "A": "Prevención primaria.",
+      "B": "Prevención secundaria.",
+      "C": "Prevención terciaria.",
+      "D": "Promoción de la salud."
+    },
+    "respuesta_correcta": "D"
+  },
+  "Organizacion Sanitaria_pregunta115": {
+    "pregunta": "El Biobanco del Sistema Sanitario Público de Andalucía (BB-SSPA), creado al amparo del Decreto 1/2013, de 8 de enero, está constituido en red y conformado por dos grandes áreas funcionales, una asistencial y otra de investigación. ¿Quién desarrolla en estos momentos las funciones asistenciales del BB-SSPA?",
+    "opciones": {
+      "A": "La Red Andaluza de Medicina Transfusional, Tejidos y Células.",
+      "B": "La Red Andaluza de Terapias Avanzadas.",
+      "C": "Los Servicios y Unidades de Hematología de los centros asistenciales públicos del SAS.",
+      "D": "La Dirección General de Asistencia Sanitaria y Resultados en Salud del SAS."
+    },
+    "respuesta_correcta": "A"
+  },
+  "Organizacion Sanitaria_pregunta116": {
+    "pregunta": "El Biobanco del Sistema Sanitario Público de Andalucía (SSPA), en su área de tejidos, sustancias y muestras biológicas para investigación, está organizado como un biobanco en red formado por:",
+    "opciones": {
+      "A": "Nodos asociados.",
+      "B": "Puntos asociados.",
+      "C": "Focos asociados.",
+      "D": "Centros asociados."
+    },
+    "respuesta_correcta": "A"
+  },
+  "Organizacion Sanitaria_pregunta117": {
+    "pregunta": "El Biobanco del Sistema Sanitario Público de Andalucía NO integra a:",
+    "opciones": {
+      "A": "Bancos de Sangre y Tejidos con fines terapéuticos.",
+      "B": "Biobancos de investigación.",
+      "C": "Cualquier espacio sanitario público andaluz dedicado a la colección, tratamiento, conservación y gestión de muestras biológicas animales.",
+      "D": "Integra todo lo que se cita."
+    },
+    "respuesta_correcta": "C"
+  },
+  "Organizacion Sanitaria_pregunta118": {
+    "pregunta": "El Biobanco del SSPA se encuentra bajo la dependencia de:",
+    "opciones": {
+      "A": "El Parlamento Andaluz.",
+      "B": "La Consejería con competencias en materia de salud.",
+      "C": "La Junta de Andalucía.",
+      "D": "El Sistema de Salud Andaluz."
+    },
+    "respuesta_correcta": "B"
+  },
+  "Organizacion Sanitaria_pregunta119": {
+    "pregunta": "El Biobanco del SSPA, en su área de tejidos, sustancias y muestras biológicas para investigación, está organizado como un biobanco en red formado por ¿cuántos nodos?",
+    "opciones": {
+      "A": "10",
+      "B": "14",
+      "C": "26",
+      "D": "42"
+    },
+    "respuesta_correcta": "C"
+  },
+  "Organizacion Sanitaria_pregunta120": {
+    "pregunta": "El Consejo Rector del Biobanco del Sistema Sanitario Público de Andalucía contará, a propuesta del órgano competente, un máximo de:",
+    "opciones": {
+      "A": "5 vocales.",
+      "B": "3 vocales.",
+      "C": "4 vocales.",
+      "D": "2 vocales."
+    },
+    "respuesta_correcta": "A"
+  },
+  "Organizacion Sanitaria_pregunta121": {
+    "pregunta": "El Nodo de coordinación del Biobanco del SSPA, se encuentra en la provincia de:",
+    "opciones": {
+      "A": "Sevilla.",
+      "B": "Málaga.",
+      "C": "Cádiz.",
+      "D": "Granada."
+    },
+    "respuesta_correcta": "D"
+  }
+
+}

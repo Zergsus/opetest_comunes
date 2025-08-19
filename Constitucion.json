@@ -1,0 +1,723 @@
+{
+"Constitucion_pregunta1": {
+    "pregunta": "Conforme a la redacción del artículo 43 de la Constitución Española, ésta:",
+    "opciones": {
+        "A": "Garantiza de derechos a una sanidad integral.",
+        "B": "Reconoce el derecho a la protección de la salud.",
+        "C": "Reconoce el derecho a la asistencia sanitaria.",
+        "D": "Garantiza el derecho a la atención primaria a la salud"
+    },
+    "respuesta_correcta": "B"
+},
+"Constitucion_pregunta2": {
+    "pregunta": "De acuerdo con el Art. 9.3 de la Constitución Española se garantizan, entre otros, el siguiente principio:",
+    "opciones": {
+        "A": "Jerarquía reglamentaria.",
+        "B": "Interdicción de la discrecionalidad de los poderes públicos.",
+        "C": "Seguridad jurídica.",
+        "D": "Irretroactividad de todas las disposiciones sancionadoras."
+    },
+    "respuesta_correcta": "C"
+},
+"Constitucion_pregunta3": {
+    "pregunta": "De acuerdo con el artículo 101 de la Constitución Española, el Gobierno cesa:",
+    "opciones": {
+        "A": "Por dimisión, fallecimiento, incapacitación o condena penal firme de su Presidente.",
+        "B": "Por dimisión, fallecimiento, incapacitación o condena penal de su Presidente.",
+        "C": "Por dimisión, fallecimiento o incapacitación de su Presidente.",
+        "D": "Por dimisión o fallecimiento de su Presidente."
+    },
+    "respuesta_correcta": "D"
+},
+"Constitucion_pregunta4": {
+    "pregunta": "De acuerdo con lo establecido en el artículo 1 de la Constitución, España se constituye en un Estado social y democrático de Derecho. ¿Cuál de los siguientes valores no es uno de los valores propugnados como valor superior de nuestro ordenamiento jurídico?",
+    "opciones": {
+        "A": "La legalidad",
+        "B": "La libertad",
+        "C": "La justicia",
+        "D": "La igualdad"
+    },
+    "respuesta_correcta": "A"
+},
+"Constitucion_pregunta5": {
+    "pregunta": "El artículo 1 de la Constitución Española recoge que España se constituye en un Estado Social y democrático de Derecho que propugna como valores superiores:",
+    "opciones": {
+        "A": "La libertad y la igualdad.",
+        "B": "La justicia y el pluralismo político.",
+        "C": "Las respuestas A. y B. son verdaderas.",
+        "D": "Las respuestas A. y B. son falsas."
+    },
+    "respuesta_correcta": "C"
+},
+"Constitucion_pregunta6": {
+    "pregunta": "El Artículo 43 de la Constitución Española dice:",
+    "opciones": {
+        "A": "Los españoles son iguales ante la ley, sin que pueda prevalecer discriminación alguna por razón de nacimiento, raza, sexo, religión, opinión o cualquier otra condición o circunstancias personal o social.",
+        "B": "Todos tienen el derecho a disfrutar de un medio ambiente adecuado para el desarrollo de la persona, así como el deber de conservarlo.",
+        "C": "Compete a los Poderes Públicos organizar y tutelar la Salud Pública a través de medidas preventivas y las prestaciones y servicios necesarios. La ley establecerá los derechos y deberes de todos al respecto.",
+        "D": "Se garantiza el derecho al honor, a la intimidad personal y familiar y a la propia imagen."
+    },
+    "respuesta_correcta": "C"
+},
+"Constitucion_pregunta7": {
+    "pregunta": "El artículo 43 de la Constitución Española:",
+    "opciones": {
+        "A": "Reconoce el derecho a la protección de la salud y a disfrutar de un medio ambiente adecuado.",
+        "B": "Reconoce el derecho a la protección de la salud y establece que los poderes públicos facilitarán la adecuada utilización del ocio.",
+        "C": "Reconoce el derecho a la protección de la salud y establece que los poderes públicos promoverán la ciencia y la investigación científica.",
+        "D": "El artículo reconoce el derecho a la protección de la salud y a una muerte digna."
+    },
+    "respuesta_correcta": "B"
+},
+"Constitucion_pregunta8": {
+    "pregunta": "El Derecho a la Protección de la Salud se recoge en:",
+    "opciones": {
+        "A": "El artículo 43.1 de la Ley de Salud de Andalucía.",
+        "B": "El artículo 43.1 de la Ley de Seguridad Social.",
+        "C": "El artículo 43.1 del Estatuto de Autonomía.",
+        "D": "El artículo 43.1 de la Constitución Española."
+    },
+    "respuesta_correcta": "D"
+},
+"Constitucion_pregunta9": {
+    "pregunta": "El derecho de asociación se reconoce en la Constitución Española en su artículo:",
+    "opciones": {
+        "A": "43.",
+        "B": "20.",
+        "C": "52.",
+        "D": "22."
+    },
+    "respuesta_correcta": "D"
+},
+"Constitucion_pregunta10": {
+    "pregunta": "El Título I de la Constitución Española de 1978 se dedica a los derechos y deberes fundamentales, pero ¿sabría indicar en qué Capítulo de este Título de nuestra Constitución se establecen las condiciones o situaciones en las que pueden suspenderse determinados derechos y libertades?",
+    "opciones": {
+        "A": "En el Capítulo cuarto.",
+        "B": "En el Capítulo octavo.",
+        "C": "En el Capítulo noveno.",
+        "D": "En el Capítulo quinto."
+    },
+    "respuesta_correcta": "D"
+},
+"Constitucion_pregunta11": {
+    "pregunta": "El Título I de la Constitución Española recoge como derecho fundamental que los poderes públicos:",
+    "opciones": {
+        "A": "Tendrán en cuenta las creencias religiosas de la sociedad española y mantendrán las consiguientes relaciones de cooperación con la Iglesia Católica.",
+        "B": "Garantizarán que las diferencias entre los Estatutos de las distintas Comunidades Autónomas no podrán implicar privilegios económicos o sociales.",
+        "C": "Asegurarán que todos los españoles tienen los mismos derechos y obligaciones en cualquier parte del territorio del Estado.",
+        "D": "Las respuestas A), B. y C. son falsas."
+    },
+    "respuesta_correcta": "A"
+},
+"Constitucion_pregunta12": {
+    "pregunta": "El Título I de la Constitución Española se titula:",
+    "opciones": {
+        "A": "De las competencias del Estado.",
+        "B": "Del Congreso de los Diputados.",
+        "C": "De los derechos y deberes fundamentales.",
+        "D": "El Derecho a la protección de la salud."
+    },
+    "respuesta_correcta": "C"
+},
+"Constitucion_pregunta13": {
+    "pregunta": "En la Constitución Española, el enunciado “Los poderes públicos mantendrán un régimen público de Seguridad Social para todos los ciudadanos, que garantice la asistencia y prestaciones sociales suficientes ante situaciones de necesidad, especialmente en caso de desempleo”, viene recogido:",
+    "opciones": {
+        "A": "En el capítulo de los principios rectores de la política social y económica.",
+        "B": "En el capítulo de las garantías de las libertades y derechos fundamentales.",
+        "C": "En el capítulo de los españoles y extranjeros.",
+        "D": "En la sección de los derechos y deberes de los ciudadanos."
+    },
+    "respuesta_correcta": "A"
+},
+"Constitucion_pregunta14": {
+    "pregunta": "En la Constitución Española, los derechos y deberes fundamentales vienen recogidos en:",
+    "opciones": {
+        "A": "En el artículo I.",
+        "B": "En el Título I.",
+        "C": "En el Título II.",
+        "D": "En el artículo II."
+    },
+    "respuesta_correcta": "B"
+},
+"Constitucion_pregunta15": {
+    "pregunta": "En la vigente Constitución Española, ¿cuáles son los valores superiores de su ordenamiento jurídico, recogidos en su artículo primero?",
+    "opciones": {
+        "A": "La soberanía nacional, que reside en el pueblo español.",
+        "B": "La indisoluble unidad de la Nación española, patria común e indivisible de todos los españoles, y el derecho a la autonomía de las nacionalidades y regiones que la integran.",
+        "C": "La libertad, la justicia, la igualdad y el pluralismo político.",
+        "D": "Todos los anteriores."
+    },
+    "respuesta_correcta": "C"
+},
+"Constitucion_pregunta16": {
+    "pregunta": "En relación con los derechos fundamentales y las libertades públicas regulados en el Sección 1.ª del Capítulo segundo \"derechos y libertades\", la regulación legal de la cláusula de conciencia y el secreto profesional, ¿con qué derecho se encuentra relacionado?:",
+    "opciones": {
+        "A": "Con ninguno de los contenidos en esa sección",
+        "B": "Con el derecho a comunicar libremente información veraz",
+        "C": "Con el derecho a comunicar o recibir libremente información veraz por cualquier medio de difusión",
+        "D": "Con el derecho a la vida y a la integridad física y moral"
+    },
+    "respuesta_correcta": "C"
+},
+"Constitucion_pregunta17": {
+    "pregunta": "En relación con los derechos fundamentales y las libertades públicas regulados en el Sección 1.ª del Capítulo segundo \"derechos y libertades\", la regulación legal de la cláusula de conciencia y el secreto profesional, ¿con qué derecho se encuentra relacionado?:",
+    "opciones": {
+        "A": "Con ninguno de los contenidos en esa sección",
+        "B": "Con el derecho a comunicar libremente información veraz",
+        "C": "Con el derecho a comunicar o recibir libremente información veraz por cualquier medio de difusión",
+        "D": "Con el derecho a la vida y a la integridad física y moral"
+    },
+    "respuesta_correcta": "C"
+},
+"Constitucion_pregunta18": {
+    "pregunta": "Es fundamento del orden político y de la paz social recogido en el artículo 10 de la Constitución Española",
+    "opciones": {
+        "A": "La dignidad de las Instituciones",
+        "B": "Los derechos de la ciudadanía",
+        "C": "El respeto a los derechos especiales",
+        "D": "El libre desarrollo de la personalidad"
+    },
+    "respuesta_correcta": "D"
+},
+"Constitucion_pregunta19": {
+    "pregunta": "La actual Constitución Española fue ratificada por el pueblo español en referéndum, que se celebró el día:",
+    "opciones": {
+        "A": "28 de febrero de 1978",
+        "B": "6 de diciembre de 1978",
+        "C": "1 de enero de 1978",
+        "D": "15 de agosto de 1978"
+    },
+    "respuesta_correcta": "B"
+},
+"Constitucion_pregunta20": {
+    "pregunta": "La Constitución Española de 1978 prevé su modificación mediante los procedimientos de reforma de la Constitución establecidos en su título X: uno, conocido como procedimiento ordinario, está descrito en el artículo 167.1, mientras que el segundo, conocido como procedimiento agravado, y previsto para las reformas de más relevancia, está descrito en el artículo 168.1 ¿En qué año se produjo la última reforma del texto constitucional, en concreto para introducir el concepto de estabilidad presupuestaria?",
+    "opciones": {
+        "A": "En 2011.",
+        "B": "En 1992.",
+        "C": "En 2020.",
+        "D": "No se ha producido ninguna reforma del texto constitucional desde su promulgación en 1978."
+    },
+    "respuesta_correcta": "A"
+},
+"Constitucion_pregunta21": {
+  "pregunta": "La constitución Española de 1978, vigente actualmente, establece en su artículo 10.1 una serie de principios como fundamento del orden político y de la paz social en nuestra Nación. Entre estos principios se encuentra:",
+  "opciones": {
+    "A": "La dignidad de la persona y los derechos inviolables que le son inherentes.",
+    "B": "El libre desarrollo de la personalidad.",
+    "C": "El respeto a la ley y a los derechos de los demás.",
+    "D": "Todas las respuestas anteriores son correctas."
+  },
+  "respuesta_correcta": "D"
+},
+"Constitucion_pregunta22": {
+  "pregunta": "La Constitución Española recoge en su artículo 1 como valores superiores de su ordenamiento jurídico:",
+  "opciones": {
+    "A": "El derecho a la autonomía de las nacionalidades y regiones que integra la Nación española y la solidaridad entre todas ellas.",
+    "B": "El castellano como lengua oficial del Estado. Las demás lenguas españolas serán también oficiales en las respectivas Comunidades Autónomas.",
+    "C": "La utilización de la bandera de España que está formada por tres franjas horizontales, roja, amarilla y roja. Los estatutos podrán recoger banderas propias de las Comunidades Autónomas.",
+    "D": "La libertad, la justicia, la igualdad y el pluralismo político."
+  },
+  "respuesta_correcta": "D"
+},
+"Constitucion_pregunta23": {
+  "pregunta": "La Constitución indica que se regulará la institución del Defensor del Pueblo mediante:",
+  "opciones": {
+    "A": "Ley Orgánica.",
+    "B": "Ley Ordinaria.",
+    "C": "Decreto Ley.",
+    "D": "Decreto Legislativo."
+  },
+  "respuesta_correcta": "A"
+},
+"Constitucion_pregunta24": {
+  "pregunta": "La vigente Constitución Española fue ratificada el 6 de diciembre de 1978, y por eso celebramos ese día festivo \"de la Constitución\". Pero, ¿qué día entró en vigor esta norma suprema del ordenamiento jurídico español?",
+  "opciones": {
+    "A": "El 7 de diciembre de 1978.",
+    "B": "El 29 de diciembre de 1978.",
+    "C": "El 1 de enero de 1979.",
+    "D": "El mismo día 6 de diciembre de 1978."
+  },
+  "respuesta_correcta": "B"
+},
+"Constitucion_pregunta25": {
+  "pregunta": "Las normas relativas a los derechos fundamentales y a las libertades que la Constitución reconoce se interpretarán de conformidad con:",
+  "opciones": {
+    "A": "Con la Declaración Universal de Derechos Humanos",
+    "B": "Con los tratados internacionales sobre derechos fundamentales y libertades ratificados por España",
+    "C": "Con los acuerdos internacionales sobre derechos fundamentales y libertades ratificados por España",
+    "D": "Todas son correctas"
+  },
+  "respuesta_correcta": "D"
+},
+"Constitucion_pregunta26": {
+  "pregunta": "Los proyectos de reforma de la Constitución Española vigente:",
+  "opciones": {
+    "A": "Deberán ser aprobados por la mayoría absoluta del Congreso de los Diputados.",
+    "B": "Deberán ser aprobados por una mayoría de tres quintos de cada una de las Cámaras.",
+    "C": "Deberán ser aprobados por las Cámaras Parlamentarias de todas las Comunidades Autónomas, por mayoría simple en cada una de ellas.",
+    "D": "No son posibles, según el texto constitucional."
+  },
+  "respuesta_correcta": "B"
+},
+"Constitucion_pregunta27": {
+  "pregunta": "Referido a los Colegios Profesionales, ¿qué dice nuestra Constitución de 1978?",
+  "opciones": {
+    "A": "Que su estructura interna y su funcionamiento deberán ser democráticos.",
+    "B": "Que son obligatorios para las profesiones tituladas superiores.",
+    "C": "Que pueden constituir Tribunales de Honor para juzgar la dignidad de uno de sus miembros para pertenecer a la profesión.",
+    "D": "Todo lo anterior es cierto y está recogido en el Texto Constitucional."
+  },
+  "respuesta_correcta": "A"
+},
+"Constitucion_pregunta28": {
+  "pregunta": "Respecto al derecho a la libertad sindical de los ciudadanos, recogido en la Constitución Española, ¿cuál de las siguientes afirmaciones es FALSA?",
+  "opciones": {
+    "A": "La ley podrá limitar o exceptuar el ejercicio de este derecho a las Fuerzas o Institutos armados o a los demás Cuerpos sometidos a disciplina militar.",
+    "B": "La libertad sindical comprende el derecho a fundar sindicatos y a afiliarse al de su elección.",
+    "C": "Nadie podrá ser obligado a afiliarse a un sindicato.",
+    "D": "Viene regulado en el artículo 27 de la CE."
+  },
+  "respuesta_correcta": "D"
+},
+"Constitucion_pregunta29": {
+  "pregunta": "Según el artículo 113 de la Constitución Española, la moción de censura deberá ser propuesta por una parte de los Diputados, que será al menos:",
+  "opciones": {
+    "A": "La mitad.",
+    "B": "La cuarta parte.",
+    "C": "La décima parte.",
+    "D": "La quinta parte."
+  },
+  "respuesta_correcta": "C"
+},
+"Constitucion_pregunta30": {
+  "pregunta": "Según el artículo 122 de la Constitución Española, el Consejo General del Poder Judicial estará integrado por el presidente del Tribunal Supremo que lo presidirá, y por:",
+  "opciones": {
+    "A": "20 miembros nombrados por el Rey.",
+    "B": "12 miembros nombrados por el Rey.",
+    "C": "10 miembros nombrados por el Rey.",
+    "D": "15 miembros nombrados por el Rey."
+  },
+  "respuesta_correcta": "A"
+},
+"Constitucion_pregunta31": {
+  "pregunta": "Según el artículo 123.2 de la Constitución Española, el Presidente del Tribunal Supremo será nombrado por:",
+  "opciones": {
+    "A": "El Rey, a propuesta del Consejo General del Poder Judicial, en la forma que determine la ley.",
+    "B": "El Consejo General del Poder Judicial, en la forma que determine la ley.",
+    "C": "El Presidente del Congreso de los Diputados, a propuesta del Consejo General del Poder Judicial, en la forma que determine la ley.",
+    "D": "El Presidente del Gobierno, a propuesta del Consejo General del Poder Judicial, en la forma que determine la ley."
+  },
+  "respuesta_correcta": "A"
+},
+"Constitucion_pregunta32": {
+  "pregunta": "Según el artículo 123.2 de la Constitución Española, el Presidente del Tribunal Supremo será nombrado por:",
+  "opciones": {
+    "A": "El Rey, a propuesta del Consejo General del Poder Judicial, en la forma que determine la ley.",
+    "B": "El Consejo General del Poder Judicial, en la forma que determine la ley.",
+    "C": "El Presidente del Congreso de los Diputados, a propuesta del Consejo General del Poder Judicial, en la forma que determine la ley.",
+    "D": "El Presidente del Gobierno, a propuesta del Consejo General del Poder Judicial, en la forma que determine la ley."
+  },
+  "respuesta_correcta": "A"
+},
+"Constitucion_pregunta33": {
+  "pregunta": "Según el artículo 136 de la Constitución Española, el Tribunal de Cuentas del Estado dependerá directamente:",
+  "opciones": {
+    "A": "De las Cortes Generales.",
+    "B": "Del Presidente del Gobierno.",
+    "C": "Del Consejo de Ministros.",
+    "D": "Del Presidente del Congreso de los Diputados."
+  },
+  "respuesta_correcta": "A"
+},
+"Constitucion_pregunta34": {
+  "pregunta": "Según el artículo 159 de la Constitución Española, el Tribunal Constitucional se compone de:",
+  "opciones": {
+    "A": "12 miembros.",
+    "B": "10 miembros.",
+    "C": "15 miembros.",
+    "D": "20 miembros."
+  },
+  "respuesta_correcta": "A"
+},
+"Constitucion_pregunta35": {
+  "pregunta": "Según el artículo 43.3 de la Constitución Española, los poderes públicos:",
+  "opciones": {
+    "A": "Fomentarán la educación sanitaria y la promoción de la salud.",
+    "B": "Promoverán la educación sanitaria, la promoción de la salud y la práctica de la educación física y el deporte.",
+    "C": "Fomentarán la educación sanitaria, la educación física y el deporte.",
+    "D": "Promoverán la ciencia y la investigación científica en beneficio del interés general."
+  },
+  "respuesta_correcta": "C"
+},
+"Constitucion_pregunta36": {
+  "pregunta": "Según el artículo 44 de la Constitución Española los poderes públicos:",
+  "opciones": {
+    "A": "Promoverán y tutelarán el acceso a la cultura, a la que todos tienen derecho.",
+    "B": "Promoverán la educación sanitaria, la promoción de la salud y la práctica de la educación física y el deporte.",
+    "C": "Velarán por la utilización racional de todos los recursos naturales.",
+    "D": "Promoverán la información y la educación de los consumidores y usuarios."
+  },
+  "respuesta_correcta": "A"
+},
+"Constitucion_pregunta37": {
+  "pregunta": "Según el artículo 68 de la Constitución Española, la circunscripción electoral es:",
+  "opciones": {
+    "A": "La provincia.",
+    "B": "El municipio en sentido estricto.",
+    "C": "El municipio, en caso de agrupaciones de población inferiores al municipio se entenderá adheridas al municipio de cabecera.",
+    "D": "La comarca."
+  },
+  "respuesta_correcta": "A"
+},
+"Constitucion_pregunta38": {
+  "pregunta": "Según el artículo 86 de la Constitución Española, los Decretos-Leyes deberán ser inmediatamente sometidos a debate y votación de totalidad al Congreso de los Diputados en el plazo de:",
+  "opciones": {
+    "A": "Los 10 días siguientes a su promulgación.",
+    "B": "Los 15 días siguientes a su promulgación.",
+    "C": "Los 20 días siguientes a su promulgación.",
+    "D": "Los 30 días siguientes a su promulgación."
+  },
+  "respuesta_correcta": "D"
+},
+"Constitucion_pregunta39": {
+  "pregunta": "Según establece la Constitución Española de 1978, fomentar la educación sanitaria compete a:",
+  "opciones": {
+    "A": "Los Ayuntamientos y Diputaciones.",
+    "B": "Las Comunidades Autónomas.",
+    "C": "El Estado.",
+    "D": "Los poderes públicos."
+  },
+  "respuesta_correcta": "D"
+},
+"Constitucion_pregunta40": {
+  "pregunta": "Según establece la Constitución Española de 1978, las competencias en materia de sanidad e higiene podrán ser asumidas por:",
+  "opciones": {
+    "A": "Corresponde a las Cortes Generales, al estar compuestas por los representantes del pueblo.",
+    "B": "Corresponde al Rey.",
+    "C": "Corresponde al Gobierno de la Nación elegido directamente por el pueblo.",
+    "D": "Ninguna de las anteriores respuestas son correcta."
+  },
+  "respuesta_correcta": "D"
+},
+"Constitucion_pregunta41": {
+  "pregunta": "Según establece la Constitución Española de 1978, las competencias en materia de sanidad e higiene podrán ser asumidas por:",
+  "opciones": {
+    "A": "Los Ayuntamientos.",
+    "B": "Las Diputaciones Provinciales.",
+    "C": "Las Comunidades Autónomas.",
+    "D": "Ninguna de las anteriores respuestas son correcta."
+  },
+  "respuesta_correcta": "C"
+},
+"Constitucion_pregunta42": {
+  "pregunta": "Según establece nuestra vigente Constitución, ¿a quién o a qué institución corresponde sancionar y promulgar las leyes en España?",
+  "opciones": {
+    "A": "Al Rey.",
+    "B": "Al Presidente/a del Gobierno.",
+    "C": "Al Congreso de los Diputados.",
+    "D": "Al Senado."
+  },
+  "respuesta_correcta": "A"
+},
+"Constitucion_pregunta43": {
+  "pregunta": "Según indica el artículo 16 de la Constitución Española, en relación con el derecho a la libertad ideológica y religiosa:",
+  "opciones": {
+    "A": "En España solo existirá una confesión estatal.",
+    "B": "Al menos existirán 4 confesiones autorizadas en España.",
+    "C": "Ninguna confesión tendrá carácter estatal.",
+    "D": "Ninguna respuesta es correcta."
+  },
+  "respuesta_correcta": "C"
+},
+"Constitucion_pregunta44": {
+  "pregunta": "Según la Constitución Española de 1978, los españoles son mayores de edad a:",
+  "opciones": {
+    "A": "Los 18 años",
+    "B": "Los 16 años",
+    "C": "Los 21 años",
+    "D": "No lo establece la Constitución Española"
+  },
+  "respuesta_correcta": "A"
+},
+"Constitucion_pregunta45": {
+  "pregunta": "Según la Constitución Española de 1978, ¿a quién compete organizar y tutelar la salud pública, a través de medidas preventivas y de las prestaciones y servicios necesarios?",
+  "opciones": {
+    "A": "A las Mutuas Laborales",
+    "B": "A los Poderes Públicos",
+    "C": "Al Sector Sanitario Privado",
+    "D": "A la Administración Pública"
+  },
+  "respuesta_correcta": "B"
+},
+"Constitucion_pregunta46": {
+  "pregunta": "Según la Constitución española de 1978, ¿en qué institución del Estado se encuentra el poder judicial?",
+  "opciones": {
+    "A": "En las Cortes Generales.",
+    "B": "En el Gobierno.",
+    "C": "En los Tribunales de Justicia.",
+    "D": "En el Defensor del Pueblo."
+  },
+  "respuesta_correcta": "C"
+},
+"Constitucion_pregunta47": {
+  "pregunta": "Según la Constitución Española de 1978, ¿en quién reside la soberanía nacional?",
+  "opciones": {
+    "A": "En el Rey",
+    "B": "En el Parlamento, constituido por las dos cámaras (Congreso y Senado)",
+    "C": "En el pueblo español",
+    "D": "En el Gobierno de la nación"
+  },
+  "respuesta_correcta": "C"
+},
+"Constitucion_pregunta48": {
+  "pregunta": "Según la Constitución Española, dentro de los deberes de los españoles está:",
+  "opciones": {
+    "A": "El deber de defender España.",
+    "B": "Los deberes tributarios.",
+    "C": "El deber de conservación del medio ambiente.",
+    "D": "Todas las respuestas anteriores son correctas."
+  },
+  "respuesta_correcta": "D"
+},
+"Constitucion_pregunta49": {
+  "pregunta": "Según la Constitución Española, son valores superiores del Ordenamiento Jurídico:",
+  "opciones": {
+    "A": "La libertad y la justicia.",
+    "B": "La libertad, la justicia, la igualdad y el pluralismo político.",
+    "C": "La libertad y la pluralidad política.",
+    "D": "La igualdad y la integración social."
+  },
+  "respuesta_correcta": "B"
+},
+"Constitucion_pregunta50": {
+  "pregunta": "Según la vigente Constitución Española de 1978, son deberes de todos los españoles los señalados a continuación, EXCEPTO:",
+  "opciones": {
+    "A": "Defender a España.",
+    "B": "Trabajar.",
+    "C": "Contribuir al sostenimiento de los gastos públicos.",
+    "D": "Usar el castellano, como lengua oficial del Estado."
+  },
+  "respuesta_correcta": "B"
+},
+"Constitucion_pregunta41": {
+  "pregunta": "Según establece la Constitución Española de 1978, las competencias en materia de sanidad e higiene podrán ser asumidas por:",
+  "opciones": {
+    "A": "Los Ayuntamientos.",
+    "B": "Las Diputaciones Provinciales.",
+    "C": "Las Comunidades Autónomas.",
+    "D": "Ninguna de las anteriores respuestas son correcta."
+  },
+  "respuesta_correcta": "C"
+},
+"Constitucion_pregunta42": {
+  "pregunta": "Según establece nuestra vigente Constitución, ¿a quién o a qué institución corresponde sancionar y promulgar las leyes en España?",
+  "opciones": {
+    "A": "Al Rey.",
+    "B": "Al Presidente/a del Gobierno.",
+    "C": "Al Congreso de los Diputados.",
+    "D": "Al Senado."
+  },
+  "respuesta_correcta": "A"
+},
+"Constitucion_pregunta43": {
+  "pregunta": "Según indica el artículo 16 de la Constitución Española, en relación con el derecho a la libertad ideológica y religiosa:",
+  "opciones": {
+    "A": "En España solo existirá una confesión estatal.",
+    "B": "Al menos existirán 4 confesiones autorizadas en España.",
+    "C": "Ninguna confesión tendrá carácter estatal.",
+    "D": "Ninguna respuesta es correcta."
+  },
+  "respuesta_correcta": "C"
+},
+"Constitucion_pregunta44": {
+  "pregunta": "Según la Constitución Española de 1978, los españoles son mayores de edad a:",
+  "opciones": {
+    "A": "Los 18 años",
+    "B": "Los 16 años",
+    "C": "Los 21 años",
+    "D": "No lo establece la Constitución Española"
+  },
+  "respuesta_correcta": "A"
+},
+"Constitucion_pregunta45": {
+  "pregunta": "Según la Constitución Española de 1978, ¿a quién compete organizar y tutelar la salud pública, a través de medidas preventivas y de las prestaciones y servicios necesarios?",
+  "opciones": {
+    "A": "A las Mutuas Laborales",
+    "B": "A los Poderes Públicos",
+    "C": "Al Sector Sanitario Privado",
+    "D": "A la Administración Pública"
+  },
+  "respuesta_correcta": "B"
+},
+"Constitucion_pregunta46": {
+  "pregunta": "Según la Constitución española de 1978, ¿en qué institución del Estado se encuentra el poder judicial?",
+  "opciones": {
+    "A": "En las Cortes Generales.",
+    "B": "En el Gobierno.",
+    "C": "En los Tribunales de Justicia.",
+    "D": "En el Defensor del Pueblo."
+  },
+  "respuesta_correcta": "C"
+},
+"Constitucion_pregunta47": {
+  "pregunta": "Según la Constitución Española de 1978, ¿en quién reside la soberanía nacional?",
+  "opciones": {
+    "A": "En el Rey",
+    "B": "En el Parlamento, constituido por las dos cámaras (Congreso y Senado)",
+    "C": "En el pueblo español",
+    "D": "En el Gobierno de la nación"
+  },
+  "respuesta_correcta": "C"
+},
+"Constitucion_pregunta48": {
+  "pregunta": "Según la Constitución Española, dentro de los deberes de los españoles está:",
+  "opciones": {
+    "A": "El deber de defender España.",
+    "B": "Los deberes tributarios.",
+    "C": "El deber de conservación del medio ambiente.",
+    "D": "Todas las respuestas anteriores son correctas."
+  },
+  "respuesta_correcta": "D"
+},
+"Constitucion_pregunta49": {
+  "pregunta": "Según la Constitución Española, son valores superiores del Ordenamiento Jurídico:",
+  "opciones": {
+    "A": "La libertad y la justicia.",
+    "B": "La libertad, la justicia, la igualdad y el pluralismo político.",
+    "C": "La libertad y la pluralidad política.",
+    "D": "La igualdad y la integración social."
+  },
+  "respuesta_correcta": "B"
+},
+"Constitucion_pregunta50": {
+  "pregunta": "Según la vigente Constitución Española de 1978, son deberes de todos los españoles los señalados a continuación, EXCEPTO:",
+  "opciones": {
+    "A": "Defender a España.",
+    "B": "Trabajar.",
+    "C": "Contribuir al sostenimiento de los gastos públicos.",
+    "D": "Usar el castellano, como lengua oficial del Estado."
+  },
+  "respuesta_correcta": "D"
+},
+"Constitucion_pregunta51": {
+  "pregunta": "Sobre la lengua castellana, ¿qué establece la vigente Constitución Española de 1978?",
+  "opciones": {
+    "A": "Que es la lengua oficial del Gobierno y de las Instituciones del país.",
+    "B": "Que es la lengua oficial del Estado.",
+    "C": "Que es la única lengua oficial en todos los territorios del Estado.",
+    "D": "Que todos los españoles tienen el derecho a usarla, pero no el deber de conocerla."
+  },
+  "respuesta_correcta": "B"
+},
+"Constitucion_pregunta52": {
+  "pregunta": "¿Cuál de las siguientes afirmaciones es INCORRECTA, en relación con las Cortes Generales?",
+  "opciones": {
+    "A": "Representan al pueblo español.",
+    "B": "Son inviolables.",
+    "C": "Ejercen la potestad reglamentaria.",
+    "D": "Están formadas por el Congreso de los Diputados y por el Senado."
+  },
+  "respuesta_correcta": "C"
+},
+"Constitucion_pregunta53": {
+  "pregunta": "¿Cuál de las siguientes afirmaciones está entre lo dispuesto en el artículo 43 de la vigente Constitución Española de 1978?",
+  "opciones": {
+    "A": "Reconoce el derecho a la protección de la salud y a disfrutar de un medio ambiente adecuado.",
+    "B": "Reconoce el derecho a la protección de la salud y establece que los poderes públicos facilitarán la adecuada utilización del ocio.",
+    "C": "Reconoce el derecho a la protección de la salud y establece que los poderes públicos promoverán la ciencia y la investigación científica.",
+    "D": "Reconoce el derecho a la protección de la salud y a una muerte digna."
+  },
+  "respuesta_correcta": "B"
+},
+"Constitucion_pregunta54": {
+  "pregunta": "¿Cuál es el artículo más importante de la Constitución en materia de Salud?",
+  "opciones": {
+    "A": "43.",
+    "B": "45.",
+    "C": "46.",
+    "D": "49."
+  },
+  "respuesta_correcta": "A"
+},
+"Constitucion_pregunta55": {
+  "pregunta": "¿En qué artículo de la Constitución Española se recoge el derecho a la protección de la salud?",
+  "opciones": {
+    "A": "En el 43",
+    "B": "En el 47",
+    "C": "En el 45",
+    "D": "En el 49"
+  },
+  "respuesta_correcta": "A"
+},
+"Constitucion_pregunta56": {
+  "pregunta": "¿En qué artículo de la vigente Constitución Española de 1978, se reconoce el derecho a la huelga de los trabajadores para la defensa de sus intereses?",
+  "opciones": {
+    "A": "En el artículo 28.2.",
+    "B": "En el artículo 29.1.",
+    "C": "En el artículo 43.1.",
+    "D": "En el artículo 30.1."
+  },
+  "respuesta_correcta": "A"
+},
+"Constitucion_pregunta57": {
+  "pregunta": "¿Qué artículo de la Constitución Española señala que 'si una Comunidad Autónoma no cumpliese las obligaciones que la Constitución u otras Leyes impongan, o actuare de forma que atente gravemente el interés general de España, el Gobierno, previo requerimiento al Presidente de la Comunidad Autónoma y, en el caso de no ser atendido, con la aprobación de la mayoría absoluta del Senado, podrá adoptar las medidas necesarias para obligar a aquellas al cumplimiento forzoso de dichas obligaciones o para la protección del mencionado interés general'?",
+  "opciones": {
+    "A": "Artículo 152.",
+    "B": "Artículo 153.",
+    "C": "Artículo 154.",
+    "D": "Artículo 155."
+  },
+  "respuesta_correcta": "D"
+},
+"Constitucion_pregunta58": {
+  "pregunta": "¿Qué artículo de la vigente Constitución Española de 1978 establece que 'los españoles son iguales ante la ley, sin que pueda prevalecer discriminación alguna por razón de nacimiento, raza, sexo, religión, opinión o cualquier otra condición o circunstancia personal o social'?",
+  "opciones": {
+    "A": "El artículo 13",
+    "B": "El artículo 18",
+    "C": "El artículo 14",
+    "D": "El artículo 20"
+  },
+  "respuesta_correcta": "C"
+},
+"Constitucion_pregunta59": {
+  "pregunta": "¿Qué dice la Constitución Española de 1978, en su artículo 3, sobre el castellano?",
+  "opciones": {
+    "A": "Que el castellano es la lengua oficial del Estado.",
+    "B": "Que todos los españoles tienen el deber de usar el castellano como lengua.",
+    "C": "Que, junto con las otras lenguas españolas, son las lenguas oficiales en todo el territorio nacional.",
+    "D": "Todas las respuestas anteriores son correctas."
+  },
+  "respuesta_correcta": "A"
+},
+"Constitucion_pregunta60": {
+  "pregunta": "¿Qué nombre recibe el Título Preliminar de la Constitución Española?",
+  "opciones": {
+    "A": "De la reforma Constitucional.",
+    "B": "De los Derechos y Deberes Fundamentales.",
+    "C": "Título Preliminar.",
+    "D": "De la Corona."
+  },
+  "respuesta_correcta": "C"
+},
+"Constitucion_pregunta61": {
+  "pregunta": "¿Qué Título de la vigente Constitución Española de 1978 se dedica a los derechos y deberes fundamentales?",
+  "opciones": {
+    "A": "El Título Preliminar.",
+    "B": "El Título II.",
+    "C": "El Título I.",
+    "D": "El título V."
+  },
+  "respuesta_correcta": "C"
+},
+"Constitucion_pregunta62": {
+  "pregunta": "¿Quién debe reconocer la imposibilidad del Rey para ejercer sus funciones?",
+  "opciones": {
+    "A": "El Gobierno.",
+    "B": "La familia Real.",
+    "C": "El Congreso de los Diputados.",
+    "D": "Las Cortes Generales."
+  },
+  "respuesta_correcta": "D"
+}
+
+}

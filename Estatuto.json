@@ -1,0 +1,453 @@
+{
+"Estatuto_pregunta1": {
+  "pregunta": "Andalucía, según se reconoce en el artículo primero de su Estatuto de Autonomía, se define como:",
+  "opciones": {
+    "A": "Nacionalidad constituyente.",
+    "B": "Nacionalidad por derecho.",
+    "C": "Nacionalidad histórica.",
+    "D": "Nacionalidad por referéndum."
+  },
+  "respuesta_correcta": "C"
+},
+"Estatuto_pregunta2": {
+  "pregunta": "Aunque el Parlamento de Andalucía ejerce la potestad legislativa mediante la elaboración y aprobación de las leyes, el control de constitucionalidad de las disposiciones normativas de la Comunidad Autónoma con fuerza de ley, corresponde exclusivamente, según el artículo 115 del Estatuto:",
+  "opciones": {
+    "A": "Al Tribunal de Cuentas.",
+    "B": "Al Defensor del Pueblo Andaluz.",
+    "C": "Al Tribunal Constitucional.",
+    "D": "A la Presidencia de la Junta de Andalucía."
+  },
+  "respuesta_correcta": "C"
+},
+"Estatuto_pregunta3": {
+  "pregunta": "Con respecto al Estatuto de Autonomía de Andalucía señale la respuesta INCORRECTA:",
+  "opciones": {
+    "A": "Está formado por 250 artículos.",
+    "B": "El articulado recoge un amplio catálogo de derechos sociales.",
+    "C": "Se establece la autonomía financiera en cuanto a la financiación pública.",
+    "D": "La Comunidad Autónoma de Andalucía tiene competencia exclusiva en materia de legislativa y reglamentaria."
+  },
+  "respuesta_correcta": "D"
+},
+"Estatuto_pregunta4": {
+  "pregunta": "De acuerdo con lo establecido en el artículo 37 del Estatuto de Autonomía de Andalucía ¿Cuál de los siguientes principios no es un Principio rector de las políticas públicas?",
+  "opciones": {
+    "A": "La lucha contra el sexismo, la xenofobia, la homofobia y el belicismo, especialmente mediante la educación en valores que fomente la igualdad, la tolerancia, la libertad y la solidaridad",
+    "B": "La especial protección de las personas en situación de dependencia que les permita disfrutar de una digna calidad de vida.",
+    "C": "El uso de la lengua de signos española y las condiciones que permitan alcanzar la igualdad de las personas sordas que opten por esta lengua, que será objeto de enseñanza, protección y respeto",
+    "D": "El derecho a vivir en un medio ambiente equilibrado, sostenible y saludable"
+  },
+  "respuesta_correcta": "D"
+},
+"Estatuto_pregunta5": {
+  "pregunta": "De acuerdo con lo establecido en el artículo 5 del Estatuto de autonomía, gozan de la condición política de andaluces o andaluzas:",
+  "opciones": {
+    "A": "Los ciudadanos españoles que, tengan vecindad administrativa en cualquiera de los municipios de Andalucía",
+    "B": "Residentes en el extranjero que hayan tenido la última vecindad administrativa en Andalucía",
+    "C": "Residentes en el extranjero que hayan tenido la última vecindad administrativa en Andalucía y acrediten esta condición en el correspondiente Consulado de España.",
+    "D": "Ninguna es correcta."
+  },
+  "respuesta_correcta": "A"
+},
+"Estatuto_pregunta6": {
+  "pregunta": "El Artículo 22 de la Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía contempla una serie de derechos de los pacientes y usuarios del Sistema Andaluz de Salud, entre los que se encuentra el derecho a:",
+  "opciones": {
+    "A": "El consejo genético y la medicina predictiva.",
+    "B": "El respeto a su personalidad, dignidad humana e intimidad.",
+    "C": "Recibir asistencia geriátrica especializada.",
+    "D": "Todas las respuestas anteriores son correctas."
+  },
+  "respuesta_correcta": "D"
+},
+"Estatuto_pregunta7": {
+  "pregunta": "El artículo 22 del Estatuto de Autonomía de Andalucía señala, específicamente, que los pacientes y usuarios del sistema andaluz de salud tendrán derecho a…. (SEÑALE LA INCORRECTA)",
+  "opciones": {
+    "A": "Libre elección de médico y centro sanitario",
+    "B": "Segunda opinión facultativa sobre sus procesos",
+    "C": "Acceso a cuidados paliativos",
+    "D": "Acceso a Reproducción Humana Asistida"
+  },
+  "respuesta_correcta": "D"
+},
+"Estatuto_pregunta8": {
+  "pregunta": "El artículo 4 del Estatuto de Autonomía de Andalucía (Ley Orgánica 2/2007, de reforma del Estatuto de Autonomía de Andalucía establece la capitalidad y sedes. Así, determina que en la capital de Andalucía, que es la ciudad de Sevilla, radicarán las sedes de las siguientes instituciones, EXCEPTO:",
+  "opciones": {
+    "A": "El Tribunal Superior de Justicia.",
+    "B": "La Presidencia de la Junta.",
+    "C": "El Parlamento.",
+    "D": "El Consejo de Gobierno."
+  },
+  "respuesta_correcta": "A"
+},
+"Estatuto_pregunta9": {
+  "pregunta": "El artículo 55 del Estatuto de Autonomía para Andalucía se refiere a las competencias sobre:",
+  "opciones": {
+    "A": "Estructura de la organización sanitaria.",
+    "B": "Medidas preventivas.",
+    "C": "Salud, sanidad y farmacia.",
+    "D": "Coordinación de los laboratorios farmacéuticos."
+  },
+  "respuesta_correcta": "C"
+},
+"Estatuto_pregunta10": {
+  "pregunta": "El Consejo de Gobierno de la Junta de Andalucía, está constituido por:",
+  "opciones": {
+    "A": "El Presidente, los Vicepresidentes en su caso y los Consejeros.",
+    "B": "El Presidente y los Vicepresidentes en su caso.",
+    "C": "El Presidente, los Vicepresidentes en su caso, los Consejeros y el Parlamento Andaluz.",
+    "D": "Ninguna de las respuestas anteriores."
+  },
+  "respuesta_correcta": "A"
+},
+"Estatuto_pregunta11": {
+  "pregunta": "El Consejo de Gobierno de la Junta de Andalucía, según el artículo 119 del vigente Estatuto de Autonomía (Ley Orgánica 2/2007, de 19 de marzo), es el órgano colegiado que ejerce la dirección política de la Comunidad Autónoma, dirige la Administración y desarrolla las funciones ejecutivas y administrativas de la Junta de Andalucía. Indique por quiénes está constituido el citado Consejo de Gobierno:",
+  "opciones": {
+    "A": "El Presidente, los Vicepresidentes en su caso y los Consejeros.",
+    "B": "El Presidente y los Vicepresidentes en su caso.",
+    "C": "El Presidente, los Vicepresidentes en su caso, los Consejeros y una representación de los miembros electos del Parlamento de Andalucía.",
+    "D": "El Presidente, los Vicepresidentes en su caso, los Consejeros y los Viceconsejeros."
+  },
+  "respuesta_correcta": "A"
+},
+"Estatuto_pregunta12": {
+  "pregunta": "El control de constitucionalidad de las disposiciones normativas de la Comunidad Autónoma con fuerza de ley, corresponde exclusivamente al:",
+  "opciones": {
+    "A": "Tribunal de Cuentas.",
+    "B": "Tribunal de Cuentas y Tribunal Constitucional.",
+    "C": "Tribunal Constitucional.",
+    "D": "A la Junta de Andalucía."
+  },
+  "respuesta_correcta": "C"
+},
+"Estatuto_pregunta13": {
+  "pregunta": "El Defensor del Pueblo Andaluz:",
+  "opciones": {
+    "A": "Es elegido por el Presidente de la Junta de Andalucía para un periodo de cuatro años.",
+    "B": "Es elegido por el Parlamento Andaluz para un periodo de cinco años.",
+    "C": "Es elegido por el Parlamento Andaluz para un periodo de cuatro años.",
+    "D": "Es elegido por el Consejo de Gobierno de la Junta de Andalucía para un periodo de cuatro años."
+  },
+  "respuesta_correcta": "B"
+},
+"Estatuto_pregunta14": {
+  "pregunta": "El Estatuto de Autonomía fue aprobado el 20 de octubre de 1981, y refrendado por las Cortes como Ley Orgánica 6/1981, de 30 de diciembre. ¿Sabría decir cuantas veces ha sido reformado desde entonces?",
+  "opciones": {
+    "A": "Una vez.",
+    "B": "Ninguna vez.",
+    "C": "Tres veces.",
+    "D": "Dos veces."
+  },
+  "respuesta_correcta": "A"
+},
+"Estatuto_pregunta15": {
+  "pregunta": "En el artículo 22 del Estatuto de Autonomía de Andalucía se recogen, entre otros, los derechos de los pacientes y usuarios en relación a la protección de la salud. Indicar cuál de los siguientes derechos no viene recogido en el citado Estatuto:",
+  "opciones": {
+    "A": "Acceder a todas las prestaciones del sistema",
+    "B": "La garantía de un tiempo máximo para el acceso a los servicios y tratamientos",
+    "C": "El consejo genético y la medicina preventiva",
+    "D": "El acceso a cuidados paliativos"
+  },
+  "respuesta_correcta": "C"
+},
+"Estatuto_pregunta16": {
+  "pregunta": "En el Estatuto de Autonomía para Andalucía se garantiza la protección a la salud mediante un:",
+  "opciones": {
+    "A": "Sistema sanitario público y privado de carácter universal.",
+    "B": "Sistema sanitario público para todos los andaluces.",
+    "C": "Sistema sanitario público de carácter nacional.",
+    "D": "Sistema sanitario público de carácter universal."
+  },
+  "respuesta_correcta": "D"
+},
+"Estatuto_pregunta17": {
+  "pregunta": "Entre los objetivos básicos de la Comunidad Autónoma de Andalucía se encuentra:",
+  "opciones": {
+    "A": "La defensa, promoción, estudio y prestigio de la modalidad lingüística andaluza en todas sus variedades.",
+    "B": "La expresión del pluralismo político, social y cultural de Andalucía a través de todos los medios de comunicación.",
+    "C": "Las respuestas A. y B. son verdaderas.",
+    "D": "Las respuestas A. y B. son falsas."
+  },
+  "respuesta_correcta": "C"
+},
+"Estatuto_pregunta18": {
+  "pregunta": "La promulgación del Estatuto de Autonomía de Andalucía fue acompañada de las transferencias desde el Estado de una serie de materias y competencias, recogidas en el Titulo II. ¿En cuál de los siguientes artículos de la Ley 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía de Andalucía, se contemplan las transferencias a nuestra Comunidad Autónoma de las competencias sobre Salud, Sanidad y Farmacia?",
+  "opciones": {
+    "A": "Articulo 43",
+    "B": "Artículo 2",
+    "C": "Artículo 55",
+    "D": "Estas competencias no se contemplan en el articulado del Estatuto de Autonomía vigente para Andalucía."
+  },
+  "respuesta_correcta": "C"
+},
+"Estatuto_pregunta19": {
+  "pregunta": "Los Reglamentos (como los decretos y órdenes) son normas jurídicas subordinadas a las leyes. En nuestra Comunidad Autónoma, ¿a quién corresponde ejercer la potestad reglamentaria general?",
+  "opciones": {
+    "A": "Al Parlamento de Andalucía.",
+    "B": "Al Tribunal Superior de Justicia de Andalucía.",
+    "C": "Al Consejo de Gobierno de la Junta de Andalucía.",
+    "D": "Al Presidente de la Junta de Andalucía."
+  },
+  "respuesta_correcta": "C"
+},
+"Estatuto_pregunta20": {
+  "pregunta": "Referido al Parlamento de Andalucía, y según establece el vigente Estatuto de Autonomía de Andalucía en su texto legal reformado en el año 2007, ¿cuál de las siguientes afirmaciones es correcta?",
+  "opciones": {
+    "A": "Es inviolable.",
+    "B": "Está compuesto por un mínimo de 119 Diputados y Diputadas, elegidos por sufragio universal, igual, libre, directo y secreto.",
+    "C": "Es elegido por cinco años.",
+    "D": "Es el órgano representativo del pueblo andaluz, e independiente de la Junta de Andalucía."
+  },
+  "respuesta_correcta": "A"
+},
+"Estatuto_pregunta21": {
+  "pregunta": "Según el artículo 10 de la Ley General de Sanidad, será un derecho de todos frente a las administraciones públicas sanitarias el derecho:",
+  "opciones": {
+    "A": "A la información sobre los servicios sanitarios a que puede acceder y sobre los requisitos necesarios para su uso.",
+    "B": "A utilizar las vías de reclamación y de propuesta de sugerencias en los plazos que estime convenientes.",
+    "C": "A obtener los medicamentos y productos sanitarios que el facultativo asignado considere necesarios para el proceso correspondiente.",
+    "D": "A que las instalaciones sanitarias estén cuidadas."
+  },
+  "respuesta_correcta": "A"
+},
+"Estatuto_pregunta22": {
+  "pregunta": "Según el artículo 101 del Estatuto de Autonomía para Andalucía, el Parlamento estará compuesto por un mínimo de 109 Diputados y Diputadas, elegidos por sufragio universal, igual, libre, directo y secreto. Según ese mismo artículo, los miembros del Parlamento:",
+  "opciones": {
+    "A": "Representan a toda Andalucía y no están sujetos a mandato imperativo.",
+    "B": "Representan a toda Andalucía y están sujetos a mandato imperativo.",
+    "C": "Representan a la circunscripción o provincia por la que fueron elegidos y no están sujetos a mandato imperativo.",
+    "D": "Representan a la circunscripción o provincia por la que fueron elegidos y están sujetos a mandato imperativo."
+  },
+  "respuesta_correcta": "A"
+},
+"Estatuto_pregunta23": {
+  "pregunta": "Según el artículo 108 del Estatuto de Autonomía de Andalucía:",
+  "opciones": {
+    "A": "El Consejo de Gobierno no podrá elaborar reglamentos generales de las leyes de la Comunidad Autónoma.",
+    "B": "El Parlamento ejerce la potestad legislativa mediante la elaboración y aprobación de las leyes.",
+    "C": "La Consejería correspondiente en función de la materia, elaborará los reglamentos generales de las leyes de la Comunidad Autónoma.",
+    "D": "La Consejería correspondiente en función de la materia, aprobará los reglamentos generales de las leyes de la Comunidad Autónoma."
+  },
+  "respuesta_correcta": "B"
+},
+"Estatuto_pregunta24": {
+  "pregunta": "Según el artículo 22 del Estatuto de Autonomía de Andalucía, los pacientes y usuarios del sistema andaluz de salud tendrán derecho a:",
+  "opciones": {
+    "A": "La libre elección de médico y centro sanitario.",
+    "B": "El consejo genético y la medicina predictiva.",
+    "C": "La confidencialidad de los datos relativos a su salud y sus características genéticas, así como el acceso a su historial clínico.",
+    "D": "Las repuestas A), B. y C. son verdaderas."
+  },
+  "respuesta_correcta": "D"
+},
+"Estatuto_pregunta25": {
+  "pregunta": "Según el artículo 22 del Estatuto de Autonomía para Andalucía, entre los derechos de los pacientes y usuarios del sistema andaluz de salud se recogen:",
+  "opciones": {
+    "A": "El consejo genético y la medicina predictiva.",
+    "B": "Recibir asistencia geriátrica especializada.",
+    "C": "El acceso a cuidados paliativos.",
+    "D": "Todas las respuestas son correctas."
+  },
+  "respuesta_correcta": "D"
+},
+"Estatuto_pregunta26": {
+  "pregunta": "Según el artículo 31 del Estatuto de Autonomía de Andalucía se garantiza el derecho a una buena administración, que comprende los siguientes términos:",
+  "opciones": {
+    "A": "El derecho de todos ante las Administraciones Públicas, cuya actuación será proporcionada a sus fines, a participar plenamente en las decisiones que les afecten, obteniendo de ellas una información veraz, y a que sus asuntos se traten de manera objetiva e imparcial y sean resueltos en un plazo razonable",
+    "B": "A una administración que sirve con objetividad a la ciudadanía, que realiza su trabajo con racionalidad, justificando sus actuaciones y que se orienta continuamente al interés general.",
+    "C": "A una administración cuya actuación estará centrada en las personas, será proporcionada a sus fines, fines y resolverá con diligencia y objetividad los asuntos públicos",
+    "D": "A una administración cuya actuación sea objetiva e imparcial resolviendo los asuntos públicos de forma justa y equitativa"
+  },
+  "respuesta_correcta": "A"
+},
+"Estatuto_pregunta27": {
+  "pregunta": "Según el artículo 4 del Estatuto de Autonomía de Andalucía, la sede del Tribunal Superior de Justicia de Andalucía, es:",
+  "opciones": {
+    "A": "La ciudad de Antequera.",
+    "B": "La ciudad de Sevilla.",
+    "C": "La ciudad de Granada.",
+    "D": "No está establecido formalmente en la Ley Orgánica y compete al Parlamento de Andalucía decidirlo."
+  },
+  "respuesta_correcta": "C"
+},
+"Estatuto_pregunta28": {
+  "pregunta": "Según el artículo 55 (Salud, sanidad y farmacia) del vigente Estatuto de Autonomía de Andalucía (Ley Orgánica 2/2007, de 19 de marzo), corresponde a la Comunidad Autónoma:",
+  "opciones": {
+    "A": "La legislación en materia de productos farmacéuticos.",
+    "B": "La competencia exclusiva en materia de sanidad exterior, como la atención sociosanitaria de los andaluces que están fuera de España.",
+    "C": "La competencia exclusiva sobre la organización, funcionamiento interno, evaluación, inspección y control de centros, servicios y establecimientos sanitarios.",
+    "D": "La competencia exclusiva en materia de sanidad interior, así como su coordinación con otras Comunidades Autónomas sin intervención del Estado."
+  },
+  "respuesta_correcta": "C"
+},
+"Estatuto_pregunta29": {
+  "pregunta": "Según el artículo 55 del Estatuto de Autonomía, corresponde a la Comunidad Autónoma de Andalucía:",
+  "opciones": {
+    "A": "La legislación en materia de productos farmacéuticos.",
+    "B": "La competencia exclusiva en materia de sanidad exterior de los andaluces que están fuera de España.",
+    "C": "La competencia exclusiva sobre la inspección y control de centros y servicios sanitarios.",
+    "D": "La competencia exclusiva de la sanidad interior, así como su coordinación con otras Comunidades Autónomas sin intervención del Estado."
+  },
+  "respuesta_correcta": "C"
+},
+"Estatuto_pregunta30": {
+  "pregunta": "Según el Estatuto de Autonomía de Andalucía, reformado en 2007 (Ley Orgánica 2/2007, de 19 de marzo), gozan de la condición política de andaluces o andaluzas:",
+  "opciones": {
+    "A": "Los ciudadanos europeos que, de acuerdo con las leyes generales del Estado Español, tengan vecindad administrativa en cualquiera de los municipios de Andalucía.",
+    "B": "Los ciudadanos españoles residentes en el extranjero que hayan tenido la última vecindad administrativa en Andalucía y acrediten esta condición en el correspondiente Consulado de España.",
+    "C": "Los ciudadanos extranjeros residentes en Andalucía que acrediten el correspondiente empadronamiento y residencia estable en un municipio de la Comunidad Autónoma un mínimo de un año.",
+    "D": "Todos los anteriores serán considerados andaluces o andaluzas."
+  },
+  "respuesta_correcta": "B"
+},
+"Estatuto_pregunta31": {
+  "pregunta": "Según el Estatuto de Autonomía para Andalucía, y en relación con la igualdad de género, se garantiza:",
+  "opciones": {
+    "A": "La conformidad de oportunidades entre hombres y mujeres en todos los ámbitos.",
+    "B": "La igualdad de oportunidades entre hombres y mujeres en todos los ámbitos.",
+    "C": "La identidad de oportunidades entre hombres y mujeres en todos los ámbitos.",
+    "D": "La equivalencia de oportunidades entre hombres y mujeres en todos los ámbitos."
+  },
+  "respuesta_correcta": "B"
+},
+"Estatuto_pregunta32": {
+  "pregunta": "Según el Estatuto de autonomía para Andalucía, ¿dónde deben publicarse las Leyes de Andalucía?",
+  "opciones": {
+    "A": "En el Boletín Oficial de la Junta de Andalucía.",
+    "B": "En el Boletín Oficial del Estado.",
+    "C": "En todos los Boletines Oficiales del territorio español.",
+    "D": "En el Boletín Oficial de la Junta de Andalucía y en el Boletín Oficial del Estado."
+  },
+  "respuesta_correcta": "D"
+},
+"Estatuto_pregunta33": {
+  "pregunta": "Según establece el nuestro Estatuto de Autonomía, los reglamentos generales de las leyes de la Comunidad Autónoma de Andalucía serán elaborados por:",
+  "opciones": {
+    "A": "La Consejería competente.",
+    "B": "El Consejo de Gobierno.",
+    "C": "Elaborados por la Consejería y aprobados por el Consejo de Gobierno.",
+    "D": "El Parlamento de Andalucía."
+  },
+  "respuesta_correcta": "B"
+},
+"Estatuto_pregunta34": {
+  "pregunta": "Según se establece en el artículo 3 (\"Símbolos\") punto 4 del vigente Estatuto de Autonomía de Andalucía (Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía), el día oficial de la Comunidad Autónoma es:",
+  "opciones": {
+    "A": "El 28 de febrero.",
+    "B": "El 4 de diciembre.",
+    "C": "El 30 de diciembre.",
+    "D": "El 8 de marzo."
+  },
+  "respuesta_correcta": "A"
+},
+"Estatuto_pregunta35": {
+  "pregunta": "Según se establece en el Estatuto de Autonomía de Andalucía, la sede del Parlamento, de la Presidencia de la Junta y del Consejo de Gobierno es:",
+  "opciones": {
+    "A": "La ciudad de Sevilla.",
+    "B": "La ciudad de Antequera.",
+    "C": "La ciudad de Granada.",
+    "D": "La ciudad de Antequera, donde se firmó en 1883 la Constitución Federal Andaluza."
+  },
+  "respuesta_correcta": "A"
+},
+"Estatuto_pregunta36": {
+  "pregunta": "Todos los siguientes son derechos reconocidos en el Estatuto de Autonomía de Andalucía (Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía), EXCEPTO:",
+  "opciones": {
+    "A": "Se reconoce el derecho a declarar la voluntad vital anticipada que deberá respetarse, en los términos que establezca la ley.",
+    "B": "Todos tienen derecho a acceder a la formación profesional y a la educación permanente en los términos que establezca la ley.",
+    "C": "Las mujeres tienen derecho a una protección integral contra la violencia de género, que incluirá medidas preventivas, medidas asistenciales y ayudas públicas.",
+    "D": "Las personas mayores tienen derecho a recibir de los poderes públicos de Andalucía una pensión complementaria a la del Estado, en caso de que esta fuera la mínima."
+  },
+  "respuesta_correcta": "D"
+},
+"Estatuto_pregunta37": {
+  "pregunta": "¿A quién compete en nuestra Comunidad Autónoma la elaboración de los reglamentos generales de las leyes?",
+  "opciones": {
+    "A": "Al Presidente de la Junta de Andalucía.",
+    "B": "Al Parlamento de Andalucía.",
+    "C": "Al Consejo de Gobierno.",
+    "D": "A la Consejería competente en materia de Justicia."
+  },
+  "respuesta_correcta": "C"
+},
+"Estatuto_pregunta38": {
+  "pregunta": "¿Cuándo podría decirse que Andalucía alcanzó la titularidad de las competencias sanitarias?",
+  "opciones": {
+    "A": "Cuando se promulgó el Estatuto de Autonomía de Andalucía, mediante la Ley Orgánica 2/1981.",
+    "B": "Cuando se promulgó la Ley 8/1986, de 6 de mayo, por la que se crea el Servicio Andaluz de Salud.",
+    "C": "Cuando se promulgó la Ley 2/1998, de Salud de Andalucía.",
+    "D": "Cuando se promulgó la Ley 14/1986, General de Sanidad."
+  },
+  "respuesta_correcta": "A"
+},
+"Estatuto_pregunta39": {
+  "pregunta": "¿En qué artículo del Estatuto de Autonomía (Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía) se establecen las competencias de la Comunidad en materia de Salud, Sanidad y Farmacia?",
+  "opciones": {
+    "A": "Artículo 55.",
+    "B": "Artículo 43.",
+    "C": "Artículo 22.",
+    "D": "Artículo 11."
+  },
+  "respuesta_correcta": "A"
+},
+"Estatuto_pregunta40": {
+  "pregunta": "¿En qué artículo del Estatuto de Autonomía para Andalucía viene regulado el derecho a la protección de la salud?",
+  "opciones": {
+    "A": "Artículo 10.",
+    "B": "Artículo 21.",
+    "C": "Artículo 22.",
+    "D": "Artículo 23."
+  },
+  "respuesta_correcta": "C"
+},
+"Estatuto_pregunta41": {
+  "pregunta": "¿En qué artículo del Estatuto de Autonomía para Andalucía vienen regulados los objetivos básicos de la Comunidad Autónoma?",
+  "opciones": {
+    "A": "Artículo 10.",
+    "B": "Artículo 21.",
+    "C": "Artículo 22.",
+    "D": "Artículo 23."
+  },
+  "respuesta_correcta": "A"
+},
+"Estatuto_pregunta42": {
+  "pregunta": "¿En qué artículo del Estatuto de Autonomía para Andalucía vienen regulados los símbolos de la Comunidad Autónoma?",
+  "opciones": {
+    "A": "Artículo 1.",
+    "B": "Artículo 2.",
+    "C": "Artículo 3.",
+    "D": "Artículo 4."
+  },
+  "respuesta_correcta": "C"
+},
+"Estatuto_pregunta43": {
+  "pregunta": "¿En qué órgano podrá delegar el Parlamento, la potestad de dictar normas con rango de ley, de conformidad con lo previsto en artículo 109 del Estatuto de Autonomía para Andalucía?",
+  "opciones": {
+    "A": "En el Tribunal de Cuentas.",
+    "B": "En el Tribunal Constitucional.",
+    "C": "En el Consejo de Gobierno.",
+    "D": "En la Cámara de Cuentas."
+  },
+  "respuesta_correcta": "C"
+},
+"Estatuto_pregunta44": {
+  "pregunta": "¿Qué establece nuestro vigente Estatuto de Autonomía de Andalucía sobre los decretos-leyes?",
+  "opciones": {
+    "A": "Que son medidas legislativas provisionales que requieren de la convalidación expresa por el Parlamento en los 90 días subsiguientes a su promulgación, siendo automáticamente derogados en caso contrario.",
+    "B": "Que son medidas de extraordinaria y urgente necesidad dictadas por el Consejo de Gobierno.",
+    "C": "Que podrán emplearse para la aprobación de los presupuestos de Andalucía, siempre que sean posteriormente aprobados en el Parlamento tras un debate y votación de totalidad.",
+    "D": "Todas las respuestas anteriores son correctas."
+  },
+  "respuesta_correcta": "B"
+},
+"Estatuto_pregunta45": {
+  "pregunta": "¿Sobre qué materia o institución de las siguientes tiene competencias la Comunidad Autónoma de Andalucía?",
+  "opciones": {
+    "A": "La defensa de su territorio.",
+    "B": "La salud, sanidad y farmacia.",
+    "C": "La policía nacional.",
+    "D": "La política exterior y relaciones internacionales."
+  },
+  "respuesta_correcta": "B"
+}
+
+}

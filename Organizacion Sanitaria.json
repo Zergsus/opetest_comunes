@@ -1,0 +1,1214 @@
+{
+"Organizacion sanitaria_pregunta1": {
+  "pregunta": "De acuerdo con la ley General de Sanidad, ¿Cuál de los siguientes constituye un derecho de los/las usuarios/as del sistema sanitario público?",
+  "opciones": {
+    "A": "Derecho a obtener todos los medicamentos y productos sanitarios que considere necesario para restablecer su salud.",
+    "B": "Derecho a la confidencialidad de toda la información relacionada con su proceso y con su estancia en instituciones sanitarias públicas y privadas que colaboren con el sistema público.",
+    "C": "Derecho a la confidencialidad de toda la información relacionada con su proceso y con su estancia en instituciones sanitarias públicas, pero no en relación con instituciones sanitarias privadas que colaboren con el sistema público.",
+    "D": "Ninguna respuesta es correcta."
+  },
+  "respuesta_correcta": "B"
+},
+"Organizacion sanitaria_pregunta2": {
+  "pregunta": "De acuerdo con lo establecido en el art. 3.2 de la Ley 14/1986, de 25 de abril, General de Sanidad:",
+  "opciones": {
+    "A": "La asistencia sanitaria pública se extenderá a toda la población española. El acceso y las prestaciones sanitarias se realizarán en condiciones de igualdad efectiva con el territorio europeo.",
+    "B": "La asistencia sanitaria pública se extenderá a toda la población española. El acceso y las prestaciones sanitarias se realizarán en condiciones de igualdad efectiva.",
+    "C": "La asistencia sanitaria pública se extenderá a toda la población española. El acceso y las prestaciones sanitarias se realizarán en condiciones de igualdad efectiva como mínimo a nivel Autonómico.",
+    "D": "La asistencia sanitaria pública se extenderá a toda la población española. El acceso y las prestaciones sanitarias se realizarán en condiciones de igualdad efectiva como mínimo a nivel provincial."
+  },
+  "respuesta_correcta": "B"
+},
+"Organizacion sanitaria_pregunta3": {
+  "pregunta": "De acuerdo con lo establecido en el art. 57 de la Ley 14/1986, de 25 de abril, General de Sanidad, las Áreas de Salud contarán, como mínimo, con los órganos de participación, de dirección, y de gestión. El órgano de participación lo forma:",
+  "opciones": {
+    "A": "El Consejo de Salud de Área.",
+    "B": "El Consejo de Salud de Área y el Consejo de Dirección del Área.",
+    "C": "El Consejo de Dirección de Área y la Delegación de Salud.",
+    "D": "El Consejo de Participación y Atención al Usuario del Área."
+  },
+  "respuesta_correcta": "A"
+},
+"Organizacion sanitaria_pregunta4": {
+  "pregunta": "De acuerdo con lo establecido en el art. 7 de la Ley 14/1986, de 25 de abril, General de Sanidad los servicios sanitarios, así como los administrativos, económicos y cualesquiera otros que sean precisos para el funcionamiento del Sistema de Salud, adecuarán su organización y funcionamiento a los principios de:",
+  "opciones": {
+    "A": "eficacia, competitividad, economía y flexibilidad.",
+    "B": "eficacia, objetividad, economía y flexibilidad.",
+    "C": "eficacia, celeridad, economía y flexibilidad.",
+    "D": "eficacia, utilidad, economía y flexibilidad."
+  },
+  "respuesta_correcta": "C"
+},
+"Organizacion sanitaria_pregunta5": {
+  "pregunta": "El artículo 20 de la Ley General de Sanidad (Ley 14/1986, de 25 de abril), establece las actuaciones relativas a la salud mental en el sistema sanitario. ¿Cuál de las siguientes afirmaciones NO está recogida en el articulado o es INCORRECTA?",
+  "opciones": {
+    "A": "La hospitalización de los pacientes por procesos que así lo requieran se realizará preferentemente en hospitales psiquiátricos o en unidades monográficas de los hospitales regionales que se denominarán Comunidades Terapéuticas.",
+    "B": "Se desarrollarán los servicios de rehabilitación y reinserción social necesarios para una adecuada atención integral de los problemas del enfermo mental, buscando la necesaria coordinación con los servicios sociales.",
+    "C": "Se considerarán de modo especial aquellos problemas referentes a la psiquiatría infantil y psicogeriatría.",
+    "D": "La atención a los problemas de salud mental de la población se realizará en el ámbito comunitario."
+  },
+  "respuesta_correcta": "A"
+},
+"Organizacion sanitaria_pregunta6": {
+  "pregunta": "El artículo 3 de la Ley General de Sanidad establece que los medios y actuaciones del sistema sanitario estarán orientados prioritariamente a:",
+  "opciones": {
+    "A": "La promoción del bienestar social.",
+    "B": "La promoción de la salud y la prevención de la enfermedad.",
+    "C": "A la tutela de las garantías y derechos sanitarios.",
+    "D": "Ninguna de las respuestas anteriores es correcta"
+  },
+  "respuesta_correcta": "B"
+},
+"Organizacion sanitaria_pregunta7": {
+  "pregunta": "El Consejo Interterritorial del Sistema Nacional de Salud estará integrado, al menos, por:",
+  "opciones": {
+    "A": "Un representante de cada una de las Comunidades Autónomas y el mismo número de miembros del Consejo de Ciudadanos.",
+    "B": "Miembros de la Administración del Estado y Los alcaldes de las ciudades españolas capitales de las Comunidades Autónomas y el mismo número de miembros de la Administración del Estado.",
+    "C": "Un representante de cada una de las Comunidades Autónomas y el mismo número de miembros de la Administración del Estado.",
+    "D": "La mitad se forma por miembros de la Administración del Estado y la otra mitad con el mismo número de miembros del Consejo Ciudadano."
+  },
+  "respuesta_correcta": "C"
+},
+"Organizacion sanitaria_pregunta8": {
+  "pregunta": "El derecho a la protección de la salud viene reconocido expresamente en el artículo 43 de la Constitución Española de 1978, pero la ley que tiene por objeto la regulación general de todas las acciones que permitan hacer efectivo este derecho constitucional de los españoles, es:",
+  "opciones": {
+    "A": "La Ley 14/1986, de 25 de abril.",
+    "B": "La Ley Orgánica 3/2018 de 5 de diciembre.",
+    "C": "La Ley 41/2002, de 14 de noviembre.",
+    "D": "La Ley 13/1995, de 8 de noviembre."
+  },
+  "respuesta_correcta": "A"
+},
+"Organizacion sanitaria_pregunta9": {
+  "pregunta": "El derecho que todos tienen con respecto a las distintas administraciones públicas sanitarias, de respeto a su personalidad, dignidad humana e intimidad, sin que pueda ser discriminado por su origen racial o étnico, por razón de género y orientación sexual, de discapacidad o de cualquier otra circunstancia personal o social, viene recogido en:",
+  "opciones": {
+    "A": "El artículo 43.3 de la Constitución Española.",
+    "B": "Artículo 2 de la Ley 2/1998, de 15 de julio, de Salud de Andalucía.",
+    "C": "VII Plan Andaluz de Salud.",
+    "D": "La ley 14/1986, de 25 de abril, General de Sanidad."
+  },
+  "respuesta_correcta": "D"
+},
+"Organizacion sanitaria_pregunta10": {
+  "pregunta": "El IV Plan Andaluz de Salud fija en su Meta 5.1 Garantizar la transparencia en las actuaciones del SSPA. Entre los objetivos de esta meta no se encuentra:",
+  "opciones": {
+    "A": "Convertir la transparencia en el eje central de la gestión de Unidades Clínicas.",
+    "B": "Lograr una organización abierta a la ciudadanía, garantizando la interacción en estructura, objetivos, procedimientos y resultados.",
+    "C": "Las Unidades de Gestión Clínica se gestionarán contando con los profesionales, de forma ecuánime y transparente, ponderando los criterios de eficiencia y de resultados en salud.",
+    "D": "Publicar quincenalmente las estadísticas de morbimortalidad de los hospitales del SSPA."
+  },
+  "respuesta_correcta": "D"
+},
+"Organizacion sanitaria_pregunta11": {
+  "pregunta": "El IV Plan Andaluz de Salud recoge 6 compromisos de presente y futuro. Indique cuál de los siguientes compromisos NO viene recogido en dicho Plan.",
+  "opciones": {
+    "A": "Aumentar la esperanza de vida en buena salud.",
+    "B": "Generar y desarrollar los activos de salud de nuestra Comunidad y ponerlos a disposición de la sociedad andaluza.",
+    "C": "Reducir las desigualdades sociales en salud.",
+    "D": "Considerar a los ciudadanos como el eje del Sistema Sanitario Público de Andalucía."
+  },
+  "respuesta_correcta": "D"
+},
+"Organizacion sanitaria_pregunta12": {
+  "pregunta": "El todavía vigente IV Plan Andaluz de Salud, (2013-2020), se organiza en:",
+  "opciones": {
+    "A": "2 Líneas estratégicas y 25 Compromisos.",
+    "B": "6 Planes, 24 Líneas y 92 Compromisos.",
+    "C": "6 Compromisos, 24 Metas y 92 Objetivos.",
+    "D": "6 Líneas estratégicas y 92 Compromisos."
+  },
+  "respuesta_correcta": "C"
+},
+"Organizacion sanitaria_pregunta13": {
+  "pregunta": "El vigente Plan Andaluz de Salud (el IV, para el periodo 2013-2020 y aprobado por el Consejo de Gobierno el 22/10/2013), establece seis compromisos esenciales a cumplir. Entre ellos está recogido, literalmente, el siguiente:",
+  "opciones": {
+    "A": "Reducir las desigualdades sociales en salud.",
+    "B": "Situar el Sistema Sanitario Público de Andalucía en manos de los/las profesionales.",
+    "C": "Fomentar la gestión del conocimiento e incorporación de tecnologías, sin limitarlas por razones de coste sino de efectividad.",
+    "D": "Aumentar la esperanza de vida."
+  },
+  "respuesta_correcta": "A"
+},
+"Organizacion sanitaria_pregunta14": {
+  "pregunta": "En la Ley de Salud de Andalucía, los derechos de los ciudadanos vienen recogidos en el:",
+  "opciones": {
+    "A": "Artículo 6.",
+    "B": "Artículo 8.",
+    "C": "Artículo 10.",
+    "D": "Artículo 12."
+  },
+  "respuesta_correcta": "A"
+},
+"Organizacion sanitaria_pregunta15": {
+  "pregunta": "En los compromisos del Plan Andaluz de Salud NO se recoge expresamente:",
+  "opciones": {
+    "A": "Aumentar la esperanza de vida en buena salud.",
+    "B": "La prestación de los productos terapéuticos precisos, atendiendo a las necesidades diferenciadas de mujeres y hombres.",
+    "C": "Proteger y promover la salud de las personas ante los efectos del cambio climático, la sostenibilidad y la globalización.",
+    "D": "Reducir las desigualdades sociales en salud."
+  },
+  "respuesta_correcta": "B"
+},
+"Organizacion sanitaria_pregunta16": {
+  "pregunta": "Entre los derechos ciudadanos que reconoce explícitamente nuestra Ley de Salud de Andalucía (Ley 2/1998), en su artículo 6, se encuentra:",
+  "opciones": {
+    "A": "La libre elección de hospital, sin ninguna restricción.",
+    "B": "El acceso a su historial clínico.",
+    "C": "La tercera y cuarta opinión médicas en determinados procesos.",
+    "D": "La asistencia médica para asegurar una muerte digna."
+  },
+  "respuesta_correcta": "B"
+},
+"Organizacion sanitaria_pregunta17": {
+  "pregunta": "Entre los principios generales contemplados en el artículo 3 de la Ley General de Sanidad (Ley 14/1986, de 25 de abril) hay uno que se añadió con posterioridad a la aprobación del texto legal, en concreto en el año 2007. ¿Cuál es este principio general?",
+  "opciones": {
+    "A": "El principio de igualdad entre hombres y mujeres, evitando que, por sus diferencias físicas o por los estereotipos sociales asociados, se produzcan discriminaciones entre ellos en los objetivos y actuaciones sanitarias.",
+    "B": "El principio de que la política de salud estará orientada a la superación de los desequilibrios territoriales y sociales.",
+    "C": "El principio de extender las prestaciones sanitarias a los extranjeros residentes en España y a los inmigrantes en situación de desamparo.",
+    "D": "El principio de coordinación efectiva de las políticas y actuaciones públicas en materia de prestaciones sociales y asistenciales."
+  },
+  "respuesta_correcta": "A"
+},
+"Organizacion sanitaria_pregunta18": {
+  "pregunta": "Indique cuál de los siguientes es un derecho de los usuarios con respecto a las distintas administraciones públicas sanitarias, según la Ley 14/1986, de 25 de abril, General de Sanidad:",
+  "opciones": {
+    "A": "A la información sobre los servicios sanitarios a que puede acceder y sobre los requisitos necesarios para su uso.",
+    "B": "A tener acceso a la historia clínica de aquellos pacientes con los que se guarde relación de consanguinidad hasta el segundo grado.",
+    "C": "A participar en la actividad sanitaria del centro de salud que se le asigne.",
+    "D": "Todas las respuestas anteriores son correctas."
+  },
+  "respuesta_correcta": "A"
+},
+"Organizacion sanitaria_pregunta19": {
+  "pregunta": "La Ley 14/1986, de 25 de abril, General de Sanidad, establece en el artículo 10.13 el derecho a elegir el médico. El desarrollo del mismo se hizo en Andalucía con decretos diferenciados para Atención Primaria y Atención Especializada. ¿En qué ámbito se desarrolló primero?",
+  "opciones": {
+    "A": "En Atención Primaria 1997 y en Atención Especializada 1999",
+    "B": "En Atención Primaria 1999 y en Atención Especializada 1997",
+    "C": "En Atención Primaria 1997 y en Atención Especializada 1997",
+    "D": "En Atención Primaria 1999 y en Atención Especializada 1999"
+  },
+  "respuesta_correcta": "B"
+},
+"Organizacion sanitaria_pregunta20": {
+  "pregunta": "La Ley 2/1998, de 15 de junio, de Salud de Andalucía, tiene como principios inspiradores:",
+  "opciones": {
+    "A": "Consecución de la igualdad social.",
+    "B": "Concepción integral de la salud, incluyendo actuaciones de promoción, educación sanitaria, prevención, asistencia y rehabilitación.",
+    "C": "Participación de los ciudadanos.",
+    "D": "Las tres respuestas anteriores son ciertas."
+  },
+  "respuesta_correcta": "D"
+},
+"Organizacion sanitaria_pregunta21": {
+  "pregunta": "La Ley General de Sanidad (Ley 14/1986, de 25 de abril) tiene por objeto la regulación general de todas las acciones que permitan hacer efectivo el derecho a la protección de la salud reconocido en la Constitución Española. Entre ellos, la Ley establece, en su artículo tercero, que los medios y actuaciones del sistema sanitario estarán orientados prioritariamente:",
+  "opciones": {
+    "A": "A superar los desequilibrios territoriales y sociales.",
+    "B": "A la promoción de la salud y a la prevención de las enfermedades.",
+    "C": "Al tratamiento de los procesos clínicos, tanto quirúrgicos como médicos y rehabilitadores.",
+    "D": "A la educación sobre la salud, la prevención de las enfermedades y la protección del medio ambiente."
+  },
+  "respuesta_correcta": "B"
+},
+"Organizacion sanitaria_pregunta22": {
+  "pregunta": "La Ley General de Sanidad española se aprobó en el año:",
+  "opciones": {
+    "A": "1982.",
+    "B": "1984.",
+    "C": "1986.",
+    "D": "1988."
+  },
+  "respuesta_correcta": "C"
+},
+"Organizacion sanitaria_pregunta23": {
+  "pregunta": "La protección de la salud en España:",
+  "opciones": {
+    "A": "Es un derecho de todos los españoles, que está recogido en el artículo 1 de la Constitución de 1978.",
+    "B": "Los principios y criterios sustantivos que permiten el ejercicio del derecho a la protección de la salud se regulan en España por la Ley 14/1986, General de Sanidad.",
+    "C": "Se sustenta en las diferentes estructuras y servicios públicos al servicio de la salud que tienen las Comunidades Autónomas, sin que exista un Sistema Nacional de Salud (SNS) como en otros países de nuestro entorno.",
+    "D": "Todas las respuestas anteriores son correctas."
+  },
+  "respuesta_correcta": "B"
+},
+"Organizacion sanitaria_pregunta24": {
+  "pregunta": "Las comunidades autónomas, en el ámbito de sus competencias ¿pueden incorporar en sus carteras de servicios una técnica, tecnología o procedimiento contemplado en la cartera de servicios comunes del SNS?:",
+  "opciones": {
+    "A": "En ningún caso.",
+    "B": "Solo si se evidencia su eficacia y utilidad sanitaria.",
+    "C": "Sí, para lo cual establecerán los recursos adicionales necesarios.",
+    "D": "Únicamente cuando el Consejo Interterritorial del SNS le dé su aprobación."
+  },
+  "respuesta_correcta": "C"
+},
+"Organizacion sanitaria_pregunta25": {
+  "pregunta": "Los ciudadanos, al amparo de Ley 2/1998, de 15 de junio de Salud de Andalucía, son titulares y disfrutan, con respecto a los servicios sanitarios públicos en Andalucía, de los siguientes derechos: Indique el incorrecto.",
+  "opciones": {
+    "A": "A que se les extienda certificado acreditativo de su estado de salud, cuando así lo soliciten.",
+    "B": "Al acceso a su historial clínico autorizado por el director médico.",
+    "C": "A disponer de una segunda opinión facultativa sobre su proceso, en los términos en que reglamentariamente esté establecido.",
+    "D": "A disponer, en todos los centros y establecimientos sanitarios, de una carta de derechos y deberes por los que ha de regirse su relación con los mismos."
+  },
+  "respuesta_correcta": "B"
+},
+"Organizacion sanitaria_pregunta26": {
+  "pregunta": "Los compromisos del IV Plan Andaluz de Salud son: (señale la respuesta FALSA)",
+  "opciones": {
+    "A": "Aumentar la esperanza de vida en buena salud.",
+    "B": "Proteger y promover la salud frente al cambio climático, la globalización y los riesgos emergentes de origen ambiental y alimentario.",
+    "C": "Generar y desarrollar los activos en salud de nuestra comunidad.",
+    "D": "Garantizar su sostenibilidad del Sistema Sanitario Público de Andalucía mediante la adecuada gestión de los recursos humanos."
+  },
+  "respuesta_correcta": "D"
+},
+"Organizacion sanitaria_pregunta27": {
+  "pregunta": "Respecto de los servicios sanitarios en Andalucía, cuidar las instalaciones y colaborar en el mantenimiento de la habitabilidad de los centros:",
+  "opciones": {
+    "A": "Es un deber individual de los ciudadanos recogido en la ley 2/1998, de 15 de junio, de Salud de Andalucía.",
+    "B": "Es una recomendación recogida en el Manual de Normas y Procedimientos del Servicio Andaluz de Salud.",
+    "C": "Es una obligación recogida en el capítulo VI de la ley 14/1986, de 25 de abril, General de Sanidad.",
+    "D": "Es un enunciado que no se recoge expresamente en ninguna Ley."
+  },
+  "respuesta_correcta": "A"
+},
+"Organizacion sanitaria_pregunta28": {
+  "pregunta": "Según el art. 65 de la Ley 14/1986, de 25 de abril, General de Sanidad, cada Área de Salud estará vinculada o dispondrá, al menos, de:",
+  "opciones": {
+    "A": "Un consultorio local.",
+    "B": "Un centro de salud.",
+    "C": "Un hospital general.",
+    "D": "Un hospital."
+  },
+  "respuesta_correcta": "C"
+},
+"Organizacion sanitaria_pregunta29": {
+  "pregunta": "Según el artículo 10 de la Ley de Salud de Andalucía, los centros sanitarios tendrán a disposición de los usuarios:",
+  "opciones": {
+    "A": "Servicio de cafetería y cocina para los usuarios.",
+    "B": "Servicio de lavandería hospitalaria.",
+    "C": "Los servicios que reglamentariamente se le hayan asignado.",
+    "D": "Formularios de sugerencias y reclamaciones."
+  },
+  "respuesta_correcta": "D"
+},
+"Organizacion sanitaria_pregunta30": {
+  "pregunta": "Según el artículo 18 de la Ley General de Sanidad, entre las actuaciones que desarrollarán las Administraciones Públicas a través de sus Servicios de Salud y de los órganos competentes en cada caso se encuentran:",
+  "opciones": {
+    "A": "La protección de los pacientes de salud mental.",
+    "B": "La prestación de los productos terapéuticos precisos, atendiendo a las necesidades diferenciadas de mujeres y hombres.",
+    "C": "Los programas de atención a población inmigrante.",
+    "D": "Todas las respuestas son correctas."
+  },
+  "respuesta_correcta": "B"
+},
+"Organizacion sanitaria_pregunta31": {
+  "pregunta": "Según el artículo 29.3 de la Ley 14/1986, de 25 de abril, en qué casos podrán las Administraciones sanitarias competentes, establecer regímenes temporales y excepcionales de funcionamiento de los establecimientos sanitarios",
+  "opciones": {
+    "A": "Cuando la defensa de la salud de la población lo requiera.",
+    "B": "Cuando la urgencia no permita demoras.",
+    "C": "Cuando la no intervención suponga un riesgo para la salud pública.",
+    "D": "Cuando las necesidades asistenciales lo justifiquen."
+  },
+  "respuesta_correcta": "A"
+},
+"Organizacion sanitaria_pregunta32": {
+  "pregunta": "Según el artículo 3 bis de la Ley 16/2003, de 28 de mayo, ¿a quién corresponde el reconocimiento y control del derecho a la protección de la salud y a la atención sanitaria con cargo a fondos públicos?:",
+  "opciones": {
+    "A": "Al Ministerio de Trabajo y Seguridad Social.",
+    "B": "Al Ministerio de Hacienda.",
+    "C": "Al Ministerio de Sanidad, Consumo y Bienestar Social.",
+    "D": "A las Comunidades Autónomas"
+  },
+  "respuesta_correcta": "C"
+},
+"Organizacion sanitaria_pregunta33": {
+  "pregunta": "Según el artículo 3 de la Ley General de Sanidad, los medios y actuaciones del sistema sanitario estarán orientados prioritariamente a:",
+  "opciones": {
+    "A": "Vigilar la salud de los ciudadanos.",
+    "B": "La promoción de la salud y a la prevención de las enfermedades.",
+    "C": "Que las instalaciones están cuidadas.",
+    "D": "El diagnóstico de la enfermedad."
+  },
+  "respuesta_correcta": "B"
+},
+"Organizacion sanitaria_pregunta34": {
+  "pregunta": "Según el artículo 38 de la ley 14/1986, de 25 de abril, General de Sanidad:",
+  "opciones": {
+    "A": "Es competencia exclusiva del Estado la sanidad exterior, y competencia compartida con las Comunidades Autónomas (CC.AA.) las relaciones y acuerdos sanitarios internacionales.",
+    "B": "Son competencias compartidas entre el Estado y las CC.AA. la sanitad exterior y las relaciones y acuerdos sanitarios internacionales.",
+    "C": "Son competencia exclusiva del Estado la sanitad exterior y las relaciones y acuerdos sanitarios internacionales.",
+    "D": "Es competencia compartida entre el Estado y las CC.AA. la sanidad exterior, siendo competencia exclusiva del Estado las relaciones y acuerdos sanitarios internacionales."
+  },
+  "respuesta_correcta": "C"
+},
+"Organizacion sanitaria_pregunta35": {
+  "pregunta": "Según el artículo 4 de la Ley de Salud de Andalucía, las prestaciones sanitarias ofertadas por el Sistema Sanitario Público de Andalucía (en adelante SSPA) serán:",
+  "opciones": {
+    "A": "Las establecidas en el Consejo Interterritorial.",
+    "B": "Las acordadas por el Sistema Nacional de Salud.",
+    "C": "Las establecidas en cada momento por el Sistema Nacional de Salud.",
+    "D": "Como mínimo, las establecidas en cada momento para el Sistema Nacional de Salud."
+  },
+  "respuesta_correcta": "D"
+},
+"Organizacion sanitaria_pregunta36": {
+  "pregunta": "Según el artículo 4.2 de la Ley General de Sanidad las Comunidades Autónomas crearán sus servicios de salud…",
+  "opciones": {
+    "A": "Dentro del marco de la Constitución y de sus respectivos Estatutos de Autonomía.",
+    "B": "Dentro del marco de la Ley General de Sanidad y de sus respectivos Estatutos de Autonomía.",
+    "C": "Dentro del marco de la Constitución y de la Ley General de Sanidad.",
+    "D": "Dentro del marco de la Ley General de Sanidad y de las leyes que la desarrollen."
+  },
+  "respuesta_correcta": "B"
+},
+"Organizacion sanitaria_pregunta37": {
+  "pregunta": "Según el artículo 45 de la Ley 14/1986, General de Sanidad, ¿Quién integra todas las funciones y prestaciones sanitarias que, de acuerdo con lo previsto en dicha Ley, son responsabilidad de los poderes públicos para el debido cumplimiento del derecho a la protección de la salud?",
+  "opciones": {
+    "A": "Sistema Nacional de Salud.",
+    "B": "Consejo Nacional de Salud.",
+    "C": "Consejo Interterritorial del Servicio Nacional de Salud.",
+    "D": "Servicio Nacional de Salud."
+  },
+  "respuesta_correcta": "A"
+},
+"Organizacion sanitaria_pregunta38": {
+  "pregunta": "Según el artículo 5 de la Ley de Salud de Andalucía, la actuación sanitaria de la Administración Pública de la Junta de Andalucía se regirá por los principios de:",
+  "opciones": {
+    "A": "Planificación, eficacia, cooperación u coordinación con el resto de las actuaciones de esta y con las demás Administraciones Públicas de la Comunidad Autónoma.",
+    "B": "Planificación, eficiencia, cooperación u coordinación con el resto de las actuaciones de esta y con las demás Administraciones Públicas de la Comunidad Autónoma.",
+    "C": "Solidaridad, planificación, participación, cooperación u coordinación con el resto de las actuaciones de esta y con las demás Administraciones Públicas de la Comunidad Autónoma.",
+    "D": "Planificación, participación, cooperación u coordinación con el resto de las actuaciones de la misma y con las demás Administraciones Públicas de la Comunidad Autónoma."
+  },
+  "respuesta_correcta": "D"
+},
+"Organizacion sanitaria_pregunta39": {
+  "pregunta": "Según el artículo 9 de la Ley General de Sanidad, los poderes públicos deberán informar a los usuarios de los servicios del sistema sanitario público, o vinculados a él, de:",
+  "opciones": {
+    "A": "Sus obligaciones y responsabilidades.",
+    "B": "Sus derechos y deberes.",
+    "C": "Sus competencias, derechos y deberes.",
+    "D": "Sus derechos y recursos."
+  },
+  "respuesta_correcta": "B"
+},
+"Organizacion sanitaria_pregunta40": {
+  "pregunta": "Según el texto publicado en 2013 del vigente IV Plan Andaluz de Salud, se propone la consecución de una serie de compromisos. ¿Cuántos?",
+  "opciones": {
+    "A": "6.",
+    "B": "7.",
+    "C": "8.",
+    "D": "10."
+  },
+  "respuesta_correcta": "A"
+},
+"Organizacion sanitaria_pregunta41": {
+  "pregunta": "Según establece el artículo 1 de la Ley General de Sanidad (Ley 14/1986, de 25 de abril), ¿quiénes son titulares del derecho a la protección de la salud y a la atención sanitaria?",
+  "opciones": {
+    "A": "Todos los españoles residentes en el territorio nacional y los extranjeros cuyos países de origen tengan establecidos acuerdos con el Estado español.",
+    "B": "Todos los españoles y los ciudadanos extranjeros que tengan establecida su residencia en el territorio nacional.",
+    "C": "Todos los españoles y los extranjeros que se encuentren en el territorio nacional, tanto transeúntes como residentes.",
+    "D": "Solo los ciudadanos que tengan la nacionalidad española."
+  },
+  "respuesta_correcta": "B"
+},
+"Organizacion sanitaria_pregunta42": {
+  "pregunta": "Según establece el artículo 7 de la Ley General de Sanidad, ¿cuáles son los principios que deben regir la organización y funcionamiento de los servicios sanitarios y de los administrativos, económicos y cualesquiera otros que sean precisos para el funcionamiento del Sistema de Salud?",
+  "opciones": {
+    "A": "Equidad, accesibilidad, gratuidad y eficiencia.",
+    "B": "Trasparencia, ajuste presupuestario, efectividad y capacidad de resolución.",
+    "C": "Seguridad, equilibrio territorial, gratuidad y solidaridad.",
+    "D": "Eficacia, celeridad, economía y flexibilidad."
+  },
+  "respuesta_correcta": "D"
+},
+"Organizacion sanitaria_pregunta43": {
+  "pregunta": "Según establece la Ley General de Sanidad (14/1986), ¿a qué organismo competen las actuaciones que se realicen en materia de vigilancia y control de los posibles riesgos para la salud derivados de la importación, exportación o tránsito de mercancías y del tráfico internacional de viajeros?",
+  "opciones": {
+    "A": "Al Ministerio de Asuntos Exteriores.",
+    "B": "A Sanidad Exterior.",
+    "C": "A cada Consejería de Salud (o asimilada en competencias) de las Comunidades Autónomas.",
+    "D": "Al Centro Nacional de Epidemiología y Medicina Tropical, encuadrado en el Instituto de Salud Carlos III."
+  },
+  "respuesta_correcta": "B"
+},
+"Organizacion sanitaria_pregunta44": {
+  "pregunta": "Según la Ley 14/1986, General de Sanidad el ingreso en centros hospitalarios se efectuará:",
+  "opciones": {
+    "A": "Por medio de una lista de espera única, en función del sistema de previsión sanitaria del paciente.",
+    "B": "Atendiendo al criterio de prioridad temporal.",
+    "C": "A través de la unidad de admisión del hospital, por medio de una lista de espera única.",
+    "D": "Por amistad y proximidad."
+  },
+  "respuesta_correcta": "C"
+},
+"Organizacion sanitaria_pregunta45": {
+  "pregunta": "Según la Ley 2/1998 de Salud de Andalucía, el Plan Andaluz de Salud será aprobado por:",
+  "opciones": {
+    "A": "El Consejo de Gobierno de la Junta de Andalucía",
+    "B": "El Consejero de Salud",
+    "C": "El Parlamento de Andalucía",
+    "D": "El Consejo de Administración del Servicio Andaluz de Salud"
+  },
+  "respuesta_correcta": "A"
+},
+"Organizacion sanitaria_pregunta46": {
+  "pregunta": "Según la Ley de Salud de Andalucía, en relación a la efectividad de los derechos y deberes, recoge que el órgano que garantizará a los ciudadanos el pleno ejercicio del régimen de derechos y obligaciones recogidos en esta Ley es:",
+  "opciones": {
+    "A": "El Consejo de Gobierno de la Junta de Andalucía.",
+    "B": "La Consejería con competencias en Salud de la Junta de Andalucía.",
+    "C": "El Parlamento de Andalucía.",
+    "D": "El Gobierno de España."
+  },
+  "respuesta_correcta": "A"
+},
+"Organizacion sanitaria_pregunta47": {
+  "pregunta": "Según la Ley General de Sanidad (LGS, de 25 de abril de 1986), ¿cuál es un deber que tienen todos los ciudadanos con las instituciones y organismos del sistema sanitario?",
+  "opciones": {
+    "A": "Tomar los medicamentos que les prescriban sus médicos.",
+    "B": "Cumplir las prescripciones generales de naturaleza sanitaria comunes a toda la población, así como las específicas determinadas por los Servicios Sanitarios.",
+    "C": "Compensar económicamente los gastos derivados de su asistencia sanitaria, mediante el copago que se establezca en cada Servicio de Salud.",
+    "D": "Todos los anteriores son deberes ciudadanos reconocidos en la LGS."
+  },
+  "respuesta_correcta": "B"
+},
+"Organizacion sanitaria_pregunta48": {
+  "pregunta": "Según la Ley General de Sanidad de 1986, son competencia exclusiva del estado:",
+  "opciones": {
+    "A": "Todas son ciertas.",
+    "B": "Las relaciones y acuerdos nacionales.",
+    "C": "Los productos farmacéuticos y la docencia y la investigación.",
+    "D": "La sanidad exterior."
+  },
+  "respuesta_correcta": "D"
+},
+"Organizacion sanitaria_pregunta49": {
+  "pregunta": "Según la Ley General de Sanidad, en materia de salud, NO serán competencia de las Comunidades autónomas:",
+  "opciones": {
+    "A": "Todas las competencias asumidas en sus Estatutos.",
+    "B": "Las que el Estado les transfiera o les delegue.",
+    "C": "Las que no se hayan reservado expresamente al Estado.",
+    "D": "El control sanitario del medio ambiente."
+  },
+  "respuesta_correcta": "D"
+},
+"Organizacion sanitaria_pregunta50": {
+  "pregunta": "Según la Ley General de Sanidad, los medios y actuaciones del sistema sanitario estarán orientados prioritariamente a:",
+  "opciones": {
+    "A": "La promoción de la salud, la prevención de las enfermedades y a la protección del medio ambiente.",
+    "B": "La promoción de la salud y la prevención de las enfermedades.",
+    "C": "La promoción de la salud, la prevención de las enfermedades y a la educación sanitaria.",
+    "D": "La promoción de la salud, la prevención de las enfermedades, a la educación sanitaria y a la protección del medio ambiente."
+  },
+  "respuesta_correcta": "B"
+},
+"Organizacion sanitaria_pregunta51": {
+  "pregunta": "Según la ley General de Sanidad, son obligaciones de los usuarios:",
+  "opciones": {
+    "A": "Cuidar las instalaciones.",
+    "B": "Colaborar en el mantenimiento de la habitabilidad de las instituciones Sanitarias.",
+    "C": "Firmar el documento de alta voluntaria en los casos de no aceptación del tratamiento.",
+    "D": "Todas las respuestas anteriores son correctas."
+  },
+  "respuesta_correcta": "D"
+},
+"Organizacion sanitaria_pregunta52": {
+  "pregunta": "Según la Ley General de Sanidad, ¿quién tiene derecho a la protección de la salud y a la atención sanitaria en España?",
+  "opciones": {
+    "A": "Los ciudadanos nacionales o extranjeros que tengan la cartilla de la Seguridad Social.",
+    "B": "Los ciudadanos españoles que tengan cobertura de la Seguridad Social y/o de Mutuas Laborales.",
+    "C": "Los españoles que coticen por ello en su trabajo o tengan una pensión por invalidez.",
+    "D": "Todos los españoles y los ciudadanos extranjeros que tengan establecida su residencia en el territorio nacional."
+  },
+  "respuesta_correcta": "D"
+},
+"Organizacion sanitaria_pregunta53": {
+  "pregunta": "Según recoge el Decreto que establece su estructura orgánica, el Servicio Andaluz de Salud (en adelante SAS) es:",
+  "opciones": {
+    "A": "Una entidad de derecho privado.",
+    "B": "Una agencia administrativa.",
+    "C": "El órgano de dirección y gestión de la sanidad en Andalucía.",
+    "D": "Dependiente jurídicamente de la Consejería de Igualdad y Bienestar Social."
+  },
+  "respuesta_correcta": "B"
+},
+"Organizacion sanitaria_pregunta54": {
+  "pregunta": "Señale cuál de las siguientes actuaciones sanitarias NO está relacionada con la Salud Pública, de conformidad con lo dispuesto en el artículo 14 de la Ley 2/1998, de 15 de junio, de Salud de Andalucía:",
+  "opciones": {
+    "A": "Promoción y mejora de la salud mental.",
+    "B": "Atención al medio en cuanto a su repercusión sobre la salud humana individual y colectiva, incluyendo medidas de control y promoción de mejoras sobre todas aquellas actividades con posibles repercusiones sobre la salud.",
+    "C": "La elaboración y divulgación de estudios, investigaciones y estadísticas relacionados con la salud de los trabajadores.",
+    "D": "Promoción de estilos de vida saludables entre la población, así como promoción de la salud y prevención de las enfermedades en los grupos de mayor riesgo."
+  },
+  "respuesta_correcta": "C"
+},
+"Organizacion sanitaria_pregunta55": {
+  "pregunta": "Señale cuál de los siguientes enunciados NO viene recogido en la Ordenación funcional de la Ley 2/1998, de 15 de junio, de Salud de Andalucía:",
+  "opciones": {
+    "A": "Para la planificación, gestión y apoyo a la prestación de los servicios de atención primaria de salud de Andalucía, existirá el distrito de atención primaria, cuyo ámbito de actuación será determinado por la Consejería de Salud.",
+    "B": "La atención especializada se prestará por los hospitales y siempre se realizarán en el centro hospitalario.",
+    "C": "El hospital, junto a sus correspondientes centros de especialidades, constituye la estructura sanitaria responsable de la atención especializada programada y urgente, tanto en régimen de internado, como ambulatorio y domiciliario de la población de su ámbito territorial.",
+    "D": "Cada área de salud dispondrá de, al menos, un dispositivo de atención especializada de titularidad pública, al que pueda acceder la población de la misma para recibir dicha atención."
+  },
+  "respuesta_correcta": "B"
+},
+"Organizacion sanitaria_pregunta56": {
+  "pregunta": "Situar el Sistema Sanitario Público de Andalucía al servicio de la ciudadanía con el liderazgo de los y las profesionales, potenciando el espacio compartido de la gestión clínica:",
+  "opciones": {
+    "A": "Es un compromiso del Plan Andaluz de Salud.",
+    "B": "Es un objetivo de la Ley General de Sanidad.",
+    "C": "Es un principio recogido en la Ley de Salud de Andalucía.",
+    "D": "Es una declaración de intenciones de la organización sanitaria."
+  },
+  "respuesta_correcta": "A"
+},
+"Organizacion sanitaria_pregunta57": {
+  "pregunta": "Son objeto de la Ley de Salud de Andalucía (Ley 2/1998), recogidos en su artículo 1, todos los que se enumeran a continuación, EXCEPTO:",
+  "opciones": {
+    "A": "La regulación general de las actuaciones, que permitan hacer efectivo el derecho a la protección de la salud, previsto en la Constitución Española.",
+    "B": "La ordenación general de las actividades sanitarias de las entidades públicas y privadas en Andalucía.",
+    "C": "La reducción de la desigualdad en salud, que facilite que las personas andaluzas vivan más años y con más calidad y autonomía.",
+    "D": "La definición, el respeto y el cumplimiento de los derechos y obligaciones de los ciudadanos respecto de los servicios sanitarios en Andalucía."
+  },
+  "respuesta_correcta": "C"
+},
+"Organizacion sanitaria_pregunta58": {
+  "pregunta": "¿Cómo se llama el órgano colegiado de participación ciudadana en la formulación de la política sanitaria y en el control de su ejecución, asesor en esta materia de la Consejería de Salud en el ejercicio de las funciones de fomento y desarrollo de la participación ciudadana?",
+  "opciones": {
+    "A": "El Consejo Interprovincial de Salud.",
+    "B": "El Comité de Participación Ciudadana en Salud.",
+    "C": "La Comisión Delegada de Políticas Públicas del SSPA.",
+    "D": "El Consejo Andaluz de Salud."
+  },
+  "respuesta_correcta": "D"
+},
+"Organizacion sanitaria_pregunta59": {
+  "pregunta": "¿Cuál de las siguientes afirmaciones sobre la organización sanitaria pública en Andalucía es INCORRECTA?",
+  "opciones": {
+    "A": "Andalucía alcanzó la titularidad de las competencias sanitarias con la promulgación de su Estatuto de Autonomía, en 1981.",
+    "B": "El Servicio Andaluz de Salud se creó mediante la Ley 8/1986, de 6 de mayo.",
+    "C": "La Ley de Salud de Andalucía (Ley 2/1998) establece la universalización de la atención sanitaria, garantizando la misma a todos los ciudadanos de Andalucía sin discriminación alguna.",
+    "D": "El Sistema Sanitario Público de Andalucía (SSPA) se creó, como parte del Sistema Nacional de Salud, en la Ley General de Sanidad (Ley 14/1986)."
+  },
+  "respuesta_correcta": "D"
+},
+"Organizacion sanitaria_pregunta60": {
+  "pregunta": "¿Cuál de los siguientes derechos de los ciudadanos está contemplado en la Ley 14/1986, de 25 de abril, General de Sanidad, con respecto a las distintas administraciones públicas sanitarias?",
+  "opciones": {
+    "A": "Respecto a la personalidad, dignidad humana e intimidad.",
+    "B": "Confidencialidad de toda la información relacionada con su proceso.",
+    "C": "Asignación de médico, el nombre del cual se le dará a conocer.",
+    "D": "Todas las respuestas son correctas."
+  },
+  "respuesta_correcta": "D"
+},
+"Organizacion sanitaria_pregunta61": {
+  "pregunta": "¿Cuál de los siguientes órganos directivos centrales NO está recogido en el Decreto que regula la estructura de la Consejería de Salud y Familias?",
+  "opciones": {
+    "A": "Viceconsejería.",
+    "B": "Dirección General de Consumo.",
+    "C": "Dirección General de Familias.",
+    "D": "Secretaría General Técnica."
+  },
+  "respuesta_correcta": "B"
+},
+"Organizacion sanitaria_pregunta62": {
+  "pregunta": "¿Cuál es el marco de referencia y el instrumento indicativo para todas las actuaciones en materia de salud en el ámbito de Andalucía?",
+  "opciones": {
+    "A": "El Plan Andaluz de Salud.",
+    "B": "La Ley 2/1998, de 15 de junio de Salud de Andalucía.",
+    "C": "La Ley 14/1986, del 25 de abril General de Sanidad.",
+    "D": "La Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía."
+  },
+  "respuesta_correcta": "A"
+},
+"Organizacion sanitaria_pregunta63": {
+  "pregunta": "¿Cuándo se promulgó la vigente Ley de Salud de Andalucía?",
+  "opciones": {
+    "A": "En 2007",
+    "B": "En 1998",
+    "C": "En 2020",
+    "D": "Andalucía no tiene una Ley de Salud"
+  },
+  "respuesta_correcta": "B"
+},
+"Organizacion sanitaria_pregunta64": {
+  "pregunta": "¿En qué año fue creado el Servicio Andaluz de Salud?",
+  "opciones": {
+    "A": "1982",
+    "B": "1986",
+    "C": "1990",
+    "D": "1992"
+  },
+  "respuesta_correcta": "B"
+},
+"Organizacion sanitaria_pregunta65": {
+  "pregunta": "¿Qué derecho se reconoce en el artículo 10 de la Ley General de Sanidad con respecto a las Administraciones Públicas sanitarias?",
+  "opciones": {
+    "A": "A la subvención del traslado de pacientes con derecho a rehabilitación, aún cuando no esté indicado por el especialista",
+    "B": "Al reintegro de los gastos ocasionados por asistencia sanitaria privada, nacional o extranjera por retraso en la asistencia",
+    "C": "A la financiación de las intervenciones motivadas por razón de cambio de sexo, salvo la reparación en estados intersexuales patológicos",
+    "D": "A obtener los medicamentos y productos sanitarios que se consideren necesarios para promover, conservar o restablecer la salud en los términos que reglamentariamente se establezcan"
+  },
+  "respuesta_correcta": "D"
+},
+"Organizacion sanitaria_pregunta66": {
+  "pregunta": "¿Qué diría sobre la frase 'Situar el Sistema Sanitario Público de Andalucía al servicio de la ciudadanía con el liderazgo de los y las profesionales, potenciando el espacio compartido de la gestión clínica'?",
+  "opciones": {
+    "A": "Que es un objetivo del Estatuto de Autonomía de Andalucía.",
+    "B": "Que es un compromiso del IV Plan Andaluz de Salud.",
+    "C": "Que es uno de los principios recogidos en la Ley de Salud de Andalucía.",
+    "D": "Que es una declaración de intenciones de la organización sanitaria andaluza, recogido en el Libro de Estilo del Servicio Andaluz de Salud."
+  },
+  "respuesta_correcta": "B"
+},
+"Organizacion sanitaria_pregunta67": {
+  "pregunta": "¿Qué objeto tiene la Ley 2/1998, de 15 de junio, de Salud de Andalucía?",
+  "opciones": {
+    "A": "La ordenación general de las actividades sanitarias de las entidades públicas y privadas en Andalucía.",
+    "B": "La regulación general de las actuaciones que permitan hacer efectivo el derecho a la protección de la salud, previsto en la Constitución Española.",
+    "C": "La definición, el respeto y el cumplimiento de los derechos y obligaciones de los ciudadanos respecto de los servicios sanitarios en Andalucía.",
+    "D": "Las tres respuestas anteriores son correctas."
+  },
+  "respuesta_correcta": "D"
+},
+"Organizacion sanitaria_pregunta68": {
+  "pregunta": "Atendiendo a la cartera de Servicios del Servicio Andaluz de Salud, ¿cuál de las siguientes es un área de abordaje comunitario?",
+  "opciones": {
+    "A": "GRUSE. Grupo socioeducativo de Atención Primaria",
+    "B": "Atención preventiva del paciente crónico.",
+    "C": "Atención al Niño Sano.",
+    "D": "A y B son correctas."
+  },
+  "respuesta_correcta": "A"
+},
+"Organizacion sanitaria_pregunta69": {
+  "pregunta": "Aunque la ley que creó el Servicio Andaluz de Salud (SAS) es del año 1986 (Ley 8/1986, de 6 de mayo), ¿cuál es la norma vigente que establece su estructura orgánica?",
+  "opciones": {
+    "A": "Ley 2/1998, de 15 de junio.",
+    "B": "Decreto 105/1986, de 11 de junio.",
+    "C": "Ley 8/1986, de 6 de mayo.",
+    "D": "Decreto 105/2019, de 12 de febrero."
+  },
+  "respuesta_correcta": "D"
+},
+"Organizacion sanitaria_pregunta70": {
+  "pregunta": "Como trabajador/a, que formará parte de la plantilla del Sistema Sanitario Público Andaluz, ¿sabría identificar la ley por la que se creó el Servicio Andaluz de Salud?",
+  "opciones": {
+    "A": "Ley 8/1986, de 6 de mayo.",
+    "B": "Ley 2/1998 de 15 de junio.",
+    "C": "Ley 14/1986 de 25 de abril.",
+    "D": "Ley 33/2011 de 4 de octubre."
+  },
+  "respuesta_correcta": "A"
+},
+"Organizacion sanitaria_pregunta71": {
+  "pregunta": "Con respecto al Servicio Andaluz de Salud, señale la respuesta CORRECTA:",
+  "opciones": {
+    "A": "Es una Agencia Administrativa de las previstas en el artículo 75 de la Ley 9/2008, de 22 de octubre.",
+    "B": "Le corresponde entre otras, la función de la gestión de los recursos humanos, materiales y financieros que se le asignen para el desarrollo de sus funciones.",
+    "C": "Las respuestas A. y B. son correctas.",
+    "D": "Ninguna es correcta."
+  },
+  "respuesta_correcta": "B"
+},
+"Organizacion sanitaria_pregunta72": {
+  "pregunta": "De acuerdo con el art. 18 del DECRETO 105/1986 de 11 de junio, sobre ordenación de asistencia sanitaria especializada y órganos de dirección de los hospitales, todos los Hospitales contarán con las siguientes unidades administrativas, adscritas directamente al Director-Gerente. Señale la respuesta incorrecta:",
+  "opciones": {
+    "A": "Relaciones Laborales",
+    "B": "Información y Atención al Usuario.",
+    "C": "Calidad asistencial.",
+    "D": "Admisión, Estadística y Archivo de Historias Clínicas"
+  },
+  "respuesta_correcta": "C"
+},
+"Organizacion sanitaria_pregunta73": {
+  "pregunta": "De acuerdo con el art. 24.3 del DECRETO 105/1986 de 11 de junio, sobre ordenación de asistencia sanitaria especializada y órganos de dirección de los hospitales, la Junta del Hospital y de los Centros periféricos de Especialidades creará el número de Comisiones necesarias, entre las cuales deberá existir, en todo caso:",
+  "opciones": {
+    "A": "La Comisión de Bienestar y Atención al Usuario, la de Seguridad e Higiene en el Trabajo y la Comisión de Catástrofes.",
+    "B": "La Comisión de Calidad, la de Seguridad e Higiene en el Trabajo y la Comisión de Catástrofes.",
+    "C": "La Comisión de Mortalidad, la de Seguridad e Higiene en el Trabajo y la Comisión de Historias Clínicas e información.",
+    "D": "La Comisión de Igualdad, la de Seguridad e Higiene en el Trabajo y la Comisión de Participación Ciudadana."
+  },
+  "respuesta_correcta": "A"
+},
+"Organizacion sanitaria_pregunta74": {
+  "pregunta": "De acuerdo con el Decreto 105/2019, de 12 de febrero, por el que se establece la estructura orgánica de la Consejería de Salud y Familias y del Servicio Andaluz de Salud, ¿a quién corresponde la elaboración de las propuestas de actuación que deban formularse a la Consejería de Salud y Familias, en relación con los presupuestos y el Contrato-Programa tanto del Servicio Andaluz de Salud, como de las entidades que tenga adscritas?",
+  "opciones": {
+    "A": "A la Viceconsejería de Salud y Familias.",
+    "B": "A la Secretaría General Técnica de la Consejería de Salud y Familias.",
+    "C": "Conjuntamente a la Dirección General de Asistencia Sanitaria, la Dirección General de Personal, y la Dirección General de Gestión Económica del Servicio Andaluz de Salud.",
+    "D": "A la Dirección Gerencia del Servicio Andaluz de Salud."
+  },
+  "respuesta_correcta": "D"
+},
+"Organizacion sanitaria_pregunta75": {
+  "pregunta": "El actual Mapa de Atención Primaria de Salud en Andalucía fue establecido en:",
+  "opciones": {
+    "A": "La Ley de Salud de Andalucía (Ley 2/1998).",
+    "B": "El Decreto 195/1985, de 28 de agosto.",
+    "C": "Ley 9/2007, de 22 de octubre, de la Administración de la Junta de Andalucía.",
+    "D": "La Orden de 7 de junio de 2002."
+  },
+  "respuesta_correcta": "D"
+},
+"Organizacion sanitaria_pregunta76": {
+  "pregunta": "El decreto que ordena la asistencia especializada y los órganos de dirección de hospitales dentro de la red asistencial pública de Andalucía, fue modificado en 1996 ¿Con qué objetivo?",
+  "opciones": {
+    "A": "Modificar los órganos directivos de los hospitales, introduciendo las Direcciones de Profesionales como una dirección más, diferenciada de la Económico-Administrativa y de la Dirección de Servicios Generales.",
+    "B": "Dar mayores competencias a la Dirección Gerencia de los hospitales, para firmar contratos y acuerdos.",
+    "C": "Introducir los cambios necesarios a nivel de los órganos asesores colegiados que constituyen el Hospital, y en concreto regular las Juntas Facultativas y las Juntas de Enfermería de los hospitales del Servicio Andaluz de Salud.",
+    "D": "Establecer que los puestos de Director/a Médico y de Director/a de Enfermería se elijan por sufragio entre los profesionales del hospital de sus correspondientes categorías."
+  },
+  "respuesta_correcta": "C"
+},
+"Organizacion sanitaria_pregunta77": {
+  "pregunta": "El hospital es una organización jerárquica. Señale de las siguientes estructuras cuál no depende directamente del Director Gerente:",
+  "opciones": {
+    "A": "Dirección de Gestión.",
+    "B": "Servicio de Admisión y Documentación Clínica.",
+    "C": "Dirección de Recursos Humanos.",
+    "D": "Dirección de Enfermería."
+  },
+  "respuesta_correcta": "C"
+},
+"Organizacion sanitaria_pregunta78": {
+  "pregunta": "El primer nivel de atención sanitaria en Andalucía es la atención primaria de salud, que integra la asistencia preventiva, curativa, rehabilitadora y la promoción de la salud de los ciudadanos. Pero, ¿sabría decir cómo se llaman las estructuras organizativas para la planificación operativa, dirección, gestión y administración en ese ámbito de la Atención Primaria?",
+  "opciones": {
+    "A": "Centros de salud.",
+    "B": "Distritos sanitarios.",
+    "C": "Zonas básicas de salud.",
+    "D": "Áreas de salud."
+  },
+  "respuesta_correcta": "B"
+},
+"Organizacion sanitaria_pregunta79": {
+  "pregunta": "El reciente Decreto 156/2022, de 9 de agosto, por el que se establece la estructura orgánica de la Consejería de Salud y Consumo, ha establecido un nuevo órgano o centro directivo en el Servicio Andaluz de Salud, que se conoce por:",
+  "opciones": {
+    "A": "Dirección General de Familias, Cuidados Sociosanitarios y Atención a las Dependencias.",
+    "B": "Dirección General de Planificación de Recursos.",
+    "C": "Dirección General de Cuidados y Atención Sociosanitaria.",
+    "D": "Dirección General de Humanización, Planificación, Coordinación y Cuidados."
+  },
+  "respuesta_correcta": "B"
+},
+"Organizacion sanitaria_pregunta80": {
+  "pregunta": "El Registro de Actividad de Atención Sanitaria Especializada, regulado mediante Real Decreto 69/2015, de 6 de febrero, incluye información de diferentes modalidades asistenciales. Señale la respuesta correcta entre las siguientes.",
+  "opciones": {
+    "A": "Urgencias.",
+    "B": "Procedimientos ambulatorios de especial complejidad.",
+    "C": "Hospitalización a domicilio.",
+    "D": "Todas las anteriores."
+  },
+  "respuesta_correcta": "D"
+},
+"Organizacion sanitaria_pregunta81": {
+  "pregunta": "El SAS (Servicio Andaluz de Salud) tiene dos niveles de atención sanitaria a los ciudadanos, que son:",
+  "opciones": {
+    "A": "Atención primaria y Atención hospitalaria (también conocida como atención especializada).",
+    "B": "Atención primaria y Atención ambulatoria.",
+    "C": "Atención primaria y Atención de emergencia.",
+    "D": "Atención ambulatoria y Atención domiciliaria."
+  },
+  "respuesta_correcta": "A"
+},
+"Organizacion sanitaria_pregunta82": {
+  "pregunta": "El Servicio Andaluz de Salud, creado como Organismo Autónomo de carácter administrativo de la Junta de Andalucía el 6 de mayo de 1986 (Ley 8/1986), actualmente es una entidad instrumental de la Administración de la Junta de Andalucía que tiene forma jurídica de:",
+  "opciones": {
+    "A": "Agencia administrativa.",
+    "B": "Agencia pública empresarial.",
+    "C": "Agencia de régimen especial.",
+    "D": "Fundación pública."
+  },
+  "respuesta_correcta": "A"
+},
+"Organizacion sanitaria_pregunta83": {
+  "pregunta": "El Sistema Sanitario Público de Andalucía (SSPA) está compuesto por: (señale la respuesta FALSA)",
+  "opciones": {
+    "A": "Los centros, servicios y establecimientos de titularidad privada que tengan algún concierto o convenio de colaboración con la Administración Sanitaria de la Junta de Andalucía.",
+    "B": "Los centros, servicios y establecimientos sanitarios de las Diputaciones, Ayuntamientos y cualesquiera otras Administraciones territoriales intracomunitarias.",
+    "C": "Los centros, servicios y establecimientos sanitarios de organismos, empresas públicas o cualesquiera otras entidades de naturaleza o titularidad pública admitidas en derecho, adscritas a la Administración Sanitaria de la Junta de Andalucía.",
+    "D": "Los centros, servicios y establecimientos sanitarios públicos integrados en el Servicio Andaluz de Salud o adscritos al mismo."
+  },
+  "respuesta_correcta": "A"
+},
+"Organizacion sanitaria_pregunta84": {
+  "pregunta": "El Sistema Sanitario Público de Andalucía (SSPA) se organiza en demarcaciones territoriales denominadas:",
+  "opciones": {
+    "A": "Zonas Básicas de Salud.",
+    "B": "Áreas de Gestión Sanitaria.",
+    "C": "Distritos Sanitarios.",
+    "D": "Áreas de Salud."
+  },
+  "respuesta_correcta": "D"
+},
+"Organizacion sanitaria_pregunta85": {
+  "pregunta": "En Andalucía existen, como organizaciones específicas dentro del Servicio Andaluz de Salud, las Áreas de Gestión Sanitaria. ¿Cuál de las siguientes respuestas las definiría más precisamente?",
+  "opciones": {
+    "A": "Son responsables de la gestión sanitaria de los dispositivos asistenciales de atención primaria y de la atención hospitalaria que requieran una continuidad asistencial interniveles.",
+    "B": "Son responsables de la gestión unitaria de los dispositivos asistenciales tanto de la atención primaria como atención hospitalaria, pero no de la salud pública, que será llevada a cabo a nivel provincial.",
+    "C": "Son aquellas demarcaciones territoriales formadas exclusivamente por Unidades Clínicas de Gestión que compartan prestaciones y programas sanitarios entre atención primaria y especializada.",
+    "D": "Son responsables de la gestión unitaria de los dispositivos asistenciales tanto de la atención primaria como atención hospitalaria, así como la salud pública, en una demarcación territorial específica, y de las prestaciones y programas sanitarios a desarrollar por ellos."
+  },
+  "respuesta_correcta": "D"
+},
+"Organizacion sanitaria_pregunta86": {
+  "pregunta": "En Atención Primaria, ¿de quién depende jerárquica y funcionalmente el Director de una Unidad de Gestión Clínica?",
+  "opciones": {
+    "A": "De la Dirección Gerencia del Distrito.",
+    "B": "Director de Salud.",
+    "C": "De la Junta Facultativa.",
+    "D": "Del Consejo de Dirección."
+  },
+  "respuesta_correcta": "A"
+},
+"Organizacion sanitaria_pregunta87": {
+  "pregunta": "La actual Consejería de Salud y Familias tiene, en su estructura orgánica, tres Direcciones Generales. ¿Cuál de las siguientes NO lo es?",
+  "opciones": {
+    "A": "Dirección General de Familias",
+    "B": "Dirección General de Consumo",
+    "C": "Dirección General de Cuidados Sociosanitarios",
+    "D": "Dirección General de Salud Pública y Ordenación Farmacéutica"
+  },
+  "respuesta_correcta": "A"
+},
+"Organizacion sanitaria_pregunta88": {
+  "pregunta": "La Asesoría Jurídica del Servicio Andaluz de Salud, ¿de qué órgano directivo depende directamente, según el vigente decreto que establece la estructura orgánica de la Consejería de Salud y Consumo?",
+  "opciones": {
+    "A": "De la Dirección Gerencia del SAS.",
+    "B": "De la Dirección General de Gestión Económica y Servicios.",
+    "C": "De la Dirección General de Personal.",
+    "D": "De la Dirección General de Asistencia Sanitaria y Resultados en Salud."
+  },
+  "respuesta_correcta": "A"
+},
+"Organizacion sanitaria_pregunta89": {
+  "pregunta": "La estructura orgánica de la Consejería de Salud y Familias y del Servicio Andaluz de Salud (en adelante SAS), viene regulada en:",
+  "opciones": {
+    "A": "El Decreto 195/198",
+    "B": "El Decreto 197/200",
+    "C": "El Decreto 177/20",
+    "D": "El Decreto 105/20"
+  },
+  "respuesta_correcta": "D"
+},
+"Organizacion sanitaria_pregunta90": {
+  "pregunta": "La representación legal del Servicio Andaluz de Salud corresponde a:",
+  "opciones": {
+    "A": "Consejero/a de Salud.",
+    "B": "Director/a Gerente del SAS.",
+    "C": "Director/a General.",
+    "D": "Consejero/a Delegado."
+  },
+  "respuesta_correcta": "B"
+},
+"Organizacion sanitaria_pregunta91": {
+  "pregunta": "Referido al Servicio Andaluz de Salud (SAS), ¿cuál de las siguientes afirmaciones es incorrecta?",
+  "opciones": {
+    "A": "Su Dirección Gerencia tiene rango de Viceconsejería.",
+    "B": "Es una agencia administrativa de las previstas en el artículo 65 de la Ley 9/2007, de 22 de octubre.",
+    "C": "Se adscribe a la Consejería de Salud y Familias dependiendo específicamente de la Viceconsejería, según el Decreto 105/2019, de 12 de febrero.",
+    "D": "Se estructura en una Dirección Gerencia y en cinco Direcciones Generales (D.G. de Asistencia Sanitaria, D.G. de Cuidados y Resultados en Salud, D.G. de Personal, D.G.Económica y D.G. Asuntos Jurídicos)."
+  },
+  "respuesta_correcta": "D"
+},
+"Organizacion sanitaria_pregunta92": {
+  "pregunta": "Según el Decreto 105/2019, de 12 de febrero, por el que se establece la estructura orgánica de la Consejería de Salud y Familias y del Servicio Andaluz de Salud (SAS), de la Dirección Gerencia del SAS dependen directamente los órganos o centros directivos siguientes, EXCEPTO:",
+  "opciones": {
+    "A": "Dirección General de Asistencia Sanitaria y Resultados en Salud.",
+    "B": "Dirección General de Personal.",
+    "C": "Dirección General de Gestión Económica y Servicios.",
+    "D": "Dirección General de Salud Pública y Ordenación Farmacéutica."
+  },
+  "respuesta_correcta": "D"
+},
+"Organizacion sanitaria_pregunta93": {
+  "pregunta": "Según el Decreto 197/2007, de 3 de julio, por el que se regula la estructura, organización y funcionamiento de los servicios de atención primaria de salud en el ámbito del Servicio Andaluz de Salud, ¿cuál NO es una comisión técnica?",
+  "opciones": {
+    "A": "Comisión de Calidad y Procesos Asistenciales",
+    "B": "Comisión de Formación y Docencia",
+    "C": "Comisión de Dirección",
+    "D": "Comisión de Salud Pública"
+  },
+  "respuesta_correcta": "C"
+},
+"Organizacion sanitaria_pregunta94": {
+  "pregunta": "Según el Decreto 462/1996, de 8 de octubre, ¿cada cuánto tiempo hay que renovar los órganos colegiados de participación de los profesionales sanitarios del Área Hospitalaria?",
+  "opciones": {
+    "A": "Cada 2 años.",
+    "B": "Cada 3 años.",
+    "C": "Cada 4 años.",
+    "D": "Cada 5 años."
+  },
+  "respuesta_correcta": "C"
+},
+"Organizacion sanitaria_pregunta95": {
+  "pregunta": "Según el Decreto 462/1996, NO es función de la Junta Facultativa, como órgano colegiado de participación de los facultativos del área hospitalaria:",
+  "opciones": {
+    "A": "Conocer el Contrato-Programa del Hospital con carácter previo a su formalización por la Dirección Gerencia.",
+    "B": "Proponer el nombramiento del Director Médico del Hospital.",
+    "C": "Vigilar y controlar las condiciones de trabajo y seguridad en el empleo.",
+    "D": "Elaborar el programa de formación para el personal facultativo del Hospital."
+  },
+  "respuesta_correcta": "C"
+},
+"Organizacion sanitaria_pregunta96": {
+  "pregunta": "Según el Decreto 462/1996, sobre ordenación de la Asistencia Especializada y Órganos de Dirección de los Hospitales, en situaciones excepcionales, la Junta Facultativa podrá solicitar la revocación de la persona que ostente el cargo de Director Médico, tras acuerdo motivado del pleno de la Junta y con el voto de al menos:",
+  "opciones": {
+    "A": "Mayoría absoluta de los miembros presentes.",
+    "B": "La mitad más uno de sus miembros.",
+    "C": "Dos tercios de sus miembros.",
+    "D": "Setenta y cinco por ciento de sus miembros."
+  },
+  "respuesta_correcta": "C"
+},
+"Organizacion sanitaria_pregunta97": {
+  "pregunta": "Según el Decreto que regula la estructura orgánica del SAS, ¿cuál de las siguientes no es una competencia de la Dirección Gerencia?",
+  "opciones": {
+    "A": "La definición de modelos organizativos y dirección de la estructura orgánica, funcional y de gestión del SAS.",
+    "B": "La jefatura superior del personal adscrito al SAS.",
+    "C": "La resolución de los procedimientos de responsabilidad patrimonial en su ámbito de competencia.",
+    "D": "La dirección de la gestión de la actividad asistencial de calidad, garantizando los derechos sanitarios de la ciudadanía."
+  },
+  "respuesta_correcta": "D"
+},
+"Organizacion sanitaria_pregunta98": {
+  "pregunta": "Según el Decreto que regula la estructura, organización y funcionamiento de los servicios de atención primaria de salud en el ámbito del SAS, el Mapa de Atención Primaria de Salud:",
+  "opciones": {
+    "A": "Delimita las zonas básicas de salud y los Distritos en las que se integran.",
+    "B": "Recoge todos los centros del SSPA.",
+    "C": "Es un mapa con todos los centros sanitarios públicos y privados de Andalucía.",
+    "D": "Se actualiza cada cuatro años."
+  },
+  "respuesta_correcta": "A"
+},
+"Organizacion sanitaria_pregunta99": {
+  "pregunta": "Según el Decreto que regula la estructura, organización y funcionamiento de los servicios de atención primaria de salud en el ámbito del SAS, la Zona Básica de Salud:",
+  "opciones": {
+    "A": "Es el marco territorial para la prestación de la atención primaria de salud.",
+    "B": "Es la estructura física donde los profesionales realizan las actividades para una atención primaria de salud integral orientada a la ciudadanía.",
+    "C": "Es la estructura organizativa para la planificación y organización de las actividades asistenciales.",
+    "D": "Todas las respuestas son correctas."
+  },
+  "respuesta_correcta": "A"
+},
+"Organizacion sanitaria_pregunta100": {
+  "pregunta": "Según el Decreto que regula la estructura, organización y funcionamiento de los servicios de atención primaria de salud en el ámbito del SAS, las demarcaciones territoriales de los Servicios de Atención Primaria son:",
+  "opciones": {
+    "A": "Los Distritos de Atención Primaria.",
+    "B": "Las Áreas Sanitarias que en Andalucía corresponderán a las ocho provincias.",
+    "C": "Las Zonas Básicas de Salud.",
+    "D": "Las que se definan en la norma de creación de las Áreas de Gestión Sanitaria."
+  },
+  "respuesta_correcta": "C"
+},
+"Organizacion sanitaria_pregunta101": {
+  "pregunta": "Según el Decreto sobre ordenación de asistencia sanitaria especializada y órganos de dirección de los hospitales en Andalucía, la función de asegurar el desarrollo del programa de actividad y control asistencial, así como la organización y control de la docencia e investigación, corresponde a la:",
+  "opciones": {
+    "A": "Dirección Gerencia.",
+    "B": "Dirección Médica.",
+    "C": "Dirección de Enfermería.",
+    "D": "Dirección Económica-Administrativa."
+  },
+  "respuesta_correcta": "B"
+},
+"Organizacion sanitaria_pregunta102": {
+  "pregunta": "Según el vigente decreto que establece la estructura orgánica de la Consejería de Salud y Consumo, ¿a quién se adscribe la Escuela Andaluza de Salud Pública?",
+  "opciones": {
+    "A": "A la Secretaría General de Salud Pública e I+D+i en Salud.",
+    "B": "A la Viceconsejería.",
+    "C": "A la Secretaría General de Humanización, Planificación, Atención Sociosanitaria y Consumo.",
+    "D": "A la Secretaría General Técnica."
+  },
+  "respuesta_correcta": "A"
+},
+"Organizacion sanitaria_pregunta103": {
+  "pregunta": "Según establece la norma que ordena la asistencia sanitaria especializada en Andalucía, ¿cómo se llama el órgano asesor de la gerencia del área hospitalaria?",
+  "opciones": {
+    "A": "Junta de Personal.",
+    "B": "Junta Facultativa.",
+    "C": "Junta Técnico Asesora de la Dirección Gerencia.",
+    "D": "Junta de Hospital."
+  },
+  "respuesta_correcta": "D"
+},
+"Organizacion sanitaria_pregunta104": {
+  "pregunta": "Según la actual organización del Servicio Andaluz de Salud (SAS) y de las Agencias Públicas Empresariales Sanitarias que le están adscritas, ¿a quién corresponde la dirección operativa de los Planes Integrales y Procesos Asistenciales?",
+  "opciones": {
+    "A": "A la Dirección Gerencia",
+    "B": "A la Dirección General de Asistencia Sanitaria y Resultados en Salud",
+    "C": "A la Dirección General de Personal",
+    "D": "No le corresponde al SAS, sino a la Viceconsejería de Salud y Familias"
+  },
+  "respuesta_correcta": "B"
+},
+"Organizacion sanitaria_pregunta105": {
+  "pregunta": "Según la norma que ordena la asistencia especializada y los órganos de dirección de los hospitales de la red asistencial de la Junta de Andalucía, son órganos unipersonales de dirección de estos centros o áreas hospitalarias:",
+  "opciones": {
+    "A": "La Dirección Gerencia.",
+    "B": "La Dirección Médica.",
+    "C": "La Dirección de Servicios Generales.",
+    "D": "Todos los anteriores."
+  },
+  "respuesta_correcta": "D"
+},
+"Organizacion sanitaria_pregunta106": {
+  "pregunta": "Según la última actualización del Mapa Sanitario de nuestra Comunidad Autónoma (Orden de 17 de junio de 2020, por la que se actualiza el Mapa de Atención Primaria de Salud de Andalucía), ¿cuántos Distritos Sanitarios existen en Andalucía?",
+  "opciones": {
+    "A": "34.",
+    "B": "26.",
+    "C": "8.",
+    "D": "24."
+  },
+  "respuesta_correcta": "A"
+},
+"Organizacion sanitaria_pregunta107": {
+  "pregunta": "Según recoge el Decreto que establece la estructura orgánica del Servicio Andaluz de Salud (en adelante SAS), la dirección y fijación de los criterios administrativos, económicos y financieros, la designación de centros de gastos, y la autorización de gastos y ordenación de pagos en esta agencia corresponde a:",
+  "opciones": {
+    "A": "La Dirección General de Personal del SAS.",
+    "B": "La Dirección Gerencia del SAS.",
+    "C": "La Secretaría General Técnica de la Consejería de Salud y Familias.",
+    "D": "La Dirección Gerencia del centro donde se vaya a realizar la contratación."
+  },
+  "respuesta_correcta": "A"
+},
+"Organizacion sanitaria_pregunta108": {
+  "pregunta": "¿Mediante qué norma legal se creó el Servicio Andaluz de Salud (SAS)?",
+  "opciones": {
+    "A": "Ley 2/1998, de Salud de Andalucía.",
+    "B": "Ley Orgánica 6/1981, de 30 de diciembre.",
+    "C": "Decreto 105/2019, de 12 de febrero.",
+    "D": "Ley 8/1986, de 6 de mayo."
+  },
+  "respuesta_correcta": "D"
+},
+"Organizacion sanitaria_pregunta109": {
+  "pregunta": "¿Qué norma legal regula la estructura, organización y funcionamiento de los servicios de Atención Primaria en nuestra Comunidad Autónoma?",
+  "opciones": {
+    "A": "El Decreto 197/2007, de 3 de julio.",
+    "B": "La Orden SAS 21/2008.",
+    "C": "La Ley 2/1998, de 15 de junio, de Salud de Andalucía.",
+    "D": "El Decreto 462/1996, de 8 de octubre."
+  },
+  "respuesta_correcta": "A"
+},
+"Organizacion sanitaria_pregunta110": {
+  "pregunta": "¿Qué norma ordena en Andalucía la asistencia sanitaria especializada y establece los órganos de dirección de los hospitales públicos?",
+  "opciones": {
+    "A": "El Decreto 105/1986, de 11 de junio.",
+    "B": "El Decreto 197/2007, de 3 de julio.",
+    "C": "El Decreto 77/2008, de 4 de marzo.",
+    "D": "La Ley 8/1986, de 6 de mayo."
+  },
+  "respuesta_correcta": "A"
+},
+"Organizacion sanitaria_pregunta111": {
+  "pregunta": "¿Qué norma regula la actual estructura orgánica de la Consejería de Salud y Consumo de la Junta de Andalucía?",
+  "opciones": {
+    "A": "Ley 9/2007, de 22 de octubre.",
+    "B": "Decreto 105/2019, de 12 de febrero.",
+    "C": "Decreto 156/2022, de 9 de agosto.",
+    "D": "Decreto 2/2022, de 25 de julio."
+  },
+  "respuesta_correcta": "C"
+},
+  "Organizacion Sanitaria_pregunta112": {
+    "pregunta": "A efectos de la necesaria cooperación para el desarrollo de la salud pública en el territorio, la Ley de Salud Pública de Andalucía tiene regulado un órgano de colaboración, coordinación y cooperación entre la Administración de la Junta de Andalucía y las Corporaciones Locales, que se llama:",
+    "opciones": {
+      "A": "Comisión Andaluza de Cooperación en Salud Pública",
+      "B": "Consejo Andaluz de Salud Pública Local",
+      "C": "Comisión Paritaria en Salud Pública del territorio",
+      "D": "Consejo Andaluz de desarrollo de Planes Locales de Salud Pública"
+    },
+    "respuesta_correcta": "A"
+  },
+  "Organizacion Sanitaria_pregunta113": {
+    "pregunta": "A nivel nacional, la norma que regula los requisitos básicos de autorización y funcionamiento de los biobancos con fines de investigación biomédica y del tratamiento de las muestras biológicas de origen humano, es:",
+    "opciones": {
+      "A": "Ley 14/2007, de investigación biomédica.",
+      "B": "Real Decreto 1716/2011, de 18 de noviembre.",
+      "C": "Decreto 1/2013, de 8 de enero.",
+      "D": "Ley 41/2002, reguladora de la autonomía del paciente."
+    },
+    "respuesta_correcta": "B"
+  },
+  "Organizacion Sanitaria_pregunta114": {
+    "pregunta": "Al conjunto de medidas que tienen como objetivo implicar a la población en su conjunto, centrarse en la acción sobre las causas o determinantes sociales de la salud y aspirar a una participación activa de la población, se le conoce como:",
+    "opciones": {
+      "A": "Prevención primaria.",
+      "B": "Prevención secundaria.",
+      "C": "Prevención terciaria.",
+      "D": "Promoción de la salud."
+    },
+    "respuesta_correcta": "D"
+  },
+  "Organizacion Sanitaria_pregunta115": {
+    "pregunta": "El Biobanco del Sistema Sanitario Público de Andalucía (BB-SSPA), creado al amparo del Decreto 1/2013, de 8 de enero, está constituido en red y conformado por dos grandes áreas funcionales, una asistencial y otra de investigación. ¿Quién desarrolla en estos momentos las funciones asistenciales del BB-SSPA?",
+    "opciones": {
+      "A": "La Red Andaluza de Medicina Transfusional, Tejidos y Células.",
+      "B": "La Red Andaluza de Terapias Avanzadas.",
+      "C": "Los Servicios y Unidades de Hematología de los centros asistenciales públicos del SAS.",
+      "D": "La Dirección General de Asistencia Sanitaria y Resultados en Salud del SAS."
+    },
+    "respuesta_correcta": "A"
+  },
+  "Organizacion Sanitaria_pregunta116": {
+    "pregunta": "El Biobanco del Sistema Sanitario Público de Andalucía (SSPA), en su área de tejidos, sustancias y muestras biológicas para investigación, está organizado como un biobanco en red formado por:",
+    "opciones": {
+      "A": "Nodos asociados.",
+      "B": "Puntos asociados.",
+      "C": "Focos asociados.",
+      "D": "Centros asociados."
+    },
+    "respuesta_correcta": "A"
+  },
+  "Organizacion Sanitaria_pregunta117": {
+    "pregunta": "El Biobanco del Sistema Sanitario Público de Andalucía NO integra a:",
+    "opciones": {
+      "A": "Bancos de Sangre y Tejidos con fines terapéuticos.",
+      "B": "Biobancos de investigación.",
+      "C": "Cualquier espacio sanitario público andaluz dedicado a la colección, tratamiento, conservación y gestión de muestras biológicas animales.",
+      "D": "Integra todo lo que se cita."
+    },
+    "respuesta_correcta": "C"
+  },
+  "Organizacion Sanitaria_pregunta118": {
+    "pregunta": "El Biobanco del SSPA se encuentra bajo la dependencia de:",
+    "opciones": {
+      "A": "El Parlamento Andaluz.",
+      "B": "La Consejería con competencias en materia de salud.",
+      "C": "La Junta de Andalucía.",
+      "D": "El Sistema de Salud Andaluz."
+    },
+    "respuesta_correcta": "B"
+  },
+  "Organizacion Sanitaria_pregunta119": {
+    "pregunta": "El Biobanco del SSPA, en su área de tejidos, sustancias y muestras biológicas para investigación, está organizado como un biobanco en red formado por ¿cuántos nodos?",
+    "opciones": {
+      "A": "10",
+      "B": "14",
+      "C": "26",
+      "D": "42"
+    },
+    "respuesta_correcta": "C"
+  },
+  "Organizacion Sanitaria_pregunta120": {
+    "pregunta": "El Consejo Rector del Biobanco del Sistema Sanitario Público de Andalucía contará, a propuesta del órgano competente, un máximo de:",
+    "opciones": {
+      "A": "5 vocales.",
+      "B": "3 vocales.",
+      "C": "4 vocales.",
+      "D": "2 vocales."
+    },
+    "respuesta_correcta": "A"
+  },
+  "Organizacion Sanitaria_pregunta121": {
+    "pregunta": "El Nodo de coordinación del Biobanco del SSPA, se encuentra en la provincia de:",
+    "opciones": {
+      "A": "Sevilla.",
+      "B": "Málaga.",
+      "C": "Cádiz.",
+      "D": "Granada."
+    },
+    "respuesta_correcta": "D"
+  }
+}
+
+}
