@@ -1,0 +1,953 @@
+{
+"Epidemiologia_pregunta1": {
+    "pregunta": "Con respecto a la sensibilidad, señale lo incorrecto:",
+    "opciones": {
+        "A": "Es el porcentaje de resultados positivos en pacientes con una determinada enfermedad.",
+        "B": "Valora la capacidad de una prueba para detectar correctamente individuos sanos.",
+        "C": "Una alta sensibilidad indica un bajo número de falsos negativos.",
+        "D": "La sensibilidad expresa cuán 'sensible' es la prueba a la presencia de la enfermedad."
+    },
+    "respuesta_correcta": "B"
+},
+"Epidemiologia_pregunta2": {
+    "pregunta": "Con respecto al valor predictivo de un test, señale la respuesta falsa:",
+    "opciones": {
+        "A": "Representa la probabilidad de que una persona detectada como positiva este enferma.",
+        "B": "Es diferente según la frecuencia de la enfermedad en la población estudiada.",
+        "C": "Es un ejemplo de probabilidad condicionada.",
+        "D": "Existe el valor predictivo positivo y el negativo."
+    },
+    "respuesta_correcta": "B"
+},
+"Epidemiologia_pregunta3": {
+    "pregunta": "Cuando una enfermedad es rara (1/100.000) y la exposición es rara (1/10.000), el mejor diseño es:",
+    "opciones": {
+        "A": "Transversal.",
+        "B": "Cohortes.",
+        "C": "Casos y controles.",
+        "D": "Ninguno de las anteriores."
+    },
+    "respuesta_correcta": "D"
+},
+"Epidemiologia_pregunta4": {
+    "pregunta": "De las siguientes opciones señale la que es FALSA:",
+    "opciones": {
+        "A": "En la investigación no-experimental no se pueden controlar todas las circunstancias de exposición.",
+        "B": "En un ensayo clínico puede haber más de un grupo control.",
+        "C": "La “validez externa” nos informa de si las inferencias obtenidas son aplicables o no a sujetos no incluidos en la población de estudio.",
+        "D": "En los “estudios de mortalidad proporcional” es importante tener un periodo de seguimiento de los pacientes que sea prolongado."
+    },
+    "respuesta_correcta": "D"
+},
+"Epidemiologia_pregunta5": {
+    "pregunta": "De las siguientes ventajas que aportan los estudios de casos y controles, ¿cuál NO es cierta?",
+    "opciones": {
+        "A": "Son un buen diseño para estudiar enfermedades con largos periodos de latencia.",
+        "B": "Son muy útiles en el estudio de enfermedades raras.",
+        "C": "Son un buen diseño para estudiar varias enfermedades simultáneamente.",
+        "D": "Permiten evaluar simultáneamente varias exposiciones y la interacción entre ellas."
+    },
+    "respuesta_correcta": "C"
+},
+"Epidemiologia_pregunta6": {
+    "pregunta": "De los siguientes tipos de estudio epidemiológico, ¿cuál no pertenece al grupo experimental?",
+    "opciones": {
+        "A": "Ensayo clínico.",
+        "B": "Estudios de prevalencia.",
+        "C": "Ensayo de campo.",
+        "D": "Ensayo comunitario de intervención."
+    },
+    "respuesta_correcta": "B"
+},
+"Epidemiologia_pregunta7": {
+    "pregunta": "Definición de Riesgo Relativo:",
+    "opciones": {
+        "A": "Incidencia de enfermedad entre los casos dividida por la incidencia en los no expuestos a un factor de riesgo.",
+        "B": "Proporción de la enfermedad atribuible a un factor de riesgo.",
+        "C": "Incidencia de factor de riesgo entre los casos dividida por la incidencia en expuestos.",
+        "D": "Incidencia de enfermedad entre los expuestos dividida por la incidencia en los no expuestos a un factor de riesgo."
+    },
+    "respuesta_correcta": "D"
+},
+"Epidemiologia_pregunta8": {
+    "pregunta": "Durante el año 2021, 360 de los 6.000 pacientes ingresados en un centro hospitalario desarrollaron durante su ingreso una herida relacionada con la dependencia. Se podría decir que este centro presentó:",
+    "opciones": {
+        "A": "Una incidencia de heridas relacionadas con la dependencia del 6%.",
+        "B": "Una incidencia acumulada de heridas relacionadas con la dependencia del 6%.",
+        "C": "Una prevalencia de heridas relacionadas con la dependencia del 6%.",
+        "D": "Una tasa de incidencia acumulada en el último año de heridas relacionadas con la dependencia del 6%."
+    },
+    "respuesta_correcta": "B"
+},
+"Epidemiologia_pregunta9": {
+    "pregunta": "El grado en que pueden reproducirse los resultados obtenidos por un procedimiento de medida se denomina:",
+    "opciones": {
+        "A": "Sensibilidad",
+        "B": "Especificidad",
+        "C": "Fiabilidad",
+        "D": "Validez"
+    },
+    "respuesta_correcta": "C"
+},
+"Epidemiologia_pregunta10": {
+    "pregunta": "El indicador ideal debe reunir las siguientes características:",
+    "opciones": {
+        "A": "Validez, fiabilidad, sensibilidad, especificidad",
+        "B": "Fiabilidad y especificidad",
+        "C": "Calidad e integridad",
+        "D": "Soporte técnico apropiado"
+    },
+    "respuesta_correcta": "A"
+},
+"Epidemiologia_pregunta11": {
+    "pregunta": "El mejor tipo de estudio epidemiológico para evaluar la asociación causal entre un factor de riesgo y una enfermedad determinada, es el:",
+    "opciones": {
+        "A": "Ecológico.",
+        "B": "Ensayo clínico aleatorizado.",
+        "C": "Transversal.",
+        "D": "Por conveniencia."
+    },
+    "respuesta_correcta": "B"
+},
+"Epidemiologia_pregunta12": {
+    "pregunta": "El objetivo de la vigilancia epidemiológica es:",
+    "opciones": {
+        "A": "Estudiar las tendencias temporales de las enfermedades más relevantes.",
+        "B": "Evaluar estadísticamente el impacto de las enfermedades transmisibles.",
+        "C": "Proporcionar la información necesaria para el control de las enfermedades transmisibles en los individuos.",
+        "D": "Proporcionar la información necesaria para el control de las enfermedades transmisibles en la población."
+    },
+    "respuesta_correcta": "D"
+},
+"Epidemiologia_pregunta13": {
+    "pregunta": "El parámetro que mide la probabilidad que una persona clasificada como negativa por la prueba esté realmente sana se denomina:",
+    "opciones": {
+        "A": "Valor predictivo positivo.",
+        "B": "Valor predictivo negativo.",
+        "C": "Sensibilidad.",
+        "D": "Fiabilidad."
+    },
+    "respuesta_correcta": "B"
+},
+"Epidemiologia_pregunta14": {
+    "pregunta": "El porcentaje de personas que durante las pasadas fiestas navideñas han consumido alguna vez cocaína en una población determinada, ¿qué tipo de medida epidemiológica es?",
+    "opciones": {
+        "A": "Prevalencia de punto.",
+        "B": "Prevalencia de periodo.",
+        "C": "Incidencia acumulada.",
+        "D": "Tasa de incidencia."
+    },
+    "respuesta_correcta": "B"
+},
+"Epidemiologia_pregunta15": {
+    "pregunta": "El riesgo de adquirir una enfermedad se mide por medio de:",
+    "opciones": {
+        "A": "La Odds ratio",
+        "B": "La incidencia acumulada",
+        "C": "La razón de probabilidad",
+        "D": "La prevalencia de periodo"
+    },
+    "respuesta_correcta": "B"
+},
+"Epidemiologia_pregunta16": {
+    "pregunta": "En epidemiologia ocupacional los estudios transversales:",
+    "opciones": {
+        "A": "Son de poco interés en la vigilancia de la salud periódica.",
+        "B": "Permiten probar fácilmente hipótesis causales.",
+        "C": "Son en general económicamente muy costosos.",
+        "D": "Se caracterizan porque la información sobre la exposición y la enfermedad se obtienen a la vez."
+    },
+    "respuesta_correcta": "D"
+},
+"Epidemiologia_pregunta17": {
+    "pregunta": "En los estudios de casos y controles:",
+    "opciones": {
+        "A": "El criterio de asignación de los individuos a los grupos de comparación es la presencia o no del efecto.",
+        "B": "La magnitud de la asociación entre la exposición y el efecto se estima mediante el cálculo de la OR o razón de ventajas.",
+        "C": "Si se selecciona una muestra de casos atendidos en un hospital es un error elegir a los controles entre pacientes del mismo hospital, por un posible sesgo de selección.",
+        "D": "Las opciones A y B son correctas."
+    },
+    "respuesta_correcta": "D"
+},
+"Epidemiologia_pregunta18": {
+    "pregunta": "En los estudios ecológicos, señale la correcta:",
+    "opciones": {
+        "A": "Son estudios de base individual.",
+        "B": "Utilizan datos específicamente diseñados para el estudio.",
+        "C": "La unidad de observación es el individuo.",
+        "D": "Son estudios de base poblacional."
+    },
+    "respuesta_correcta": "D"
+},
+"Epidemiologia_pregunta19": {
+    "pregunta": "En los llamados estudios de coste-utilidad, la unidad de medida que integra la duración de la vida y la calidad de esta, se denomina:",
+    "opciones": {
+        "A": "Análisis de la Varianza Poblacional",
+        "B": "Año de vida ajustado por comorbilidad",
+        "C": "Año de vida ajustado por calidad",
+        "D": "Ninguno de los anteriores."
+    },
+    "respuesta_correcta": "C"
+},
+"Epidemiologia_pregunta20": {
+    "pregunta": "En relación a la inferencia causal ¿cuál de las siguientes frases es FALSA?:",
+    "opciones": {
+        "A": "La “consistencia” se refiere a la observación repetida de una asociación en poblaciones diferentes.",
+        "B": "El criterio de “especificidad” requiere que una causa conduzca a efectos múltiples.",
+        "C": "El “gradiente biológico” se refiere a la presencia de una curva de dosis-respuesta.",
+        "D": "“Temporalidad” se refiere a la necesidad de que la causa preceda en el tiempo al efecto."
+    },
+    "respuesta_correcta": "B"
+},
+"Epidemiologia_pregunta21": {
+    "pregunta": "En relación a la prevalencia de las enfermedades crónicas, señale la INCORRECTA:",
+    "opciones": {
+        "A": "Ha aumentado el número de personas mayores que sufren algún trastorno crónico o discapacidad.",
+        "B": "Según la Encuesta Europea de Salud 2014, el 18% de la población española mayor de 14 años padece al menos un proceso crónico.",
+        "C": "Se observa una tendencia a la disminución de la mortalidad cardiovascular en Europa.",
+        "D": "La morbilidad de la población cada vez se concentra en las franjas etarias más avanzadas."
+    },
+    "respuesta_correcta": "B"
+},
+"Epidemiologia_pregunta22": {
+    "pregunta": "En relación al concepto de sensibilidad, ¿cuál de las siguientes es FALSA?:",
+    "opciones": {
+        "A": "Es la probabilidad de clasificar correctamente a un individuo enfermo.",
+        "B": "También se conoce como fracción de verdaderos positivos.",
+        "C": "Es la probabilidad de clasificar correctamente a un individuo sano.",
+        "D": "En una epidemia es importante usar pruebas de sensibilidad elevada."
+    },
+    "respuesta_correcta": "C"
+},
+"Epidemiologia_pregunta23": {
+    "pregunta": "En relación con la fiabilidad de una prueba diagnóstica, señale la afirmación INCORRECTA:",
+    "opciones": {
+        "A": "La fiabilidad es el grado de consistencia con el que la prueba diagnóstica mide un atributo en particular.",
+        "B": "La fiabilidad inter-examinador de esa prueba es la medida de la capacidad de que dos o más examinadores obtengan resultados idénticos al realizarla de forma independiente.",
+        "C": "Se obtiene a partir de los datos de la tabla de contingencia 2x2, al igual que la sensibilidad y la especificidad.",
+        "D": "Una prueba con una fiabilidad alta indica que es una buena herramienta de medida por sí misma, independientemente de quién la emplee."
+    },
+    "respuesta_correcta": "C"
+},
+"Epidemiologia_pregunta24": {
+    "pregunta": "En un estudio caso control",
+    "opciones": {
+        "A": "Se parte del conocimiento de la exposición y se busca la enfermedad.",
+        "B": "Detectadas las personas enfermas, se buscan sanos, y se analiza la exposición en ambos grupos.",
+        "C": "Se hace, en la mayor parte de las ocasiones, de forma longitudinal.",
+        "D": "Sólo se puede analizar un único tipo de exposición."
+    },
+    "respuesta_correcta": "B"
+},
+"Epidemiologia_pregunta25": {
+    "pregunta": "En un estudio con diseño clásico de casos y controles, la medida de la exposición al factor o factores de riesgo de la enfermedad en estudio:",
+    "opciones": {
+        "A": "Se recoge de manera retrospectiva",
+        "B": "Se mide con mucha precisión, tanto en cantidad como en tiempo de exposición",
+        "C": "Al medirse en los casos y en los controles, permite el cálculo directo del riesgo relativo de padecer o desarrollar la enfermedad",
+        "D": "Todas las afirmaciones son correctas"
+    },
+    "respuesta_correcta": "A"
+},
+"Epidemiologia_pregunta26": {
+    "pregunta": "En un estudio de casos y controles la fórmula “OR-1/OR” corresponde a:",
+    "opciones": {
+        "A": "Fracción atribuible poblacional",
+        "B": "Riesgo relativo",
+        "C": "Fracción de riesgo atribuible",
+        "D": "Riesgo atribuible"
+    },
+    "respuesta_correcta": "C"
+},
+"Epidemiologia_pregunta27": {
+    "pregunta": "En un estudio de casos y controles, se estudia la relación entre cáncer de cavidad bucal (efecto) y consumo de bebidas alcohólicas (exposición). ¿Cómo calificaría el fenómeno que puede producir el hecho de que el hábito de fumar se asocia a la aparición de cáncer bucal y también a un mayor consumo de bebidas alcohólicas?",
+    "opciones": {
+        "A": "Sesgo de información.",
+        "B": "Factor de confusión.",
+        "C": "Un error aleatorio.",
+        "D": "Sesgo de observación."
+    },
+    "respuesta_correcta": "B"
+},
+"Epidemiologia_pregunta28": {
+    "pregunta": "En un estudio de cohortes, el riesgo de los sujetos expuestos que se debe exclusivamente a la exposición se llama:",
+    "opciones": {
+        "A": "Odds ratio (OR)",
+        "B": "Riesgo relativo (RR)",
+        "C": "Riesgo atribuible poblacional (RAP)",
+        "D": "Riesgo atribuible (RAE)"
+    },
+    "respuesta_correcta": "D"
+},
+"Epidemiologia_pregunta29": {
+    "pregunta": "En un estudio de investigación se comparan dos tratamientos broncodilatadores inhalados para el asma persistente, conformándose los grupos mediante asignación aleatoria. Cada grupo recibe primero uno de los tratamientos durante cuatro semanas y, tras un periodo de lavado de una semana, recibe el otro tratamiento durante otras cuatro semanas. ¿Cómo se conoce este diseño?",
+    "opciones": {
+        "A": "Ensayo clínico cruzado.",
+        "B": "Ensayo clínico factorial.",
+        "C": "Ensayo clínico de grupos paralelos.",
+        "D": "Ensayo clínico secuencial."
+    },
+    "respuesta_correcta": "A"
+},
+"Epidemiologia_pregunta30": {
+    "pregunta": "En un estudio hemos analizado la exposición al compuesto X y la aparición de la enfermedad E. Se ha encontrado un riesgo relativo igual a uno (1) con respecto a las personas no expuestas al citado producto. ¿Qué significado tiene?",
+    "opciones": {
+        "A": "Hay una correlación perfecta y a medida que aumenta la concentración del producto X se incrementa el número de casos de la enfermedad E.",
+        "B": "No es, por definición, posible.",
+        "C": "La incidencia de la enfermedad E entre los expuestos al compuesto X y los no expuestos es la misma.",
+        "D": "En un estudio como éste no se puede calcular el riesgo relativo."
+    },
+    "respuesta_correcta": "C"
+},
+"Epidemiologia_pregunta31": {
+    "pregunta": "Entre las corrientes de pensamiento que fundamentan los estudios cualitativos se encuentran todas las siguientes, excepto:",
+    "opciones": {
+        "A": "Positivismo",
+        "B": "Constructivismo",
+        "C": "Fenomenología",
+        "D": "Teoría crítica"
+    },
+    "respuesta_correcta": "A"
+},
+"Epidemiologia_pregunta32": {
+    "pregunta": "Estás atendiendo a una mujer con factores de riesgo conocidos para cáncer de mama cuya mamografía ha salido normal. El valor predictivo positivo de la prueba es del 85%. ¿Qué le dirías a la mujer?",
+    "opciones": {
+        "A": "Que la probabilidad de no padecer la enfermedad es del 85%.",
+        "B": "Que la probabilidad de no padecer la enfermedad es del 15%.",
+        "C": "Que si padeciera la enfermedad habría un 85% de probabilidad de que la prueba hubiera sido positiva.",
+        "D": "Que con los datos aportados no sabes que probabilidad tiene de no padecer la enfermedad."
+    },
+    "respuesta_correcta": "D"
+},
+"Epidemiologia_pregunta33": {
+    "pregunta": "Indique el criterio que afecta a la validez interna para valorar la causalidad:",
+    "opciones": {
+        "A": "Calidad de la evidencia.",
+        "B": "Aplicación a otras poblaciones.",
+        "C": "La relación temporal.",
+        "D": "La sensibilidad."
+    },
+    "respuesta_correcta": "C"
+},
+"Epidemiologia_pregunta34": {
+    "pregunta": "La epidemiología",
+    "opciones": {
+        "A": "es la bioestadística aplicada a las ciencias sociales",
+        "B": "no se aplica a el estudio de la salud",
+        "C": "es el método estadístico que utiliza la bioestadística para la recopilación de datos relacionados con los problemas de salud del hombre y su posterior análisis",
+        "D": "sólo se aplica en hospitales privados recopilando los datos para su posterior análisis"
+    },
+    "respuesta_correcta": "C"
+},
+"Epidemiologia_pregunta35": {
+    "pregunta": "La epidemiología:",
+    "opciones": {
+        "A": "Estudia los problemas de enfermedad en la población.",
+        "B": "Estudia el estado de salud de una persona.",
+        "C": "Es la ciencia básica de la salud pública.",
+        "D": "Su ámbito de actuación se limita a poblaciones por encima de 65 años."
+    },
+    "respuesta_correcta": "C"
+},
+"Epidemiologia_pregunta36": {
+    "pregunta": "La especificidad de una prueba diagnóstica es del 94 %. ¿Cuál es la interpretación correcta?",
+    "opciones": {
+        "A": "De cada 100 resultados negativos, 94 corresponden a pacientes sanos.",
+        "B": "De cada 100 pacientes sanos, en 94 el resultado de la prueba será negativo.",
+        "C": "De cada 100 pacientes enfermos, en 6 el resultado de la prueba será negativo.",
+        "D": "De cada 100 resultados positivos, 6 corresponden a pacientes enfermos."
+    },
+    "respuesta_correcta": "B"
+},
+"Epidemiologia_pregunta37": {
+    "pregunta": "La medida clásica de la epidemiología es:",
+    "opciones": {
+        "A": "Probabilidad.",
+        "B": "Tasa.",
+        "C": "Riesgo de salud.",
+        "D": "Todas las anteriores son correctas."
+    },
+    "respuesta_correcta": "B"
+},
+"Epidemiologia_pregunta38": {
+    "pregunta": "La medida de asociación más característica y, frecuentemente usada, en los estudios de casos y controles, es:",
+    "opciones": {
+        "A": "Riesgo relativo (RR).",
+        "B": "Reducción Absoluta de Riesgo (RAR).",
+        "C": "NNT.",
+        "D": "Odds ratio (OR)."
+    },
+    "respuesta_correcta": "D"
+},
+"Epidemiologia_pregunta39": {
+    "pregunta": "La prueba de elevación de la pierna extendida (SLR) muestra una sensibilidad del 90% y una especificidad del 25% en la detección de hernia discal lumbar. Según estos datos:",
+    "opciones": {
+        "A": "Es una prueba que genera un porcentaje muy elevado de falsos negativos (90%).",
+        "B": "Es una buena prueba para, en caso de resultar negativa, descartar la presencia de hernia discal.",
+        "C": "Es una buena prueba para, en caso de resultar positiva, confirmar la presencia de hernia discal.",
+        "D": "Presenta un alto grado de concordancia en los resultados obtenidos por varios examinadores."
+    },
+    "respuesta_correcta": "B"
+},
+"Epidemiologia_pregunta40": {
+    "pregunta": "La razón de incidencias o de riesgo se denomina también.",
+    "opciones": {
+        "A": "Riesgo atribuible.",
+        "B": "Riesgo relativo.",
+        "C": "Odds ratio.",
+        "D": "Razón de probabilidad."
+    },
+    "respuesta_correcta": "B"
+},
+"Epidemiologia_pregunta41": {
+    "pregunta": "La sensibilidad de una prueba diagnóstica es del 94 %. ¿Cuál es la interpretación correcta?",
+    "opciones": {
+        "A": "De cada 100 resultados positivos, 94 corresponden a pacientes enfermos.",
+        "B": "De cada 100 pacientes enfermos, en 94 el resultado de la prueba será positivo.",
+        "C": "De cada 100 pacientes sanos, en 6 el resultado de la prueba será positivo.",
+        "D": "De cada 100 resultados negativos, 6 corresponden a pacientes sanos."
+    },
+    "respuesta_correcta": "B"
+},
+"Epidemiologia_pregunta42": {
+    "pregunta": "La tasa de ataque de un brote epidémico es:",
+    "opciones": {
+        "A": "Un riesgo atribuible.",
+        "B": "Una incidencia acumulada.",
+        "C": "Una prevalencia puntual.",
+        "D": "Una concordancia."
+    },
+    "respuesta_correcta": "B"
+},
+"Epidemiologia_pregunta43": {
+    "pregunta": "La transmisión aérea es aquella que:",
+    "opciones": {
+        "A": "Se produce por la diseminación de gotículas de más de 5 micras evaporadas o partículas de polvo que vehiculizan microorganismos y que pueden ser desplazadas grandes distancias por las corrientes de aire.",
+        "B": "Se produce por la diseminación de gotículas que no son capaces de desplazarse en el aire a distancias mayores a 1 metro.",
+        "C": "Se produce por la diseminación de gotículas de menos de 5 micras evaporadas o partículas de polvo que vehiculizan microorganismos y que pueden ser desplazadas grandes distancias por las corrientes de aire.",
+        "D": "Ninguna de las respuestas anteriores es correcta."
+    },
+    "respuesta_correcta": "C"
+},
+"Epidemiologia_pregunta44": {
+    "pregunta": "La transmisión vertical de una enfermedad infecciosa",
+    "opciones": {
+        "A": "Se produce por microorganismos que se trasladan desde el aire a la tierra.",
+        "B": "Un ejemplo de ella son los casos de Legionela ocasionados por torres de refrigeración en hospitales y edificios hosteleros.",
+        "C": "Se produce de madre embarazada a hij@ por vía transplacentaria.",
+        "D": "No se puede prevenir."
+    },
+    "respuesta_correcta": "C"
+},
+"Epidemiologia_pregunta45": {
+    "pregunta": "La vacunación de la población adulta frente al SARS-Cov-2 para reducir el contagio y la mortalidad por COVID-19 es una medida de:",
+    "opciones": {
+        "A": "Prevención oportunista",
+        "B": "Prevención secundaria",
+        "C": "Prevención primaria",
+        "D": "Prevención terciaria"
+    },
+    "respuesta_correcta": "C"
+},
+"Epidemiologia_pregunta46": {
+    "pregunta": "Las epidemias por fuente única de exposición se caracterizan por los siguientes aspectos excepto:",
+    "opciones": {
+        "A": "Solo se presentan en expuestos a la fuente de infección.",
+        "B": "Carecen de limitación geográfica.",
+        "C": "Explosividad de aparición.",
+        "D": "Existen pocos casos secundarios."
+    },
+    "respuesta_correcta": "B"
+},
+"Epidemiologia_pregunta47": {
+    "pregunta": "Las funciones de la vigilancia epidemiológica incluyen todas las que siguen, salvo:",
+    "opciones": {
+        "A": "Recopilar toda la información necesaria y actualizada.",
+        "B": "Procesar, analizar e interpretar los datos.",
+        "C": "Hacer las recomendaciones pertinentes.",
+        "D": "Siempre incluye funciones ejecutivas y de control."
+    },
+    "respuesta_correcta": "D"
+},
+"Epidemiologia_pregunta48": {
+    "pregunta": "Los ensayos clínicos que examinan los efectos a largo plazo de un fármaco cuando ya ha sido comercializado, y que sirven para monitorizar su efectividad, son ensayos:",
+    "opciones": {
+        "A": "En fase I.",
+        "B": "En fase II.",
+        "C": "En fase III.",
+        "D": "En fase IV."
+    },
+    "respuesta_correcta": "D"
+},
+"Epidemiologia_pregunta49": {
+    "pregunta": "Los eslabones de la cadena epidemiológica son:",
+    "opciones": {
+        "A": "Fuente de infección, mecanismos de trasmisión y vías de entrada.",
+        "B": "Fuente de infección, fómites y vías de entrada.",
+        "C": "Fuente de infección, mecanismos de trasmisión y huésped.",
+        "D": "Fuente de infección, fuente de exposición y huésped."
+    },
+    "respuesta_correcta": "C"
+},
+"Epidemiologia_pregunta50": {
+    "pregunta": "Los estudios de concordancia son:",
+    "opciones": {
+        "A": "Estudios descriptivos transversales.",
+        "B": "Estudios descriptivos longitudinal.",
+        "C": "Estudios analíticos observacionales.",
+        "D": "Estudios analíticos experimentales."
+    },
+    "respuesta_correcta": "A"
+},
+"Epidemiologia_pregunta51": {
+    "pregunta": "No es un criterio de causalidad:",
+    "opciones": {
+        "A": "La fuerza de la asociación.",
+        "B": "La comprensión.",
+        "C": "La consistencia.",
+        "D": "La plausibilidad biológica."
+    },
+    "respuesta_correcta": "B"
+},
+"Epidemiologia_pregunta52": {
+    "pregunta": "Para conocer si el uso habitual de ácido acetil salicílico (AAS) se asocia a un mayor riesgo de hipertensión, se selecciona un grupo de sujetos, se averigua cuántos están tomando AAS y se les sigue durante 5 años para identificar los casos nuevos de hipertensión. ¿Cuál es el diseño de este estudio?",
+    "opciones": {
+        "A": "Es un ensayo clínico, porque se realiza con fármacos.",
+        "B": "Es un estudio ecológico, porque se sigue a muchos sujetos.",
+        "C": "Es un estudio de casos y controles, en el que los casos toman AAS y los controles no.",
+        "D": "Es un estudio de cohortes, porque se sigue a sujetos clasificados según su exposición para identificar el riesgo de una enfermedad."
+    },
+    "respuesta_correcta": "D"
+},
+"Epidemiologia_pregunta53": {
+    "pregunta": "Para el estudio de enfermedades raras es preferible utilizar diseños:",
+    "opciones": {
+        "A": "Experimentales.",
+        "B": "Casos y controles.",
+        "C": "Cohortes.",
+        "D": "Ecológicos."
+    },
+    "respuesta_correcta": "B"
+},
+"Epidemiologia_pregunta54": {
+    "pregunta": "Podemos definir la “Prevención Terciaria” como:",
+    "opciones": {
+        "A": "Las intervenciones que tienen como objetivo eliminar o reducir las consecuencias del desarrollo de una enfermedad ya instaurada.",
+        "B": "La intervención que evita o atenúa las consecuencias de la actividad innecesaria o excesiva del sistema sanitario.",
+        "C": "Las intervenciones que tienen como objetivo principal el impedir o retrasar el desarrollo de una enfermedad.",
+        "D": "Las intervenciones que tienen como objetivo promover hábitos y estilos de vida saludables."
+    },
+    "respuesta_correcta": "A"
+},
+"Epidemiologia_pregunta55": {
+    "pregunta": "Qué estudio es el más adecuado para estimar la prevalencia de una enfermedad en una población",
+    "opciones": {
+        "A": "Casos y controles",
+        "B": "Transversal",
+        "C": "Cohorte prospectiva",
+        "D": "Ensayo clínico"
+    },
+    "respuesta_correcta": "B"
+},
+"Epidemiologia_pregunta56": {
+    "pregunta": "Referida a la investigación publicada, ¿cuál de los siguientes NO es un estudio primario?",
+    "opciones": {
+        "A": "Meta-análisis.",
+        "B": "Ensayo clínico aleatorizado.",
+        "C": "Cohorte retrospectiva.",
+        "D": "Estudio descriptivo."
+    },
+    "respuesta_correcta": "A"
+},
+"Epidemiologia_pregunta57": {
+    "pregunta": "Referido a los indicadores inherentes a una prueba diagnóstica, señale -de entre las siguientes- la aseveración correcta:",
+    "opciones": {
+        "A": "La sensibilidad es la capacidad de la prueba para detectar a un sujeto sano.",
+        "B": "La especificidad es la capacidad de la prueba para identificar como enfermos a los que efectivamente lo son.",
+        "C": "La sensibilidad de una prueba representa la fracción de verdaderos positivos.",
+        "D": "La sensibilidad y la especificidad de una prueba son dependientes de la prevalencia en la población del trastorno o enfermedad que detecta o diagnostica la prueba."
+    },
+    "respuesta_correcta": "C"
+},
+"Epidemiologia_pregunta58": {
+    "pregunta": "Respecto a la sensibilidad de una prueba diagnóstica, indique la respuesta correcta:",
+    "opciones": {
+        "A": "Es la capacidad de una prueba para identificar a los individuos que no tienen la enfermedad.",
+        "B": "La sensibilidad de un test no depende de la prevalencia de la enfermedad.",
+        "C": "Es la que determina la validez de una prueba diagnóstica.",
+        "D": "Es equivalente a la sensibilidad analítica."
+    },
+    "respuesta_correcta": "B"
+},
+"Epidemiologia_pregunta59": {
+    "pregunta": "Respecto a las características epidemiológicas de las pruebas diagnósticas, podemos afirmar que:",
+    "opciones": {
+        "A": "Una buena prueba diagnóstica es aquélla que resulte normal en la mayoría de individuos sanos, y anormal en los individuos enfermos.",
+        "B": "Las características que debe tener una prueba son validez, fiabilidad y sostenibilidad.",
+        "C": "Las medidas de la validez son la sensibilidad y la especificidad.",
+        "D": "Se pueden utilizar en todas las poblaciones, pero varían con la prevalencia."
+    },
+    "respuesta_correcta": "C"
+},
+"Epidemiologia_pregunta60": {
+    "pregunta": "Se llama prevalencia a:",
+    "opciones": {
+        "A": "Número de casos nuevos que surgen en una población en un determinado periodo de tiempo.",
+        "B": "Proporción de personas de una población que padecerá una enfermedad a lo largo de un periodo de tiempo.",
+        "C": "Número de casos (tanto antiguos como recientes) de una determinada enfermedad que existe en una población.",
+        "D": "Seguimiento de cada uno de los miembros de una población."
+    },
+    "respuesta_correcta": "C"
+},
+"Epidemiologia_pregunta61": {
+    "pregunta": "Según los criterios de causalidad en epidemiología de Hill, la causa precede al efecto. ¿a qué criterio se está refiriendo?",
+    "opciones": {
+        "A": "Especificidad.",
+        "B": "Plausibilidad.",
+        "C": "Temporalidad.",
+        "D": "Consistencia."
+    },
+    "respuesta_correcta": "C"
+},
+"Epidemiologia_pregunta62": {
+    "pregunta": "Señale el enunciado INCORRECTO en relación al concepto de Brote Epidémico (BE):",
+    "opciones": {
+        "A": "Los BE más investigados en la región en los últimos años corresponden a enfermedades espiratorias.",
+        "B": "Se entiende por BE la aparición de una enfermedad, problema o riesgo para la salud en una zona hasta entonces libre de ella.",
+        "C": "Se entiende por BE la detección de un incremento significativamente elevado de casos en relación con lo esperado.",
+        "D": "Fuera del horario laboral la notificación de un brote epidémico se hará al 112."
+    },
+    "respuesta_correcta": "B"
+},
+"Epidemiologia_pregunta63": {
+    "pregunta": "Señale la característica de un estudio cruzado:",
+    "opciones": {
+        "A": "Los grupos de estudio y de comparación están formados por diferentes sujetos.",
+        "B": "Los pacientes se asignan para recibir uno de los tratamientos.",
+        "C": "Periodo de blanqueo no necesario",
+        "D": "Cada sujeto actúa como su propio control."
+    },
+    "respuesta_correcta": "D"
+},
+"Epidemiologia_pregunta64": {
+    "pregunta": "Señale la respuesta INCORRECTA en relación con la epidemiología de las enfermedades crónicas:",
+    "opciones": {
+        "A": "La mayoría de factores causales de morbilidad y mortalidad son prevenibles.",
+        "B": "La utilización intensiva de modelos de relación no presencial entre profesionales y ciudadanos puede tener un impacto positivo sobre la salud de la población.",
+        "C": "El ingreso hospitalario en pacientes crónicos puede considerarse un fracaso relativo del sistema.",
+        "D": "La interacción entre cronicidad y dependencia es poco relevante."
+    },
+    "respuesta_correcta": "D"
+},
+"Epidemiologia_pregunta65": {
+    "pregunta": "Señale qué condiciones deberían cumplirse al implantar un programa de cribado de cáncer:",
+    "opciones": {
+        "A": "Alta prevalencia del tipo de cáncer a cribar en la población diana del programa.",
+        "B": "La prueba diagnóstica elegida deberá muy específica.",
+        "C": "La prueba diagnóstica elegida tendrá una sensibilidad alta.",
+        "D": "Las respuestas A y C son correctas."
+    },
+    "respuesta_correcta": "D"
+},
+"Epidemiologia_pregunta66": {
+    "pregunta": "Si afirma que por cada 100 cánceres en fumadores, 60 estaban producidos por el consumo de tabaco, se está refiriendo al parámetro:",
+    "opciones": {
+        "A": "Diferencia de riesgos en expuestos.",
+        "B": "Riesgo relativo.",
+        "C": "Fracción atribuible en expuestos.",
+        "D": "Nada de lo anterior."
+    },
+    "respuesta_correcta": "C"
+},
+"Epidemiologia_pregunta67": {
+    "pregunta": "Si al aplicar una prueba diagnóstica se observa un 10% de falsos positivos, ¿Cuál de las siguientes afirmaciones es cierta?",
+    "opciones": {
+        "A": "La sensibilidad es del 90%",
+        "B": "La especificidad es del 90%",
+        "C": "La sensibilidad es del 10%",
+        "D": "Todas son ciertas"
+    },
+    "respuesta_correcta": "B"
+},
+"Epidemiologia_pregunta68": {
+    "pregunta": "Si la TAC diagnostica realmente a 95 sujetos con lesiones pulmonares por cada 100 resultados positivos, se refiere al parámetro:",
+    "opciones": {
+        "A": "Sensibilidad.",
+        "B": "Especificidad.",
+        "C": "Valor predictivo positivo.",
+        "D": "Valor predictivo negativo."
+    },
+    "respuesta_correcta": "C"
+},
+"Epidemiologia_pregunta69": {
+    "pregunta": "Si tuviera que elegir una sola característica entre las siguientes, para tomar la decisión de poner en marcha en su centro o consulta una determinada prueba de detección en fase presintomática (screening), escogería aquella que tuviera más:",
+    "opciones": {
+        "A": "Sensibilidad",
+        "B": "Especificidad",
+        "C": "Valor predictivo positivo",
+        "D": "Valor predictivo negativo."
+    },
+    "respuesta_correcta": "C"
+},
+"Epidemiologia_pregunta70": {
+    "pregunta": "Si usted quiere medir la relación que existe entre un factor y un efecto, mediante la densidad de incidencia, con el fin de establecer una hipótesis causal, ¿Cuál de los siguientes es el estudio adecuado?:",
+    "opciones": {
+        "A": "Ecológicos",
+        "B": "Transversales",
+        "C": "Cohortes",
+        "D": "Casos y controles"
+    },
+    "respuesta_correcta": "C"
+},
+"Epidemiologia_pregunta71": {
+    "pregunta": "Suponga que la tasa anual de mortalidad por cáncer de pulmón es de 160 por 100,000 en el grupo de fumadores empedernidos en comparación con 8 por 100,000 en el de los no fumadores. ¿cuál es el riesgo relativo de morir en los fumadores comparado con el de los no fumadores?",
+    "opciones": {
+        "A": "152.",
+        "B": "20.",
+        "C": "19.",
+        "D": "8."
+    },
+    "respuesta_correcta": "B"
+},
+"Epidemiologia_pregunta72": {
+    "pregunta": "Suponga que la tasa anual de mortalidad por cáncer de pulmón es de 160 por 100,000 en el grupo de fumadores empedernidos en comparación con 8 por 100,000 en el de los no fumadores ¿cuál es el riesgo de morir que puede atribuirse al tabaquismo?",
+    "opciones": {
+        "A": "152.",
+        "B": "20.",
+        "C": "19.",
+        "D": "8."
+    },
+    "respuesta_correcta": "A"
+},
+"Epidemiologia_pregunta73": {
+    "pregunta": "Supongamos que, para una determinada enfermedad transmisible, los sistemas de vigilancia epidemiológica detectan que su incidencia está siendo anormalmente alta en un área determinada, por declararse más casos de los esperados. Ello quiere decir que se está utilizando:",
+    "opciones": {
+        "A": "Índice epidémico.",
+        "B": "Tasa de incidencia.",
+        "C": "Tasa de ataque secundario.",
+        "D": "Tasa de contagiosidad."
+    },
+    "respuesta_correcta": "A"
+},
+"Epidemiologia_pregunta74": {
+    "pregunta": "Un ensayo clínico aleatorizado y doble ciego, que evaluó la seguridad de sinvastatina frente a placebo en términos de mortalidad, encontró una diferencia de mortalidad por cualquier causa entre el grupo control y el grupo experimental que fue estadísticamente significativa (p=0.0003), con un RR de 0.71 (IC95% entre 0.58 y 0.85). ¿Cuál fue la reducción relativa de riesgo (RRR) -puntual y aproximada- en este ensayo clínico?",
+    "opciones": {
+        "A": "5%.",
+        "B": "29%.",
+        "C": "0.03%.",
+        "D": "No se puede calcular con los datos aportados."
+    },
+    "respuesta_correcta": "B"
+},
+"Epidemiologia_pregunta75": {
+    "pregunta": "Un estudio de investigación plantea evaluar la posible asociación etiológica entre el cáncer de endometrio y la toma de progestágenos, para lo cual parte de una muestra de mujeres con cáncer de endometrio confirmado e indaga entre los antecedentes de prescripción de estos fármacos en el pasado, entrevistando a las pacientes y revisando en sus registros electrónicos e historias en papel. ¿Cuál sería el mejor control de este grupo de casos, para obtener una estimación más válida o insesgada de la OR?",
+    "opciones": {
+        "A": "Controles de hombres y mujeres sanos, familiares, amigos o vecinos y de edad similar a los de la muestra de casos.",
+        "B": "Controles de mujeres obtenidos de una consulta de oncología ginecológica, pero sin cáncer de endometrio.",
+        "C": "Controles de mujeres sanas que no hayan tomado estrógenos en el pasado.",
+        "D": "Controles de mujeres sin cáncer de endometrio, parecidas a los casos en edad y otros posibles factores confundentes."
+    },
+    "respuesta_correcta": "D"
+},
+"Epidemiologia_pregunta76": {
+    "pregunta": "Un estudio de investigación sobre la posible relación entre la toma prolongada de inhibidores de la bomba de protones (IBP) y la aparición de ferropenia y anemia sintomática en personas mayores de 65 años, recurre a una base de datos de salud de una compañía de seguros que tiene registros de casi un millón de personas seguidas en los últimos 20 años. En concreto, los investigadores seleccionaron en esta población a 3.500 que mostraron ferropenia y/o anemia ferropénica en algún momento y lo compararon con 7.000 personas de la misma base que no la mostraron, analizando en sus prescripciones -de cinco años antes- las de fármacos incluidos en el grupo de IBP por periodos superiores a 3 meses. ¿Cómo se conoce a este diseño?",
+    "opciones": {
+        "A": "Estudio de casos y controles clásico.",
+        "B": "Estudio de casos y controles apareados.",
+        "C": "Estudio de casos y controles anidado.",
+        "D": "Estudio de cohortes retrospectivo o histórico."
+    },
+    "respuesta_correcta": "C"
+},
+"Epidemiologia_pregunta77": {
+    "pregunta": "Un estudio en que se comienza por ver qué personas tenían, o no, el factor de exposición en el año 1980 y se siguen hasta ver si se presentó el resultado de interés (enfermedad) en el año 2000 es un estudio de:",
+    "opciones": {
+        "A": "Cohortes prospectivo.",
+        "B": "Cohortes retrospectivo.",
+        "C": "Caso control.",
+        "D": "Ensayo clínico."
+    },
+    "respuesta_correcta": "B"
+},
+"Epidemiologia_pregunta78": {
+    "pregunta": "Un estudio epidemiológico que es de tipo observacional, y en el que la formación de los grupos se realiza en función de que los participantes estén expuestos o no al factor de estudio, es un diseño:",
+    "opciones": {
+        "A": "De casos y controles.",
+        "B": "De cohortes.",
+        "C": "Estudio cuasiexperimental.",
+        "D": "De corte transversal."
+    },
+    "respuesta_correcta": "B"
+},
+"Epidemiologia_pregunta79": {
+    "pregunta": "Una causa necesaria es:",
+    "opciones": {
+        "A": "Una causa componente de la enfermedad.",
+        "B": "Una causa componente de una causa suficiente de la enfermedad.",
+        "C": "Una causa componente de todas las casas suficientes de la enfermedad.",
+        "D": "Una causa suficiente de todas las causas componentes de la enfermedad."
+    },
+    "respuesta_correcta": "C"
+},
+"Epidemiologia_pregunta80": {
+    "pregunta": "Una prueba con alta sensibilidad:",
+    "opciones": {
+        "A": "Presenta pocos falsos negativos",
+        "B": "Presenta pocos falsos positivos.",
+        "C": "Necesariamente tiene una especificidad alta.",
+        "D": "Tiene una p<0,05"
+    },
+    "respuesta_correcta": "A"
+},
+"Epidemiologia_pregunta81": {
+    "pregunta": "¿A qué grupo poblacional hace referencia la fracción atribuible poblacional de un estudio de cohortes?",
+    "opciones": {
+        "A": "Población expuesta al factor.",
+        "B": "Población enferma.",
+        "C": "Conjunto de la población.",
+        "D": "Población no expuesta al factor."
+    },
+    "respuesta_correcta": "C"
+},
+"Epidemiologia_pregunta82": {
+    "pregunta": "¿Cuál de estas afirmaciones es incorrecta respecto a los estudios de casos - control?",
+    "opciones": {
+        "A": "Son eficientes para el estudio de enfermedades raras.",
+        "B": "Son estudios observacionales y analíticos.",
+        "C": "En ellos se utiliza como medida de asociación el RR (riesgo relativo).",
+        "D": "Son útiles para establecer la eficacia de las vacunas."
+    },
+    "respuesta_correcta": "C"
+},
+"Epidemiologia_pregunta83": {
+    "pregunta": "¿Cuál de las siguientes afirmaciones es correcta en un estudio transversal?",
+    "opciones": {
+        "A": "No existe un buen control de la selección de los sujetos de estudio.",
+        "B": "No permiten diferenciar entre los factores de riesgo y los factores pronóstico.",
+        "C": "No son eficientes para estudiar la incidencia de enfermedades en la población.",
+        "D": "Todas son correctas."
+    },
+    "respuesta_correcta": "D"
+},
+"Epidemiologia_pregunta84": {
+    "pregunta": "¿Cuál de las siguientes afirmaciones es la que mejor define qué es un “portador” de una enfermedad infecciosa?",
+    "opciones": {
+        "A": "Individuo infectado por el agente infeccioso, aunque no tiene los síntomas clínicos de la enfermedad y no la transmite.",
+        "B": "Individuo infectado por un agente infeccioso, aunque no presenta ni presentará síntomas de la enfermedad, pero es capaz de transmitir la infección.",
+        "C": "Individuo infectado que es capaz de transmitir el agente infeccioso y presentar o no síntomas de la enfermedad en un momento dado.",
+        "D": "Se caracterizan por tener niveles de anticuerpos específicos contra el patógeno superiores a los de los enfermos."
+    },
+    "respuesta_correcta": "C"
+},
+"Epidemiologia_pregunta85": {
+    "pregunta": "¿Cuál de las siguientes afirmaciones sobre el concepto de persona-tiempo en Epidemiología es INCORRECTA?",
+    "opciones": {
+        "A": "Se utiliza como denominador para el cálculo de la incidencia acumulada.",
+        "B": "Tiene en cuenta el tiempo de seguimiento de cada sujeto.",
+        "C": "La medida persona-tiempo debe ser adecuada a la historia natural de la enfermedad.",
+        "D": "Su uso asume que el riesgo de enfermedad es constante a lo largo de todo el periodo de observación"
+    },
+    "respuesta_correcta": "A"
+},
+"Epidemiologia_pregunta86": {
+    "pregunta": "¿Cuál de las siguientes afirmaciones sobre una prueba diagnóstica que tiene una sensibilidad del 80% es cierta?:",
+    "opciones": {
+        "A": "La prueba no detecta al 20% de los individuos que tienen la enfermedad.",
+        "B": "La prueba no detecta correctamente al 20% de los individuos que no tienen la enfermedad.",
+        "C": "El 80% de los individuos con un resultado positivo de la prueba tienen la enfermedad.",
+        "D": "El 80% de los individuos con un resultado positivo de la prueba no tienen la enfermedad."
+    },
+    "respuesta_correcta": "A"
+},
+"Epidemiologia_pregunta87": {
+    "pregunta": "¿Cuál de las siguientes medidas de la frecuencia de una enfermedad se puede calcular en un estudio transversal?",
+    "opciones": {
+        "A": "Densidad de incidencia",
+        "B": "Incidencia acumulada",
+        "C": "Prevalencia",
+        "D": "Fracción atribuible"
+    },
+    "respuesta_correcta": "C"
+},
+"Epidemiologia_pregunta88": {
+    "pregunta": "¿Cuál de las siguientes NO es una medida de frecuencia?",
+    "opciones": {
+        "A": "Prevalencia",
+        "B": "Tasa",
+        "C": "Proporción.",
+        "D": "Riesgo relativo."
+    },
+    "respuesta_correcta": "D"
+},
+"Epidemiologia_pregunta89": {
+    "pregunta": "¿Cuál de los siguientes estudios se considera experimental?",
+    "opciones": {
+        "A": "Estudio de cohortes.",
+        "B": "Estudio de casos y controles.",
+        "C": "Estudio ecológico.",
+        "D": "Ensayo aleatorio controlado."
+    },
+    "respuesta_correcta": "D"
+},
+"Epidemiologia_pregunta90": {
+    "pregunta": "¿Cuál de los siguientes hechos es un inconveniente de los estudios de casos y controles?",
+    "opciones": {
+        "A": "El estudio de la influencia de la mortalidad.",
+        "B": "Su coste.",
+        "C": "Valoración de más de una exposición.",
+        "D": "Pregunta mal planteada, todas son ventajas."
+    },
+    "respuesta_correcta": "A"
+},
+"Epidemiologia_pregunta91": {
+    "pregunta": "¿Cuál es la finalidad principal de la aleatorización en los estudios experimentales?:",
+    "opciones": {
+        "A": "Prevenir el sesgo de confusión.",
+        "B": "Prevenir el sesgo de selección.",
+        "C": "Fortalecer la estadística.",
+        "D": "Asegurar a los integrantes del experimento la misma probabilidad p de recibir la intervención."
+    },
+    "respuesta_correcta": "A"
+},
+"Epidemiologia_pregunta92": {
+    "pregunta": "¿Cuál es la principal característica de los estudios experimentales que los distinguen de otros tipos de estudios epidemiológicos analíticos?",
+    "opciones": {
+        "A": "Asignación controlada de la exposición",
+        "B": "Control de las pérdidas durante el seguimiento",
+        "C": "Incluye grupo control",
+        "D": "Ninguna de ellas"
+    },
+    "respuesta_correcta": "A"
+},
+"Epidemiologia_pregunta93": {
+    "pregunta": "¿Dentro de qué tipo de estudio epidemiológico se encuadraría un estudio de series de casos?",
+    "opciones": {
+        "A": "Descriptivo observacional",
+        "B": "Descriptivo ecológico",
+        "C": "Analítico experimental",
+        "D": "Analítico observacional"
+    },
+    "respuesta_correcta": "A"
+},
+"Epidemiologia_pregunta94": {
+    "pregunta": "¿En cuál de los siguientes diseños o estudios epidemiológicos puede calcularse una incidencia?",
+    "opciones": {
+        "A": "Casos y controles.",
+        "B": "Ensayos clínicos.",
+        "C": "Estudios transversales.",
+        "D": "En todos los anteriores diseños es posible calcular una incidencia."
+    },
+    "respuesta_correcta": "B"
+},
+"Epidemiologia_pregunta95": {
+    "pregunta": "¿Qué se entiende por apareamiento de los casos y controles?",
+    "opciones": {
+        "A": "Elección del mismo número de casos y de controles.",
+        "B": "Elección del mismo número de casos expuestos que de controles expuestos.",
+        "C": "Elección de mismo número de casos no expuestos y de controles no expuestos.",
+        "D": "Elección de los controles en función de los casos."
+    },
+    "respuesta_correcta": "D"
+}
+
+}

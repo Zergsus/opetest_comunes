@@ -1,0 +1,193 @@
+{
+"Derechos_y_garantias_pregunta1": {
+    "pregunta": "Conforme a la ley 7/2002, de 12 de diciembre, de voluntades anticipadas en el ámbito de la sanidad, diga, en relación con el documento de voluntades anticipadas, cuál de estas afirmaciones es cierta:",
+    "opciones": {
+        "A": "Únicamente tiene validez si previamente ha sido inscrito en algún Registro de Voluntades anticipadas legalmente constituido.",
+        "B": "Únicamente es válido en relaciones con las actuaciones sanitarias que se vayan a practicar en Osakidetza-Servicio vasco de salud.",
+        "C": "Únicamente puede referirse a enfermedades o lesiones que la persona otorgante pueda padecer en el futuro y, en ningún caso, a aquellas enfermedades o lesiones que ya padece.",
+        "D": "Las tres afirmaciones anteriores son falsas."
+    },
+    "respuesta_correcta": "D"
+},
+"Derechos_y_garantias_pregunta2": {
+    "pregunta": "El artículo 21 de la Ley 2/2010 (Ley 'de Muerte Digna' de Andalucía), establece los deberes de los profesionales sanitarios respecto a la limitación del esfuerzo terapéutico (LET), entre los que encuentran recogidos todos los siguientes, EXCEPTO:",
+    "opciones": {
+        "A": "Reconoce la LET como un ejercicio de buena práctica clínica, cuando se emplea en una situación clínica que lo aconseje y para evitar la obstinación terapéutica.",
+        "B": "Establece que la LET se llevará a cabo oído el criterio profesional del enfermero o enfermera responsable de los cuidados, y requerirá la opinión coincidente con la del médico o médica.",
+        "C": "Determina que la LET debe consensuarse con el paciente, debiendo éste firmar por escrito su consentimiento.",
+        "D": "Obliga a que tanto la justificación de la LET, como la identidad y opinión de los profesionales sanitarios que intervienen en el caso, queden registradas en la historia clínica."
+    },
+    "respuesta_correcta": "C"
+},
+"Derechos_y_garantias_pregunta3": {
+    "pregunta": "El derecho a la Garantía de plazos de respuesta en el Sistema Sanitario Público de Andalucía incluye plazos de respuesta para determinados procedimientos. ¿Cuál de los siguientes no está recogido en este derecho?",
+    "opciones": {
+        "A": "Intervenciones quirúrgicas.",
+        "B": "Primeras consultas.",
+        "C": "Procedimientos diagnósticos.",
+        "D": "Segunda opinión médica."
+    },
+    "respuesta_correcta": "D"
+},
+"Derechos_y_garantias_pregunta4": {
+    "pregunta": "El plazo de contestación a una reclamación es de",
+    "opciones": {
+        "A": "15 días hábiles, prorrogables a 30 naturales.",
+        "B": "30 días hábiles, improrrogables, en cualquier caso.",
+        "C": "15 días hábiles, improrrogables, en cualquier caso.",
+        "D": "15 días hábiles, prorrogables a 30 hábiles en ciertos casos."
+    },
+    "respuesta_correcta": "D"
+},
+"Derechos_y_garantias_pregunta5": {
+    "pregunta": "En caso de hacer una solicitud de segunda opinión médica por persona distinta al paciente interesado, ¿cuál de las siguientes podría hacerlo?",
+    "opciones": {
+        "A": "Un familiar del paciente con un documento oficial que acredite su vinculación de parentesco.",
+        "B": "La pareja de hecho del paciente con documentación suficiente que acredite su vinculación como tal pareja de hecho.",
+        "C": "Una persona allegada del paciente con declaración jurada que acredite su vinculación como allegado y certificación médica que acredite la imposibilidad del paciente para formular por sí mismo la petición.",
+        "D": "En ninguno de estos casos es posible iniciar dicha tramitación."
+    },
+    "respuesta_correcta": "C"
+},
+"Derechos_y_garantias_pregunta6": {
+    "pregunta": "Las instrucciones previas, según la ley 41/2002, de 14 de noviembre, básica reguladora de autonomía de los pacientes:",
+    "opciones": {
+        "A": "Deben ser aplicadas en cualquier caso.",
+        "B": "Solo pueden ser aplicadas aquellas que no sean contrarias al ordenamiento jurídico.",
+        "C": "Deben ser aplicadas aunque no se correspondan con total exactitud con el supuesto de hecho que el interesado haya previsto en el momento de manifestarlas.",
+        "D": "Pueden ser aplicadas aunque contradigan la lex artis."
+    },
+    "respuesta_correcta": "B"
+},
+"Derechos_y_garantias_pregunta7": {
+    "pregunta": "Las Instrucciones Previas… (Señala la INCORRECTA):",
+    "opciones": {
+        "A": "La persona en cualquier momento puede sustituir, modificar o revocar sus instrucciones previas siempre que se realice en el mismo registro autonómico presentado, prevaleciendo siempre el último documento legalmente otorgado.",
+        "B": "Es el documento por el que una persona mayor de edad, capaz y libre, manifiesta anticipadamente su voluntad cuando no sea capaz de expresarlos personalmente, sobre los cuidados y el tratamiento de su salud o sobre el destino, una vez llegado el momento, de su cuerpo o sus órganos",
+        "C": "Posibilita el conocimiento, en todo el territorio nacional, de las instrucciones previas otorgadas por los ciudadanos",
+        "D": "En Andalucía es el Registro Autonómico de Voluntades Anticipada."
+    },
+    "respuesta_correcta": "A"
+},
+"Derechos_y_garantias_pregunta8": {
+    "pregunta": "Las personas que pueden hacer el documento de Voluntad Vital Anticipada, son:",
+    "opciones": {
+        "A": "Las personas mayores de edad.",
+        "B": "Las personas menores emancipadas.",
+        "C": "Las personas incapacitadas judicialmente, siempre y cuando la sentencia de incapacitación no lo impida.",
+        "D": "Las respuestas A), B. y C. son correctas."
+    },
+    "respuesta_correcta": "D"
+},
+"Derechos_y_garantias_pregunta9": {
+    "pregunta": "Las voluntades anticipadas en el/la menor",
+    "opciones": {
+        "A": "Pueden ser otorgadas por sus padres o tutores",
+        "B": "El adolescente tiene capacidad legal para hacerlo",
+        "C": "En ocasiones hay un dilema entre padres y pediatras e interviene el/la juez",
+        "D": "Todas son correctas"
+    },
+    "respuesta_correcta": "D"
+},
+"Derechos_y_garantias_pregunta10": {
+    "pregunta": "Los datos relativos a las personas otorgantes se custodiarán en el Registro de manifestaciones anticipadas de voluntad:",
+    "opciones": {
+        "A": "Hasta el momento del fallecimiento del otorgante.",
+        "B": "No se destruirán.",
+        "C": "Hasta cinco años después del fallecimiento del otorgante.",
+        "D": "Ninguna de las anteriores"
+    },
+    "respuesta_correcta": "C"
+},
+"Derechos_y_garantias_pregunta11": {
+    "pregunta": "Los usuarios del Sistema Sanitario Público de Andalucía tienen derecho a solicitar una segunda opinión médica, pero existen algunas limitaciones al ejercicio de este derecho. ¿Cuál de las siguientes opciones no está contemplada?",
+    "opciones": {
+        "A": "Si el paciente requiere tratamiento urgente o inmediato.",
+        "B": "Si el paciente ha efectuado anteriormente otra solicitud de segunda opinión para el mismo proceso asistencial.",
+        "C": "Si se trata de una recidiva de un proceso oncológico maligno ya diagnosticado.",
+        "D": "Si la enfermedad ha sido diagnosticada en un centro no dependiente del Sistema Sanitario Público de Andalucía."
+    },
+    "respuesta_correcta": "C"
+},
+"Derechos_y_garantias_pregunta12": {
+    "pregunta": "Referido a la voluntad vital anticipada, ¿cuál de las siguientes afirmaciones es correcta?",
+    "opciones": {
+        "A": "La Declaración de Voluntad Vital Anticipada es la manifestación oral ante notario realizada por una persona capaz que, consciente y libremente, expresa las opciones e instrucciones en materia sanitaria que deben respetarse en el caso de que concurran circunstancias clínicas en las cuales no pueda expresar personalmente su voluntad.",
+        "B": "El Registro de Voluntades Vitales Anticipadas de Andalucía (RVVAA) se crea al amparo de la ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, aunque la norma (Decreto) que debe regular su organización y funcionamiento está pendiente de desarrollarse.",
+        "C": "Sólo pueden declarar y registrar su voluntad vital anticipada las personas mayores de edad.",
+        "D": "En el RVVAA se permite designar a una persona de confianza, un/a representante, para que decida las preferencias sobre los cuidados y tratamientos sanitarios que uno recibirá cuando no pueda expresar personalmente su voluntad."
+    },
+    "respuesta_correcta": "D"
+},
+"Derechos_y_garantias_pregunta13": {
+    "pregunta": "Respecto del ejercicio del derecho de la Voluntad Vital Anticipada, puede afirmarse que:",
+    "opciones": {
+        "A": "El derecho a realizar una Declaración de Voluntad Vital Anticipada puede ejercerlo toda persona mayor de edad que esté capacitada para decidir con arreglo a sus convencimientos y preferencias. En todo caso las personas menores de edad y emancipados deben hacerlo acompañados por sus tutores.",
+        "B": "Para que el documento de Voluntad Anticipada tenga validez legal plena debe quedar inscrito en el Registro de Voluntades Vitales Anticipadas de Andalucía. La inscripción debe hacerse personalmente o por representación en cualquiera de los puntos de registro habilitados que existen en todas las provincias de Andalucía.",
+        "C": "Una vez la voluntad anticipada queda registrada, los profesionales sanitarios del Servicio Andaluz de Salud, pueden consultarla a través de varias vías. A los pacientes que tienen inscrita su Voluntad Vital Anticipada, les aparece un icono en este apartado en la historia de salud única digital.",
+        "D": "El Registro de Voluntades Vitales Anticipadas de Andalucía no está sincronizado con el Registro Nacional de Instrucciones Previas; por lo que no permite la consulta de su Voluntad Vital desde cualquier centro sanitario de España, ante los cuales deberá acreditarlo documentalmente."
+    },
+    "respuesta_correcta": "C"
+},
+"Derechos_y_garantias_pregunta14": {
+    "pregunta": "Según el Decreto 60/1999, de libre elección de médico general y pediatra:",
+    "opciones": {
+        "A": "La elección de médico general y pediatra podrá efectuarse en cualquier momento siempre que esté justificada y previa entrevista con el facultativo.",
+        "B": "Una vez elegido un facultativo, para realizar una nueva elección, deberá haber transcurrido, al menos, tres meses.",
+        "C": "La elección de médico general y pediatra podrá efectuarse en cualquier momento, correspondiendo al Director del Distrito su aceptación.",
+        "D": "Una vez elegido un facultativo, para realizar una nueva elección, deberá haber transcurrido, al menos, dos meses."
+    },
+    "respuesta_correcta": "B"
+},
+"Derechos_y_garantias_pregunta15": {
+    "pregunta": "Según el Decreto que regula la libre elección de Médico Especialista y de Hospital en el SSPA, el usuario NO podrá ejercer la elección para:",
+    "opciones": {
+        "A": "Consultas programadas médicas.",
+        "B": "Procedimientos terapéuticos médicos.",
+        "C": "Consultas programadas quirúrgicas.",
+        "D": "Procedimientos terapéuticos quirúrgicos que requieran desplazamiento fuera de Andalucía."
+    },
+    "respuesta_correcta": "D"
+},
+"Derechos_y_garantias_pregunta16": {
+    "pregunta": "Según la Ley 2/2010, de 8 de abril, entre los derechos de las personas ante el proceso de muerte, se recogen los siguientes:",
+    "opciones": {
+        "A": "A la atención integral, a realizar la declaración de voluntad vital anticipada, a la toma de decisiones y al consentimiento informado.",
+        "B": "A la atención integral y personalizada, a realizar la declaración de voluntad vital anticipada, a la toma de decisiones y al consentimiento informado.",
+        "C": "A la atención integral, a la información asistencial, a realizar la declaración de voluntad vital anticipada, a la toma de decisiones y al consentimiento informado.",
+        "D": "A la información asistencial, a realizar la declaración de voluntad vital anticipada, a la toma de decisiones y al consentimiento informado."
+    },
+    "respuesta_correcta": "D"
+},
+"Derechos_y_garantias_pregunta17": {
+    "pregunta": "Según la Ley 5/2003, de 9 de octubre, de declaración de voluntad vital anticipada, su autor podrá manifestar:",
+    "opciones": {
+        "A": "Las opciones e instrucciones, expresas y previas, que, ante circunstancias clínicas que le impidan manifestar su voluntad, deberá respetar el personal sanitario responsable de su asistencia.",
+        "B": "La designación de un representante, plenamente identificado, que será quien le sustituya en el otorgamiento del consentimiento informado cuando proceda.",
+        "C": "Su decisión respecto de la donación de sus órganos.",
+        "D": "Todas son ciertas."
+    },
+    "respuesta_correcta": "D"
+},
+"Derechos_y_garantias_pregunta18": {
+    "pregunta": "¿Es posible hacer la inscripción de una Voluntad Vital Anticipada en un lugar distinto a las sedes de registro habilitadas?",
+    "opciones": {
+        "A": "Sí, vía telemática y con certificado digital.",
+        "B": "No, sólo tienen validez las presentadas en las sedes de registro habilitadas.",
+        "C": "Sí, desde la consulta del médico de familia que garantiza la capacidad de la persona otorgante.",
+        "D": "Sí, en el domicilio de la persona otorgante de la declaración."
+    },
+    "respuesta_correcta": "D"
+},
+"Derechos_y_garantias_pregunta19": {
+    "pregunta": "¿Qué podemos afirmar sobre figura del representante en una Declaración de Voluntad Vital Anticipada?",
+    "opciones": {
+        "A": "Es indispensable para que se cumpla lo dispuesto por el paciente.",
+        "B": "Su criterio particular debe prevalecer para tomar una medida terapéutica novedosa.",
+        "C": "Las decisiones que tome prevalecerán sobre las opiniones de la familia.",
+        "D": "Debería ser una persona de su máxima confianza y que no sea familia."
+    },
+    "respuesta_correcta": "C"
+}
+
+}

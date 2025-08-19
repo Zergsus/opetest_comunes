@@ -1208,7 +1208,376 @@
       "D": "Granada."
     },
     "respuesta_correcta": "D"
+  },
+  "Organizacion Sanitaria_pregunta122": {
+    "pregunta": "El Plan Andaluz de Urgencias y Emergencias (PAUE) es el instrumento organizativo del Servicio Andaluz de Salud responsable de:",
+    "opciones": {
+      "A": "Atender a las urgencias y emergencias sanitarias.",
+      "B": "Atender a las urgencias y emergencias del sistema sanitario público de Andalucía.",
+      "C": "Legislar sobre Urgencias y Emergencias Sanitarias.",
+      "D": "Orientar y marcar las pautas a seguir en la atención a las urgencias y emergencias."
+    },
+    "respuesta_correcta": "D"
+  },
+  "Organizacion Sanitaria_pregunta123": {
+    "pregunta": "El principal objetivo que persigue la normativa de aplicación, con la creación de los biobancos con fines de investigación biomédica, es:",
+    "opciones": {
+      "A": "Facilitar a los administrativos el acceso a los datos administrativos y personales registrados.",
+      "B": "Facilitar a los investigadores el acceso a muestras y datos con requisitos de calidad y conservación.",
+      "C": "Facilitar únicamente a los investigadores el acceso a datos administrativos registrados.",
+      "D": "Las respuestas A. y C. son ciertas."
+    },
+    "respuesta_correcta": "B"
+  },
+  "Organizacion Sanitaria_pregunta124": {
+    "pregunta": "El Registro Andaluz de Biobancos con fines de investigación biomédica es de carácter:",
+    "opciones": {
+      "A": "Privado.",
+      "B": "Informativo.",
+      "C": "Confidencial.",
+      "D": "Público e informativo."
+    },
+    "respuesta_correcta": "D"
+  },
+  "Organizacion Sanitaria_pregunta125": {
+    "pregunta": "En el ámbito de la Comunidad Autónoma de Andalucía, con relación a la constitución y funcionamiento de biobancos con fines de investigación biomédica, se establecen como requisitos básicos:",
+    "opciones": {
+      "A": "Que la organización, objetivos y medios disponibles del biobanco justifiquen su interés biomédico.",
+      "B": "Que se haya designado a la persona titular de la Dirección y Secretaría General.",
+      "C": "Que cuente con las instalaciones y medios adecuados, incluyendo seguro de responsabilidad civil.",
+      "D": "Que cuente con un número mínimo de muestras que garantice el desarrollo de la actividad investigadora biomédica."
+    },
+    "respuesta_correcta": "A"
+  },
+  "Organizacion Sanitaria_pregunta126": {
+    "pregunta": "En el ámbito de la Comunidad Autónoma de Andalucía, producida una solicitud de autorización de biobanco, ¿cuánto tiempo tiene el órgano competente para resolver expresamente dicha solicitud?",
+    "opciones": {
+      "A": "3 meses.",
+      "B": "6 meses.",
+      "C": "1 mes.",
+      "D": "15 días hábiles."
+    },
+    "respuesta_correcta": "A"
+  },
+  "Organizacion Sanitaria_pregunta127": {
+    "pregunta": "En el artículo 12 de la Ley 16/2011, de 23 de diciembre, de Salud Pública de Andalucía, se reconoce a la población de Andalucía el siguiente derecho en el ámbito de la promoción de salud:",
+    "opciones": {
+      "A": "A ser inmunizadas contra las enfermedades infectocontagiosas de acuerdo con los criterios establecidos por la autoridad sanitaria competente.",
+      "B": "A conocer los planes, las acciones y las prestaciones en materia de prevención, promoción y protección de la salud, así como aquellos instrumentos para hacerlos efectivo.",
+      "C": "A la información sobre salud, orientación sexual y reproductiva e identidad de género, y al acceso a los medios disponibles para garantizarla.",
+      "D": "A la prevención y atención de problemas de salud pública, comprendiendo las enfermedades epidémicas, endémicas, profesionales y de otra índole, y la lucha contra ellas."
+    },
+    "respuesta_correcta": "C"
+  },
+  "Organizacion Sanitaria_pregunta128": {
+    "pregunta": "En la estructura organizativa del Biobanco del Sistema Sanitario Público de Andalucía (SSPA), establecida por el Decreto 1/2013, de 8 de enero, existe un comité externo de ética. ¿Cuál es este comité o quien ejerce sus funciones?",
+    "opciones": {
+      "A": "El Comité de Ética de Investigación de la provincia de Granada, donde está el nodo coordinador.",
+      "B": "El Comité Científico del Biobanco del SSPA.",
+      "C": "El Comité de Bioética de Andalucía.",
+      "D": "El Comité Coordinador de Ética de la Investigación Biomédica de Andalucía."
+    },
+    "respuesta_correcta": "D"
+  },
+  "Organizacion Sanitaria_pregunta129": {
+    "pregunta": "En relación al Biobanco del Sistema Sanitario Público de Andalucía, señale la respuesta falsa:",
+    "opciones": {
+      "A": "Es una estructura única formada por numerosos nodos.",
+      "B": "Los centros de transfusión sanguínea forman parte del biobanco.",
+      "C": "El nodo de coordinación se encuentra en Sevilla.",
+      "D": "Existen biobancos de investigación en todas las provincias andaluzas."
+    },
+    "respuesta_correcta": "C"
+  },
+  "Organizacion Sanitaria_pregunta130": {
+    "pregunta": "Entre las funciones del Consejo Rector del Biobanco del Sistema Sanitario Público de Andalucía NO está la de:",
+    "opciones": {
+      "A": "Elaborar y aprobar la memoria anual de actividades.",
+      "B": "Definir las políticas y líneas estratégicas de investigación del Biobanco.",
+      "C": "Aprobar el Reglamento interno del Comité Científico.",
+      "D": "Designar a los responsables de los nodos que integren la estructura del Biobanco en Red."
+    },
+    "respuesta_correcta": "A"
+  },
+  "Organizacion Sanitaria_pregunta131": {
+    "pregunta": "La actividad de salud pública que tiene por objetivo la identificación, cuantificación, evaluación y prevención de los riesgos asociados al uso de los medicamentos, una vez comercializados, se denomina:",
+    "opciones": {
+      "A": "Seguridad del paciente",
+      "B": "Farmacovigilancia",
+      "C": "Mapa de riesgos",
+      "D": "Ninguna es cierta"
+    },
+    "respuesta_correcta": "B"
+  },
+  "Organizacion Sanitaria_pregunta132": {
+    "pregunta": "La autoexploración mamaria se considera una medida de prevención:",
+    "opciones": {
+      "A": "Primaria.",
+      "B": "Secundaria.",
+      "C": "Terciaria.",
+      "D": "Cuaternaria."
+    },
+    "respuesta_correcta": "B"
+  },
+  "Organizacion Sanitaria_pregunta133": {
+    "pregunta": "La ley 16/2011, de 23 de diciembre, de Salud Pública en Andalucía, en su capítulo III del Título I hace referencia a:",
+    "opciones": {
+      "A": "Los derechos, obligaciones y responsabilidades de la población en Andalucía respecto a la salud pública.",
+      "B": "El fomento del interés por la salud.",
+      "C": "La gobernanza en Salud Pública.",
+      "D": "La promoción de la salud."
+    },
+    "respuesta_correcta": "A"
+  },
+  "Organizacion Sanitaria_pregunta134": {
+    "pregunta": "La norma que regula la autorización para la constitución y funcionamiento de Biobancos con fines de investigación biomédica, y se crean el Registro de Biobancos de Andalucía y el Biobanco del Sistema Sanitario Público de Andalucía, es:",
+    "opciones": {
+      "A": "Ley 14/2007, de investigación biomédica.",
+      "B": "Real Decreto 1716/2011, de 18 de noviembre.",
+      "C": "Decreto 1/2013, de 8 de enero.",
+      "D": "Ley 41/2002, reguladora de la autonomía del paciente."
+    },
+    "respuesta_correcta": "C"
+  },
+  "Organizacion Sanitaria_pregunta135": {
+    "pregunta": "Las precauciones de aislamiento en el hospital se llevan a cabo para:",
+    "opciones": {
+      "A": "Cortar la cadena de transmisión del agente infeccioso y racionalizar el uso de recursos.",
+      "B": "Disminuir la cadena de transmisión del agente infeccioso y mantener la calidad asistencial del hospital.",
+      "C": "Prevenir y/o controlar brotes.",
+      "D": "Todas son verdaderas."
+    },
+    "respuesta_correcta": "D"
+  },
+  "Organizacion Sanitaria_pregunta136": {
+    "pregunta": "Los ciudadanos tienen derecho, según recoge la ley 16/2011, de 23 de diciembre, de Salud Pública de Andalucía: (Señale la que NO es cierta)",
+    "opciones": {
+      "A": "A un conocimiento adecuado sobre el estado epidemiológico de su entorno. Esta información, basada en la evidencia científica, ha de ser suficiente, comprensible, adecuada y tiene que comprender los factores, las situaciones y causas de riesgo para la salud individual y colectiva.",
+      "B": "El conocimiento adecuado sobre el estado epidemiológico del entorno. Esta información, basada en la evidencia científica, ha de ser suficiente, comprensible, adecuada y tiene que comprender los factores, las situaciones y causas de riesgo para la salud individual y colectiva. Este conocimiento, por razones obvias, está reservado a la Administración Sanitaria en exclusiva.",
+      "C": "A un conocimiento adecuado sobre las características y condicionantes relevantes para la salud pública de los productos alimentarios, así como la naturaleza y los riesgos asociados a los mismos, salvo en aquellas cuestiones que estén sometidas a protección legal.",
+      "D": "El derecho a la promoción de la salud."
+    },
+    "respuesta_correcta": "B"
+  },
+  "Organizacion Sanitaria_pregunta137": {
+    "pregunta": "Podemos definir la Prevención Cuaternaria como:",
+    "opciones": {
+      "A": "Las intervenciones que tienen como objetivo principal el impedir o retrasar el desarrollo de una enfermedad.",
+      "B": "Las intervenciones que tienen como objetivo promover hábitos y estilos de vida saludables.",
+      "C": "Las intervenciones que evitan o atenúan las consecuencias de la actividad innecesaria o excesiva del sistema sanitario.",
+      "D": "Las intervenciones que tienen como objetivo eliminar o reducir las consecuencias del desarrollo de una enfermedad ya instaurada."
+    },
+    "respuesta_correcta": "C"
+  },
+  "Organizacion Sanitaria_pregunta138": {
+    "pregunta": "Según el artículo 18 de la vigente Ley 16/2011, de 23 de diciembre, de Salud Pública de Andalucía, son obligaciones de la ciudadanía en materia de salud pública todas las que se enumeran a continuación, excepto:",
+    "opciones": {
+      "A": "Respetar y cumplir las medidas establecidas por la autoridad sanitaria para la prevención de riesgos, la protección de la salud o la lucha contra las amenazas a la salud pública",
+      "B": "Hacer un uso responsable de las prestaciones y servicios públicos",
+      "C": "Cooperar con las autoridades sanitarias en la protección de la salud, la prevención de las enfermedades y las estrategias de promoción de la salud y la calidad de vida",
+      "D": "Denunciar ante los medios policiales o judiciales cualquier evento o situación que pueda constituir una emergencia de salud pública"
+    },
+    "respuesta_correcta": "D"
+  },
+  "Organizacion Sanitaria_pregunta139": {
+    "pregunta": "Según el Decreto 169/2014, por el que se establece el procedimiento de la Evaluación del Impacto en la Salud de la Comunidad Autónoma de Andalucía, los determinantes de la salud son:",
+    "opciones": {
+      "A": "Factores del medio físico, social y económico en el que trabajan y viven las personas y que inciden en el estado de salud individual y colectiva.",
+      "B": "Factores del medio físico y socioculturales en los que se aplica la Evaluación del impacto en salud de un proyecto.",
+      "C": "Factores medioambientales y socioculturales en los que se aplica la Evaluación del impacto en salud de un proyecto.",
+      "D": "Ninguna respuesta es correcta."
+    },
+    "respuesta_correcta": "A"
+  },
+  "Organizacion Sanitaria_pregunta140": {
+    "pregunta": "Según el Sistema de Vigilancia Epidemiológica (SVEA) (Orden de 19 de diciembre de 1996) es cierto que:",
+    "opciones": {
+      "A": "Solo están obligados a declarar al SVEA los profesionales sanitarios que ejerzan la profesión en instituciones de titularidad pública.",
+      "B": "Hay tres tipos de declaración según la enfermedad de que se trate: Ordinaria, Urgente y Extraordinaria.",
+      "C": "La declaración ordinaria se realizará exclusivamente a requerimiento de la Autoridad Sanitaria.",
+      "D": "Todas las respuestas anteriores son correctas."
+    },
+    "respuesta_correcta": "B"
+  },
+  "Organizacion Sanitaria_pregunta141": {
+    "pregunta": "Según el “Plan Marco de reorganización de la asistencia a las urgencias y emergencias en atención primaria: dispositivos de cuidados críticos y urgencias” (Resolución 1/97 del SAS), ¿con qué siglas se conocen a los Dispositivos de Cuidados Críticos y Urgencias que atienden las urgencias en Atención Primaria?",
+    "opciones": {
+      "A": "SUAP.",
+      "B": "CCUE.",
+      "C": "EPES.",
+      "D": "Salud Responde."
+    },
+    "respuesta_correcta": "A"
+  },
+  "Organizacion Sanitaria_pregunta142": {
+    "pregunta": "Según la Ley 16/2011, de 23 de diciembre, de Salud Pública de Andalucía: 'Las actuaciones de salud pública atenderán a la magnitud de los problemas de salud que pretenden corregir, justificando su necesidad de acuerdo con los criterios de proporcionalidad, eficacia y sostenibilidad', responde al principio de:",
+    "opciones": {
+      "A": "Pertinencia.",
+      "B": "Integralidad.",
+      "C": "Transparencia.",
+      "D": "Coordinación y cooperación."
+    },
+    "respuesta_correcta": "A"
+  },
+  "Organizacion Sanitaria_pregunta143": {
+    "pregunta": "Según la Ley de Salud Pública de Andalucía (Ley 16/2011, de 23 de diciembre), a todo fenómeno de potencial riesgo para la salud de la población y/o de trascendencia social frente al que sea necesario desarrollar actuaciones de salud pública urgentes y eficaces, se denomina:",
+    "opciones": {
+      "A": "Crisis de salud pública.",
+      "B": "Emergencia sanitaria.",
+      "C": "Alerta sanitaria.",
+      "D": "Alarma de salud pública."
+    },
+    "respuesta_correcta": "C"
+  },
+  "Organizacion Sanitaria_pregunta144": {
+    "pregunta": "Según la normativa que ordena administrativa y funcionalmente la salud mental en el ámbito del SAS, los cargos intermedios de una Unidad de Gestión Clínica de Salud Mental son:",
+    "opciones": {
+      "A": "Jefatura Servicio, Jefaturas de Sección, Jefatura de Bloque y Supervisión de Enfermería.",
+      "B": "Dirección de Unidad, Coordinación de los Dispositivos Asistenciales y Coordinación de Cuidados de Enfermería.",
+      "C": "Jefatura de Servicio, Coordinación de los Dispositivos Asistenciales y Supervisión de Enfermería.",
+      "D": "Dirección de Unidad, Coordinación de los Dispositivos Asistenciales y Supervisión de Enfermería."
+    },
+    "respuesta_correcta": "B"
+  },
+  "Organizacion Sanitaria_pregunta145": {
+    "pregunta": "Según la normativa que ordena administrativa y funcionalmente la salud mental en el ámbito del SAS, esta se organiza funcionalmente:",
+    "opciones": {
+      "A": "En el nivel de atención primaria.",
+      "B": "En los niveles de atención primaria y atención especializada.",
+      "C": "En el nivel de atención especializada (Consultas Externas y Hospitalización).",
+      "D": "En los niveles de atención primaria y atención especializada, así como en los gabinetes de salud mental adscritos a la Consejería de Educación."
+    },
+    "respuesta_correcta": "B"
+  },
+  "Organizacion Sanitaria_pregunta146": {
+    "pregunta": "Según la última actualización del ERC 2021 (European Resuscitation Council) sobre las nuevas recomendaciones para la reanimación (RCP), los puntos claves a seguir en el Soporte Vital Avanzado en el Adulto serán todas las siguientes, excepto:",
+    "opciones": {
+      "A": "La prioridad son las compresiones torácicas de alta calidad con las mínimas interrupciones posibles, la desfibrilación precoz y el tratamiento de las causas reversibles.",
+      "B": "Para garantizar la permeabilidad de la vía aérea se procederá, de la forma más precoz posible, a la intubación endotraqueal.",
+      "C": "Se administrará adrenalina precozmente para la parada cardíaca no desfibrilable.",
+      "D": "En pacientes seleccionados, si es factible, se considerará la RCP extracorpórea como terapia de rescate cuando el soporte vital avanzado fracase."
+    },
+    "respuesta_correcta": "B"
+  },
+  "Organizacion Sanitaria_pregunta147": {
+    "pregunta": "Según recoge la ley 16/2011, de 23 de diciembre, de Salud Pública de Andalucía, los ciudadanos tienen derecho a: (Señale la que NO es cierta)",
+    "opciones": {
+      "A": "A recibir información sobre programas y calendario vacunal.",
+      "B": "A recibir información sobre los condicionantes de salud como factores que influyen en el nivel de salud de la población y, en particular, sobre los riesgos biológicos, químicos, físicos, medioambientales, climáticos, o de otro carácter, relevantes para la salud de la población, y sobre su impacto. Si el riesgo es inmediato, la información se proporcionará con carácter urgente.",
+      "C": "A recibir información fluida y sistemática en los supuestos de epidemias.",
+      "D": "Dada su fecha de publicación, esta ley no contempla la información de situaciones de pandemia."
+    },
+    "respuesta_correcta": "D"
+  },
+  "Organizacion Sanitaria_pregunta148": {
+    "pregunta": "Señale la definición de Emergencia Sanitaria:",
+    "opciones": {
+      "A": "Es la aparición fortuita de un problema de salud de causa diversa y gravedad variable, que genera la conciencia de una necesidad inminente de atención por parte de sujeto que lo sufre o de su familia.",
+      "B": "Es toda aquella condición que requiere una asistencia inmediata.",
+      "C": "Situación clínica de pacientes que deben ser atendidos en una unidad de hospitalización convencional de hospital de agudos.",
+      "D": "Situación clínica de aquellos pacientes que requieren soporte respiratorio avanzado o soporte respiratorio básico junto con, al menos, soporte a dos sistemas orgánicos."
+    },
+    "respuesta_correcta": "D"
+  },
+  "Organizacion Sanitaria_pregunta149": {
+    "pregunta": "Señale la opción INCORRECTA en relación al Biobanco del Sistema Sanitario Público de Andalucía:",
+    "opciones": {
+      "A": "Funciona bajo un marco ético común.",
+      "B": "Tiene un funcionamiento en red.",
+      "C": "Posee una estructura organizativa única.",
+      "D": "Su actividad está centralizada."
+    },
+    "respuesta_correcta": "D"
+  },
+  "Organizacion Sanitaria_pregunta150": {
+    "pregunta": "Si usted acude al Biobanco para llevar a cabo un estudio de investigación en el que precisa de determinadas muestras biológicas (MB), y le indican que tiene disponible una colección de MB que cumple sus criterios de selección pero que se trata de muestras anonimizadas, ello significará:",
+    "opciones": {
+      "A": "Que usted no tendrá permiso para ponerse en contacto con las personas fuente de esas MB, ya que en su momento no dieron su consentimiento para ello.",
+      "B": "Que usted no podrá identificar a las personas fuente de esas MB, puesto que los datos identificativos han sido disociados de manera permanente.",
+      "C": "Que son MB procedentes de personas que desean permanecer anónimas en el proceso de su utilización en investigación.",
+      "D": "Que son MB que no tienen ninguna información asociada a las mismas."
+    },
+    "respuesta_correcta": "B"
+  },
+  "Organizacion Sanitaria_pregunta151": {
+    "pregunta": "¿Cuál de los siguientes es un criterio de hospitalización de una persona con trastorno mental grave (TMG) en una Comunidad Terapéutica en Andalucía?",
+    "opciones": {
+      "A": "Cuando los ingresos de su entorno familiar (salario social) no alcanzan el 80% del salario mínimo interprofesional.",
+      "B": "Compromiso del estado general de la persona.",
+      "C": "Cuando sus cuidadores son de edad avanzada.",
+      "D": "Todos son criterios de hospitalización."
+    },
+    "respuesta_correcta": "B"
+  },
+  "Organizacion Sanitaria_pregunta152": {
+    "pregunta": "¿Cuál de los siguientes NO es un principio rector de la Salud Pública reconocido en la Ley 16/2011, de 23 de diciembre, de Salud Pública de Andalucía?",
+    "opciones": {
+      "A": "Protección de la salud.",
+      "B": "Equidad.",
+      "C": "Autonomía.",
+      "D": "Participación."
+    },
+    "respuesta_correcta": "C"
+  },
+  "Organizacion Sanitaria_pregunta153": {
+    "pregunta": "¿En cuál de las siguientes normativas están definidas, para Andalucía, las Unidades de gestión de salud pública como estructura organizativa responsable de la salud pública en el ámbito territorial?",
+    "opciones": {
+      "A": "Decreto 197/2007, de 3 de julio, por el que se regula la estructura, organización y funcionamiento de los servicios de atención primaria de salud en el ámbito del servicio andaluz de salud.",
+      "B": "Ley 16/2011, de 23 de diciembre, de Salud Pública de Andalucía.",
+      "C": "Decreto-ley 22/2020, de 1 de septiembre, por el que se establecen con carácter extraordinario y urgente diversas medidas ante la situación generada por el coronavirus (covid-19).",
+      "D": "Decreto 105/2019, de 12 de febrero, por el que se establece la estructura orgánica de la Consejería de Salud y Familias y del Servicio Andaluz de Salud."
+    },
+    "respuesta_correcta": "C"
+  },
+  "Organizacion Sanitaria_pregunta154": {
+    "pregunta": "¿En qué año se dispone la asunción por parte del Servicio Andaluz de Salud de los fines y objetivos de las Agencias Públicas Empresariales Sanitarias entre las que se encuentra EPEs?",
+    "opciones": {
+      "A": "2018",
+      "B": "2015",
+      "C": "2021",
+      "D": "2007"
+    },
+    "respuesta_correcta": "C"
+  },
+  "Organizacion Sanitaria_pregunta155": {
+    "pregunta": "¿En qué servicio del hospital se desarrollan habitualmente las actividades de vigilancia de las infecciones nosocomiales, la elaboración y desarrollo de los programas de prevención y el control efectivo de su aplicación?",
+    "opciones": {
+      "A": "Medicina Interna.",
+      "B": "Infecciosos.",
+      "C": "Medicina Preventiva.",
+      "D": "Salud Laboral."
+    },
+    "respuesta_correcta": "C"
+  },
+  "Organizacion Sanitaria_pregunta156": {
+    "pregunta": "¿Los Bancos de Sangre se integran dentro del Biobanco del Sistema Sanitario Público de Andalucía?",
+    "opciones": {
+      "A": "Sí.",
+      "B": "No.",
+      "C": "No existe el Biobanco.",
+      "D": "No existen los Bancos de Sangre."
+    },
+    "respuesta_correcta": "A"
+  },
+  "Organizacion Sanitaria_pregunta157": {
+    "pregunta": "¿Qué posición de seguridad se recomienda a un paciente en caso de accidente con pérdida de conocimiento y riesgo de vómitos?",
+    "opciones": {
+      "A": "Fowler.",
+      "B": "Sims.",
+      "C": "Rose.",
+      "D": "Tredelenburg."
+    },
+    "respuesta_correcta": "B"
+  },
+  "Organizacion Sanitaria_pregunta158": {
+    "pregunta": "¿Qué se entiende por alerta sanitaria en la Ley de Salud Pública de Andalucía?",
+    "opciones": {
+      "A": "Al conjunto de medidas que se toman desde la Red de Alertas Sanitarias para la prevención de enfermedades y protección de la Salud.",
+      "B": "Aquel sistema de información sanitaria que permite controlar peligros significativos en el ámbito de la protección de la salud.",
+      "C": "Todo fenómeno de potencial riesgo para la salud de la población y/o de trascendencia social frente al que sea necesario desarrollar actuaciones de salud pública urgentes y eficaces.",
+      "D": "Ninguna es correcta."
+    },
+    "respuesta_correcta": "C"
   }
-}
 
 }

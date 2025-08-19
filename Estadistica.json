@@ -1,0 +1,212 @@
+{
+"Estadistica_pregunta1": {
+  "pregunta": "Al medir una variable continua en un grupo de diez individuos, se han obtenido los siguientes valores: 10, 9, 10, 9, 10, 9, 9, 9, 10, ¿Cuál es la media aritmética de esta variable en esta muestra?",
+  "opciones": {
+    "A": "10",
+    "B": "9",
+    "C": "9,5",
+    "D": "No se puede calcular la media con los datos aportados"
+  },
+  "respuesta_correcta": "9,5"
+},
+"Estadistica_pregunta2": {
+  "pregunta": "Cuando en un estudio de investigación se quieren comparar dos proporciones, el test estadístico más apropiado, de entre los siguientes, es:",
+  "opciones": {
+    "A": "Test de McNemar.",
+    "B": "Test de Chi cuadrado.",
+    "C": "T de Student-Fischer.",
+    "D": "ANOVA."
+  },
+  "respuesta_correcta": "Test de Chi cuadrado."
+},
+"Estadistica_pregunta3": {
+  "pregunta": "Cuando se dice que una prueba estadística es a demanda para la comparación de dos muestras independientes, significa que:",
+  "opciones": {
+    "A": "Los sujetos de ambas muestras son diferentes.",
+    "B": "Los sujetos de ambas muestras son los mismos.",
+    "C": "No existen diferencias significativas.",
+    "D": "La prueba puede utilizarse independientemente de las condiciones de aplicación."
+  },
+  "respuesta_correcta": "La prueba puede utilizarse independientemente de las condiciones de aplicación."
+},
+"Estadistica_pregunta4": {
+  "pregunta": "El diagrama de cajas (box-plot) es una forma de representación gráfica bastante usada, sobre todo cuando se quieren comparar dos o más mediciones de una misma variable. Todas las afirmaciones siguientes sobre este modelo son ciertas, excepto:",
+  "opciones": {
+    "A": "La caja está determinada por los percentiles 25 y 75, por lo que su amplitud es el rango intercuartílico",
+    "B": "La mediana es un valor que caerá siempre dentro de la caja",
+    "C": "Los \"bigotes\" o líneas que salen desde la caja en direcciones opuestas, se extienden hasta los valores máximo y mínimo de la serie",
+    "D": "En la caja se encuentran la mitad de las observaciones o valores"
+  },
+  "respuesta_correcta": "Los \"bigotes\" o líneas que salen desde la caja en direcciones opuestas, se extienden hasta los valores máximo y mínimo de la serie"
+},
+"Estadistica_pregunta5": {
+  "pregunta": "En el análisis de una distribución, si queremos saber si dos variables cualitativas son independientes o están relacionadas, debemos realizar la prueba:",
+  "opciones": {
+    "A": "T de Student.",
+    "B": "Índice de correlación de Pearson.",
+    "C": "F de Snedecor.",
+    "D": "Chi Cuadrado."
+  },
+  "respuesta_correcta": "Chi Cuadrado."
+},
+"Estadistica_pregunta6": {
+  "pregunta": "En estadística descriptiva, refiriéndonos al conjunto de los datos, ¿cuál de las siguientes medidas NO es de dispersión?",
+  "opciones": {
+    "A": "La desviación típica.",
+    "B": "La media.",
+    "C": "La desviación media.",
+    "D": "La varianza."
+  },
+  "respuesta_correcta": "La media."
+},
+"Estadistica_pregunta7": {
+  "pregunta": "En inferencia estadística, el valor de p es un valor de probabilidad, por lo que puede oscilar entre:",
+  "opciones": {
+    "A": "0 y 1.",
+    "B": "0 y 10.",
+    "C": "0 y 100.",
+    "D": "0 y 1000."
+  },
+  "respuesta_correcta": "0 y 1."
+},
+"Estadistica_pregunta8": {
+  "pregunta": "En la estadística descriptiva, el rango:",
+  "opciones": {
+    "A": "Es un índice muy estable.",
+    "B": "Indica la distancia entre los valores mínimo y máximo de la distribución.",
+    "C": "De una muestra a otra, extraídas de una misma población, el rango tiende a mantenerse estable.",
+    "D": "Todas son ciertas."
+  },
+  "respuesta_correcta": "Indica la distancia entre los valores mínimo y máximo de la distribución."
+},
+"Estadistica_pregunta9": {
+  "pregunta": "En relación a los tipos de variables, una de las siguientes afirmaciones es falsa:",
+  "opciones": {
+    "A": "El tipo de variables condiciona el tipo de técnicas de análisis que pueden utilizarse para su análisis",
+    "B": "Las variables cualitativas pueden diferenciarse en ordinales y no ordinales",
+    "C": "Las variables cuantitativas se subdividen en cuantitativas discretas y cuantitativas continuas",
+    "D": "Las variables continuas discretas también se conocen como variables de razón o intervalo"
+  },
+  "respuesta_correcta": "Las variables continuas discretas también se conocen como variables de razón o intervalo"
+},
+"Estadistica_pregunta10": {
+  "pregunta": "En una prueba de contraste de hipótesis el error que se comete al rechazar la hipótesis nula siendo esta verdadera, se conoce como:",
+  "opciones": {
+    "A": "Error estándar.",
+    "B": "Potencia del test (1-beta).",
+    "C": "Error tipo I o error alfa.",
+    "D": "Nivel de confianza."
+  },
+  "respuesta_correcta": "Error tipo I o error alfa."
+},
+"Estadistica_pregunta11": {
+  "pregunta": "La hipótesis nula",
+  "opciones": {
+    "A": "Afirma que las diferencias encontradas las explica al azar",
+    "B": "Afirma que no hay diferencias significativas entre las encontradas",
+    "C": "Afirma que no existe asociación entre los fenómenos encontrados",
+    "D": "Todas son ciertas"
+  },
+  "respuesta_correcta": "Todas son ciertas"
+},
+"Estadistica_pregunta12": {
+  "pregunta": "La prueba no paramétrica que se utiliza para realizar una inferencia estadística sobre dos medias independientes, alternativo a la t de Student es:",
+  "opciones": {
+    "A": "Coeficiente de correlación de Spearman",
+    "B": "U de Mann-Whitney",
+    "C": "Prueba exacta de Fisher",
+    "D": "Prueba de Wilcoxon"
+  },
+  "respuesta_correcta": "U de Mann-Whitney"
+},
+"Estadistica_pregunta13": {
+  "pregunta": "La relación entre dos variables cualitativas se analiza con:",
+  "opciones": {
+    "A": "Estudios de correlación",
+    "B": "Regresión lineal",
+    "C": "Prueba de Chi cuadrado",
+    "D": "Regresión polinomial"
+  },
+  "respuesta_correcta": "Prueba de Chi cuadrado"
+},
+"Estadistica_pregunta14": {
+  "pregunta": "No es una medida de tendencia central:",
+  "opciones": {
+    "A": "Moda",
+    "B": "Mediana",
+    "C": "Media",
+    "D": "Curtosis"
+  },
+  "respuesta_correcta": "Curtosis"
+},
+"Estadistica_pregunta15": {
+  "pregunta": "Referido a la moda, como término estadístico, es cierto que:",
+  "opciones": {
+    "A": "Para un conjunto de datos, es el valor más frecuente, y puede no ser único.",
+    "B": "Es una medida resumen de los datos bastante robusta y representativa de la distribución.",
+    "C": "Su valor suele hallarse entre la mediana y la media de la distribución.",
+    "D": "Todas las afirmaciones son correctas."
+  },
+  "respuesta_correcta": "Para un conjunto de datos, es el valor más frecuente, y puede no ser único."
+},
+"Estadistica_pregunta16": {
+  "pregunta": "Se sabe que la edad es una variable que sigue una distribución normal en una población que se desea estudiar. Para ello se extrae una muestra aleatoria de cien individuos (n=100), media 50 años, desviación típica 10 años. ¿Cuál de las siguientes afirmaciones no es correcta?",
+  "opciones": {
+    "A": "50 años es una estimación puntual de la media poblacional (μ) de la variable edad",
+    "B": "[48.04 - 51.96] años es una estimación por intervalo de la media poblacional, con probabilidad del 95% de contener el verdadero valor de la media",
+    "C": "10 años es una estimación puntual de la desviación típica (σ) de la variable edad en la población",
+    "D": "Sin contrastar que la muestra siga normalidad, podemos afirmar que ~68% de los individuos tendrán una edad entre 30 y 70 años"
+  },
+  "respuesta_correcta": "Sin contrastar que la muestra siga normalidad, podemos afirmar que ~68% de los individuos tendrán una edad entre 30 y 70 años"
+},
+"Estadistica_pregunta17": {
+  "pregunta": "Suponiendo que los niveles de adrenalina en sangre siguen una distribución normal, ¿qué test usarías para comparar la media de adrenalina antes y después del examen de la OPE?",
+  "opciones": {
+    "A": "Chi cuadrado.",
+    "B": "Coeficiente de correlación.",
+    "C": "T de Student para datos apareados.",
+    "D": "Test de Wilcoxon."
+  },
+  "respuesta_correcta": "T de Student para datos apareados."
+},
+"Estadistica_pregunta18": {
+  "pregunta": "¿Cómo se llama el índice que sintetiza el grado de concordancia entre dos variables cuantitativas?",
+  "opciones": {
+    "A": "Índice kappa.",
+    "B": "Coeficiente de correlación intraclase.",
+    "C": "Índice de Sundbarg.",
+    "D": "Índice de masa corporal."
+  },
+  "respuesta_correcta": "Coeficiente de correlación intraclase."
+},
+"Estadistica_pregunta19": {
+  "pregunta": "¿Cuál de los siguientes test estadísticos se debe aplicar para comparar las cifras medias de colesterol de tres grupos diferenciados de pacientes?",
+  "opciones": {
+    "A": "T de Student.",
+    "B": "Test de McNemar.",
+    "C": "Método de Fisher.",
+    "D": "Análisis de la Varianza."
+  },
+  "respuesta_correcta": "Análisis de la Varianza."
+},
+"Estadistica_pregunta20": {
+  "pregunta": "¿Qué se entiende por estadística 'Inferencial'?",
+  "opciones": {
+    "A": "La que comprende la organización, presentación y síntesis de datos de una manera científica",
+    "B": "La que busca obtener conclusiones válidas para poblaciones a partir de los datos observados en muestras",
+    "C": "La que intenta comparar los valores con los porcentajes concretos",
+    "D": "La que permite una lectura rápida de datos concluyentes"
+  },
+  "respuesta_correcta": "La que busca obtener conclusiones válidas para poblaciones a partir de los datos observados en muestras"
+},
+"Estadistica_pregunta21": {
+  "pregunta": "¿Qué técnicas inferenciales permiten realizar afirmaciones sobre parámetros desconocidos de la población, a partir de la información contenida en una muestra?",
+  "opciones": {
+    "A": "Intervalos de confianza y contrastes de hipótesis.",
+    "B": "Estimaciones estocásticas y test paramétricos.",
+    "C": "Inferencias probabilísticas y pruebas robustas no paramétricas.",
+    "D": "Test de la binomial y prueba de Poisson."
+  },
+  "respuesta_correcta": "Intervalos de confianza y contrastes de hipótesis."
+}
+}

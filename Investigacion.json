@@ -1,0 +1,303 @@
+{
+"Investigacion_pregunta1": {
+    "pregunta": "Acerca de las representaciones gráficas de datos, elija la correcta:",
+    "opciones": {
+        "A": "Los gráficos de sectores son de elección para variables contínuas.",
+        "B": "Los histogramas son de elección para variables discretas.",
+        "C": "Los gráficos de dispersión son de elección para una única variable.",
+        "D": "Una pirámide poblacional es un histograma bi-direccional."
+    },
+    "respuesta_correcta": "D"
+},
+"Investigacion_pregunta2": {
+    "pregunta": "Consideraremos como mejor diseño de los siguientes el:",
+    "opciones": {
+        "A": "Ensayo clínico ciego simple.",
+        "B": "Ensayo clínico aleatorizado doble ciego.",
+        "C": "Ensayo clínico no aleatorizado doble ciego.",
+        "D": "Ensayo clínico aleatorizado y ciego simple."
+    },
+    "respuesta_correcta": "B"
+},
+"Investigacion_pregunta3": {
+    "pregunta": "Cuando se habla del “Impact Factor” de una revista científica, habitualmente nos referimos a la siguiente fuente:",
+    "opciones": {
+        "A": "PubMed",
+        "B": "Biomed Central",
+        "C": "Journal Citation Report",
+        "D": "Scopus Impact Factor Index"
+    },
+    "respuesta_correcta": "C"
+},
+"Investigacion_pregunta4": {
+    "pregunta": "De los resultados de un ensayo clínico se obtiene que el riesgo relativo para un evento en el grupo de tratamiento respecto al grupo control es 0,15 / 0,20 = 0,7. En este caso se podría afirmar que la reducción absoluta del riesgo es:",
+    "opciones": {
+        "A": "75 %",
+        "B": "25 %",
+        "C": "20 %",
+        "D": "5 %"
+    },
+    "respuesta_correcta": "D"
+},
+"Investigacion_pregunta5": {
+    "pregunta": "El principio de 'análisis por intención de tratar' se aplica a:",
+    "opciones": {
+        "A": "Estudios experimentales con reparto aleatorio de la intervención.",
+        "B": "Todos los estudios experimentales.",
+        "C": "Estudios de cohortes.",
+        "D": "Todo lo anterior."
+    },
+    "respuesta_correcta": "A"
+},
+"Investigacion_pregunta6": {
+    "pregunta": "El procedimiento probabilístico de selección de muestras que otorga la misma probabilidad de selección (p=n/N) a todas las unidades de análisis que integran la población, se denomina:",
+    "opciones": {
+        "A": "Muestreo aleatorio estratificado.",
+        "B": "Muestreo sistemático.",
+        "C": "Muestreo aleatorio simple.",
+        "D": "Muestreo por cuotas."
+    },
+    "respuesta_correcta": "C"
+},
+"Investigacion_pregunta7": {
+    "pregunta": "El término “muestra” se refiere a:",
+    "opciones": {
+        "A": "Un conjunto representativo de la población de referencia.",
+        "B": "La reunión de datos que se desea estudiar.",
+        "C": "El conjunto de todos los elementos a los que se somete a un estudio estadístico.",
+        "D": "El conjunto de individuos al que hace referencia la pregunta principal del objetivo del estudio."
+    },
+    "respuesta_correcta": "A"
+},
+"Investigacion_pregunta8": {
+    "pregunta": "El tipo de error que relaciona el hecho de trabajar con muestra en vez de con poblaciones se conoce como:",
+    "opciones": {
+        "A": "Error sistemático.",
+        "B": "Sesgo de la información.",
+        "C": "Error aleatorio.",
+        "D": "Factor de confusión."
+    },
+    "respuesta_correcta": "C"
+},
+"Investigacion_pregunta9": {
+    "pregunta": "En cuanto a los requerimientos de la investigación pediátrica, es cierto que:",
+    "opciones": {
+        "A": "Pueden autorizarlo los/as pediatras sin informar a los/as niños/as",
+        "B": "Tiene que autorizarla los/as niños/as mayores de 5 años",
+        "C": "Los/as padres/madres de adolescentes no precisan el consentimiento del niño/a",
+        "D": "Es preciso el consentimiento informado"
+    },
+    "respuesta_correcta": "D"
+},
+"Investigacion_pregunta10": {
+    "pregunta": "En diseños de investigación cualitativa que no impliquen la interacción directa de los investigadores con los pacientes, sería cierto que:",
+    "opciones": {
+        "A": "No es necesario solicitar autorización al Comité de Ética de la Investigación biomédica correspondiente.",
+        "B": "En toda investigación es necesario solicitar autorización al Comité de Ética de la Investigación biomédica correspondiente.",
+        "C": "Solo se solicitaría autorización al Comité de Ética de la Investigación biomédica correspondiente si cabe la posibilidad de que se produzca interacción o intervención con los pacientes.",
+        "D": "Ninguna es cierta."
+    },
+    "respuesta_correcta": "B"
+},
+"Investigacion_pregunta11": {
+    "pregunta": "En el diseño e interpretación de los estudios clínicos se ha de tener presente que:",
+    "opciones": {
+        "A": "Al aumentar el tamaño muestral, los intervalos de confianza y el error estándar se reducen.",
+        "B": "Una cualidad de los estudios ecológicos es la posibilidad de controlar por variables potencialmente confusoras.",
+        "C": "Una ventaja de los ensayos clínicos aleatorizados es que la validez de los resultados obtenidos no se verán afectados si el proceso de aleatorización no hace los grupos comparables en las variables más relevantes.",
+        "D": "Los sesgos de selección no son un problema fundamental en los estudios de casos y controles ni en los estudios de cohortes si son retrospectivos."
+    },
+    "respuesta_correcta": "A"
+},
+"Investigacion_pregunta12": {
+    "pregunta": "En el estudio 4S, 4.444 pacientes de entre 35 y 70 años, con antecedentes de cardiopatía isquémica, fueron asignados aleatoriamente a recibir tratamiento hipolipemiante simvastatina 20 mgr o placebo. Tras un seguimiento medio de 5,4 años, 622 sujetos (28%) en el grupo con placebo y 431 (19%) en el de simvastatina tuvieron uno o más incidentes coronarios mayores. Indique cuál de las siguientes afirmaciones sobre este resultado es correcta.",
+    "opciones": {
+        "A": "La Reducción Relativa del Riesgo fue de un 9 % (28%-19%).",
+        "B": "El Riesgo Relativo fue de, aproximadamente, 1.5 (28%/19%).",
+        "C": "El NNT fue de, aproximadamente, 11 [1/ (28%-19%)].",
+        "D": "La Reducción Absoluta del Riesgo fue de un 33 % [(28%-19%) / 28%]."
+    },
+    "respuesta_correcta": "C"
+},
+"Investigacion_pregunta13": {
+    "pregunta": "En el seno de un proyecto de investigación, las variables nominales se consideran variables:",
+    "opciones": {
+        "A": "Ordinales.",
+        "B": "Cuantitativas discretas.",
+        "C": "Cuantitativas continuas.",
+        "D": "Cualitativas."
+    },
+    "respuesta_correcta": "D"
+},
+"Investigacion_pregunta14": {
+    "pregunta": "En relación a los conceptos estadísticos relacionados con el control de calidad, elegir la respuesta correcta con respecto al error aleatorio:",
+    "opciones": {
+        "A": "Es un concepto similar al error sistemático.",
+        "B": "Se produce como consecuencia de la imprecisión del procedimiento.",
+        "C": "Viene determinados por factores controlables del procedimiento.",
+        "D": "Es la diferencia entre el resultado obtenido y el valor verdadero."
+    },
+    "respuesta_correcta": "B"
+},
+"Investigacion_pregunta15": {
+    "pregunta": "En un ensayo clínico que evalúa la eficacia de un nuevo hipolipemiante frente a la sinvastatina, se comete un error tipo II cuando:",
+    "opciones": {
+        "A": "Rechaza la hipótesis nula cuando en realidad es verdadera en la población",
+        "B": "Acepta la hipótesis nula cuando en realidad es falsa en la población",
+        "C": "Acepta la hipótesis alternativa cuando en realidad en falsa en la población.",
+        "D": "Los autores cometen un falso positivo"
+    },
+    "respuesta_correcta": "B"
+},
+"Investigacion_pregunta16": {
+    "pregunta": "En un estudio epidemiológico, los sesgos o errores sistemáticos:",
+    "opciones": {
+        "A": "Afectan a la validez interna del estudio.",
+        "B": "No dependen del tamaño de la muestra.",
+        "C": "Solo se pueden controlar en la fase de diseño del estudio.",
+        "D": "Las opciones A y B son correctas."
+    },
+    "respuesta_correcta": "D"
+},
+"Investigacion_pregunta17": {
+    "pregunta": "En un estudio se seleccionaron de forma consecutiva 100 pacientes diabéticos con IMC > 30, en tratamiento con metformina y con mal control metabólico (Hemoglobina glicada > 8.5%). Fueron asignados a recibir tratamiento adicional con empaglifozina 10 mg/día durante 3 meses y se evaluó, como variable de respuesta principal, el cambio en el valor de la Hemoglobina glicada. Indique a qué tipo de diseño corresponde este estudio.",
+    "opciones": {
+        "A": "Ensayo clínico cruzado.",
+        "B": "Estudio cuasi-experimental.",
+        "C": "Estudio caso - control.",
+        "D": "Estudio de cohortes."
+    },
+    "respuesta_correcta": "B"
+},
+"Investigacion_pregunta18": {
+    "pregunta": "La práctica clínica basada en la evidencia es:",
+    "opciones": {
+        "A": "Aplicar los conocimientos derivados de la mejor evidencia científica, desechando la experiencia clínica personal.",
+        "B": "Aplicar exclusivamente protocolos de tratamiento avalados por ensayos clínicos aleatorizados.",
+        "C": "Integrar la experiencia clínica individual con la mejor evidencia científica procedente de la investigación en la asistencia de cada paciente concreto, teniendo en cuenta su contexto.",
+        "D": "Aplicar intervenciones clínicas que el fisioterapeuta ha podido evidenciar, mediante su experiencia, que funcionan en casos similares al que presenta el paciente."
+    },
+    "respuesta_correcta": "C"
+},
+"Investigacion_pregunta19": {
+    "pregunta": "Para calcular el tamaño de una muestra en una evaluación de una nueva prueba diagnóstica se utilizará:",
+    "opciones": {
+        "A": "El índice Kappa.",
+        "B": "El riesgo relativo.",
+        "C": "Estimación de una proporción.",
+        "D": "El emparejamiento."
+    },
+    "respuesta_correcta": "C"
+},
+"Investigacion_pregunta20": {
+    "pregunta": "Para diseñar una estrategia de búsqueda bibliográfica una de las mejores opciones es formular una pregunta clínica estructurada, dividida en componentes. Son las denominadas preguntas PICO, que incluyen:",
+    "opciones": {
+        "A": "Paciente, intervención, comparativa y objetivos.",
+        "B": "Problema, intervención, comparativa y objetivo.",
+        "C": "Paciente, intervención, comparativa y resultado.",
+        "D": "Problema, indicación, comparativa y resultado."
+    },
+    "respuesta_correcta": "C"
+},
+"Investigacion_pregunta21": {
+    "pregunta": "Para valorar la eficacia de una vacuna antineumocócica se administró esta o un placebo a un grupo de 10.000 personas con factores de riesgo. ¿A qué tipo de estudio nos referimos?",
+    "opciones": {
+        "A": "Ensayo clínico aleatorio.",
+        "B": "Estudio de casos y controles.",
+        "C": "Estudio ecológico.",
+        "D": "Ensayo de campo."
+    },
+    "respuesta_correcta": "D"
+},
+"Investigacion_pregunta22": {
+    "pregunta": "Se realiza un estudio para determinar la posible relación entre la contaminación ambiental en diversas zonas geográficas y el número de visitas a urgencias por asma. Según el diseño de este estudio, se trata de un:",
+    "opciones": {
+        "A": "Estudio de correlación ecológica.",
+        "B": "Estudio de incidencia.",
+        "C": "Estudio de prevalencia.",
+        "D": "Estudio de cohortes."
+    },
+    "respuesta_correcta": "A"
+},
+"Investigacion_pregunta23": {
+    "pregunta": "Señale el criterio de la actitud pragmática en el diseño de un ensayo Clínico aleatorio:",
+    "opciones": {
+        "A": "Su finalidad es aumentar el conocimiento científico.",
+        "B": "El objetivo es la eficacia.",
+        "C": "Los criterios de selección son amplios.",
+        "D": "La dosis de tratamiento es fija."
+    },
+    "respuesta_correcta": "C"
+},
+"Investigacion_pregunta24": {
+    "pregunta": "Si se estudia un subgrupo de personas (muestra) con determinadas características, y extrae conclusiones que se pueden aplicar al total de la población, ¿qué tipo de abordaje se aplica para llegar a dichas conclusiones?",
+    "opciones": {
+        "A": "Inferencial.",
+        "B": "Descriptivo.",
+        "C": "Explicativo.",
+        "D": "Numérico."
+    },
+    "respuesta_correcta": "A"
+},
+"Investigacion_pregunta25": {
+    "pregunta": "Sobre los ensayos clínicos aleatorizados, una de las siguientes proposiciones es verdadera:",
+    "opciones": {
+        "A": "Es un diseño encuadrable dentro de los estudios experimentales",
+        "B": "Se conforman habitualmente seleccionando a los sujetos participantes mediante muestreo aleatorio desde la población diana",
+        "C": "Emplean métodos estadísticos como el mecanismo fundamental para controlar las variables de confusión (factores mezclados)",
+        "D": "Todas son correctas"
+    },
+    "respuesta_correcta": "A"
+},
+"Investigacion_pregunta26": {
+    "pregunta": "Una fuente para estudios de producción científica es",
+    "opciones": {
+        "A": "The lancet",
+        "B": "Science Citation Index",
+        "C": "El Diario Médico",
+        "D": "El Internista"
+    },
+    "respuesta_correcta": "B"
+},
+"Investigacion_pregunta27": {
+    "pregunta": "¿Cuál de las siguientes opciones no es un diseño específico de la investigación cualitativa?",
+    "opciones": {
+        "A": "Diseño ecológico.",
+        "B": "Diseño fenomenológico.",
+        "C": "Diseño etnográfico.",
+        "D": "Diseño narrativo."
+    },
+    "respuesta_correcta": "A"
+},
+"Investigacion_pregunta28": {
+    "pregunta": "¿Cuál de las siguientes técnicas de muestreo NO se considera aleatoria?",
+    "opciones": {
+        "A": "Muestreo según criterio de autoridad.",
+        "B": "Muestreo sistemático.",
+        "C": "Muestreo aleatorio simple.",
+        "D": "Muestreo por conglomerados."
+    },
+    "respuesta_correcta": "A"
+},
+"Investigacion_pregunta29": {
+    "pregunta": "¿Cuál de los estudios cuyos objetivos se presentan no corresponde a la categoría de investigación descriptiva?:",
+    "opciones": {
+        "A": "Estimar el efecto de un programa de educación sanitaria para pacientes diabéticos.",
+        "B": "Estimar la incidencia de infarto agudo de miocardio en varones mayores de 40 años.",
+        "C": "Conocer el pronóstico de una cohorte de pacientes con insuficiencia cardíaca congestiva.",
+        "D": "Identificar las necesidades de formación de un grupo de profesionales sanitarios."
+    },
+    "respuesta_correcta": "C"
+},
+"Investigacion_pregunta30": {
+    "pregunta": "¿Qué tipo de estudio utilizaría para estudiar enfermedades poco frecuentes o raras?",
+    "opciones": {
+        "A": "Estudios de asociación cruzada.",
+        "B": "Estudio de cohorte prospectivo.",
+        "C": "Estudio de casos y controles.",
+        "D": "Ensayo clínico cruzado."
+    },
+    "respuesta_correcta": "C"
+}
+
+}

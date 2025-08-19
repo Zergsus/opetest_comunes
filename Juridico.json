@@ -1,0 +1,623 @@
+{
+"Regimen juridico del personal_pregunta1": {
+  "pregunta": "Atendiendo al nivel académico del título exigido para el ingreso, el personal estatutario sanitario se clasifica de la siguiente forma, según Ley 55/2003, de 16 de diciembre, Estatuto Marco del Personal Estatutario de los Servicios de Salud:",
+  "opciones": {
+    "A": "Personal de formación universitaria y Personal de formación profesional.",
+    "B": "Personal de formación universitaria, Personal de formación profesional y Personal sin formación profesional.",
+    "C": "Licenciados sanitarios, Diplomados sanitarios y Técnicos superiores.",
+    "D": "Licenciados sanitarios, Licenciados en ciencias de la salud, Diplomados sanitarios y Técnicos superiores."
+  },
+  "respuesta_correcta": "A"
+},
+"Regimen juridico del personal_pregunta2": {
+  "pregunta": "Atendiendo al nivel académico del título exigido para el ingreso, la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, clasifica al personal estatutario sanitario de la siguiente forma:",
+  "opciones": {
+    "A": "Licenciados sanitarios, diplomados sanitarios, técnicos especialistas y técnicos superiores.",
+    "B": "Licenciados sanitarios, licenciados con título de especialista, diplomados sanitarios, diplomados con título de especialista, técnicos superiores y técnicos.",
+    "C": "Licenciados sanitarios, diplomados sanitarios y técnicos sanitarios.",
+    "D": "Licenciados sanitarios, especialistas en Ciencias de la Salud, diplomados, técnicos superiores y técnicos especialistas."
+  },
+  "respuesta_correcta": "B"
+},
+"Regimen juridico del personal_pregunta3": {
+  "pregunta": "Conforme a la regulación que hace el Estatuto Marco del Personal Estatutario, una de las siguientes afirmaciones relacionada con la situación administrativa de servicios especiales no es cierta. Diga Cuál es:",
+  "opciones": {
+    "A": "Se declarará en esta situación al personal estatutario cuando accedan a plaza de formación sanitaria especializada mediante residencia",
+    "B": "Se declarará en esta situación al personal estatutario cuando accedan a puesto directivo de los Centros Asistenciales de los Servicios de Salud",
+    "C": "Se declarará en esta situación al personal estatutario cuando acepte oferta para prestar sus servicios en entidades surgidas al amparo de nuevas fórmulas de gestión",
+    "D": "Se declarará en esta situación al personal estatutario que sea autorizado por la Administración pública competente, por periodos superiores a seis meses, para prestar servicios o colaborar con organizaciones no gubernamentales que desarrollen programas de cooperación, o para cumplir misiones en programas de cooperación nacional o internacional"
+  },
+  "respuesta_correcta": "C"
+},
+"Regimen juridico del personal_pregunta4": {
+  "pregunta": "Conforme a lo establecido en el Decreto 132/2021, de 6 de abril, por el que se regula el sistema de provisión de puestos directivos y cargos intermedios de los centros sanitarios del Servicio Andaluz de Salud, el personal directivo será designado por la:",
+  "opciones": {
+    "A": "Dirección General de Personal del Servicio Andaluz de Salud.",
+    "B": "Dirección Gerencia del Servicio Andaluz de Salud.",
+    "C": "Dirección Gerencia del Hospital / Distrito/ Área Sanitaria al que esté adscrito el puesto directivo, salvo la propia Dirección Gerencia del Hospital / Distrito / Área Sanitaria que será designado por la Dirección Gerencia del Servicio Andaluz de Salud.",
+    "D": "Dirección Gerencia del Hospital / Distrito/ Área Sanitaria al que esté adscrito el puesto directivo, salvo la propia Dirección Gerencia del Hospital / Distrito / Área Sanitaria que será designado por la Dirección General de Personal del Servicio Andaluz de Salud."
+  },
+  "respuesta_correcta": "B"
+},
+"Regimen juridico del personal_pregunta5": {
+  "pregunta": "Cuando el trabajador desarrolla actividades que conllevan al alta obligatoria en dos o más Regímenes diferentes de la Seguridad Social, la situación se denomina:",
+  "opciones": {
+    "A": "Pluriactividad.",
+    "B": "Pluriempleo.",
+    "C": "Alta especial.",
+    "D": "Alta asimilada."
+  },
+  "respuesta_correcta": "A"
+},
+"Regimen juridico del personal_pregunta6": {
+  "pregunta": "De acuerdo con el Decreto 132/2021, de 6 de abril, por el que se regula el sistema de provisión de puestos directivos y cargos intermedios de los centros sanitarios del Servicio Andaluz de Salud, en su art. 1 se establece que el presente decreto tiene por objeto regular el sistema de provisión de los puestos directivos y cargos intermedios de los centros sanitarios del Servicio Andaluz de Salud, que se regirá por los principios generales de:",
+  "opciones": {
+    "A": "igualdad, mérito, competencias y transparencia.",
+    "B": "igualdad, mérito, capacidad y publicidad.",
+    "C": "igualdad, mérito, transparencia, y subjetividad.",
+    "D": "igualdad, mérito, transparencia, y objetividad."
+  },
+  "respuesta_correcta": "B"
+},
+"Regimen juridico del personal_pregunta7": {
+  "pregunta": "De acuerdo con la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, para participar en los procesos selectivos para la promoción interna será requisito ostentar:",
+  "opciones": {
+    "A": "la titulación requerida y estar en servicio activo, y con nombramiento como personal estatutario fijo durante, al menos, cinco años en la categoría de procedencia.",
+    "B": "la titulación requerida y estar en servicio activo, y con nombramiento como personal estatutario fijo durante, al menos, dos años en la categoría de procedencia.",
+    "C": "la titulación requerida y estar en servicio activo, y con nombramiento como personal estatutario fijo durante, al menos, un año en la categoría de procedencia.",
+    "D": "la titulación requerida y estar en servicio activo, y con nombramiento como personal estatutario fijo durante, al menos, tres años en la categoría de procedencia."
+  },
+  "respuesta_correcta": "B"
+},
+"Regimen juridico del personal_pregunta8": {
+  "pregunta": "De acuerdo con la Resolución de 20 de mayo de 2019, de la Dirección Gerencia del Servicio Andaluz de Salud, por la que se aprueba el Plan de Ordenación de Recursos Humanos del Servicio Andaluz de Salud (su nueva edición), se posibilita la prolongación voluntaria de la permanencia en servicio activo al personal licenciado sanitario que reúna la capacidad funcional necesaria, de las categorías de Facultativos/as Especialistas de Área en sus distintas especialidades, Médicos/as de Familia en sus diferentes destinos y Pediatras de Atención Primaria hasta alcanzar la edad máxima de:",
+  "opciones": {
+    "A": "67 años.",
+    "B": "68 años.",
+    "C": "69 años.",
+    "D": "70 años."
+  },
+  "respuesta_correcta": "D"
+},
+"Regimen juridico del personal_pregunta9": {
+  "pregunta": "De acuerdo con Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, en su art. 10, ¿Quién desarrollará las actividades de planificación, diseño de programas de formación y modernización de los recursos humanos del Sistema Nacional de Salud?",
+  "opciones": {
+    "A": "El Consejo Interterritorial del Sistema Nacional de Salud.",
+    "B": "La Comisión de Planificación y Modernización del Sistema Nacional de Salud.",
+    "C": "El Consejo de Ministros",
+    "D": "La Comisión de Recursos Humanos del Sistema Nacional de Salud."
+  },
+  "respuesta_correcta": "D"
+},
+"Regimen juridico del personal_pregunta10": {
+  "pregunta": "De conformidad con lo dispuesto en el artículo 48 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, por ser preciso atender el cuidado de un familiar de primer grado, el funcionario tendrá derecho a solicitar una reducción de:",
+  "opciones": {
+    "A": "Hasta el 50% de la jornada laboral, con carácter retribuido, por razones de enfermedad muy grave y por el plazo máximo de un año.",
+    "B": "Hasta el 60% de la jornada laboral, con carácter retribuido, por razones de enfermedad muy grave y por el plazo máximo de un mes.",
+    "C": "Hasta el 50% de la jornada laboral, con carácter retribuido, por razones de enfermedad muy grave y por el plazo máximo de un mes.",
+    "D": "Hasta el 60% de la jornada laboral, con carácter retribuido, por razones de enfermedad muy grave y por el plazo máximo de un año."
+  },
+  "respuesta_correcta": "C"
+},
+"Regimen juridico del personal_pregunta11": {
+  "pregunta": "El artículo 41 de la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, establece que el sistema retributivo del personal estatutario responde a los principios de cualificación técnica y profesional y asegura el mantenimiento de un modelo común en relación con las retribuciones:",
+  "opciones": {
+    "A": "Complementarias.",
+    "B": "Básicas.",
+    "C": "Básicas y Complementarias.",
+    "D": "Especiales."
+  },
+  "respuesta_correcta": "B"
+},
+"Regimen juridico del personal_pregunta12": {
+  "pregunta": "El artículo 6 de la Ley 53/1984, de 26 de diciembre, de incompatibilidades del personal de las Administraciones Públicas, determina que, sin perjuicio de lo previsto en cuanto a la dedicación del profesorado universitario en el artículo 4.3 de dicha ley, excepcionalmente podrá autorizarse al personal incluido en el ámbito de la misma, la compatibilidad para el ejercicio de actividades de:",
+  "opciones": {
+    "A": "Investigación de carácter permanente.",
+    "B": "Asesoramiento científico en supuestos concretos, siempre que se correspondan a las funciones del personal adscrito a las respectivas Administraciones Públicas.",
+    "C": "Asesoramiento técnico en supuestos concretos, que no correspondan a las funciones del personal adscrito a las respectivas Administraciones Públicas.",
+    "D": "Ninguna de las respuestas anteriores es correcta."
+  },
+  "respuesta_correcta": "C"
+},
+"Regimen juridico del personal_pregunta13": {
+  "pregunta": "El Estatuto Marco del personal estatutario tipifica “El exceso arbitrario en el uso de autoridad que cause perjuicio grave al personal subordinado o al servicio”, como:",
+  "opciones": {
+    "A": "Falta muy grave.",
+    "B": "Falta grave.",
+    "C": "Falta leve.",
+    "D": "No existe una tipificación en esos términos."
+  },
+  "respuesta_correcta": "A"
+},
+"Regimen juridico del personal_pregunta14": {
+  "pregunta": "El Estatuto Marco del Personal Estatutario, en sus artículos 41 a 43, distingue entre retribuciones básicas y complementarias, e indica que son unas y otras las siguientes:",
+  "opciones": {
+    "A": "Básicas: sueldo, trienios; y complementarias: complemento de destino, complemento específico, CRP, complemento de atención continuada y complemento de Carrera Profesional",
+    "B": "Básicas: sueldo, trienios; y complementarias: complemento de destino, complemento específico, CRP, complemento de Dispersión Geográfica, complemento de atención continuada y complemento de Carrera Profesional",
+    "C": "Básicas: sueldo, trienios, y pagas extraordinarias; y complementarias: complemento de destino, complemento específico, CRP, complemento de Dispersión Geográfica, complemento de atención continuada y complemento de Carrera Profesional",
+    "D": "Básicas: sueldo, trienios, y pagas extraordinarias; y complementarias: complemento de destino, complemento específico, complemento de productividad, complemento de atención continuada y complemento de Carrera Profesional"
+  },
+  "respuesta_correcta": "D"
+},
+"Regimen juridico del personal_pregunta15": {
+  "pregunta": "El incumplimiento del deber de respeto a la Constitución y al Estatuto de Autonomía de la comunidad autónoma, en el ejercicio de la función pública, es una falta que el Estatuto Marco tipifica como:",
+  "opciones": {
+    "A": "Grave.",
+    "B": "Muy grave.",
+    "C": "Leve.",
+    "D": "Delito."
+  },
+  "respuesta_correcta": "B"
+},
+"Regimen juridico del personal_pregunta16": {
+  "pregunta": "El Manual de vacaciones, permisos y licencias del personal de centros e instituciones sanitarias del Servicio Andaluz de Salud recoge, en el artículo 3, los supuestos en los que se aplica la exención de jornada complementaria, entre los que no figura:",
+  "opciones": {
+    "A": "Mujeres en estado de gestación.",
+    "B": "Personal que tenga hijos con minusvalías o discapacitados.",
+    "C": "Personal que por razón de enfermedad sea contraproducente para su estado de salud realizar jornada complementaria.",
+    "D": "Personal con hijos menores de tres años."
+  },
+  "respuesta_correcta": "D"
+},
+"Regimen juridico del personal_pregunta17": {
+  "pregunta": "El personal al servicio de las Administraciones Públicas, por lactancia de un hijo menor de doce meses, tendrá derecho a una hora de ausencia del trabajo que podrá dividir en dos fracciones. Este derecho podrá sustituirse por:",
+  "opciones": {
+    "A": "Una reducción de la jornada normal en una hora al inicio y al final de la jornada, o en dos horas al inicio o al final de la jornada, con la misma finalidad",
+    "B": "Una reducción de la jornada normal en dos horas al inicio y al final de la jornada, o en una hora al inicio o al final de la jornada, con la misma finalidad",
+    "C": "Una reducción de la jornada normal en dos horas al inicio y al final de la jornada, o en media hora al inicio o al final de la jornada, con la misma finalidad",
+    "D": "Una reducción de la jornada normal en media hora al inicio y al final de la jornada, o en una hora al inicio o al final de la jornada, con la misma finalidad"
+  },
+  "respuesta_correcta": "D"
+},
+"Regimen juridico del personal_pregunta18": {
+  "pregunta": "El Personal Estatutario de los Servicios de Salud se clasifica (señala la respuesta correcta):",
+  "opciones": {
+    "A": "Atendiendo a la función desarrollada.",
+    "B": "Al nivel del título exigido para el ingreso.",
+    "C": "Al tipo de su nombramiento.",
+    "D": "Todas son correctas"
+  },
+  "respuesta_correcta": "D"
+},
+"Regimen juridico del personal_pregunta19": {
+  "pregunta": "El plazo para interponer recurso potestativo de reposición contra un acto expreso es de:",
+  "opciones": {
+    "A": "1 mes.",
+    "B": "4 meses.",
+    "C": "2 meses.",
+    "D": "3 meses."
+  },
+  "respuesta_correcta": "A"
+},
+"Regimen juridico del personal_pregunta20": {
+  "pregunta": "El Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el Estatuto Básico del Empleado Público (en adelante EBEP), tiene por objeto, entre otros:",
+  "opciones": {
+    "A": "Establecer las bases por las que se han de regir todos trabajadores de la Administración.",
+    "B": "Determinar las normas aplicables al personal laboral de las empresas públicas.",
+    "C": "Establecer las bases del régimen público de los funcionarios públicos incluidos en su ámbito de aplicación.",
+    "D": "Determinar las normas aplicables al personal laboral al servicio de las Administraciones Públicas."
+  },
+  "respuesta_correcta": "D"
+},
+"Regimen juridico del personal_pregunta21": {
+  "pregunta": "En la actualidad los licenciados sanitarios con compatibilidad reconocida para una segunda actividad perciben idéntica cuantía en sus retribuciones no variables que el personal de este grupo con dedicación exclusiva. Esta medida se adoptó:",
+  "opciones": {
+    "A": "Mediante un complemento de productividad de factor fijo, contemplado en el Acuerdo de 4 de agosto de 2020, del Consejo de Gobierno, por el que se aprueba el acuerdo de la Mesa Sectorial de Sanidad de fecha 10 de julio de 2020.",
+    "B": "Mediante la modificación del Complemento Específico para este personal, contenida en la Ley 6/2019, de 19 de diciembre, del Presupuesto de la Comunidad Autónoma de Andalucía para el año 2020",
+    "C": "Mediante una cuantía adicional de CRP contemplado en la Resolución núm. 1/2021, de 26 de enero de 2021 de la Dirección General de Personal del SAS, de Retribuciones del personal de Centros e Instituciones Sanitarias. Ejercicio 2021.",
+    "D": "Resolución 0020/2Modificación del Anexo XIX.2 de la Resolución 01/2021, de 26 de enero, sobre retribuciones del personal de Centros e Instituciones Sanitarias, ejercicio 2021"
+  },
+  "respuesta_correcta": "A"
+},
+"Regimen juridico del personal_pregunta22": {
+  "pregunta": "En materia de incompatibilidades para el personal que presta servicios en centros dependientes de la Junta de Andalucía, ¿cuál de los siguientes no es un principio general?",
+  "opciones": {
+    "A": "Percibo de una sola retribución pública.",
+    "B": "Incompatibilidad con cualquier otra actividad cuyo ejercicio menoscabe la imparcialidad o el cumplimiento de sus deberes.",
+    "C": "Dedicación del personal a un solo puesto de trabajo.",
+    "D": "Compatibilidad con la percepción de pensión de jubilación o retiro."
+  },
+  "respuesta_correcta": "D"
+},
+"Regimen juridico del personal_pregunta23": {
+  "pregunta": "En materia de incompatibilidades, el personal al servicio de la Administración de la Junta de Andalucía y del Sector Público Andaluz que acceda a un nuevo puesto del sector público que, con arreglo a la Ley 53/1984, resulte incompatible con el que viniera desempeñando:",
+  "opciones": {
+    "A": "Deberá instar la autorización de compatibilidad.",
+    "B": "A falta de opción, se entenderá que opta por seguir desempeñando sus funciones en el puesto que viniera desempeñando.",
+    "C": "Habrá de optar por uno de ellos dentro del plazo de toma de posesión.",
+    "D": "Ninguna respuesta es correcta."
+  },
+  "respuesta_correcta": "C"
+},
+"Regimen juridico del personal_pregunta24": {
+  "pregunta": "En relación a la negociación colectiva de las materias que afecten y se refieran a los empleados públicos, la normativa vigente dispone",
+  "opciones": {
+    "A": "La ley no distingue entre Pactos y Acuerdos. Son dos denominaciones que se utilizan indistintamente y se refieren a la negociación de la Administración con los representantes de los empleados públicos",
+    "B": "Los Pactos necesitan la aprobación por mayoría simple de los integrantes de la Mesa de Negociación, y los Acuerdos requieren una mayoría cualificada de dos tercios de los miembros presentes de la Mesa, para ser aprobados.",
+    "C": "Los Acuerdos se refieren a la negociación de condiciones de trabajo de los empleados públicos en desarrollo de normas con rango de ley, y los Pactos se refieren a la negociación de condiciones de trabajo de los empleados públicos en desarrollo de normas con rango reglamentario.",
+    "D": "Los Pactos se celebrarán sobre materias que se correspondan estrictamente con el ámbito competencial del órgano administrativo que lo suscriba y se aplicarán directamente al personal del ámbito correspondiente, y los Acuerdos versarán sobre materias competencia de los órganos de gobierno de las Administraciones Públicas."
+  },
+  "respuesta_correcta": "D"
+},
+"Regimen juridico del personal_pregunta25": {
+  "pregunta": "En relación al personal en formación de especialistas en ciencias de la salud, podemos afirmar",
+  "opciones": {
+    "A": "Que su relación laboral se rige por el Estatuto del Residente, para el caso de los MIR; y por el Estatuto Marco para el caso de los EIR",
+    "B": "Que para todo el personal en formación su relación laboral tiene la condición de relación laboral común, y se rige por el Real Decreto 1146/2006, de 6 de octubre, por el que se regula la relación laboral especial de residencia para la formación de especialistas en Ciencias de la Salud",
+    "C": "Que para todo el personal en formación su relación laboral tiene la condición de relación laboral de carácter especial.",
+    "D": "Que para todo el personal en formación su relación laboral tiene la condición de relación laboral de carácter especial, y se rige por el Estatuto Marco del Personal Estatutario."
+  },
+  "respuesta_correcta": "C"
+},
+"Regimen juridico del personal_pregunta26": {
+  "pregunta": "En una de las siguientes situaciones administrativas, la persona funcionaria no recibirá retribuciones, ni tampoco le contará el tiempo que permanezca en tal situación a efectos de ascensos, trienios y derechos en el régimen de Seguridad Social que le sea de aplicación. ¿Cuál es?",
+  "opciones": {
+    "A": "Excedencia voluntaria por interés particular.",
+    "B": "Excedencia por razón de violencia de género.",
+    "C": "Excedencia por cuidado de familiares.",
+    "D": "La situación administrativa descrita en la pregunta no existe."
+  },
+  "respuesta_correcta": "A"
+},
+"Regimen juridico del personal_pregunta27": {
+  "pregunta": "Indique cuál de las siguientes afirmaciones es correcta sobre la recuperación de la condición de personal estatutario fijo:",
+  "opciones": {
+    "A": "Cuando se hubiera perdido como consecuencia de incapacidad permanente, si ésta es revisada dentro de los dos años siguientes a la fecha de la declaración de incapacidad, el interesado tendrá derecho a incorporarse a plaza de la misma categoría y área de salud en que prestaba sus servicios.",
+    "B": "Cuando se hubiera perdido como consecuencia de incapacidad permanente, si ésta es revisada dentro de los dos años siguientes a la fecha de la declaración de incapacidad, supondrá la simultánea declaración del interesado en la situación de expectativa de destino.",
+    "C": "Cuando se hubiera perdido como consecuencia de incapacidad permanente, si ésta es revisada dentro de los dos años siguientes a la fecha de la declaración de incapacidad, supondrá la simultánea declaración del interesado en la situación de excedencia voluntaria.",
+    "D": "Ninguna de las respuestas anteriores es correcta."
+  },
+  "respuesta_correcta": "A"
+},
+"Regimen juridico del personal_pregunta28": {
+  "pregunta": "La competencia para incoar el procedimiento disciplinario por falta leve, grave o muy grave corresponde (señale la respuesta correcta):",
+  "opciones": {
+    "A": "A la Dirección Gerencia del S.A.S.",
+    "B": "A la Dirección General de Personal.",
+    "C": "A la Dirección General de Personal por Resolución de 27 de marzo de 2016, de delegación de competencias.",
+    "D": "Por delegación a las personas titulares de las Gerencias de Áreas de Gestión Sanitaria, de la Dirección Gerencia de Hospitales, de la Dirección de Distritos de Atención Primaria, de la Dirección de Centros de Transfusión, Tejidos y Células."
+  },
+  "respuesta_correcta": "D"
+},
+"Regimen juridico del personal_pregunta29": {
+  "pregunta": "La competencia para la certificación en el acceso o la promoción a los distintos niveles de Carrera Profesional de los profesionales del SAS, la ostenta",
+  "opciones": {
+    "A": "La Agencia de Calidad Sanitaria de Andalucía",
+    "B": "La Secretaria General de Investigación, Desarrollo e Innovación de la Consejería de Salud y Familias de la Junta de Andalucía",
+    "C": "La Dirección General de Personal del SAS",
+    "D": "La Dirección Gerencia del SAS"
+  },
+  "respuesta_correcta": "C"
+},
+"Regimen juridico del personal_pregunta30": {
+  "pregunta": "La Ley 55/2003 (del Estatuto Marco) establece en su artículo 5 los criterios de clasificación del personal estatutario. ¿Cuál de los siguientes NO es uno de estos criterios?",
+  "opciones": {
+    "A": "Antigüedad.",
+    "B": "Función desarrollada.",
+    "C": "Nivel del título exigido para el ingreso.",
+    "D": "Tipo de nombramiento."
+  },
+  "respuesta_correcta": "A"
+},
+"Regimen juridico del personal_pregunta31": {
+  "pregunta": "La Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud:",
+  "opciones": {
+    "A": "Tiene por objeto establecer las bases reguladoras de la relación funcionarial especial del personal estatutario de los servicios de salud que conforman el Sistema Nacional de Salud.",
+    "B": "Desarrolló -para el personal estatutario en todos los servicios de salud- lo establecido en la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública.",
+    "C": "Es aplicable al personal estatutario que desempeña su función en los servicios sanitarios de la Administración General del Estado, siendo legislación supletoria a las normas de las Comunidades Autonómicas en los centros y servicios sanitarios establecidos en cada una de ellas.",
+    "D": "Todas las anteriores son correctas."
+  },
+  "respuesta_correcta": "A"
+},
+"Regimen juridico del personal_pregunta32": {
+  "pregunta": "La renuncia a la condición de personal estatutario:",
+  "opciones": {
+    "A": "Únicamente puede basarse en causas legalmente establecidas.",
+    "B": "Es un acto de carácter voluntario.",
+    "C": "Debe ser aceptada en todo caso.",
+    "D": "Inhabilita para obtener nuevamente la condición de estatutario."
+  },
+  "respuesta_correcta": "B"
+},
+"Regimen juridico del personal_pregunta33": {
+  "pregunta": "Los derechos individuales del personal estatutario, regulados en el art. 17 del Estatuto Marco, se aplican al personal temporal:",
+  "opciones": {
+    "A": "Sí, siempre.",
+    "B": "Solo se les aplican los de contenido económico.",
+    "C": "Se aplican en la medida en que la naturaleza del derecho lo permita.",
+    "D": "No, ya que se trata de derechos reconocidos al personal estatutario propietario."
+  },
+  "respuesta_correcta": "D"
+},
+"Regimen juridico del personal_pregunta34": {
+  "pregunta": "Podrá concurrir a las pruebas selectivas, por el sistema de promoción interna, el personal estatutario fijo del Servicio Andaluz de Salud que reúna y acredite los requisitos que exija cada convocatoria, así como el siguiente:",
+  "opciones": {
+    "A": "Encontrarse en situación de servicio activo, con nombramiento como personal estatutario fijo y habiendo prestado servicios durante, al menos, dos años en la categoría de procedencia.",
+    "B": "Encontrarse en situación de servicio activo y con nombramiento como personal estatutario fijo durante, al menos, un año en la categoría de procedencia.",
+    "C": "Encontrarse en situación de servicio activo, con nombramiento como personal estatutario fijo y habiendo prestado servicios durante, al menos, un año en la categoría de procedencia.",
+    "D": "Encontrarse en situación de servicio activo y con nombramiento como personal estatutario fijo durante, al menos, dos años en la categoría de procedencia."
+  },
+  "respuesta_correcta": "D"
+},
+"Regimen juridico del personal_pregunta35": {
+  "pregunta": "Respecto a la regulación del reingreso al servicio activo del personal estatutario del Servicio Andaluz de Salud",
+  "opciones": {
+    "A": "Tendrán la consideración de plazas susceptibles de ser cubiertas mediante reingreso provisional, aquellas plazas básicas de la categoría desempeñadas por el personal temporal mediante nombramiento de interinidad o de sustitución",
+    "B": "El reingreso al servicio activo con carácter provisional del personal estatutario que no tenga reserva de plaza podrá producirse, previa solicitud del interesado, en plaza básica vacante debidamente presupuestada, de la correspondiente categoría y, en su caso, especialidad en el mismo Centro Sanitario en el que tuvo el último destino definitivo.",
+    "C": "El plazo para tomar posesión de la plaza será de tres días hábiles, contados a partir del día siguiente al de la notificación de la Resolución de concesión del reingreso provisional al servicio activo",
+    "D": "El personal estatutario en situación de reingreso provisional que no obtenga plaza en el concurso de traslados, habiendo solicitado todas las convocadas en el Area de Salud, podrá optar por obtener nuevo destino provisional en alguna de las plazas que resulten vacantes como consecuencia de la resolución del mismo, o por pasar a la situación de excedencia voluntaria."
+  },
+  "respuesta_correcta": "D"
+},
+"Regimen juridico del personal_pregunta36": {
+  "pregunta": "Según el artículo 52 del estatuto Marco del personal Estatutario de los servicios de salud, la duración de período de vacaciones retribuidas es:",
+  "opciones": {
+    "A": "Un mes, o el tiempo que proporcionalmente corresponda en función del tiempo de servicios.",
+    "B": "No inferior a 22 días hábiles o al tiempo que proporcionalmente corresponda en función del tiempo de servicios.",
+    "C": "No inferior a 30 días naturales, o al tiempo que proporcionalmente corresponda en función del tiempo de servicios.",
+    "D": "Ninguna de las respuestas anteriores es correcta."
+  },
+  "respuesta_correcta": "C"
+},
+"Regimen juridico del personal_pregunta37": {
+  "pregunta": "Según el artículo 62 del Estatuto Marco del personal estatutario de los servicios de salud (Ley 55/2003, de 16 de diciembre), el régimen general de situaciones del personal estatutario fijo contempla todas las siguientes, EXCEPTO:",
+  "opciones": {
+    "A": "Servicio activo.",
+    "B": "Excedencia voluntaria.",
+    "C": "Comisión de servicio.",
+    "D": "Suspensión de funciones."
+  },
+  "respuesta_correcta": "C"
+},
+"Regimen juridico del personal_pregunta38": {
+  "pregunta": "Según el Estatuto Marco vigente (Ley 55/2003), ¿cuál es el tiempo máximo de trabajo ininterrumpido que puede desarrollarse como jornada ordinaria?",
+  "opciones": {
+    "A": "12 horas.",
+    "B": "8 horas.",
+    "C": "24 horas.",
+    "D": "12 horas para el personal estatutario fijo y 24 horas para el personal estatutario temporal."
+  },
+  "respuesta_correcta": "A"
+},
+"Regimen juridico del personal_pregunta39": {
+  "pregunta": "Según el Manual de Vacaciones, Permisos y Licencias del personal de centros e instituciones sanitarias del SAS, entre los requisitos para poder solicitar un permiso sin sueldo, se encuentra:",
+  "opciones": {
+    "A": "Haber cumplido al menos un año de servicios efectivos.",
+    "B": "Haber cumplido al menos dos años de servicios efectivos.",
+    "C": "Haber cumplido al menos seis meses de servicios efectivos.",
+    "D": "No existe ningún requisito de servicios efectivos."
+  },
+  "respuesta_correcta": "A"
+},
+"Regimen juridico del personal_pregunta40": {
+  "pregunta": "Según el Manual de Vacaciones, Permisos y Licencias del personal de centros e instituciones sanitarias del SAS, con veinte años de antigüedad, el personal tendrá derecho al disfrute de los siguientes días adicionales de vacaciones anuales:",
+  "opciones": {
+    "A": "1 día hábil más.",
+    "B": "2 días hábiles más.",
+    "C": "3 días hábiles más.",
+    "D": "4 días hábiles más."
+  },
+  "respuesta_correcta": "B"
+},
+"Regimen juridico del personal_pregunta41": {
+  "pregunta": "Según el Real Decreto Legislativo 5/2015 (EBEP), con relación a los derechos de los empleados públicos, las reuniones en el centro de trabajo:",
+  "opciones": {
+    "A": "Se autorizarán fuera de las horas de trabajo, salvo acuerdo entre el la Dirección del Centro u Organismo y quienes estén legitimados para convocarlas.",
+    "B": "Se autorizarán fuera de las horas de trabajo, salvo acuerdo entre el órgano competente en materia de personal y los representantes de las organizaciones sindicales.",
+    "C": "Se autorizarán en horas de trabajo, salvo acuerdo entre el órgano competente en materia de personal y los representantes de las organizaciones sindicales.",
+    "D": "Se autorizarán fuera de las horas de trabajo, salvo acuerdo entre el órgano competente en materia de personal y quienes estén legitimados para convocarlas."
+  },
+  "respuesta_correcta": "D"
+},
+"Regimen juridico del personal_pregunta42": {
+  "pregunta": "Según el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el EBEP, entre los derechos individuales ejercidos colectivamente se encuentra:",
+  "opciones": {
+    "A": "La libertad sindical.",
+    "B": "La formación continua.",
+    "C": "Las prestaciones de la Seguridad Social correspondientes al régimen que les sea de aplicación.",
+    "D": "La libre asociación profesional."
+  },
+  "respuesta_correcta": "A"
+},
+"Regimen juridico del personal_pregunta43": {
+  "pregunta": "Según establece el artículo 19 de la Ley 53/1984, de 26 de diciembre, de incompatibilidades del personal al servicio de las Administraciones Públicas, quedarán exceptuadas del régimen de incompatibilidades las actividades siguientes:",
+  "opciones": {
+    "A": "La dirección de seminarios en Centros oficiales destinados a la formación de funcionarios o profesorado, cuando no tengan carácter permanente o habitual ni supongan más de setenta y cinco horas al año.",
+    "B": "El ejercicio retribuido del cargo de Presidente, Vocal o miembro de Juntas rectoras de Mutualidades o Patronatos de Funcionarios.",
+    "C": "La producción y creación literaria, artística, científica y técnica, así como las publicaciones derivadas de aquéllas, siempre que se originen como consecuencia de una relación de empleo o de prestación de servicios.",
+    "D": "La participación habitual en coloquios y programas en cualquier medio de comunicación social."
+  },
+  "respuesta_correcta": "A"
+},
+"Regimen juridico del personal_pregunta44": {
+  "pregunta": "Según la Ley 39/2015, cuando la norma reguladora de un procedimiento no fije el plazo máximo de notificación de la resolución expresa, éste será de:",
+  "opciones": {
+    "A": "Un mes.",
+    "B": "Tres meses.",
+    "C": "Seis meses.",
+    "D": "Un año."
+  },
+  "respuesta_correcta": "B"
+},
+"Regimen juridico del personal_pregunta45": {
+  "pregunta": "Según la Ley 55/2003, de 16 de diciembre, del Estatuto Marco, indicar cuál de los siguientes es un derecho colectivo:",
+  "opciones": {
+    "A": "Libre sindicación.",
+    "B": "Movilidad voluntaria.",
+    "C": "Acción social.",
+    "D": "Jubilación."
+  },
+  "respuesta_correcta": "A"
+},
+"Regimen juridico del personal_pregunta46": {
+  "pregunta": "Según la Ley 55/2003, de 16 de diciembre, del Estatuto Marco, la clasificación del personal estatutario de gestión y servicios según el nivel académico del título exigido para su ingreso es:",
+  "opciones": {
+    "A": "Personal de formación universitaria, personal de formación profesional y otro personal.",
+    "B": "Licenciados Universitarios, Técnicos Superiores y otro personal.",
+    "C": "Licenciados y Diplomados Universitarios, Técnicos Superiores y otro personal.",
+    "D": "Personal Sanitario y Personal no sanitario."
+  },
+  "respuesta_correcta": "A"
+},
+"Regimen juridico del personal_pregunta47": {
+  "pregunta": "Según la Ley 55/2003, de 16 de diciembre, del Estatuto Marco, la duración máxima de los tiempos de trabajo correspondientes a la jornada complementaria y a la ordinaria será, salvo que mediante acuerdo, pacto o convenio colectivo se establezca otro cómputo:",
+  "opciones": {
+    "A": "De 35 horas semanales de trabajo efectivo de promedio en cómputo semestral.",
+    "B": "De 40 horas semanales de trabajo efectivo de promedio en cómputo semestral.",
+    "C": "De 48 horas semanales de trabajo efectivo de promedio en cómputo semestral.",
+    "D": "De 52 horas semanales de trabajo efectivo de promedio en cómputo semestral."
+  },
+  "respuesta_correcta": "C"
+},
+"Regimen juridico del personal_pregunta48": {
+  "pregunta": "Según la Ley 55/2003, de 16 de diciembre, del Estatuto Marco, la notoria falta de rendimiento que comporte inhibición en el cumplimiento de sus funciones, está catalogada como falta:",
+  "opciones": {
+    "A": "Muy grave.",
+    "B": "Grave.",
+    "C": "Leve.",
+    "D": "No es falta."
+  },
+  "respuesta_correcta": "A"
+},
+"Regimen juridico del personal_pregunta49": {
+  "pregunta": "Según la Ley 55/2003, de 16 de diciembre, del Estatuto Marco, la renuncia a la condición de personal estatutario fijo tiene el carácter de acto voluntario y deberá ser solicitada por el interesado con una antelación mínima de:",
+  "opciones": {
+    "A": "El personal estatutario fijo no puede renunciar a tal condición, sí podría quedar en excedencia voluntaria.",
+    "B": "2 meses.",
+    "C": "1 mes.",
+    "D": "15 días."
+  },
+  "respuesta_correcta": "C"
+},
+"Regimen juridico del personal_pregunta50": {
+  "pregunta": "Según la Ley 55/2003, de 16 de diciembre, del Estatuto Marco, las cuantías de los siguientes conceptos retributivos serán iguales para todos los servicios de salud:",
+  "opciones": {
+    "A": "Sueldo, trienios y complemento específico.",
+    "B": "Sueldo y trienios.",
+    "C": "Sueldo, trienios y carrera profesional.",
+    "D": "Sueldo, trienios y jornada complementaria."
+  },
+  "respuesta_correcta": "B"
+},
+"Regimen juridico del personal_pregunta51": {
+  "pregunta": "Según la Ley 55/2003, de 16 de diciembre, del Estatuto Marco, se considera tiempo de trabajo:",
+  "opciones": {
+    "A": "El período en el que el personal permanece en el centro sanitario, a disposición del mismo y en ejercicio efectivo de su actividad y funciones.",
+    "B": "El período en el que el personal permanece en el centro sanitario, a disposición del mismo y en ejercicio efectivo de su actividad y funciones, así como el aquel en el que permanece disponible para su localización.",
+    "C": "El periodo en el que el personal permanece en el centro sanitario, aunque no realice su actividad o funciones.",
+    "D": "Las respuestas A. y B. son correctas."
+  },
+  "respuesta_correcta": "A"
+},
+"Regimen juridico del personal_pregunta52": {
+  "pregunta": "Según la Ley 55/2003, de 16 de diciembre, del Estatuto Marco, son causas de extinción de la condición de personal estatutario fijo:",
+  "opciones": {
+    "A": "La renuncia, la pérdida de la nacionalidad, la sanción disciplinaria provisional de separación del servicio, y la incapacidad permanente.",
+    "B": "La pérdida de la nacionalidad, la sanción disciplinaria firme de separación del servicio, y la declaración de excedencia voluntaria.",
+    "C": "La pena principal o accesoria de inhabilitación absoluta, la jubilación, y la incapacidad permanente.",
+    "D": "La renuncia, la pena principal o accesoria de inhabilitación absoluta, y la sanción disciplinaria provisional o firme."
+  },
+  "respuesta_correcta": "C"
+},
+"Regimen juridico del personal_pregunta53": {
+  "pregunta": "Según Ley 55/2003, de 16 de diciembre, Estatuto Marco del Personal Estatutario de los Servicios de Salud, la renuncia a la condición de personal estatutario tiene el carácter de:",
+  "opciones": {
+    "A": "Acto administrativo, y deberá ser solicitada por el interesado con una antelación mínima de 30 días a la fecha en que se desee hacer efectiva.",
+    "B": "Acto voluntario, y deberá ser solicitada por el interesado con una antelación mínima de 15 días a la fecha en que se desee hacer efectiva.",
+    "C": "Acto administrativo, y deberá ser solicitada por el interesado con una antelación mínima de dos meses a la fecha en que se desee hacer efectiva.",
+    "D": "Acto voluntario, y deberá ser solicitada por el interesado con una antelación mínima de 30 días a la fecha en que se desee hacer efectiva."
+  },
+  "respuesta_correcta": "B"
+},
+"Regimen juridico del personal_pregunta54": {
+  "pregunta": "Según Ley 55/2003, de 16 de diciembre, Estatuto Marco del Personal Estatutario de los Servicios de Salud, las retribuciones básicas son:",
+  "opciones": {
+    "A": "El sueldo, los trienios, el complemento de destino y las pagas extraordinarias.",
+    "B": "El sueldo y los trienios.",
+    "C": "El sueldo, los trienios, el complemento específico y las pagas extraordinarias.",
+    "D": "El sueldo, los trienios y las pagas extraordinarias."
+  },
+  "respuesta_correcta": "D"
+},
+"Regimen juridico del personal_pregunta55": {
+  "pregunta": "Según Ley 55/2003, de 16 de diciembre, Estatuto Marco del Personal Estatutario de los Servicios de Salud, indique cuál NO es una retribución complementaria:",
+  "opciones": {
+    "A": "Atención continuada.",
+    "B": "Productividad.",
+    "C": "Trienios.",
+    "D": "Carrera Profesional."
+  },
+  "respuesta_correcta": "C"
+},
+"Regimen juridico del personal_pregunta56": {
+  "pregunta": "Según Ley 55/2003, de 16 de diciembre, Estatuto Marco del Personal Estatutario de los Servicios de Salud, el abuso de autoridad en el ejercicio de sus funciones es una falta disciplinaria catalogada de carácter:",
+  "opciones": {
+    "A": "Leve.",
+    "B": "Grave.",
+    "C": "Muy grave.",
+    "D": "Excepcional."
+  },
+  "respuesta_correcta": "B"
+},
+"Regimen juridico del personal_pregunta57": {
+  "pregunta": "Según Ley 55/2003, de 16 de diciembre, Estatuto Marco del Personal Estatutario de los Servicios de Salud, la falta de obediencia debida a los superiores es una falta disciplinaria catalogada de carácter:",
+  "opciones": {
+    "A": "Leve.",
+    "B": "Grave.",
+    "C": "Muy grave.",
+    "D": "No es falta disciplinaria."
+  },
+  "respuesta_correcta": "B"
+},
+"Regimen juridico del personal_pregunta58": {
+  "pregunta": "Según lo dispuesto en el Estatuto Marco, ¿se mantendrán en servicio activo quienes sean declarados en suspensión provisional de funciones?:",
+  "opciones": {
+    "A": "Casi siempre.",
+    "B": "Nunca.",
+    "C": "Sí, con las limitaciones de derechos que se establezcan legalmente.",
+    "D": "Sí, pero solo tendrán derecho a las retribuciones básicas y a las vacaciones reglamentarias, pero no a los días de libre disposición."
+  },
+  "respuesta_correcta": "C"
+},
+"Regimen juridico del personal_pregunta59": {
+  "pregunta": "Según se recoge en el artículo 4 del Estatuto Marco del personal estatutario de los servicios de salud, la ordenación del régimen de este personal se rige por los siguientes principios y criterios, EXCEPTO:",
+  "opciones": {
+    "A": "Igualdad, mérito, capacidad y publicidad en el acceso a la condición de personal estatutario.",
+    "B": "Libre circulación del personal estatutario en el conjunto del Sistema Nacional de Salud.",
+    "C": "Estabilidad en el empleo y en el mantenimiento de la condición de personal estatutario fijo.",
+    "D": "Dedicación exclusiva al servicio público, integrándose en el régimen organizativo y funcional del servicio de salud."
+  },
+  "respuesta_correcta": "D"
+},
+"Regimen juridico del personal_pregunta60": {
+  "pregunta": "Señale la respuesta INCORRECTA en relación con la regulación sobre retribuciones básicas, contenidas en el artículo 42 de la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud:",
+  "opciones": {
+    "A": "La cuantía de cada trienio será la establecida para la categoría a la que pertenezca el interesado el día en que se perfeccionó.",
+    "B": "El importe de cada una de las dos pagas extraordinarias anuales será, como máximo, de una mensualidad del sueldo y trienios, al que se añadirá la doceava parte del importe anual del complemento de destino.",
+    "C": "Las retribuciones básicas y las cuantías del sueldo y los trienios serán iguales en todos los servicios de salud y se determinarán, cada año, en las correspondientes Leyes de Presupuestos.",
+    "D": "Las pagas extraordinarias serán dos al año y se devengarán preferentemente en los meses de junio y diciembre."
+  },
+  "respuesta_correcta": "B"
+},
+"Regimen juridico del personal_pregunta61": {
+  "pregunta": "¿A quién compete la creación, modificación o supresión de una categoría de personal estatutario, según establece el articulado del vigente Estatuto Marco (Ley 55/2003)?",
+  "opciones": {
+    "A": "Al Consejo Interterritorial del SNS.",
+    "B": "A la Comisión de Recursos Humanos del SNS.",
+    "C": "A cada Servicio de Salud en el ámbito territorial de sus competencias.",
+    "D": "Al Ministerio de Sanidad."
+  },
+  "respuesta_correcta": "C"
+},
+"Regimen juridico del personal_pregunta62": {
+  "pregunta": "¿En qué año se promulgó el actual Estatuto Marco del personal estatutario de los servicios de salud, derogando y sustituyendo a los tres estatutos de personal que eran normas preconstitucionales?",
+  "opciones": {
+    "A": "En 2003.",
+    "B": "En 1986.",
+    "C": "En 2002.",
+    "D": "En 2016."
+  },
+  "respuesta_correcta": "A"
+}
+
+}

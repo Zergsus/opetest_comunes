@@ -1,0 +1,53 @@
+{
+"Ordenacion profesiones sanitarias_pregunta1": {
+  "pregunta": "Cuál de los siguientes aspectos NO se regula en la Ley 44/2003, de 21 de noviembre, de ordenación de profesiones sanitarias?",
+  "opciones": {
+    "A": "El desarrollo profesional.",
+    "B": "La formación continuada.",
+    "C": "La provisión de plazas por los profesionales.",
+    "D": "Los registros profesionales."
+  },
+  "respuesta_correcta": "El desarrollo profesional."
+},
+"Ordenacion profesiones sanitarias_pregunta2": {
+  "pregunta": "En relación al título de especialista en Ciencias de la Salud:",
+  "opciones": {
+    "A": "Tiene carácter oficial y validez en todo el territorio español.",
+    "B": "Su oficialidad y validez únicamente se adjudicará en la Comunidad Autónoma donde se haya cursado el programa formativo.",
+    "C": "A y D son correctas.",
+    "D": "Corresponde al Gobierno, a propuesta de los Ministerios de Educación, Cultura y Deporte y de Sanidad y Consumo, previo informe de la Comisión de Recursos Humanos del Sistema Nacional de Salud, del Consejo Nacional de Especialidades en Ciencias de la Salud y de la organización u organizaciones colegiales que correspondan, el establecimiento de los títulos de Especialistas en Ciencias de la Salud, así como su supresión o cambio de denominación."
+  },
+  "respuesta_correcta": "A y D son correctas."
+},
+"Ordenacion profesiones sanitarias_pregunta3": {
+  "pregunta": "La Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias, regula los aspectos básicos de las profesiones sanitarias tituladas, como queda recogido en su artículo Señale la respuesta INCORRECTA referido al texto de este articulado:",
+  "opciones": {
+    "A": "Regula la estructura general de la formación de los profesionales.",
+    "B": "Regula el desarrollo profesional cuando la profesión se ejerce en los servicios sanitarios públicos, no aplicando en el ámbito de la sanidad privada.",
+    "C": "Regula la participación de los profesionales en la planificación y ordenación de las profesiones sanitarias.",
+    "D": "Establece los registros de profesionales que permitan hacer efectivo los derechos de los ciudadanos respecto a las prestaciones sanitarias y la adecuada planificación de los recursos humanos del sistema de salud."
+  },
+  "respuesta_correcta": "Regula el desarrollo profesional cuando la profesión se ejerce en los servicios sanitarios públicos, no aplicando en el ámbito de la sanidad privada."
+},
+"Ordenacion profesiones sanitarias_pregunta4": {
+  "pregunta": "Para el ejercicio de una profesión sanitaria será necesario cumplir las obligaciones y requisitos previstos en el ordenamiento jurídico vigente. En todo caso, para ejercer una profesión sanitaria, será requisito:",
+  "opciones": {
+    "A": "No es necesario estar colegiado pero es útil para realizar actividades de formación.",
+    "B": "Estar colegiado, cuando una ley estatal establezca esta obligación para el ejercicio de una profesión titulada o algunas actividades propias de estas.",
+    "C": "Estar colegiado cuando así los establezca una ley propia de la Comunidad Autónoma correspondiente.",
+    "D": "Estar colegiado en caso de desarrollar la actividad propia de la profesión sanitaria titulada en el ámbito de la sanidad pública."
+  },
+  "respuesta_correcta": "Estar colegiado, cuando una ley estatal establezca esta obligación para el ejercicio de una profesión titulada o algunas actividades propias de estas."
+},
+"Ordenacion profesiones sanitarias_pregunta5": {
+  "pregunta": "Según la Ley 44/2003, de 21 de noviembre, de Ordenación de las Profesiones Sanitarias, la relación laboral especial de residencia de quienes reciban formación dirigida a la obtención de un título de especialista tendrá la consideración de:",
+  "opciones": {
+    "A": "Personal estatutario temporal.",
+    "B": "Personal laboral temporal.",
+    "C": "Personal temporal.",
+    "D": "Personal en formación."
+  },
+  "respuesta_correcta": "Personal laboral temporal."
+}
+
+}

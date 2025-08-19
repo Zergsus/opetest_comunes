@@ -1,0 +1,733 @@
+{
+"Prevencion_pregunta1": {
+    "pregunta": "Atendiendo a lo dispuesto en el artículo 15.1 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, entre los principios generales de la acción preventiva NO se encuentra:",
+    "opciones": {
+        "A": "Evitar los riesgos.",
+        "B": "Evaluar los riesgos que no se pueden evitar.",
+        "C": "Combatir los riesgos en su origen.",
+        "D": "Adaptar al trabajador al puesto de trabajo."
+    },
+    "respuesta_correcta": "D"
+},
+"Prevencion_pregunta2": {
+    "pregunta": "Con relación a la Higiene de Manos (HM) en la atención sanitaria son ciertas las siguientes afirmaciones excepto:",
+    "opciones": {
+        "A": "La supervivencia de los microorganismos en las manos de los trabajadores sanitarios, según indican algunos estudios, se encuentra entre 2 minutos y 60 minutos.",
+        "B": "El tiempo necesario para realizar un lavado de manos correcto con agua y jabón, es de 40 a 60 segundos.",
+        "C": "El lavado con agua y jabón es necesario después de atender pacientes con Cl. difficile.",
+        "D": "Cuando las manos están contaminadas es mejor realizar HM con agua y jabón."
+    },
+    "respuesta_correcta": "D"
+},
+"Prevencion_pregunta3": {
+    "pregunta": "Cuando un trabajador de un Centros Sanitario del SAS sufre un accidente de trabajo, y conforme establece el Procedimiento 04 del Sistema de Gestión de Prevención de Riesgos Laborales del SA, debe actuar en la siguiente forma:",
+    "opciones": {
+        "A": "El procedimiento se inicia por parte de un trabajador/a cuando comunica por escrito el suceso ocurrido, y entrega debidamente cumplimentado el documento de Comunicación de Accidentes de Trabajo e Incidentes (CATI), junto con el parte de baja por IT a la Unidad de Personal, para su tramitación al INSS y a la UPRL",
+        "B": "El procedimiento se inicia por parte de un trabajador/a cuando comunica por escrito el suceso ocurrido, y entrega debidamente cumplimentado el documento de Comunicación de Accidentes de Trabajo e Incidentes (CATI), junto con el parte de baja por IT a la UPRL, para su tramitación a la Unidad de Personal",
+        "C": "El procedimiento se inicia por parte de un trabajador/a cuando comunica por escrito el suceso ocurrido, y entrega debidamente cumplimentado el documento de Comunicación de Accidentes de Trabajo e Incidentes (CATI), junto con el parte de baja por IT a la Unidad de Personal, para su tramitación al INSS y, en todos los casos, a la Inspección de Trabajo.",
+        "D": "El procedimiento se inicia por parte de un trabajador/a cuando comunica por escrito el suceso ocurrido, y entrega debidamente cumplimentado el documento de Comunicación de Accidentes de Trabajo e Incidentes (CATI) al Director de UGC o Mando Intermedio correspondiente."
+    },
+    "respuesta_correcta": "D"
+},
+"Prevencion_pregunta4": {
+    "pregunta": "De estas patologías, ¿cuál es más frecuente en el ámbito de los accidentes de trabajo?:",
+    "opciones": {
+        "A": "Trastornos de la reproducción (secundarios a la actividad laboral).",
+        "B": "Trastornos neurológicos de origen tóxico.",
+        "C": "Traumatismos (leves, moderados y severos).",
+        "D": "Alteraciones dermatológicas (por productos empleados o utilizados en el trabajo)."
+    },
+    "respuesta_correcta": "C"
+},
+"Prevencion_pregunta5": {
+    "pregunta": "De las siguientes medidas generales de protección y aislamiento, señale aquella que considere errónea:",
+    "opciones": {
+        "A": "Las mascarillas deben cubrir las fosas nasales y la boca.",
+        "B": "Antes y después de tener contacto con el paciente debe lavarse las manos.",
+        "C": "El uso de guantes sustituye al lavado de manos.",
+        "D": "Usar protección ocular cuando exista riesgo de salpicaduras."
+    },
+    "respuesta_correcta": "C"
+},
+"Prevencion_pregunta6": {
+    "pregunta": "Duración del lavado quirúrgico con jabón antiséptico:",
+    "opciones": {
+        "A": "1-2 minutos.",
+        "B": "2-6 minutos.",
+        "C": "6-8 minutos.",
+        "D": "50 segundos."
+    },
+    "respuesta_correcta": "B"
+},
+"Prevencion_pregunta7": {
+    "pregunta": "Duración mínima para la antisepsia de manos con solución hidroalcohólica:",
+    "opciones": {
+        "A": "1 minuto",
+        "B": "2 minutos.",
+        "C": "30 segundos.",
+        "D": "45 segundos."
+    },
+    "respuesta_correcta": "C"
+},
+"Prevencion_pregunta8": {
+    "pregunta": "El Acuerdo de 7 de julio de 2020, del Consejo de Gobierno, por el que se toma conocimiento del Plan de Prevención y Atención frente a Agresiones a Profesionales del Sistema Sanitario Público de Andalucía, tiene como principales novedades:",
+    "opciones": {
+        "A": "Potenciar las acciones de concienciación dirigidas a la ciudadanía.",
+        "B": "Homogeneizar la cartelería institucional en todos los centros del Sistema Sanitario Público de Andalucía.",
+        "C": "Las respuestas A. y B. son verdaderas.",
+        "D": "Las respuestas A. y B. son falsas."
+    },
+    "respuesta_correcta": "C"
+},
+"Prevencion_pregunta9": {
+    "pregunta": "El artículo 4 del Real Decreto 488/1997, de 14 de abril, sobre disposiciones mínimas de seguridad y salud relativas al trabajo con equipos que incluyen pantallas de visualización, recoge:",
+    "opciones": {
+        "A": "El empresario garantizará el derecho de los trabajadores a una vigilancia adecuada de su salud antes de comenzar a trabajar con una pantalla de visualización.",
+        "B": "El empresario garantizará el derecho de los trabajadores a una vigilancia adecuada de su salud posteriormente, con una periodicidad ajustada al nivel de riesgo a juicio del médico responsable.",
+        "C": "El empresario garantizará el derecho de los trabajadores a una vigilancia adecuada de su salud cuando aparezcan trastornos que pudieran deberse a este tipo de trabajo.",
+        "D": "Las respuestas A), B. y C. son correctas."
+    },
+    "respuesta_correcta": "D"
+},
+"Prevencion_pregunta10": {
+    "pregunta": "El Decreto que regula las disposiciones mínimas de seguridad y salud relativas al trabajo con equipos que incluyen pantallas de visualización (PVD) es:",
+    "opciones": {
+        "A": "Decreto 488/1997, de 14 de abril.",
+        "B": "Decreto 322/1997, de 6 de marzo.",
+        "C": "Decreto 75/1998, de 6 de abril.",
+        "D": "Decreto 92/1999, de 18 de marzo."
+    },
+    "respuesta_correcta": "A"
+},
+"Prevencion_pregunta11": {
+    "pregunta": "El historial dosimétrico de los trabajadores expuestos a radiaciones Ionizantes deberá conservarse por la empresa",
+    "opciones": {
+        "A": "Hasta que el trabajador cumpla 70 años y nunca por un periodo inferior a 15 años de concluida la actividad de riesgo.",
+        "B": "Hasta que el trabajador cumpla 70 años y nunca por un periodo inferior a 20 años de concluida la actividad de riesgo.",
+        "C": "Hasta que el trabajador cumpla 75 años y nunca por un periodo inferior a 25 años de concluida la actividad laboral.",
+        "D": "Hasta que el trabajador cumpla 75 años y nunca por un periodo inferior a 30 años de concluida la actividad laboral."
+    },
+    "respuesta_correcta": "D"
+},
+"Prevencion_pregunta12": {
+    "pregunta": "En el ejercicio de las competencias atribuidas a los Delegados de Prevención, según el artículo 36 de la Ley 31/1995, de Prevención de Riesgos Laborales, estos estarán facultados para:",
+    "opciones": {
+        "A": "Informar al empresario sobre la paralización de actividades.",
+        "B": "Conocer e informar la memoria y programación anual de servicios de prevención.",
+        "C": "Recabar del empresario la adopción de medidas de carácter preventivo y para la mejora de los niveles de protección de la seguridad y la salud de los trabajadores, pudiendo a tal fin efectuar propuestas al empresario, así como al Comité de Seguridad y Salud para su discusión en el mismo.",
+        "D": "Ser consultados por el empresario, con carácter previo a su ejecución, acerca de las decisiones a que se refiere el artículo 23 de la Ley 31/95."
+    },
+    "respuesta_correcta": "C"
+},
+"Prevencion_pregunta13": {
+    "pregunta": "En la evaluación de factores psicosociales del método FPSICO, la asignación de cometidos y responsabilidades que no forman parte de las funciones del puesto de trabajo, pero que se añaden a ellas se define como",
+    "opciones": {
+        "A": "Claridad de rol.",
+        "B": "Desempeño de rol.",
+        "C": "Conflicto de rol.",
+        "D": "Sobrecarga de rol."
+    },
+    "respuesta_correcta": "D"
+},
+"Prevencion_pregunta14": {
+    "pregunta": "En la Ley 13/2007, de 26 de noviembre, de medidas de prevención y protección integral contra la violencia de género, se regula la formación a profesionales de la salud en el:",
+    "opciones": {
+        "A": "Artículo 6.",
+        "B": "Artículo 12.",
+        "C": "Artículo 24.",
+        "D": "Artículo 36."
+    },
+    "respuesta_correcta": "C"
+},
+"Prevencion_pregunta15": {
+    "pregunta": "En materia de prevención de riesgos laborales, la creación de las Unidades de Prevención en los Centros Asistenciales del SAS se reguló mediante Orden conjunta de las Consejerías de Empleo y Desarrollo Tecnológico y de Salud, de fecha:",
+    "opciones": {
+        "A": "11 de marzo de 199",
+        "B": "10 de agosto de 20",
+        "C": "11 de marzo de 200",
+        "D": "10 de agosto de 20"
+    },
+    "respuesta_correcta": "C"
+},
+"Prevencion_pregunta16": {
+    "pregunta": "En relación con el procedimiento 04 Accidente de Trabajo e incidente (Servicio Andaluz de Salud) el plazo máximo (a contar desde que se produjo el accidente) que tiene la Unidad de Personal del Centro para comunicar el accidente a la autoridad laboral, será de:",
+    "opciones": {
+        "A": "48 horas en caso de accidentes muy graves.",
+        "B": "24 horas en caso de fallecimiento.",
+        "C": "72 horas en caso de accidentes que afecten a más de cuatro trabajadores.",
+        "D": "Todas las otras respuestas son correctas."
+    },
+    "respuesta_correcta": "B"
+},
+"Prevencion_pregunta17": {
+    "pregunta": "En relación con la integración de la prevención en la empresa, señale la respuesta correcta",
+    "opciones": {
+        "A": "La creación de un Servicio de prevención propio y el cumplimiento por todos los miembros del mismo de forma correcta de sus funciones y responsabilidades es condición suficiente para una correcta integración.",
+        "B": "La prevención debe integrarse en el sistema general de gestión de la empresa.",
+        "C": "El sistema de gestión de calidad, como sistema de gestión general de la empresa, debe incorporar los procedimientos de prevención de riesgos laborales.",
+        "D": "Una integración elevada se consigue cuando el Servicio de Prevención diseña los procedimientos que deben cumplir otros departamentos."
+    },
+    "respuesta_correcta": "B"
+},
+"Prevencion_pregunta18": {
+    "pregunta": "Entre los derechos de los trabajadores recogidos en la Ley 31/1995, de Prevención de Riesgos Laborales, NO aparece el:",
+    "opciones": {
+        "A": "Derecho a equipos de trabajo que sean adecuados para el trabajo que deba realizarse.",
+        "B": "Derecho a formación teórica pero no práctica en materia preventivista.",
+        "C": "Derecho a interrumpir su actividad en caso de riesgo grave e inminente y a abandonar el lugar de trabajo.",
+        "D": "Derecho a que se vigile la salud de los trabajadores de forma periódica en función de los riesgos inherentes al trabajo."
+    },
+    "respuesta_correcta": "B"
+},
+"Prevencion_pregunta19": {
+    "pregunta": "Entre los principios éticos que debe regir la vigilancia de la salud Individual señale la respuesta falsa",
+    "opciones": {
+        "A": "Principio de eficiencia.",
+        "B": "Principio de precaución.",
+        "C": "Principio de trasparencia.",
+        "D": "Principio de evaluación."
+    },
+    "respuesta_correcta": "A"
+},
+"Prevencion_pregunta20": {
+    "pregunta": "Frente a riesgos biológicos:",
+    "opciones": {
+        "A": "Las medidas de protección colectiva tendrán siempre prioridad sobre las de protección individual.",
+        "B": "Las medidas de protección colectiva nunca tendrán prioridad sobre las de protección individual.",
+        "C": "Las medidas de protección individual tendrán siempre prioridad sobre las de protección colectiva.",
+        "D": "No existe prioridad alguna en relación con las medidas de seguridad colectiva o individual."
+    },
+    "respuesta_correcta": "A"
+},
+"Prevencion_pregunta21": {
+    "pregunta": "Indique cuál de las siguientes opciones es considerada una agresión dentro del Plan de Prevención y Atención frente a Agresiones a Profesionales del Sistema Sanitario Público de Andalucía:",
+    "opciones": {
+        "A": "Desacreditar a través de redes sociales la profesionalidad de un trabajador del ámbito sanitario.",
+        "B": "Agresión contra los bienes materiales del profesional sanitario fuera del horario laboral por su actividad profesional.",
+        "C": "Agresión física hacia el profesional sanitario por paciente psiquiátrico.",
+        "D": "Todas las respuestas anteriores son correctas."
+    },
+    "respuesta_correcta": "D"
+},
+"Prevencion_pregunta22": {
+    "pregunta": "Indique la respuesta falsa respecto a lo que establece la ley 31/1995 en su artículo 22 sobre la vigilancia de la salud",
+    "opciones": {
+        "A": "Se llevará a cabo respetando siempre el derecho a la intimidad y a la dignidad de la persona del trabajador y la confidencialidad de toda la información relacionada con su estado de salud.",
+        "B": "El acceso a la información médica de carácter personal se limitará al personal médico que lleve a cabo la vigilancia de la salud de los trabajadores y a las autoridades laborales si así lo solicitan.",
+        "C": "Las excepciones al carácter voluntario de la vigilancia de la salud son posibles, previo informe de los representantes de los trabajadores, en el supuesto de que la realización de los reconocimientos sea imprescindible para evaluar los efectos de las condiciones de trabajo sobre la salud de los trabajadores.",
+        "D": "Las excepciones al carácter voluntario de la vigilancia de la salud son posibles, previo informe de los representantes de los trabajadores, en el supuesto de que la realización de los reconocimientos sea imprescindible para verificar si el estado de salud del trabajador puede constituir un peligro para el mismo, para los demás trabajadores o para otras personas relacionadas con la empresa."
+    },
+    "respuesta_correcta": "B"
+},
+"Prevencion_pregunta23": {
+    "pregunta": "Indique la respuesta falsa respecto al plan de prevención de riesgos laborales en la empresa:",
+    "opciones": {
+        "A": "Debe ser aprobado por el Servicio de prevención.",
+        "B": "Debe ser asumido por la estructura organizativa de la empresa.",
+        "C": "Debe establecer el tipo de Organización preventiva de la empresa indicando la modalidad elegida.",
+        "D": "Debe indicar los recursos técnicos, materiales y económicos de los que va a disponer."
+    },
+    "respuesta_correcta": "A"
+},
+"Prevencion_pregunta24": {
+    "pregunta": "La función de vigilancia y control de la normativa sobre prevención de riesgos laborales corresponde:",
+    "opciones": {
+        "A": "A la Dirección General de Personal.",
+        "B": "A la Delegación Provincial de Trabajo.",
+        "C": "A la Inspección de Trabajo y Seguridad Social.",
+        "D": "Al Servicio de Medicina Preventiva."
+    },
+    "respuesta_correcta": "C"
+},
+"Prevencion_pregunta25": {
+    "pregunta": "La legislación vigente sobre protección de datos personales ha ampliado los derechos ciudadanos más allá de los cuatro clásicos conocidos como derechos ARCO (acceso, rectificación, cancelación o supresión, y oposición), incorporando los derechos conocidos por el acrónimo 'POL', de manera que ahora se habla de derechos ARCO-POL. Entre estos tres nuevos derechos en la protección de datos personales están los siguientes, EXCEPTO:",
+    "opciones": {
+        "A": "Portabilidad.",
+        "B": "Legitimación.",
+        "C": "Olvido.",
+        "D": "Limitación del tratamiento."
+    },
+    "respuesta_correcta": "B"
+},
+"Prevencion_pregunta26": {
+    "pregunta": "La realización de los exámenes de salud a los trabajadores tiene en cuenta los siguientes principios. Indica cuál de ellos NO es cierto:",
+    "opciones": {
+        "A": "Su realización será voluntaria si la salud del trabajador puede constituir un riesgo para él o para terceros.",
+        "B": "Se realizará por personal con competencia técnica, formación y capacitación acreditada.",
+        "C": "Se respetará en todo caso la intimidad y dignidad de la persona.",
+        "D": "Serán específicos del riesgo que se quiere evaluar y su contenido y periodicidad estarán protocolizados."
+    },
+    "respuesta_correcta": "A"
+},
+"Prevencion_pregunta27": {
+    "pregunta": "Marque cuál NO es un beneficio de la Promoción de la Salud en el Lugar de Trabajo para los/las trabajadores/as:",
+    "opciones": {
+        "A": "Disminuye el bienestar mental y las ausencias por enfermedad.",
+        "B": "Aumenta la productividad y reduce los costes sanitarios y sociales.",
+        "C": "Aumenta la motivación y satisfacción del personal y facilita la iniciativa personal.",
+        "D": "Las intervenciones organizativas pueden influir para mejorar el estrés laboral."
+    },
+    "respuesta_correcta": "A"
+},
+"Prevencion_pregunta28": {
+    "pregunta": "No es recomendación el uso de guantes:",
+    "opciones": {
+        "A": "Cuando se contacta con sangre del paciente.",
+        "B": "Cuando se contacta con material potencialmente infeccioso.",
+        "C": "Cuando se contacta con membranas mucosas.",
+        "D": "Cuando se contacta con la silla de ruedas del paciente."
+    },
+    "respuesta_correcta": "D"
+},
+"Prevencion_pregunta29": {
+    "pregunta": "NO se considera accidente de trabajo:",
+    "opciones": {
+        "A": "El que sufra el trabajador con ocasión o como consecuencia del desempeño de cargos electivos de carácter sindical.",
+        "B": "La imprudencia profesional que es consecuencia del ejercicio habitual de un trabajo y se deriva de la confianza que éste inspira.",
+        "C": "El que sea debido a imprudencia temeraria del trabajador accidentado.",
+        "D": "El que sufra el trabajador al ir o al volver del puesto de trabajo."
+    },
+    "respuesta_correcta": "C"
+},
+"Prevencion_pregunta30": {
+    "pregunta": "Para asegurar una correcta higiene de manos, ¿cuánto tiempo ha de durar si se realiza con agua y jabón?",
+    "opciones": {
+        "A": "2 minutos.",
+        "B": "Entre 40 y 60 segundos.",
+        "C": "Entre 15 y 30 segundos.",
+        "D": "3 minutos."
+    },
+    "respuesta_correcta": "B"
+},
+"Prevencion_pregunta31": {
+    "pregunta": "Para la Ley de Prevención de Riesgos Laborales, cualquier máquina, aparato, instrumento o instalación utilizada en el trabajo es:",
+    "opciones": {
+        "A": "Un equipo de protección individual.",
+        "B": "Un medio de protección colectiva.",
+        "C": "Un equipo de trabajo.",
+        "D": "Un riesgo laboral grave o inminente."
+    },
+    "respuesta_correcta": "C"
+},
+"Prevencion_pregunta32": {
+    "pregunta": "Referidas a las Unidades de Prevención en los centros sanitarios del Servicio Andaluz de Salud, todas las afirmaciones siguientes son correctas, EXCEPTO:",
+    "opciones": {
+        "A": "Se distinguen cuatro niveles, que se denominan como I, II, III y IV.",
+        "B": "Dependen de la dirección gerencia del hospital o de la dirección del distrito de atención primaria en la que se ubican.",
+        "C": "Entre sus funciones está la evaluación de riesgos.",
+        "D": "Fueron creadas por la Orden de 11 de marzo de 2004, conjunta de las Consejerías de Empleo y Desarrollo Tecnológico y de Salud."
+    },
+    "respuesta_correcta": "A"
+},
+"Prevencion_pregunta33": {
+    "pregunta": "Respecto a la situación de riesgo grave e inminente descrita en el artículo 21 de la ley 31/1995, señale la respuesta falsa",
+    "opciones": {
+        "A": "El trabajador tendrá derecho a interrumpir su actividad y abandonar el lugar de trabajo, en caso necesario, cuando considere que dicha actividad entraña un riesgo grave e inminente para su vida o su salud.",
+        "B": "Cuando el empresario no adopte o no permita la adopción de las medidas necesarias para garantizar la seguridad y la salud de los trabajadores, los representantes legales de éstos podrán acordar, por mayoría de sus miembros la paralización de la actividad de los trabajadores afectados por dicho riesgo.",
+        "C": "Si los representantes de los trabajadores determinan la paralización de la actividad, este hecho será comunicado de inmediato a la empresa y a la autoridad laboral, la cual, en el plazo de veinticuatro horas, anulará o ratificará la paralización acordada.",
+        "D": "Cuando el empresario no adopte o no permita la adopción de las medidas necesarias para garantizar la seguridad y la salud de los trabajadores la paralización de la actividad podrá ser adoptado por decisión de cualquiera de los Delegados de Prevención legalmente nombrados."
+    },
+    "respuesta_correcta": "D"
+},
+"Prevencion_pregunta34": {
+    "pregunta": "Respecto a los equipos de protección individual que deben utilizar los trabajadores sanitarios, señale la respuesta falsa",
+    "opciones": {
+        "A": "Para la recogida de excretas de pacientes tratados con citostáticos en las 48 horas previas, se debe utilizar doble par de guantes y bata impermeable.",
+        "B": "Una mascarilla con nivel de protección FFP2 o superior es la indicada ante un posible riesgo de exposición a un enfermo con tuberculosis bacilífera.",
+        "C": "Para la manipulación de citostáticos está indicado el uso de doble par de guantes de látex sin polvo, o guantes de nitrilo.",
+        "D": "En caso de limpieza a fondo de la cabina de citostáticos, los EPIs necesarios son doble par de guantes, bata, mascarilla FFP2 y pantalla facial o gafas"
+    },
+    "respuesta_correcta": "D"
+},
+"Prevencion_pregunta35": {
+    "pregunta": "Respecto al RD 488/1997 sobre evaluación y prevención de los riesgos relativos a la utilización de pantallas de visualización y su guía técnica de desarrollo, señale la respuesta correcta.",
+    "opciones": {
+        "A": "Pueden considerarse trabajadores usuarios aquellos que superan las 3 horas diarias de trabajo efectivo o las 15 horas semanales.",
+        "B": "El empresario deberá autorizar a los trabajadores que lo soliciten, la adquisición y utilización por éstos de dispositivos correctores especiales si como resultado de la vigilancia de la salud se establece que no pueden utilizarse dispositivos correctores normales.",
+        "C": "Si es necesario introducir pausas, resultan más eficaces dos pausas de 20 minutos cada 3 horas de trabajo ya que permiten la recuperación de la fatiga visual.",
+        "D": "Se recomienda la colocación de la pantalla a una distancia superior de 400 mm respecto de los ojos del usuario y a una altura que permita visualizarla dentro del espacio comprendido entre la línea de visión horizontal y la trazada de 60º bajo la horizontal."
+    },
+    "respuesta_correcta": "D"
+},
+"Prevencion_pregunta36": {
+    "pregunta": "Se recomienda lavarse las manos con agua y jabón después del uso repetido de soluciones hidroalcohólicas:",
+    "opciones": {
+        "A": "Después de 3-4 veces del lavado de manos con soluciones hidroalcohólicas.",
+        "B": "Después de 5-10 veces del lavado de manos con soluciones hidroalcohólicas.",
+        "C": "Después de 12-14 veces del lavado de manos con soluciones hidroalcohólicas.",
+        "D": "Después de 15-20 veces del lavado de manos con soluciones hidroalcohólicas."
+    },
+    "respuesta_correcta": "B"
+},
+"Prevencion_pregunta37": {
+    "pregunta": "Según el artículo 18 de la Ley 31/1995, de Prevención de Riesgos Laborales, el empresario adoptará las medidas adecuadas para que los trabajadores reciban todas las informaciones necesarias en relación con:",
+    "opciones": {
+        "A": "Los riesgos de accidentes de trabajo y enfermedad profesional que afecten a cada tipo de puesto de trabajo.",
+        "B": "Las medidas adoptadas de conformidad con lo dispuesto en el artículo 21 de la citada Ley.",
+        "C": "Las medidas específicas aplicables a los riesgos psicosociales según el sector de actividad.",
+        "D": "Los riesgos para la seguridad y la salud de los trabajadores en el trabajo, tanto aquellos que afecten a la empresa en su conjunto como a cada tipo de puesto de trabajo o función."
+    },
+    "respuesta_correcta": "D"
+},
+"Prevencion_pregunta38": {
+    "pregunta": "Según el artículo 29 de la Ley de Prevención de Riesgos Laborales, es obligación de los trabajadores:",
+    "opciones": {
+        "A": "La Ley de Prevención de Riesgos Laborales no recoge ninguna obligación de los trabajadores, solamente recoge derechos.",
+        "B": "Informar, al terminar la jornada laboral, a los delegados de prevención de riesgos laborales acerca de una situación que entrañe un riesgo inminente para la seguridad y la salud de los trabajadores.",
+        "C": "Informar al inmediato superior si el equipo de protección facilitado no es lo suficiente cómodo para utilizarlo.",
+        "D": "Utilizar correctamente los medios y equipos de protección facilitados por el empresario."
+    },
+    "respuesta_correcta": "D"
+},
+"Prevencion_pregunta39": {
+    "pregunta": "Según el artículo 3 de la Ley 31/1995, de prevención de riesgos laborales, ésta NO es de aplicación en:",
+    "opciones": {
+        "A": "Aquellas actividades cuyas particularidades lo impidan en el ámbito de las funciones públicas de policía, seguridad y resguardo aduanero.",
+        "B": "Las Organizaciones Sindicales.",
+        "C": "La Inspección de Trabajo y Seguridad Social.",
+        "D": "Las relaciones de carácter administrativo o estatutario del personal al servicio de las Administraciones Públicas."
+    },
+    "respuesta_correcta": "A"
+},
+"Prevencion_pregunta40": {
+    "pregunta": "Según el artículo 31 de la Ley 31/1995, de Prevención de Riesgos Laborales, para el establecimiento del servicio de prevención en las Administraciones Públicas, se tendrá en cuenta:",
+    "opciones": {
+        "A": "Su estructura organizativa y la existencia, en su caso, de ámbitos sectoriales y descentralizados.",
+        "B": "Su estructura organizativa, funciones y dependencia orgánica y funcional.",
+        "C": "Si es de ámbito estatal, autonómico o municipal.",
+        "D": "Priorizar, siempre que sea posible, la constitución de un servicio de prevención propio."
+    },
+    "respuesta_correcta": "A"
+},
+"Prevencion_pregunta41": {
+    "pregunta": "Según el artículo 9 de la Ley 31/1995, de Prevención de riesgos laborales, entre las funciones de la Inspección de Trabajo y Seguridad Social se encuentra:",
+    "opciones": {
+        "A": "Asesorar e informar a las empresas y a los trabajadores sobre la manera más efectiva de cumplir las disposiciones cuya vigilancia tiene encomendada.",
+        "B": "Elaborar los informes solicitados por los Juzgados de lo Penal en las demandas deducidas ante los mismos en los procedimientos donde se observen deficiencias en la identificación y evaluación de los riesgos laborales.",
+        "C": "Elaborar los informes solicitados por los Juzgados de lo Penal en las demandas deducidas ante los mismos en los procedimientos donde se observen deficiencias en la adopción de las medidas de prevención y protección.",
+        "D": "Ordenar la paralización inmediata de trabajos cuando, a juicio de los representantes de los trabajadores en materia de prevención de riesgos laborales, se advierta la existencia de riesgo grave e inminente para la seguridad o salud de los trabajadores."
+    },
+    "respuesta_correcta": "A"
+},
+"Prevencion_pregunta42": {
+    "pregunta": "Según el vigente Plan de Prevención de Riesgos Laborales (PPRRLL) del Servicio Andaluz de Salud (SAS), ¿a qué centro directivo de su estructura actual le corresponde, entre otras funciones, elaborar, implantar, controlar, revisar y actualizar el PPRRLL del organismo?",
+    "opciones": {
+        "A": "A la dirección gerencia.",
+        "B": "A la dirección de personal.",
+        "C": "A la dirección económico-financiera.",
+        "D": "A la secretaría general técnica."
+    },
+    "respuesta_correcta": "B"
+},
+"Prevencion_pregunta43": {
+    "pregunta": "Según el vigente Plan de Prevención de Riesgos Laborales del Servicio Andaluz de Salud (SAS) y la Orden de 11 de marzo de 2004, conjunta de las Consejerías de Empleo y Salud, ¿de quién depende cada Unidad de Prevención?",
+    "opciones": {
+        "A": "De la jefatura de servicio de salud de la Delegación provincial de la Consejería competente en materia de salud.",
+        "B": "De la Unidad de Coordinación de la Prevención del SAS.",
+        "C": "Directamente de la Dirección-Gerencia del Hospital o de la Dirección del Distrito de Atención Primaria en que la misma se ubica.",
+        "D": "De la subdirección encargada de la Prevención de Riesgos Laborales en el organigrama de la Dirección General de Personal del SAS."
+    },
+    "respuesta_correcta": "C"
+},
+"Prevencion_pregunta44": {
+    "pregunta": "Según establece la Ley 31/1995 de Prevención de Riesgos Laborales, ¿a qué órgano le corresponde la función de vigilancia y control de la normativa de prevención de riesgos laborales?",
+    "opciones": {
+        "A": "Instituto Nacional de Seguridad e Higiene en el Trabajo.",
+        "B": "Inspección de Trabajo y Seguridad Social.",
+        "C": "El SAS.",
+        "D": "Comisión Nacional de Seguridad y Salud del Trabajo."
+    },
+    "respuesta_correcta": "B"
+},
+"Prevencion_pregunta45": {
+    "pregunta": "Según la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, el empresario desarrollará:",
+    "opciones": {
+        "A": "Una actividad preventiva permanente de seguimiento de la acción preventiva.",
+        "B": "Una acción permanente de seguimiento de la actividad preventiva.",
+        "C": "Una actividad permanente de mantenimiento de la actividad preventiva.",
+        "D": "Un seguimiento activo de la actividad preventiva."
+    },
+    "respuesta_correcta": "B"
+},
+"Prevencion_pregunta46": {
+    "pregunta": "Según la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, el empresario garantizará a los trabajadores a su servicio la vigilancia periódica de su estado de salud, en función de los riesgos inherentes al trabajo. Esta vigilancia sólo podrá llevarse a cabo:",
+    "opciones": {
+        "A": "Cuando así lo decida el empresario en función del índice de actividad en la empresa.",
+        "B": "Cuando lo solicite el trabajador, a que es un derecho de éste.",
+        "C": "Una vez cada año.",
+        "D": "Cuando el trabajador preste su consentimiento, salvo excepciones legales."
+    },
+    "respuesta_correcta": "D"
+},
+"Prevencion_pregunta47": {
+    "pregunta": "Según la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, una empresa que tenga entre 2.001 y 3.000 trabajadores, contará con:",
+    "opciones": {
+        "A": "3 Delegados de Prevención.",
+        "B": "4 Delegados de Prevención.",
+        "C": "5 Delegados de Prevención.",
+        "D": "6 Delegados de Prevención."
+    },
+    "respuesta_correcta": "D"
+},
+"Prevencion_pregunta48": {
+    "pregunta": "Según la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, una empresa que tenga más de 4.001 trabajadores contará con:",
+    "opciones": {
+        "A": "4 Delegados de Prevención.",
+        "B": "6 Delegados de Prevención.",
+        "C": "8 Delegados de Prevención.",
+        "D": "10 Delegados de Prevención."
+    },
+    "respuesta_correcta": "C"
+},
+"Prevencion_pregunta49": {
+    "pregunta": "Según la Ley 31/1995, de Prevención de Riesgos Laborales, ¿quién debe elaborar y conservar a disposición de la autoridad laboral el plan de riesgos laborales de una empresa?",
+    "opciones": {
+        "A": "El empresario.",
+        "B": "El servicio de prevención de riesgos laborales.",
+        "C": "Los representantes de los trabajadores.",
+        "D": "La Comisión Nacional de Seguridad y Salud en el Trabajo."
+    },
+    "respuesta_correcta": "A"
+},
+"Prevencion_pregunta50": {
+    "pregunta": "Según la ley general de la seguridad social, los periodos de Observación por enfermedad profesional tendrán una duración Máxima de:",
+    "opciones": {
+        "A": "3 meses.",
+        "B": "3 meses prorrogables por otros tres.",
+        "C": "6 meses.",
+        "D": "6 meses prorrogables por otros seis."
+    },
+    "respuesta_correcta": "D"
+},
+"Prevencion_pregunta51": {
+    "pregunta": "Según la OMS, ¿cuánto tiempo hay que dedicar a la higiene de manos con un Preparado de Base Alcohólica (PBA) para que sea efectivo?",
+    "opciones": {
+        "A": "10 a 15 segundos.",
+        "B": "20 a 30 segundos.",
+        "C": "40 a 50 segundos.",
+        "D": "60 segundos."
+    },
+    "respuesta_correcta": "B"
+},
+"Prevencion_pregunta52": {
+    "pregunta": "Según la Orden de 11 de marzo de 2004 conjunta de las Consejerías de Empleo y Desarrollo Tecnológico y de Salud, por la que se crean las Unidades de Prevención en los Centros Asistenciales del SAS, ¿qué disciplinas preventivas podrán integrar las unidades de prevención?",
+    "opciones": {
+        "A": "Medicina del trabajo, Seguridad Industrial, Higiene en el trabajo y Ergonomía.",
+        "B": "Medicina, Seguridad, Higiene y Psicología.",
+        "C": "Medicina del trabajo, Seguridad en el trabajo, Higiene Industrial, Ergonomía y Psicosociología aplicada.",
+        "D": "Medicina Laboral, Seguridad Laboral, Higiene Laboral, Ergonomía Laboral."
+    },
+    "respuesta_correcta": "C"
+},
+"Prevencion_pregunta53": {
+    "pregunta": "Según la Orden de 11 de marzo de 2004, por la que se crean las Unidades de Prevención del SAS, entre las funciones de las Unidades de Prevención de los Centros Asistenciales se encuentra:",
+    "opciones": {
+        "A": "El diseño, aplicación y coordinación de los planes y programas de actuación preventiva.",
+        "B": "La gestión de la lista de espera de los riesgos derivados del trabajo de los profesionales del SAS.",
+        "C": "La formación a los órganos de participación y representación de los trabajadores.",
+        "D": "La vigilancia y control de la salud de los profesionales del SAS."
+    },
+    "respuesta_correcta": "A"
+},
+"Prevencion_pregunta54": {
+    "pregunta": "Según la Orden de 11 de marzo de 2014, conjunta de las Consejerías de Empleo y Desarrollo Tecnológico y de Salud, por la que se crean las Unidades de Prevención en los Centros Asistenciales del SAS, dice que el ámbito territorial del SAS se divide en demarcaciones geográficas denominadas:",
+    "opciones": {
+        "A": "Áreas de Prevención de Riesgos Laborales.",
+        "B": "Entidades de Prevención de Riesgos Laborales.",
+        "C": "Servicios de Prevención de Riesgos Laborales.",
+        "D": "Unidades de Prevención de Riesgos Laborales."
+    },
+    "respuesta_correcta": "A"
+},
+"Prevencion_pregunta55": {
+    "pregunta": "Según las recomendaciones de la OMS, los cinco momentos en que debe efectuarse el lavado de manos, son:",
+    "opciones": {
+        "A": "Antes del contacto con el paciente, antes de realizar un procedimiento aséptico, después del riesgo de exposición a fluidos corporales, después del contacto con el paciente, después del contacto con el entorno del paciente.",
+        "B": "Antes de realizar un procedimiento aséptico, después del contacto con el paciente, antes del contacto con el entorno del paciente, después del riesgo de exposición a fluidos corporales.",
+        "C": "Al entrar a la habitación del paciente, antes de realizar un procedimiento séptico, antes del riesgo de exposición a fluidos corporales, después del contacto con el paciente.",
+        "D": "Ninguna de las respuestas anteriores es correcta."
+    },
+    "respuesta_correcta": "A"
+},
+"Prevencion_pregunta56": {
+    "pregunta": "Según lo que establece la Ley 31/95 de Prevención de Riesgos Laborales, señale la respuesta correcta respecto a las obligaciones del empresario en relación con la formación:",
+    "opciones": {
+        "A": "El empresario debe garantizar que cada trabajador reciba una formación en materia preventiva, en el momento de su contratación, cualquiera que sea la modalidad o duración de ésta, suficiente y adecuada.",
+        "B": "La formación deberá estar centrada específicamente en el puesto de trabajo o función de cada trabajador y siempre debe repetirse periódicamente.",
+        "C": "La formación deberá impartirse dentro de la jornada de trabajo.",
+        "D": "Las tres respuestas son correctas"
+    },
+    "respuesta_correcta": "A"
+},
+"Prevencion_pregunta57": {
+    "pregunta": "Según se recoge en el artículo 29 de la Ley 31/1995, de 8 de noviembre, de prevención de Riesgos Laborales, es obligación de los trabajadores, con arreglo a su formación y siguiendo las instrucciones del empresario:",
+    "opciones": {
+        "A": "Informar, una vez terminada la jornada laboral, a su superior jerárquico directo, y a los trabajadores designados para realizar actividades de protección y de prevención o, en su caso, al servicio de prevención, acerca de cualquier situación que, a su juicio, entrañe, por motivos razonables, un riesgo para la seguridad y la salud de los trabajadores.",
+        "B": "Utilizar correctamente los dispositivos de seguridad existentes o que se instalen en los medios relacionados con su actividad o en los lugares de trabajo en los que ésta tenga lugar, y poner fuera de funcionamiento aquellos que no le resulten cómodos para el trabajo, informando de ello a su inmediato superior.",
+        "C": "La Ley no recoge deberes de los trabajadores, solo sus derechos en materia de protección frente a los riesgos laborales.",
+        "D": "Utilizar correctamente los medios y equipos de protección facilitados por el empresario, de acuerdo con las instrucciones recibidas de éste."
+    },
+    "respuesta_correcta": "D"
+},
+"Prevencion_pregunta58": {
+    "pregunta": "Señale en que circunstancias son obligatorios los exámenes de salud previos para los trabajadores sanitarios",
+    "opciones": {
+        "A": "Trabajadores expuestos a radiaciones ionizantes que van a ser clasificados como categoría A.",
+        "B": "Trabajadores expuestos a formaldehido.",
+        "C": "Trabajadores expuestos a citostáticos.",
+        "D": "Los exámenes de salud previos no son obligatorios en el ámbito sanitario."
+    },
+    "respuesta_correcta": "A"
+},
+"Prevencion_pregunta59": {
+    "pregunta": "Señale la afirmación correcta sobre el objeto de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, tal y como queda recogido en el artículo 2 punto 1 del citado texto legal:",
+    "opciones": {
+        "A": "Crear los servicios de prevención de riesgos laborales.",
+        "B": "Desarrollar los reglamentos que deben tener todas las empresas y la Administración Pública sobre riesgos laborales.",
+        "C": "Establecer un marco legal que permita las compensaciones a los trabajadores y las sanciones a las empresas en caso de accidentes de trabajo.",
+        "D": "Promover la seguridad y la salud de los trabajadores mediante la aplicación de medidas y el desarrollo de las actividades necesarias para la prevención de riesgos derivados del trabajo."
+    },
+    "respuesta_correcta": "D"
+},
+"Prevencion_pregunta60": {
+    "pregunta": "Señale la respuesta correcta",
+    "opciones": {
+        "A": "La Agencia Europea para la Seguridad y Salud en el trabajo, dispone de una red de centros de referencia nacionales que representan el enlace fundamental con los usuarios",
+        "B": "Las Directivas de la Unión Europea entran en vigor en los estados de la Unión al día siguiente de su publicación en el DOCE (Diario Oficial de la unión Europea).",
+        "C": "La misión de la Agencia Europea para la Seguridad y Salud en el Trabajo es conseguir que los lugares de trabajo de Europa sean más seguros, saludables y productivos.",
+        "D": "El convenio 160 de la OIT sobre seguridad y salud en el trabajo es de aplicación por los estados miembros que lo ratifiquen"
+    },
+    "respuesta_correcta": "A"
+},
+"Prevencion_pregunta61": {
+    "pregunta": "Señale la respuesta correcta respecto a las mutuas de accidentes de Trabajo y enfermedades profesionales",
+    "opciones": {
+        "A": "Son asociaciones públicas de empresarios constituidas mediante autorización del Ministerio de Empleo y Seguridad Social.",
+        "B": "Jurídicamente son dependientes del Ministerio de Empleo y Seguridad Social.",
+        "C": "No son competentes en la gestión de la prestación económica por incapacidad temporal derivada de contingencias comunes.",
+        "D": "Entre sus actividades se incluye la gestión de la prestación por cuidado de menores afectados por cáncer u otra enfermedad grave."
+    },
+    "respuesta_correcta": "D"
+},
+"Prevencion_pregunta62": {
+    "pregunta": "Señale la respuesta correcta respecto del trabajo a turnos.",
+    "opciones": {
+        "A": "En el turno de mañana se acorta el sueño paradójico y por tanto la recuperación física.",
+        "B": "En el turno de noche al alterar el ritmo sueño/vigilia se produce una reducción del sueño profundo con lo que se dificulta la recuperación de la fatiga psíquica",
+        "C": "Respecto a la organización de turnos se recomienda que los turnos de noche y de tarde no sean más largos que el de mañana, preferiblemente que sean más cortos",
+        "D": "Los ciclos cortos de rotación son los que producen mayores alteraciones del ritmo circadiano"
+    },
+    "respuesta_correcta": "C"
+},
+"Prevencion_pregunta63": {
+    "pregunta": "Señale la respuesta falsa respectos a las funciones que la ley 31/1995 de prevención de riesgos laborales asigna al instituto nacional de Seguridad e Higiene en el Trabajo (actual INSSBT).",
+    "opciones": {
+        "A": "Apoyo técnico y colaboración con la Inspección de Trabajo y Seguridad Social para el desarrollo de las funciones de esta última.",
+        "B": "Apoyo técnico especializado en materia de certificación, ensayo y acreditación.",
+        "C": "Actuar como centro de referencia nacional para las instituciones de la Unión Europea.",
+        "D": "Ejercer la secretaría de la Comisión de Salud Pública del Consejo Interterritorial del Sistema Nacional de Salud."
+    },
+    "respuesta_correcta": "D"
+},
+"Prevencion_pregunta64": {
+    "pregunta": "Siguiendo las recomendaciones de la Organización Mundial de la Salud (OMS) 'DIRECTRICES DE LA OMS SOBRE HIGIENE DE LAS MANOS EN LA ATENCIÓN SANITARIA', ¿en qué momento de los siguientes se debe realizar higiene de manos mediante lavado de las mismas con agua y jabón?",
+    "opciones": {
+        "A": "Cuando estén visiblemente sucias o contaminadas con material proteináceo, o visiblemente manchadas con sangre u otros líquidos corporales.",
+        "B": "Cuando haya sospechas fundadas o pruebas de exposición a organismos con capacidad de esporular.",
+        "C": "Después de ir al baño.",
+        "D": "En todos los casos anteriores."
+    },
+    "respuesta_correcta": "D"
+},
+"Prevencion_pregunta65": {
+    "pregunta": "Son derechos de los trabajadores recogidos en el artículo 14 de la Ley 31/1995 de Prevención de Riesgos Laborales, y en los términos previstos en el citado texto, todos los siguientes EXCEPTO:",
+    "opciones": {
+        "A": "Formación en materia preventiva.",
+        "B": "Vigilancia de su estado de salud.",
+        "C": "Información, consulta y participación.",
+        "D": "Indemnización en caso de daños."
+    },
+    "respuesta_correcta": "D"
+},
+"Prevencion_pregunta66": {
+    "pregunta": "Tendrá la consideración de accidente de trabajo…",
+    "opciones": {
+        "A": "Los que se deben a la imprudencia profesional consecuencia del ejercicio habitual de un trabajo y que se deriva de la confianza que inspira.",
+        "B": "Los acaecidos en acto de salvamento cuando tengan conexión con el trabajo.",
+        "C": "Los que son resultado de la concurrencia de culpabilidad civil o criminal de un compañero de trabajo.",
+        "D": "Todos los supuestos referidos tienen consideración de accidente de trabajo."
+    },
+    "respuesta_correcta": "D"
+},
+"Prevencion_pregunta67": {
+    "pregunta": "¿Cuál de los siguientes es un equipo de protección colectiva?",
+    "opciones": {
+        "A": "Guantes.",
+        "B": "Cabina de seguridad biológica.",
+        "C": "Gafas de protección.",
+        "D": "Mascarillas."
+    },
+    "respuesta_correcta": "B"
+},
+"Prevencion_pregunta68": {
+    "pregunta": "¿Cuál es la medida individual que se considera más eficaz para reducir/eliminar la transmisión de gérmenes a nivel hospitalario?",
+    "opciones": {
+        "A": "La correcta segregación de residuos.",
+        "B": "El uso de mascarilla de alta protección.",
+        "C": "El uso de guantes.",
+        "D": "La higiene de manos."
+    },
+    "respuesta_correcta": "D"
+},
+"Prevencion_pregunta69": {
+    "pregunta": "¿Cuáles son los 5 momentos de la higiene de manos?",
+    "opciones": {
+        "A": "Antes del contacto con el paciente. 2. Antes de realizar una tarea aséptica. 3 después del Riesgo de exposición a fluidos corporales. 4. Después del contacto con el paciente. 5 después Del contacto con el entorno del paciente.",
+        "B": "Antes de entrar en la habitación. 2. Antes de realizar una tarea aséptica. 3 después del Riesgo de exposición a fluidos corporales. 4. Después del contacto con el paciente. 5 tras salir De la habitación.",
+        "C": "Antes del contacto con el entorno del paciente. 2. Antes de realizar una tarea aséptica. 3 Después del riesgo de exposición a sangre 4. Después del contacto con el paciente. 5 Después del contacto con el entorno del paciente.",
+        "D": "Antes de entrar en la habitación. 2. Antes del contacto con el paciente. 3 después del Riesgo de exposición a fluidos corporales. 4. Después del contacto con el paciente. 5 tras salir De la habitación."
+    },
+    "respuesta_correcta": "A"
+},
+"Prevencion_pregunta70": {
+    "pregunta": "¿Cuánto tiempo debe tardarse en realizar la higiene de manos aproximadamente, según la recomendación de la Organización Mundial de la Salud, con agua y jabón?",
+    "opciones": {
+        "A": "15 segundos aproximadamente, más el tiempo necesario para el enjuagado y posterior secado.",
+        "B": "30 segundos aproximadamente, más el tiempo necesario para el enjuagado y posterior secado.",
+        "C": "60 segundos aproximadamente, más el tiempo necesario para el enjuagado y posterior secado.",
+        "D": "Las respuestas A), B. y C. son incorrectas."
+    },
+    "respuesta_correcta": "A"
+},
+"Prevencion_pregunta71": {
+    "pregunta": "¿En qué momento se debe de realizar la higiene de manos, según la recomendación de la Organización Mundial de la Salud (OMS)?",
+    "opciones": {
+        "A": "Antes del contacto con el paciente.",
+        "B": "Después del contacto con el entorno del paciente.",
+        "C": "Después de una exposición a fluidos corporales.",
+        "D": "Las respuestas A), B. y C. son correctas."
+    },
+    "respuesta_correcta": "D"
+},
+"Prevencion_pregunta72": {
+    "pregunta": "¿Qué norma legal regula específicamente en España las disposiciones mínimas de seguridad y salud relativas al trabajo con equipos que incluyen pantallas de visualización?",
+    "opciones": {
+        "A": "El Real Decreto 488/1997, de 14 de abril.",
+        "B": "El Real Decreto 286/2006, de 10 de marzo.",
+        "C": "La Ley 31/1995, de 8 de noviembre.",
+        "D": "Ninguna de las respuestas anteriores es correcta."
+    },
+    "respuesta_correcta": "A"
+},
+"Prevencion_pregunta73": {
+    "pregunta": "¿Qué se pretende conseguir con la comunicación de incidentes de seguridad?",
+    "opciones": {
+        "A": "Recoger información de lo que sucede, identificar áreas o elementos vulnerables del sistema, aprender de las experiencias e introducir cambios para evitar que vuelvan a producirse.",
+        "B": "Buscar responsables para tomar medidas contra ellos.",
+        "C": "Solo tienen un valor estadístico.",
+        "D": "Todas son correctas."
+    },
+    "respuesta_correcta": "A"
+}
+
+}

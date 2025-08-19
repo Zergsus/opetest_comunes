@@ -1,0 +1,223 @@
+{
+"Planificacion_sanitaria_pregunta1": {
+    "pregunta": "Conforme al Manual de Estilo del SAS, actuar con equidad, en la práctica diaria y desde el punto de vista profesional, es asegurar que los usuarios van a recibir la atención que necesitan en función únicamente de sus necesidades, sin ningún tipo de discriminación. Indique la respuesta INCORRECTA:",
+    "opciones": {
+        "A": "La etnia, el sexo, la religión, la clase social del usuario, la orientación sexual, el estado civil o el propio aspecto físico no pueden causar diferencias en la atención ni deben utilizarse en ningún caso como excusa para expresar un prejuicio. No es admisible el uso de términos despectivos o marginadores.",
+        "B": "En caso de que sea necesaria una priorización de la atención, ésta se basará en criterios personales y no en las normas establecidas.",
+        "C": "La equidad implica utilizar más medios con aquellos pacientes que, por su proceso, precisan una asistencia técnicamente más compleja o con más recursos, ofrecer más información, más ayuda o más tiempo de atención a aquellas personas que por sus características personales o sociales necesitan un apoyo más intenso o continuado.",
+        "D": "En el trato con los usuarios no se realizarán juicios morales sobre su comportamiento."
+    },
+    "respuesta_correcta": "B"
+},
+"Planificacion_sanitaria_pregunta2": {
+    "pregunta": "Cuál de estas afirmaciones en relación a la calidad de la evidencia respecto a la efectividad de la intervención es correcta:",
+    "opciones": {
+        "A": "Nivel 11-1: Obtenida a partir de estudios de cohortes o de casos y controles, realizados preferentemente en más de un centro o grupo de investigación.",
+        "B": "Nivel 11-3: Obtenida a partir de opiniones de expertos reconocidos.",
+        "C": "Nivel 11-2: Obtenida a partir de estudios de series de casos con o sin intervención.",
+        "D": "Nivel 111: Obtenida a partir de estudios descriptivos, basados en la experiencia clínica."
+    },
+    "respuesta_correcta": "D"
+},
+"Planificacion_sanitaria_pregunta3": {
+    "pregunta": "Cual, de estas afirmaciones, en relación a la economía de la salud es correcta:",
+    "opciones": {
+        "A": "La eficacia hace referencia al impacto o efecto de una acción llevada a cabo en condiciones experimentales.",
+        "B": "La eficiencia hace referencia al impacto que se alcanza a causa de una acción llevada a cabo en condiciones habituales.",
+        "C": "La efectividad se refiere a la producción de los bienes o servicios más valorados por la sociedad al menor coste social posible.",
+        "D": "La eficiencia responde al análisis del efecto de un curso de acción sanitaria bajo condiciones habituales de práctica médica sobre el nivel de salud de un colectivo."
+    },
+    "respuesta_correcta": "A"
+},
+"Planificacion_sanitaria_pregunta4": {
+    "pregunta": "El coste por año libre de enfermedad es un ejemplo de:",
+    "opciones": {
+        "A": "Análisis de costes",
+        "B": "Análisis de minimización de costes",
+        "C": "Análisis de coste-efectividad",
+        "D": "Análisis coste-utilidad"
+    },
+    "respuesta_correcta": "C"
+},
+"Planificacion_sanitaria_pregunta5": {
+    "pregunta": "El grado en el que una intervención produce un resultado beneficioso en las condiciones reales de la práctica habitual, se conoce como:",
+    "opciones": {
+        "A": "Eficacia",
+        "B": "Efectividad",
+        "C": "Evidencia",
+        "D": "Eficiencia"
+    },
+    "respuesta_correcta": "B"
+},
+"Planificacion_sanitaria_pregunta6": {
+    "pregunta": "El Indicador ideal debe reunir las siguientes características:",
+    "opciones": {
+        "A": "Validez, fiabilidad, sensibilidad, especificidad.",
+        "B": "Calidad e integridad.",
+        "C": "Fiabilidad y especificidad.",
+        "D": "Soporte técnico apropiado."
+    },
+    "respuesta_correcta": "A"
+},
+"Planificacion_sanitaria_pregunta7": {
+    "pregunta": "En relación a la evaluación económica y la fijación de precios de medicamentos:",
+    "opciones": {
+        "A": "Los estudios de coste-efectividad y coste-utilidad necesariamente deben ser posteriores a la evaluación comparativa farmacológica/clínica",
+        "B": "El beneficio clínico incremental es un concepto clave para la evaluación del valor y, por consiguiente, para las decisiones sobre precios y financiación pública",
+        "C": "La evaluación económica después de la decisión de precio y financiación no ayuda a tomar una decisión más informada",
+        "D": "Todas son correctas"
+    },
+    "respuesta_correcta": "D"
+},
+"Planificacion_sanitaria_pregunta8": {
+    "pregunta": "En relación con la evaluación de los resultados de medidas preventivas o de programas de salud es cierto que:",
+    "opciones": {
+        "A": "La efectividad evalúa los efectos en los individuos realmente alcanzados por la intervención, cuando ésta se aplica en condiciones óptimas e ideales (que no son las del trabajo diario en la clínica o en la práctica habitual de la salud pública).",
+        "B": "La eficiencia evalúa los efectos en el conjunto de la población objeto, cuando las condiciones de aplicación son las habituales del ejercicio de la práctica clínica o de la práctica habitual de la salud pública.",
+        "C": "La eficacia es la medida del resultado obtenido al realizar un análisis económico evaluando los costes y los efectos sanitarios de una medida preventiva o un programa de salud comparando con no hacer nada o con la actuación estándar que se realiza habitualmente.",
+        "D": "Además de buscar la eficacia y la eficiencia, las intervenciones en salud pública tienen que asegurar el mayor nivel de equidad en su aplicación."
+    },
+    "respuesta_correcta": "D"
+},
+"Planificacion_sanitaria_pregunta9": {
+    "pregunta": "La demanda de salud, como concepto básico de la Planificación Sanitaria:",
+    "opciones": {
+        "A": "Es la solicitud de determinados servicios que realizan los usuarios en relación con sus necesidades.",
+        "B": "Es el estado de salud deficiente, considerando al individuo o la comunidad.",
+        "C": "Son situaciones que incrementan la probabilidad de que individuos o comunidades tengan problemas de salud.",
+        "D": "Es la probabilidad de que ocurra un problema de salud en determinadas circunstancias."
+    },
+    "respuesta_correcta": "A"
+},
+"Planificacion_sanitaria_pregunta10": {
+    "pregunta": "La eficiencia de una intervención o programa sanitario viene definida por:",
+    "opciones": {
+        "A": "El cociente riesgo/beneficio.",
+        "B": "El beneficio neto obtenido.",
+        "C": "La relación entre los costes empleados y los resultados clínicos obtenidos.",
+        "D": "El cociente entre los costes médicos directos y el grado de calidad de vida resultante de emplear cada alternativa terapéutica evaluada."
+    },
+    "respuesta_correcta": "C"
+},
+"Planificacion_sanitaria_pregunta11": {
+    "pregunta": "La realización de un test de sangre oculta en heces a la población de 50 a 69 años, como cribado para la detección temprana del cáncer de colon-recto, es una medida:",
+    "opciones": {
+        "A": "De prevención terciaria",
+        "B": "De prevención secundaria",
+        "C": "De prevención primaria",
+        "D": "De prevención cuaternaria"
+    },
+    "respuesta_correcta": "B"
+},
+"Planificacion_sanitaria_pregunta12": {
+    "pregunta": "La reducción de la incidencia de la enfermedad mental es la meta principal de los programas clasificados como:",
+    "opciones": {
+        "A": "De prevención primaria.",
+        "B": "De prevención secundaria.",
+        "C": "De prevención terciaria.",
+        "D": "De rehabilitación."
+    },
+    "respuesta_correcta": "A"
+},
+"Planificacion_sanitaria_pregunta13": {
+    "pregunta": "Los estudios descriptivos de costes buscan conocer el coste de una enfermedad o una intervención. Señale la respuesta correcta:",
+    "opciones": {
+        "A": "La limitación del análisis coste-efectividad es la comparación entre intervenciones o tratamientos que no tienen el mismo resultado o que tienen resultados diversos.",
+        "B": "El problema que se plantea en el análisis coste-utilidad surge cuando una intervención tiene un coste por AVAC (años de vida ajustados por calidad) excesivo.",
+        "C": "En los estudios coste-beneficio surgen problemas en la valoración de la salud con dinero, a la hora de traducir en términos monetarios las mejoras en salud.",
+        "D": "Todas las respuestas son ciertas."
+    },
+    "respuesta_correcta": "D"
+},
+"Planificacion_sanitaria_pregunta14": {
+    "pregunta": "Los indicadores relacionados con la Atención de la Salud pueden ser:",
+    "opciones": {
+        "A": "Recursos.",
+        "B": "Utilización",
+        "C": "Accesibilidad",
+        "D": "Todos los anteriores"
+    },
+    "respuesta_correcta": "D"
+},
+"Planificacion_sanitaria_pregunta15": {
+    "pregunta": "Qué debemos tener en cuenta a la hora de elaborar un programa sobre prevención de riesgos en adolescentes:",
+    "opciones": {
+        "A": "El adolescente necesita demostrar y demostrarse la capacidad para desafiar las normas",
+        "B": "El adolescente tiene habitualmente un sentimiento de invulnerabilidad",
+        "C": "Las conductas de riesgo suelen ser de tipo reactivo y representan un cambio hacia su autonomía",
+        "D": "Hay que tener en cuenta todo lo anterior"
+    },
+    "respuesta_correcta": "D"
+},
+"Planificacion_sanitaria_pregunta16": {
+    "pregunta": "Respecto a la programación sanitaria, ¿cuál de las siguientes afirmaciones es FALSA?:",
+    "opciones": {
+        "A": "El análisis de situación forma parte de cualquier proceso de planificación y programación sanitaria, sea cual sea el sector organizativo desde el que se plantee.",
+        "B": "La principal evaluación de un programa se basa en recoger información de la actividad realizada y los resultados obtenidos y compararlos con los logrados por organizaciones similares de nuestro entorno.",
+        "C": "Los análisis de coste-utilidad y coste-efectividad son buenos métodos para la evaluación de la eficacia de un programa de salud.",
+        "D": "Un programa se define como la propuesta de un conjunto de actividades que se dirigen a alcanzar unos objetivos concretos en una población determinada."
+    },
+    "respuesta_correcta": "B"
+},
+"Planificacion_sanitaria_pregunta17": {
+    "pregunta": "Un estudio cuyo objetivo fue evaluar la eficacia de una nueva medida de autocontrol de la glucemia en pacientes diabéticos tipo 2, que se diseñó comparando la nueva estrategia con la convencional en dos grupos de pacientes, conformados cada uno por la pertenencia a un determinado centro de salud del mismo distrito sanitario (esto es, los pacientes del grupo de intervención eran de un centro de salud y los del grupo control eran de otro centro de salud), debe considerarse:",
+    "opciones": {
+        "A": "Un ensayo clínico con aleatorización por conglomerados.",
+        "B": "Un estudio cuasiexperimental con dos grupos concurrentes.",
+        "C": "Un estudio de vida real con cohortes prefijadas.",
+        "D": "Un ensayo clínico cruzado."
+    },
+    "respuesta_correcta": "B"
+},
+"Planificacion_sanitaria_pregunta18": {
+    "pregunta": "Una de las acciones para favorecer la equidad y disminuir las desigualdades en salud, desde la promoción de salud y la prevención de la enfermedad, según la Estrategia de Cuidados de Andalucía, es:",
+    "opciones": {
+        "A": "Elaborar planes de cuidados personalizados y compartidos, en los que las personas adquieran compromisos relacionados con su propio cuidado.",
+        "B": "Sensibilizar a la población de la necesidad de asumir un papel más proactivo y responsable sobre su participación y uso del sistema sanitario.",
+        "C": "Formar foros de cuidados a nivel local integrados en los planes locales de salud y en el que participen todos los recursos y actores sociales.",
+        "D": "Evaluar la Calidad de Vida relacionada con la salud, las necesidades y expectativas de una población concreta para poder adaptar las intervenciones en salud."
+    },
+    "respuesta_correcta": "C"
+},
+"Planificacion_sanitaria_pregunta19": {
+    "pregunta": "¿Cuál de los siguientes indicadores es preferible utilizar si lo que se quiere valorar es la utilización de los servicios sanitarios por parte de la población?:",
+    "opciones": {
+        "A": "Los años potenciales de vida perdidos",
+        "B": "La esperanza de vida en buena salud.",
+        "C": "La frecuentación hospitalaria",
+        "D": "Los médicos por mil habitantes"
+    },
+    "respuesta_correcta": "C"
+},
+"Planificacion_sanitaria_pregunta20": {
+    "pregunta": "¿Cuál de los siguientes indicadores no es útil para valorar la gravedad de un problema de salud de la comunidad?:",
+    "opciones": {
+        "A": "Años de vida perdidos.",
+        "B": "Mortalidad.",
+        "C": "Disminución de la calidad de vida generada por el problema.",
+        "D": "Incidencia."
+    },
+    "respuesta_correcta": "B"
+},
+"Planificacion_sanitaria_pregunta21": {
+    "pregunta": "¿Qué se entiende por efectividad en una intervención sanitaria?",
+    "opciones": {
+        "A": "Capacidad de una intervención para producir efectos medibles en salud cuando se aplica en condiciones y entornos reales o habituales de asistencia.",
+        "B": "Relación entre los productos o resultados asistenciales y los recursos utilizados (o sus costes equivalentes).",
+        "C": "Razón entre el nivel real de uso de un recurso y el máximo nivel teórico alcanzable.",
+        "D": "Cantidad de unidades de producto o servicio obtenidas de la utilización de un recurso."
+    },
+    "respuesta_correcta": "A"
+},
+"Planificacion_sanitaria_pregunta22": {
+    "pregunta": "“Abordar los determinantes sociales de la salud, estableciendo medidas universales proporcionales a las necesidades de las distintas poblaciones, así como las medidas selectivas necesarias para reducir las desigualdades en salud y conseguir el máximo potencial de salud de cada persona”, se conoce como:",
+    "opciones": {
+        "A": "Gobernanza en salud.",
+        "B": "Equidad en salud.",
+        "C": "Determinantes de salud.",
+        "D": "Reorientación de servicios de salud."
+    },
+    "respuesta_correcta": "B"
+}
+
+}
