@@ -4107,7 +4107,7 @@
     "C": "La provisión de plazas por los profesionales.",
     "D": "Los registros profesionales."
   },
-  "respuesta_correcta": "El desarrollo profesional."
+  "respuesta_correcta": "A"
 },
 "Ordenacion profesiones sanitarias_pregunta2": {
   "pregunta": "En relación al título de especialista en Ciencias de la Salud:",
@@ -4117,7 +4117,7 @@
     "C": "A y D son correctas.",
     "D": "Corresponde al Gobierno, a propuesta de los Ministerios de Educación, Cultura y Deporte y de Sanidad y Consumo, previo informe de la Comisión de Recursos Humanos del Sistema Nacional de Salud, del Consejo Nacional de Especialidades en Ciencias de la Salud y de la organización u organizaciones colegiales que correspondan, el establecimiento de los títulos de Especialistas en Ciencias de la Salud, así como su supresión o cambio de denominación."
   },
-  "respuesta_correcta": "A y D son correctas."
+  "respuesta_correcta": "C"
 },
 "Ordenacion profesiones sanitarias_pregunta3": {
   "pregunta": "La Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias, regula los aspectos básicos de las profesiones sanitarias tituladas, como queda recogido en su artículo Señale la respuesta INCORRECTA referido al texto de este articulado:",
@@ -4127,7 +4127,7 @@
     "C": "Regula la participación de los profesionales en la planificación y ordenación de las profesiones sanitarias.",
     "D": "Establece los registros de profesionales que permitan hacer efectivo los derechos de los ciudadanos respecto a las prestaciones sanitarias y la adecuada planificación de los recursos humanos del sistema de salud."
   },
-  "respuesta_correcta": "Regula el desarrollo profesional cuando la profesión se ejerce en los servicios sanitarios públicos, no aplicando en el ámbito de la sanidad privada."
+  "respuesta_correcta": "B"
 },
 "Ordenacion profesiones sanitarias_pregunta4": {
   "pregunta": "Para el ejercicio de una profesión sanitaria será necesario cumplir las obligaciones y requisitos previstos en el ordenamiento jurídico vigente. En todo caso, para ejercer una profesión sanitaria, será requisito:",
@@ -4137,7 +4137,7 @@
     "C": "Estar colegiado cuando así los establezca una ley propia de la Comunidad Autónoma correspondiente.",
     "D": "Estar colegiado en caso de desarrollar la actividad propia de la profesión sanitaria titulada en el ámbito de la sanidad pública."
   },
-  "respuesta_correcta": "Estar colegiado, cuando una ley estatal establezca esta obligación para el ejercicio de una profesión titulada o algunas actividades propias de estas."
+  "respuesta_correcta": "B"
 },
 "Ordenacion profesiones sanitarias_pregunta5": {
   "pregunta": "Según la Ley 44/2003, de 21 de noviembre, de Ordenación de las Profesiones Sanitarias, la relación laboral especial de residencia de quienes reciban formación dirigida a la obtención de un título de especialista tendrá la consideración de:",
@@ -4147,7 +4147,7 @@
     "C": "Personal temporal.",
     "D": "Personal en formación."
   },
-  "respuesta_correcta": "Personal laboral temporal."
+  "respuesta_correcta": "B"
 },
 
 "Derechos_y_garantias_pregunta1": {
@@ -4348,7 +4348,7 @@
     "C": "9,5",
     "D": "No se puede calcular la media con los datos aportados"
   },
-  "respuesta_correcta": "9,5"
+  "respuesta_correcta": "C"
 },
 "Estadistica_pregunta2": {
   "pregunta": "Cuando en un estudio de investigación se quieren comparar dos proporciones, el test estadístico más apropiado, de entre los siguientes, es:",
@@ -4358,7 +4358,7 @@
     "C": "T de Student-Fischer.",
     "D": "ANOVA."
   },
-  "respuesta_correcta": "Test de Chi cuadrado."
+  "respuesta_correcta": "B"
 },
 "Estadistica_pregunta3": {
   "pregunta": "Cuando se dice que una prueba estadística es a demanda para la comparación de dos muestras independientes, significa que:",
@@ -4368,7 +4368,7 @@
     "C": "No existen diferencias significativas.",
     "D": "La prueba puede utilizarse independientemente de las condiciones de aplicación."
   },
-  "respuesta_correcta": "La prueba puede utilizarse independientemente de las condiciones de aplicación."
+  "respuesta_correcta": "D"
 },
 "Estadistica_pregunta4": {
   "pregunta": "El diagrama de cajas (box-plot) es una forma de representación gráfica bastante usada, sobre todo cuando se quieren comparar dos o más mediciones de una misma variable. Todas las afirmaciones siguientes sobre este modelo son ciertas, excepto:",
@@ -4378,7 +4378,7 @@
     "C": "Los \"bigotes\" o líneas que salen desde la caja en direcciones opuestas, se extienden hasta los valores máximo y mínimo de la serie",
     "D": "En la caja se encuentran la mitad de las observaciones o valores"
   },
-  "respuesta_correcta": "Los \"bigotes\" o líneas que salen desde la caja en direcciones opuestas, se extienden hasta los valores máximo y mínimo de la serie"
+  "respuesta_correcta": "C"
 },
 "Estadistica_pregunta5": {
   "pregunta": "En el análisis de una distribución, si queremos saber si dos variables cualitativas son independientes o están relacionadas, debemos realizar la prueba:",
@@ -4388,7 +4388,7 @@
     "C": "F de Snedecor.",
     "D": "Chi Cuadrado."
   },
-  "respuesta_correcta": "Chi Cuadrado."
+  "respuesta_correcta": "D"
 },
 "Estadistica_pregunta6": {
   "pregunta": "En estadística descriptiva, refiriéndonos al conjunto de los datos, ¿cuál de las siguientes medidas NO es de dispersión?",
@@ -4398,7 +4398,7 @@
     "C": "La desviación media.",
     "D": "La varianza."
   },
-  "respuesta_correcta": "La media."
+  "respuesta_correcta": "B"
 },
 "Estadistica_pregunta7": {
   "pregunta": "En inferencia estadística, el valor de p es un valor de probabilidad, por lo que puede oscilar entre:",
@@ -4408,7 +4408,7 @@
     "C": "0 y 100.",
     "D": "0 y 1000."
   },
-  "respuesta_correcta": "0 y 1."
+  "respuesta_correcta": "A"
 },
 "Estadistica_pregunta8": {
   "pregunta": "En la estadística descriptiva, el rango:",
@@ -4418,7 +4418,7 @@
     "C": "De una muestra a otra, extraídas de una misma población, el rango tiende a mantenerse estable.",
     "D": "Todas son ciertas."
   },
-  "respuesta_correcta": "Indica la distancia entre los valores mínimo y máximo de la distribución."
+  "respuesta_correcta": "B"
 },
 "Estadistica_pregunta9": {
   "pregunta": "En relación a los tipos de variables, una de las siguientes afirmaciones es falsa:",
@@ -4428,7 +4428,7 @@
     "C": "Las variables cuantitativas se subdividen en cuantitativas discretas y cuantitativas continuas",
     "D": "Las variables continuas discretas también se conocen como variables de razón o intervalo"
   },
-  "respuesta_correcta": "Las variables continuas discretas también se conocen como variables de razón o intervalo"
+  "respuesta_correcta": "D"
 },
 "Estadistica_pregunta10": {
   "pregunta": "En una prueba de contraste de hipótesis el error que se comete al rechazar la hipótesis nula siendo esta verdadera, se conoce como:",
@@ -4438,7 +4438,7 @@
     "C": "Error tipo I o error alfa.",
     "D": "Nivel de confianza."
   },
-  "respuesta_correcta": "Error tipo I o error alfa."
+  "respuesta_correcta": "C"
 },
 "Estadistica_pregunta11": {
   "pregunta": "La hipótesis nula",
@@ -4448,7 +4448,7 @@
     "C": "Afirma que no existe asociación entre los fenómenos encontrados",
     "D": "Todas son ciertas"
   },
-  "respuesta_correcta": "Todas son ciertas"
+  "respuesta_correcta": "D"
 },
 "Estadistica_pregunta12": {
   "pregunta": "La prueba no paramétrica que se utiliza para realizar una inferencia estadística sobre dos medias independientes, alternativo a la t de Student es:",
@@ -4458,7 +4458,7 @@
     "C": "Prueba exacta de Fisher",
     "D": "Prueba de Wilcoxon"
   },
-  "respuesta_correcta": "U de Mann-Whitney"
+  "respuesta_correcta": "B"
 },
 "Estadistica_pregunta13": {
   "pregunta": "La relación entre dos variables cualitativas se analiza con:",
@@ -4468,7 +4468,7 @@
     "C": "Prueba de Chi cuadrado",
     "D": "Regresión polinomial"
   },
-  "respuesta_correcta": "Prueba de Chi cuadrado"
+  "respuesta_correcta": "C"
 },
 "Estadistica_pregunta14": {
   "pregunta": "No es una medida de tendencia central:",
@@ -4478,7 +4478,7 @@
     "C": "Media",
     "D": "Curtosis"
   },
-  "respuesta_correcta": "Curtosis"
+  "respuesta_correcta": "D"
 },
 "Estadistica_pregunta15": {
   "pregunta": "Referido a la moda, como término estadístico, es cierto que:",
@@ -4488,7 +4488,7 @@
     "C": "Su valor suele hallarse entre la mediana y la media de la distribución.",
     "D": "Todas las afirmaciones son correctas."
   },
-  "respuesta_correcta": "Para un conjunto de datos, es el valor más frecuente, y puede no ser único."
+  "respuesta_correcta": "A"
 },
 "Estadistica_pregunta16": {
   "pregunta": "Se sabe que la edad es una variable que sigue una distribución normal en una población que se desea estudiar. Para ello se extrae una muestra aleatoria de cien individuos (n=100), media 50 años, desviación típica 10 años. ¿Cuál de las siguientes afirmaciones no es correcta?",
@@ -4498,7 +4498,7 @@
     "C": "10 años es una estimación puntual de la desviación típica (σ) de la variable edad en la población",
     "D": "Sin contrastar que la muestra siga normalidad, podemos afirmar que ~68% de los individuos tendrán una edad entre 30 y 70 años"
   },
-  "respuesta_correcta": "Sin contrastar que la muestra siga normalidad, podemos afirmar que ~68% de los individuos tendrán una edad entre 30 y 70 años"
+  "respuesta_correcta": "D"
 },
 "Estadistica_pregunta17": {
   "pregunta": "Suponiendo que los niveles de adrenalina en sangre siguen una distribución normal, ¿qué test usarías para comparar la media de adrenalina antes y después del examen de la OPE?",
@@ -4508,7 +4508,7 @@
     "C": "T de Student para datos apareados.",
     "D": "Test de Wilcoxon."
   },
-  "respuesta_correcta": "T de Student para datos apareados."
+  "respuesta_correcta": "C"
 },
 "Estadistica_pregunta18": {
   "pregunta": "¿Cómo se llama el índice que sintetiza el grado de concordancia entre dos variables cuantitativas?",
@@ -4518,7 +4518,7 @@
     "C": "Índice de Sundbarg.",
     "D": "Índice de masa corporal."
   },
-  "respuesta_correcta": "Coeficiente de correlación intraclase."
+  "respuesta_correcta": "B"
 },
 "Estadistica_pregunta19": {
   "pregunta": "¿Cuál de los siguientes test estadísticos se debe aplicar para comparar las cifras medias de colesterol de tres grupos diferenciados de pacientes?",
@@ -4528,7 +4528,7 @@
     "C": "Método de Fisher.",
     "D": "Análisis de la Varianza."
   },
-  "respuesta_correcta": "Análisis de la Varianza."
+  "respuesta_correcta": "D"
 },
 "Estadistica_pregunta20": {
   "pregunta": "¿Qué se entiende por estadística 'Inferencial'?",
@@ -4538,7 +4538,7 @@
     "C": "La que intenta comparar los valores con los porcentajes concretos",
     "D": "La que permite una lectura rápida de datos concluyentes"
   },
-  "respuesta_correcta": "La que busca obtener conclusiones válidas para poblaciones a partir de los datos observados en muestras"
+  "respuesta_correcta": "B"
 },
 "Estadistica_pregunta21": {
   "pregunta": "¿Qué técnicas inferenciales permiten realizar afirmaciones sobre parámetros desconocidos de la población, a partir de la información contenida en una muestra?",
@@ -4548,7 +4548,7 @@
     "C": "Inferencias probabilísticas y pruebas robustas no paramétricas.",
     "D": "Test de la binomial y prueba de Poisson."
   },
-  "respuesta_correcta": "Intervalos de confianza y contrastes de hipótesis."
+  "respuesta_correcta": "A"
 },
 "Epidemiologia_pregunta1": {
     "pregunta": "Con respecto a la sensibilidad, señale lo incorrecto:",
